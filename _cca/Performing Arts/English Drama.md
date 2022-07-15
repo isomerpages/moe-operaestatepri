@@ -27,3 +27,15 @@ third_nav_title: Performing Arts
 <img src="/images/ed3.png"><br>
 <img src="/images/ed4.png"><br>
 <img src="/images/ed5.jpg">
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Teachers in Charge</label>
+<div>
+<p><span style="text-decoration: underline;"><strong>Ms Angeline Wee<br /></strong></span><span style="text-decoration: underline;"><strong>Ms Komathy</strong></span></p>
+</div>
+</li>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">CCA Schedule</label>
+<div>
+<p>Monday, 2 - 4 p.m.</p>
+</div>
+</li>
+</ul>
