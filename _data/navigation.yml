@@ -23,8 +23,6 @@ links:
         url: /faqs/
       - title: Opera Celebrates
         url: /opera-celebrates/
-  - title: Contact Us
-    url: /contact-us/
   - title: Learning Experiences
     url: /english-language/
     sublinks:
@@ -48,3 +46,5 @@ links:
         url: /ict-and-data-management/
       - title: Overseas Exchange
         url: /overseas-exchange/
+  - title: Contact Us
+    url: /contact-us/
