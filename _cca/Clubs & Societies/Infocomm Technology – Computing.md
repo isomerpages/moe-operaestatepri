@@ -40,3 +40,15 @@ third_nav_title: Clubs & Societies
 <a href="https://drive.google.com/file/d/1i6S5jt-USplfUO7fi4Udj40OAEEDk8iW/view"><img style="width: 33%;" src="/images/it6.png" align = "left" /></a>
 <a href="https://drive.google.com/file/d/18etm6zhjDbuobh4QaqfV9RCQ4PN_fTi4/view"><img style="width: 33%;" src="/images/it7.png" align = "left" /></a><br><br><br><br><br><br><br><br><br><br>
 <img src="/images/it2.png">
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Teachers in Charge</label>
+<div>
+<p><span style="text-decoration: underline;"><strong>Ms Sherilyn Lee<br /></strong><strong>Mrs Chng Kwee Gek</strong></span></p>
+</div>
+</li>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">CCA Schedule</label>
+<div>
+<p>Monday<br />2:00pm to 4:00pm</p>
+</div>
+</li>
+</ul>
