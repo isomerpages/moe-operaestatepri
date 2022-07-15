@@ -42,12 +42,8 @@ third_nav_title: Clubs & Societies
 <h4><strong>ACHIEVEMENTS</strong></h4>
 <p><strong>2021 </strong></p>
 <ul>
-<li aria-level="1">
-<p><strong>First Lego League (FLL) Competition - Rising Star Award</strong></p>
-</li>
-<li aria-level="1">
-<p>First Lego League (FLL) Competition<strong>&nbsp;- Innovation Award ( 4th Place) </strong></p>
-</li>
+<li aria-level="1"><strong>First Lego League (FLL) Competition - Rising Star Award</strong></li>
+<li aria-level="1">First Lego League (FLL) Competition<strong> - Innovation Award (4th Place) </strong></li>
 </ul>
 <p><strong>2019</strong></p>
 <ul>
@@ -62,3 +58,5 @@ third_nav_title: Clubs & Societies
 <li>National Robotics Competition (Science Automatica Category) - Preliminary Round</li>
 </ul>
 <h4><strong>GALLERY</strong></h4>
+<img src="/images/robo2.png"><br>
+<img src="/images/robo3.png">
