@@ -2,5 +2,6 @@ collections:
   learning-experiences:
     output: true
     order:
+      - Programme for Active Learning (PAL).md
       - Information & Communication Technology.md
       - Overseas Exchange.md
