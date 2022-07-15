@@ -24,3 +24,15 @@ third_nav_title: Performing Arts
 <p>Singapore Youth Festival 2018 (Accomplishment)</p>
 <h4><strong>GALLERY</strong></h4>
 <img src="/images/dance2.png">
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Teachers in Charge</label>
+<div>
+<p><span style="text-decoration: underline;"><strong>Mdm Arfah<br /></strong><strong>Mdm Erlis<br /></strong><strong>Ms He Wen Li<br /></strong><strong>Mdm Zahureen<br /></strong><strong>Miss Dawn Sim</strong></span></p>
+</div>
+</li>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">CCA Schedule</label>
+<div>
+<p>Mondays : P5 &amp; P6<br />Thursdays : P3 &amp; P4<br />2 pm to 4 pm</p>
+</div>
+</li>
+</ul>
