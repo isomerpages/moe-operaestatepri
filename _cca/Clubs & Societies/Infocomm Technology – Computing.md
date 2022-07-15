@@ -36,7 +36,7 @@ third_nav_title: Clubs & Societies
 <h4><strong>GALLERY</strong></h4>
 <a href="https://drive.google.com/file/d/1GjiADW5lxIuUFXbfCHAtlXGAGiwyv1zT/view"><img style="width: 33%;" src="/images/it3.jpg" align = "left" /></a>
 <a href="https://drive.google.com/file/d/1D6LkuhnWhsc-9JJwxHZ5iJ34h7MKhmFF/view"><img style="width: 33%;" src="/images/it4.png" align = "left" /></a>
-<a href="https://drive.google.com/file/d/1D6LkuhnWhsc-9JJwxHZ5iJ34h7MKhmFF/view"><img style="width: 33%;" src="/images/it5.png" align = "left" /></a><br><br><br><br><br><br><br><br><br>
+<a href="https://drive.google.com/file/d/1D6LkuhnWhsc-9JJwxHZ5iJ34h7MKhmFF/view"><img style="width: 33%;" src="/images/it5.png" align = "left" /></a><br><br><br><br><br><br><br><br><br><br>
 <a href="https://drive.google.com/file/d/1i6S5jt-USplfUO7fi4Udj40OAEEDk8iW/view"><img style="width: 33%;" src="/images/it6.png" align = "left" /></a>
-<a href="https://drive.google.com/file/d/18etm6zhjDbuobh4QaqfV9RCQ4PN_fTi4/view"><img style="width: 33%;" src="/images/it7.png" align = "left" /></a>
+<a href="https://drive.google.com/file/d/18etm6zhjDbuobh4QaqfV9RCQ4PN_fTi4/view"><img style="width: 33%;" src="/images/it7.png" align = "left" /></a><br><br><br><br><br><br><br><br><br><br>
 <img src="/images/it2.png">
