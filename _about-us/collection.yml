@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Opera Learning Disposition.md
       - School Crest and School Song.md
       - School Rules.md
       - School Staff.md
