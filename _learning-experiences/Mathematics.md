@@ -38,3 +38,4 @@ description: ""
 <img src="/images/math9.png">
 <p>Our P4 team attaining the &lsquo;Outstanding Award&rsquo; in the Poster Category in the Primary Mathematics Project Competition (PMPC).</p>
 <img style="width: 65%;" src="/images/math10.png" />
+<p style="text-align: center;">Our P5 and P6 pupils attaining the Silver and Bronze awards at the Singapore Mathematical Olympiad for Primary Schools (SMOPS).</p>
