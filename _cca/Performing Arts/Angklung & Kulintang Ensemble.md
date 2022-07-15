@@ -32,3 +32,15 @@ third_nav_title: Performing Arts
 <p style="text-align: center;"><em>Held at Wisma Geylang Serai organized by National Environment Agency.</em></p>
 <p style="text-align: center;"><strong>SINGAPORE YOUTH FESTIVAL (SYF) ARTS PRESENTATION&nbsp;</strong></p>
 <img src="/images/ak8.png">
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Teachers in Charge</label>
+<div>
+<p><span style="text-decoration: underline;"><strong>Mdm Angeline Png<br /></strong><strong>Ms Seet Swee Li<br /></strong><strong>Mr Ray</strong></span></p>
+</div>
+</li>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">CCA Schedule</label>
+<div>
+<p>Mondays : P5 &amp; P6<br />Thursdays : P3 &amp; P4<br />2.00 p.m. to 4.00 p.m.</p>
+</div>
+</li>
+</ul>
