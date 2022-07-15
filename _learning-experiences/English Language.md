@@ -37,3 +37,19 @@ description: ""
 </ul>
 <p>The Primary 5 pupils also have the chance to produce a newsletter for the school which keeps pupils and staff up to date on all the ongoing school events. Check out a newsletter they have produced over&nbsp;<a href="https://www.flipsnack.com/operaestatepri/oeps-newsletter-2020/full-view.html"><u>here</u></a>.</p>
 <img src="/images/el13.jpg">
+<h4><strong>COMPETITIONS</strong></h4>
+<p>Selected students will represent the school in a range of competitions covering areas like literature, writing and oracy. The school takes part annually in the Moo-O awards as well as the Wits and Words. Examples of writing competitions students have taken part in include the National English Writing Competition and the SOTA Primary 6 Creative Writing Competition. Students were also selected to take part in the i-Speak competition, Mythos and PESA.</p>
+<img src="/images/el14.jpg"><br>
+<img src="/images/el15.jpg"><br>
+<a href="https://www.youtube.com/watch?app=desktop&v=UZncKMZ9DOE&feature=youtu.be"><img style="width: 40%;" src="/images/el16.jpeg" /></a>
+<p style="text-align: center;"><strong><a href="https://www.youtube.com/watch?app=desktop&amp;v=UZncKMZ9DOE&amp;feature=youtu.be">Click on the picture to view Nicole's speech</a></strong></p>
+<a href="https://www.youtube.com/watch?app=desktop&v=xcXO42qryeA&feature=youtu.be"><img style="width: 40%;" src="/images/el17.jpeg" /></a>
+<p style="text-align: center;"><strong><a href="https://www.youtube.com/watch?app=desktop&amp;v=xcXO42qryeA&amp;feature=youtu.be">Click on the picture to view Kaejay's speech</a></strong></p>
+<h4><strong>USEFUL WEBSITES</strong></h4>
+<img src="/images/el18.jpg">
+<p><strong>#oepsreads<br /></strong><em>Book Recommendations by students and teachers<br /></em><a href="https://padlet.com/operaestateprisch/oepsreads">https://padlet.com/operaestateprisch/oepsreads</a></p>
+<img style="width: 43%;" src="/images/el19.jpg" align = "left" /><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p><strong>Opera Newsletter<br /></strong><em>Articles written by our Enrichment students<br /></em><strong>https://</strong><strong><a href="http://www.flipsnack.com/operaestatepri/oeps-newsletter-2020/full-view.html">www.flipsnack.com/operaestatepri/oeps-newsletter-2020/full-view.html</a></strong></p>
+<p><u><strong>Reading Resources </strong></u><strong>National Library Board<br /></strong><em>Students to log in using their NLB membership ID<br /></em><a href="http://www.nlb.gov.sg/discovereads/primary-resources/"><u>http://www.nlb.gov.sg/discovereads/primary-resources/</u></a></p>
+<p><strong>Scholastic Literacy Pro &amp; Library (P3 &amp; P4)<br /></strong><em>P3 and P4 Students to login with the Scholastic ID<br /></em>http://<a href="http://bit.ly/oeplitpro">bit.ly/oeplitpro</a></p>
+<p><strong>Epic!<br /></strong><em>Students to log in using Epic! class code. Free access weekdays from 7am to 3pm.<br /></em><a href="https://www.getepic.com/"><u>https://www.getepic.com/</u></a></p>
