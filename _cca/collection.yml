@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs & Societies/Art and Crafts.md
       - Clubs & Societies/Infocomm Technology – Computing.md
       - Clubs & Societies/Robotics.md
       - Clubs & Societies/Strategy Games Society.md
