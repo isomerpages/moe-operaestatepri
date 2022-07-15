@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - Frequently Asked Question.md
       - Opera Celebrates.md
+      - Frequently Asked Question.md
