@@ -38,3 +38,15 @@ third_nav_title: Clubs & Societies
 <p>2021 - Singapore Youth Festival (SYF) Certificate of Recognition - Cat C<br />2019 - Singapore Youth Festival (SYF) Certificate of Recognition - Cat A &amp; Cat B</p>
 <img src="/images/arts2.png"><br>
 <img src="/images/arts3.png">
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Teachers in Charge</label>
+<div>
+<p><span style="text-decoration: underline;"><strong>Mdm Sidah<br /></strong><strong>Mdm Ashilah</strong></span></p>
+</div>
+</li>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">CCA Schedule</label>
+<div>
+<p>CCA Days: Thursday<br />Time: 2.00pm - 4.00pm<br />Venue: Art Room</p>
+</div>
+</li>
+</ul>
