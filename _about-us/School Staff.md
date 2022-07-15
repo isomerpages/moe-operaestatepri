@@ -314,9 +314,78 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Activities</label>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Primary 1 Form Teachers</label>
 <div>
-
+<table style="height: 642px;">
+<tbody>
+<tr style="height: 46px;">
+<td style="height: 46px; width: 87.3125px; text-align: center;">
+<p><strong>Class</strong></p>
+</td>
+<td style="height: 46px; width: 258.656px; text-align: center;">
+<p><strong>Name</strong></p>
+</td>
+</tr>
+<tr style="height: 78px;">
+<td style="height: 78px; width: 87.3125px; text-align: center;">
+<p><strong>1 Caring</strong></p>
+</td>
+<td style="height: 78px; width: 258.656px; text-align: center;">
+<p>Mdm Siti Arfah</p>
+<p>Miss Sherilyn Lee</p>
+</td>
+</tr>
+<tr style="height: 110px;">
+<td style="height: 110px; width: 87.3125px; text-align: center;">
+<p><strong>1 Diligence</strong></p>
+</td>
+<td style="height: 110px; width: 258.656px; text-align: center;">
+<p>Ms Michelle Kee (Mrs Teo)</p>
+<p>Mdm Tan Hui Qing</p>
+<p>Mr Lincoln Yeo</p>
+</td>
+</tr>
+<tr style="height: 110px;">
+<td style="height: 110px; width: 87.3125px; text-align: center;">
+<p><strong>1 Grace</strong></p>
+</td>
+<td style="height: 110px; width: 258.656px; text-align: center;">
+<p>Ms Cheng Yoke Kin (Mrs Koh-Cheng)</p>
+<p>Mdm Nurul Ashilah</p>
+<p>Mdm Lienda</p>
+</td>
+</tr>
+<tr style="height: 110px;">
+<td style="height: 110px; width: 87.3125px; text-align: center;">
+<p><strong>1 Honesty</strong></p>
+</td>
+<td style="height: 110px; width: 258.656px; text-align: center;">
+<p>Mdm&nbsp;Noraini</p>
+<p>Mdm Chng Kwee Gek</p>
+<p>Mrs Anna Chow</p>
+</td>
+</tr>
+<tr style="height: 78px;">
+<td style="height: 78px; width: 87.3125px; text-align: center;">
+<p><strong>1 Integrity</strong></p>
+</td>
+<td style="height: 78px; width: 258.656px; text-align: center;">
+<p>Miss Gwendolyn Poh (Miss Poh)</p>
+<p>Mdm Zuo Qinjie</p>
+</td>
+</tr>
+<tr style="height: 110px;">
+<td style="height: 110px; width: 87.3125px; text-align: center;">
+<p><strong>1 Joy</strong></p>
+</td>
+<td style="height: 110px; width: 258.656px; text-align: center;">
+<p>Ms Amanda Yong (Mrs Seow)</p>
+<p>Mr Osman&nbsp;</p>
+<p>Ms Seet Swee Li</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
