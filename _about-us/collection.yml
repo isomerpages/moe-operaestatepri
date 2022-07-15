@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Mission and Vision, Values and Motto.md
       - Opera Learning Disposition.md
       - School Crest and School Song.md
       - School Rules.md
