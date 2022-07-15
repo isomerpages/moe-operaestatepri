@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs & Societies/Strategy Games Society.md
       - Clubs & Societies/.keep
       - Performing Arts/Angklung & Kulintang Ensemble.md
       - Performing Arts/Modern Dance.md
