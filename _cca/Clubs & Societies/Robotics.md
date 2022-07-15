@@ -60,3 +60,16 @@ third_nav_title: Clubs & Societies
 <h4><strong>GALLERY</strong></h4>
 <img src="/images/robo2.png"><br>
 <img src="/images/robo3.png">
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Teachers in Charge</label>
+<div>
+<p><span style="text-decoration: underline;"><strong>Mdm Zuo Qinjie<br /></strong></span><span style="text-decoration: underline;"><strong>Mr Stanley Ang<br /></strong></span><span style="text-decoration: underline;"><strong>Miss Shaikha<br /></strong></span><span style="text-decoration: underline;"><strong>Mrs Balan<br /></strong></span><span style="text-decoration: underline;"><strong>Mdm Ma</strong></span></p>
+<p><strong><span style="text-decoration: underline;">ICT Support:</span><br /></strong>Mr Zaidan<br />Mr Salim<br />Mr Omar<br />Mr Yijie</p>
+</div>
+</li>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">CCA Schedule</label>
+<div>
+<p>Every Thursday<br />2.00 - 4.00 p.m.</p>
+</div>
+</li>
+</ul>
