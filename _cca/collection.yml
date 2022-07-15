@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - Performing Arts/English Drama.md
       - Performing Arts/.keep
       - CCAs.md
