@@ -18,3 +18,15 @@ third_nav_title: Clubs & Societies
 <h4><strong>GALLERY</strong></h4>
 <img src="/images/sgames2.png"><br>
 <img src="/images/sgames3.jpg">
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Teachers in Charge</label>
+<div>
+<p><span style="text-decoration: underline;"><strong>Mrs Anna Chow<br /></strong><strong>Mdm Tan Li San<br /></strong><strong>Miss Leong Sue Ning</strong></span></p>
+</div>
+</li>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">CCA Schedule</label>
+<div>
+<p>Thursday, 2 pm to 4 pm, AVA room</p>
+</div>
+</li>
+</ul>
