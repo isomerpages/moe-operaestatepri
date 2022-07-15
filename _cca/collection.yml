@@ -2,5 +2,5 @@ collections:
   cca:
     output: true
     order:
-      - The Arts/.keep
+      - Performing Arts/.keep
       - CCAs.md
