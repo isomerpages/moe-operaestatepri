@@ -25,3 +25,26 @@ links:
         url: /opera-celebrates/
   - title: Contact Us
     url: /contact-us/
+  - title: Learning Experiences
+    url: /english-language/
+    sublinks:
+      - title: English Language
+        url: /english-language/
+      - title: Mathematics
+        url: /mathematics/
+      - title: Science
+        url: /science/
+      - title: Mother Tongue Languages
+        url: /mother-tongue-languages/
+      - title: Physical Education
+        url: /physical-education/
+      - title: Aesthetics
+        url: /art-and-music/
+      - title: CCE
+        url: /character-citizenship-education/
+      - title: Programme for Active Learning
+        url: /pal/
+      - title: ICT & Data Management
+        url: /ict-and-data-management/
+      - title: Overseas Exchange
+        url: /overseas-exchange/
