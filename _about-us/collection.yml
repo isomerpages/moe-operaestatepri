@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Staff.md
       - General Information.md
       - Opera Celebrates.md
       - Frequently Asked Question.md
