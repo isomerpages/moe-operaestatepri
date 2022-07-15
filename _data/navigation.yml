@@ -1,6 +1,27 @@
 logo: /images/logo.png
 links:
+  - title: About Us
+    url: /principals-message/
+    sublinks:
+      - title: Principal’s Message
+        url: /principals-message/
+      - title: School History
+        url: /history/
+      - title: School MVV and Motto
+        url: /school-mvv-and-motto/
+      - title: Opera Learning Disposition
+        url: /opera-ld/
+      - title: School Crest and School Song
+        url: /school-crest-and-school-song/
+      - title: School Rules
+        url: /school-rules/
+      - title: School Staff
+        url: /school-staff/
+      - title: General Information
+        url: /general-information/
+      - title: FAQs
+        url: /faqs/
+      - title: Opera Celebrates
+        url: /opera-celebrates/
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
