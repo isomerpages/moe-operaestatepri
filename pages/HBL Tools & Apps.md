@@ -64,9 +64,9 @@ description: ""
 <td><a href="https://play.google.com/store/apps/details?id=com.wallwisher.Padlet&amp;hl=en_SG" target="_blank" rel="noopener"><img src="images/google.jpg" /> </a><a href="https://apps.apple.com/us/app/padlet/id834618886" target="_blank" rel="noopener"><img src="images/apple.jpg" /></a></td>
 </tr>
 <tr>
-<td><a href="https://padlet.com/auth/login"><img src="https://operaestatepri.moe.edu.sg/wp-content/uploads/2020/04/download-1.png" sizes="(max-width: 225px) 100vw, 225px" srcset="/wp-content/uploads/2020/04/download-1.png 225w, /wp-content/uploads/2020/04/download-1-150x150.png 150w" alt="" width="225" height="225" /></a></td>
+<td><a href="https://padlet.com/auth/login"><img src="images/ee.png" /></a></td>
 <td><a href="https://padlet.com/auth/login"><strong>Explain Everything</strong></a></td>
-<td><a href="https://play.google.com/store/apps/details?id=com.explaineverything.explaineverything&amp;hl=en_SG" target="_blank" rel="noopener"><img src="https://operaestatepri.moe.edu.sg/wp-content/uploads/2020/04/download-on-android-store-300x95.jpg" alt="" width="151" height="48" /></a> <a href="https://apps.apple.com/us/app/explain-everything-whiteboard/id1020339980" target="_blank" rel="noopener"><img src="https://operaestatepri.moe.edu.sg/wp-content/uploads/2020/04/download-on-app-store-300x103.jpg" alt="" width="142" height="49" /></a></td>
+<td><a href="https://play.google.com/store/apps/details?id=com.explaineverything.explaineverything&amp;hl=en_SG" target="_blank" rel="noopener"><img src="images/google.jpg" /></a> <a href="https://apps.apple.com/us/app/explain-everything-whiteboard/id1020339980" target="_blank" rel="noopener"><img src="images/apple.jpg" alt="" width="142" height="49" /></a></td>
 </tr>
 </tbody>
 </table>
