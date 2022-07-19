@@ -11,8 +11,8 @@ description: ""
 <li><a href="/additional-materials-during-hbl/"><strong>Additional Reading Materials</strong></a></li>
 <li><a href="/i-am-stronger-school-programme/"><strong>iamstronger</strong></a></li>
 <li><a href="/book-recommendations/"><strong>#OEPSREADS</strong></a></li>
-<li><a href="/hbl-tools-apps/?fl_builder"><strong>HBL Tools &amp; Apps</strong></li>
+<li><a href="/hbl-tools-apps/"><strong>HBL Tools &amp; Apps</strong></li>
 <li><a href="/stay-home-stay-safe-and-stay-curious/"><strong>Stay Home, Stay Safe, Stay Curious!</strong></li>
-<li><a href="/home-based-learning-tips-for-parents/?fl_builder"><strong>HBL Tips for Parents</strong></li>
+<li><a href="/home-based-learning-tips-for-parents/"><strong>HBL Tips for Parents</strong></li>
 </ul>
 <img src="/images/hbl.jpg">
