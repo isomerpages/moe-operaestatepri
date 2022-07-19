@@ -65,5 +65,26 @@ description: ""
 </li>
 </ul>
 <img style="width: 65%;" src="/images/p12.png" />
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion7" type="checkbox" /> <label for="accordion7">E-Handbook</label>
+<div>
+<p><a href="https://docs.google.com/presentation/d/1KQPuqexX6qc04oX0aGf3c4xpHdbLVL4YdQhbxow4Fro/present?usp=sharing"><img src="images/ehand.png" /></a></p>
+<p style="text-align: center;"><a href="https://docs.google.com/presentation/d/1KQPuqexX6qc04oX0aGf3c4xpHdbLVL4YdQhbxow4Fro/present?usp=sharing"><strong>Click to view the e-Handbook</strong></a></p>
+</div>
+</li>
+<li><input id="accordion8" type="checkbox" /> <label for="accordion8">A Day in the Life of an OEPS Pupil</label>
+<div>
+<p><a href="https://drive.google.com/file/d/1keiAhgwAqyOT9J6Wbsh6dwFvWYNUGb-0/view"><img src="images/aday1.png" /></a></p>
+<p style="text-align: center;"><strong><a href="https://drive.google.com/file/d/1keiAhgwAqyOT9J6Wbsh6dwFvWYNUGb-0/view">Click to view the video</a></strong></p>
+</div>
+</li>
+<li><input id="accordion9" type="checkbox" /> <label for="accordion9">P1 Orientation Briefing Slides</label>
+<div>
+<p><a href="/files/Consolidated-slides_final-v2.pdf"><img style="width: 65%;" src="/images/slides.png" /></a></p>
+<p>Dear Parents,</p>
+<p>Click on the picture to view the slides of the orientation on the 19 November 2021 or click&nbsp;<strong><a href="/files/Consolidated-slides_final-v2.pdf">here</a></strong></p>
+</div>
+</li>
+</ul>
 <img style="width: 65%;" src="/images/p13.png" />
 <img src="/images/p1o1.png">
