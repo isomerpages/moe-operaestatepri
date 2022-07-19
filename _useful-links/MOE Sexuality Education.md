@@ -59,9 +59,7 @@ description: ""
 <tr>
 <td style="width: 17%;" width="17%"><strong>UNIT</strong></td>
 <td style="width: 31%;" width="31%"><strong>LESSONS / DURATION</strong></td>
-<td style="width: 51%;" width="51%"><strong>Lesson Objectives</strong>
-<p><strong>At the end of the lesson, pupils will be able to:</strong></p>
-</td>
+<td style="width: 51%;" width="51%"><strong>Lesson Objectives<br /></strong><strong>At the end of the lesson, pupils will be able to:</strong></td>
 </tr>
 </thead>
 <tbody>
@@ -154,78 +152,74 @@ description: ""
 <tr>
 <td width="17%"><strong>UNIT</strong></td>
 <td width="31%"><strong>LESSONS / DURATION</strong></td>
-<td width="51%"><strong>Lesson Objectives</strong>
-<p><strong>At the end of the lesson, pupils will be able to:</strong></p>
-</td>
+<td width="51%"><strong>Lesson Objectives<br /></strong><strong>At the end of the lesson, pupils will be able to:</strong></td>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="5" width="17%">Are We More Than Friends?</td>
-<td width="31%">Who Are My Friends?
-<p>(30 min)</p>
-</td>
-<td width="51%">&middot; identify the qualities of a healthy friendship
-<p>&middot; recognise the importance of making wise choices in friendship</p>
-</td>
-</tr>
-<tr>
-<td width="31%">Am I A Good Friend?
-<p>(30 min)</p>
-</td>
-<td width="51%">&middot; identify the qualities that they have as a friend
-<p>&middot; recognise the importance of developing in oneself the qualities of a good friend</p>
+<td width="31%">Who Are My Friends?<br />(30 min)</td>
+<td width="51%">
+<ul>
+<li>Identify the qualities of a healthy friendship</li>
+<li>Recognise the importance of making wise choices in friendship</li>
+</ul>
 </td>
 </tr>
 <tr>
-<td width="31%">What is Love?
-<p>(30 min)</p>
-</td>
-<td width="51%">&middot; identify the characteristics of love and infatuation
-<p>&middot; distinguish between the characteristics of love versus infatuation</p>
-<p>&middot; identify strong feelings arising from infatuation</p>
-</td>
-</tr>
-<tr>
-<td width="31%">Am I Falling In Love?
-<p>(30 min)</p>
-</td>
-<td width="51%">&middot; manage strong feelings arising from infatuation
-<p>&middot; identify ways to manage and cope with teasing from peers</p>
+<td width="31%">Am I A Good Friend?<br />(30 min)</td>
+<td width="51%">
+<ul>
+<li>Identify the qualities that they have as a friend</li>
+<li>Recognise the importance of developing in oneself the qualities of a good friend</li>
+</ul>
 </td>
 </tr>
 <tr>
-<td width="31%">Main Task
-<p>(30 min)</p>
+<td width="31%">What is Love?<br />(30 min)</td>
+<td width="51%">
+<ul>
+<li>Identify the characteristics of love and infatuation</li>
+<li>Distinguish between the characteristics of love versus infatuation</li>
+<li>Identify strong feelings arising from infatuation</li>
+</ul>
 </td>
-<td width="51%">Description of the Main Task:
-<p>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</p>
+</tr>
+<tr>
+<td width="31%">Am I Falling In Love?<br />(30 min)</td>
+<td width="51%">
+<ul>
+<li>Manage strong feelings arising from infatuation</li>
+<li>Identify ways to manage and cope with teasing from peers</li>
+</ul>
 </td>
+</tr>
+<tr>
+<td width="31%">Main Task<br />(30 min)</td>
+<td width="51%">Description of the Main Task:<br />Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</td>
 </tr>
 <tr>
 <td rowspan="3" width="17%">Friends or Foes?</td>
-<td width="31%">Are You Really My Friend?
-<p>(30 min)</p>
-</td>
-<td width="51%">&middot; identify the pros and cons of forming relationships through social networking websites
-<p>&middot; know ways to keep themselves safe when using social networking websites</p>
-</td>
-</tr>
-<tr>
-<td width="31%">Is It All Safe?
-<p>(30 min)</p>
-</td>
-<td width="51%">&middot; know that some information (like pornography) received through the Internet may be harmful
-<p>&middot; know ways to keep themselves safe when using social networking websites or the Internet</p>
+<td width="31%">Are You Really My Friend?<br />(30 min)</td>
+<td width="51%">
+<ul>
+<li>Identify the pros and cons of forming relationships through social networking websites</li>
+<li>Know ways to keep themselves safe when using social networking websites</li>
+</ul>
 </td>
 </tr>
 <tr>
-<td width="31%">Main Task
-<p>(30 min)</p>
+<td width="31%">Is It All Safe?<br />(30 min)</td>
+<td width="51%">
+<ul>
+<li>Know that some information (like pornography) received through the Internet may be harmful</li>
+<li>Know ways to keep themselves safe when using social networking websites or the Internet</li>
+</ul>
 </td>
-<td width="51%">Description of the Main Task:
-<p>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety. These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</p>
-</td>
+</tr>
+<tr>
+<td width="31%">Main Task<br />(30 min)</td>
+<td width="51%">Description of the Main Task:<br />Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety. These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</td>
 </tr>
 </tbody>
 </table>
