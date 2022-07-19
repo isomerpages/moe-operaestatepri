@@ -40,3 +40,15 @@ third_nav_title: Sports
 </ul>
 <h4><strong>GALLERY</strong></h4>
 <img src="/images/nb4.png">
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Teachers in Charge</label>
+<div>
+<p><span style="text-decoration: underline;"><strong>Mdm Tan Hui Qing<br /></strong></span><span style="text-decoration: underline;"><strong>Mr Lincoln Yeo<br /></strong></span><span style="text-decoration: underline;"><strong>Mdm Sidah</strong></span></p>
+</div>
+</li>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">CCA Schedule</label>
+<div>
+<p>Mondays : P5 &amp; P6<br />Thursdays : P3 &amp; P4<br />2pm to 4pm</p>
+</div>
+</li>
+</ul>
