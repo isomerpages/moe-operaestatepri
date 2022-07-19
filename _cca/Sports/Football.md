@@ -43,3 +43,15 @@ third_nav_title: Sports
 <img src="/images/foot2.png"><br>
 <img src="/images/foot3.png"><br>
 <img src="/images/foot4.png">
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Teachers in Charge</label>
+<div>
+<p><span style="text-decoration: underline;"><strong>Mr Omar Azahari<br /></strong></span><span style="text-decoration: underline;"><strong>Mr Issac Pang<br /></strong></span><span style="text-decoration: underline;"><strong>Mr Ho Lui Soon<br /></strong></span><span style="text-decoration: underline;"><strong>Mr Alex Chee<br /></strong></span><span style="text-decoration: underline;"><strong>Mr Yeo Jun Cong<br /></strong></span><span style="text-decoration: underline;"><strong>Ms Amanda Yong</strong></span></p>
+</div>
+</li>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">CCA Schedule</label>
+<div>
+<p>School Team: Monday<br />Development Team: Thursday<br />Time:<br />2:00pm to 4:00pm</p>
+</div>
+</li>
+</ul>
