@@ -46,5 +46,14 @@ links:
         url: /ict-and-data-management/
       - title: Overseas Exchange
         url: /overseas-exchange/
-  - title: Contact Us
-    url: /contact-us/
+  - title: CCA
+    url: /cca/
+    sublinks:
+      - title: Sports
+        url: /athletics/
+      - title: Uniformed Groups
+        url: /brownies/
+      - title: Clubs & Societies
+        url: /art-club/
+      - title: Performing Arts
+        url: /angklung-ensemble/
