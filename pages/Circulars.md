@@ -11,4 +11,4 @@ description: ""
 <p>TBA</p>
 <h4><strong>SCHOOL SAFETY AND TRAFFIC MATTERS</strong></h4>
 <a href="/files/Transport-Matters-and-Road-Safety-Circular-2021-.pdf"><img style="width: 20%;" src="/images/cir3.png" align = "left" /></a><br><br><br><br><br>
-<p>School Traffic Guidelines</p>
+<p><a href="/files/Transport-Matters-and-Road-Safety-Circular-2021-.pdf">School Traffic Guidelines</a></p>
