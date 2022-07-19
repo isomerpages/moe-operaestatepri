@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Uniformed Groups/Girl Guides – Brownies.md
       - Uniformed Groups/Scouts.md
       - Uniformed Groups/.keep
       - Clubs & Societies/Art and Crafts.md
