@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Young Authors.md
       - Photo Gallery.md
       - Our OEPS AOG Bouquets.md
       - Submit an AOG Bouquet.md
