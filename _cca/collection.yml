@@ -2,21 +2,21 @@ collections:
   cca:
     output: true
     order:
+      - CCAs.md
+      - Sports/.keep
       - Sports/Track and Field.md
       - Sports/Floorball.md
       - Sports/Football.md
       - Sports/Netball.md
-      - Sports/.keep
+      - Uniformed Groups/.keep
       - Uniformed Groups/Girl Guides – Brownies.md
       - Uniformed Groups/Scouts.md
-      - Uniformed Groups/.keep
+      - Clubs & Societies/.keep
       - Clubs & Societies/Art and Crafts.md
       - Clubs & Societies/Infocomm Technology – Computing.md
       - Clubs & Societies/Robotics.md
       - Clubs & Societies/Strategy Games Society.md
-      - Clubs & Societies/.keep
+      - Performing Arts/.keep
       - Performing Arts/Angklung & Kulintang Ensemble.md
       - Performing Arts/Modern Dance.md
       - Performing Arts/English Drama.md
-      - Performing Arts/.keep
-      - CCAs.md
