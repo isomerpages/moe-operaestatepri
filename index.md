@@ -12,10 +12,10 @@ sections:
       key_highlights:
         - title: For Parents
           description: ""
-          url: https://google.com
+          url: /for-parents/
         - title: For Students
           description: ""
-          url: ""
+          url: /for-students/
         - title: Useful Links
           description: ""
           url: /moe-sexuality-education/
