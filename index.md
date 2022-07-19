@@ -4,31 +4,22 @@ title: Opera Estate Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: "E-OPEN HOUSE WEBINAR: 22 July 2022, 3pm-4pm // ZOOM ID: 874 4501
+  1053 PASSCODE: 386940"
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      background: /images/banner.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: For Parents
+          description: ""
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+        - title: For Students
+          description: ""
+          url: ""
+        - title: Useful Links
+          description: ""
+          url: /moe-sexuality-education/
+  - resources:
+      title: HIGHLIGHTS AND ANNOUNCEMENT
+      button: MORE
 ---
-
-
-
