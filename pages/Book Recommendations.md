@@ -26,7 +26,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td><a href="/files/RECOMMENDATION-BOOK-P1-P56.pdf"><img src="/images/br3.png" /></a>
+<td><a href="/files/RECOMMENDATION-BOOK-P1-P56.pdf"><img src="/images/br4.png" /></a>
 <p style="text-align: center;"><strong><a href="/files/RECOMMENDATION-BOOK-P1-P56.pdf">Books for P5 &amp; P6</a></strong></p>
 </td>
 </tr>
@@ -41,7 +41,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p><img src="https://operaestatepri.moe.edu.sg/wp-content/uploads/2020/04/The-land-of-stories-204x300.jpg" sizes="(max-width: 281px) 100vw, 281px" srcset="/wp-content/uploads/2020/04/The-land-of-stories-204x300.jpg 204w, /wp-content/uploads/2020/04/The-land-of-stories.jpg 428w" alt="" width="281" height="413" /></p>
+<p><img src="/images/br5.jpg" /></p>
 </td>
 <td>
 <p>The Wishing Spell talks about twin siblings Alex and Conner Bailey, who magically got transported into their grandmother's fairy tale treasury. In order to find their way back home, they need to hunt for items from Kingdoms.<br />Pick up this exciting book and find out how they went through this hunt with ups and downs together with your favorite fairy tale characters.</p>
@@ -59,7 +59,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p><img src="https://operaestatepri.moe.edu.sg/wp-content/uploads/2020/04/Student-recommends.png" sizes="(max-width: 608px) 100vw, 608px" srcset="/wp-content/uploads/2020/04/Student-recommends.png 608w, /wp-content/uploads/2020/04/Student-recommends-287x300.png 287w" alt="" width="608" height="635" /></p>
+<p><img src="/images/br6.png" /></p>
 </td>
 <td>
 <p>I&nbsp;am&nbsp;enjoying&nbsp;this&nbsp;book,&nbsp;The&nbsp;BFG&nbsp;by&nbsp;Roald&nbsp;Dahl.</p>
@@ -70,3 +70,7 @@ description: ""
 </tr>
 </tbody>
 </table>
+<img style="width: 65%;" src="/images/br7.jpg" /><br>
+<img style="width: 65%;" src="/images/br8.jpeg" /><br>
+<img style="width: 65%;" src="/images/br9.jpg" /><br>
+<img style="width: 65%;" src="/images/br20.jpg" />
