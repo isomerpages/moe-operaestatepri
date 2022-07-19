@@ -57,3 +57,14 @@ links:
         url: /art-club/
       - title: Performing Arts
         url: /angklung-ensemble/
+  - title: Learning for Life
+    url: /ignite-darts/
+  - title: Our Partners
+    url: /school-advisory-committee/
+    sublinks:
+      - title: Opera Parents Club
+        url: https://oepsfamilies.wordpress.com/
+      - title: School Advisory Committee
+        url: /school-advisory-committee/
+      - title: Global Partnership
+        url: /global-partnership/
