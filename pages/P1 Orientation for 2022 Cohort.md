@@ -114,7 +114,7 @@ description: ""
 <p>Upon registration, our bus coordinator, Mr Ang, will contact you after mid-December 2021 to confirm the pick-up/drop-off timing and the bus fares. If you have queries pertaining to school bus services, please call Mr Ang at&nbsp;<strong>9797 0652</strong>.</p>
 </div>
 </li>
-<li><input id="accordion13" type="checkbox" /> <label for="accordion4">Opera Parents Club</label>
+<li><input id="accordion13" type="checkbox" /> <label for="accordion13">Opera Parents Club</label>
 <div>
 <p><img src="/images/pc.jpeg" /></p>
 <p>You may visit&nbsp;<strong><a href="https://oepsfamilies.wordpress.com/">https://oepsfamilies.wordpress.com/</a>&nbsp;</strong>to read more.</p>
@@ -123,7 +123,7 @@ description: ""
 <p>Thank you!</p>
 </div>
 </li>
-<li><input id="accordion14" type="checkbox" /> <label for="accordion5">Useful External Links</label>
+<li><input id="accordion14" type="checkbox" /> <label for="accordion14">Useful External Links</label>
 <div>
 <p><strong>Click on the links below to read!</strong></p>
 <p><strong><a href="https://www.schoolbag.edu.sg/story/how-to-help-your-child-ace-the-first-week-of-school">How to help your child ace the first week of school</a></strong></p>
