@@ -57,5 +57,17 @@ third_nav_title: Uniformed Groups
 <li aria-level="1">Hannan Binti Mohamad Hafidz (4 Caring)</li>
 </ul>
 <h4><strong>GALLERY</strong></h4>
-	<img src="/images/gg2.png"><br>
-	<img src="/images/gg3.png">
+<img src="/images/gg2.png"><br>
+<img src="/images/gg3.png">
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Teachers in Charge</label>
+<div>
+<p><span style="text-decoration: underline;"><strong>Ms Nur Farah<br /></strong><strong>Mdm Nuraihan<br /></strong><strong>Mdm Hafizzah</strong></span></p>
+</div>
+</li>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">CCA Schedule</label>
+<div>
+<p>Every Monday 2 pm - 4 pm</p>
+</div>
+</li>
+</ul>
