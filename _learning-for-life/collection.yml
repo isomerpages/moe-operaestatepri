@@ -2,4 +2,5 @@ collections:
   learning-for-life:
     output: true
     order:
+      - Learn to Lead, Lead to Serve.md
       - Ignite D'Arts.md
