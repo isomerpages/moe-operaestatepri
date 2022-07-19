@@ -9,3 +9,11 @@ description: ""
 <p>Collaborative Arts focuses on the application of skills in Art and Music in inter-department projects as well as external organisations such as hosting the St Andrew&rsquo;s Autism School with the CCE department, the Oriplane (origami) programme with JAL and Poi Ching&rsquo;s annual concert &lsquo;Fantasia&rsquo; etc.</p>
 <p>Fun Arts focuses on celebrating successes of students&rsquo; work and self-expression through art Exhibitions, performances in and outside of school events such as the Muzart Extravaganza concert, recess programmes and outreach events etc.</p>
 <h4><strong>LEARN ARTS</strong></h4>
+<img src="/images/darts1.png">
+<h4><strong>EXPLORE ARTS</strong></h4>
+<img src="/images/darts2.png">
+<img src="/images/darts3.png">
+<h4><strong>COLLABORATIVE ARTS</strong></h4>
+<img src="/images/darts4.png">
+<h4><strong>FUN ARTS</strong></h4>
+<img src="/images/darts5.png">
