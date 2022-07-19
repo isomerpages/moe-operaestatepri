@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - For Students.md
-      - "#oepsreads.md"
       - National Library Board E–Resource.md
       - Tinkle Friend Resource.md
