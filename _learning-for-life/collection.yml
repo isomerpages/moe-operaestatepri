@@ -1,4 +1,5 @@
 collections:
   learning-for-life:
     output: true
-    order: []
+    order:
+      - Ignite D'Arts.md
