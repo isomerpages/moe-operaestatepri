@@ -2,5 +2,6 @@ collections:
   useful-links:
     output: true
     order:
+      - Photo Gallery.md
       - Our OEPS AOG Bouquets.md
       - Submit an AOG Bouquet.md
