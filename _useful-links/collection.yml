@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - MOE Sexuality Education.md
       - Young Authors.md
       - Photo Gallery.md
       - Our OEPS AOG Bouquets.md
