@@ -12,3 +12,4 @@ description: ""
 <p>There are three seminars in the Triple P L2 Seminar series:<br /><em><strong>Seminar 1</strong></em>: The Power of Positive Parenting<br /><em><strong>Seminar 2</strong></em>: Raising Confident, Competent Children<br /><strong><em>Seminar 3</em></strong>: Raising Resilient Children</p>
 <p>The seminars will be conducted in the school on Saturday morning. Please check this page for the upcoming sessions and the registration details.</p>
 <p>There are different levels of Triple P to suit parents with different parenting needs. Please email to school at oeps@moe.edu.sg if you are interested to find out more.</p>
+<img src="/images/3p2.png">
