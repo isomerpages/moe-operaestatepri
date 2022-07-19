@@ -87,4 +87,36 @@ description: ""
 </li>
 </ul>
 <img style="width: 65%;" src="/images/p13.png" />
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion10" type="checkbox" /> <label for="accordion10">Parents Gateway</label>
+<div>
+<p><a href="/files/2022-P1-PG-onboarding-letter.pdf"><strong>Click here to read the 2022 P1 Onboarding Letter</strong></a></p>
+<p><a href="/files/Annex-A-One-Time-Onboarding.pdf"><strong>Click here to read the One-Time Onboarding Instructions</strong></a></p>
+</div>
+</li>
+<li><input id="accordion11" type="checkbox" /> <label for="accordion11">Knowledge Park Student Care Centre</label>
+<div>
+<p><a href="/files/SCC-Brochure-2022-OEPSUpdated-as-at-8-October-2021-Version-2.pdf"><img style="width: 33%;" src="/images/know.png" /></a></p>
+<p>Click the picture above to read the brochure</p>
+<p><strong><a href="http://www.bit.ly/oeps2022">http://www.bit.ly/oeps2022</a></strong></p>
+<p>Click on the link above to&nbsp;<strong>register your interest</strong></p>
+<p><strong>*Please note that the link above is not an official Registration form and parents are required to complete the actual Registration form upon confirmation of the enrolment. Parents will be notified at a later date on the registration status.</strong></p>
+<p>Instructions: 1. Please complete all the fields applicable in this e-registration form. Fields marked with an asterisk(*) are necessary. 2. Please state 'NA' if the field is not applicable.</p>
+</div>
+</li>
+<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
+<div>
+
+</div>
+</li>
+<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
+<div>
+
+</div>
+</li>
+<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Gallery</label>
+<div>
+
+</div>
+</li>
 <img src="/images/p1o1.png">
