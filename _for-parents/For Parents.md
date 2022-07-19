@@ -6,6 +6,7 @@ description: ""
 <p><a href="/2022-p1/">P1 Orientation for 2022 Cohort</a></p>
 <p><a href="/curriculum-briefing/">Curriculum Briefing</a></p>
 <p><a href="/circulars/">Circulars</a></p>
+<p><a href="/parents-gateway/">Parents Gateway (PG)</a></p>
 <p><a href="/i-am-stronger-school-programme/">I Am Stronger School Programme</a></p>
 <p><a href="https://ictconnection.moe.edu.sg/cyber-wellness/for-parents">Cyberwellness for Parents</a></p>
 <p><a href="https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/parental-controls">Parental Control on ICT devices</a></p>
