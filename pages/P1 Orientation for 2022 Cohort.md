@@ -104,9 +104,14 @@ description: ""
 <p>Instructions: 1. Please complete all the fields applicable in this e-registration form. Fields marked with an asterisk(*) are necessary. 2. Please state 'NA' if the field is not applicable.</p>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Achievements</label>
+<li><input id="accordion12" type="checkbox" /> <label for="accordion12">School Bus Service Provider</label>
 <div>
-
+<p><strong>School Bus Service Registration (From 12 October 2021 to 12 November 2021)</strong></p>
+<p><strong><a href="/files/School-Bus-Price-List-2022-1.pdf">Please click here to see the Bus Price List</a></strong></p>
+<p>Please refer to the attached 2022 price list above for school bus service.</p>
+<p><img style="width: 45%;" src="/images/qr.png" /></p>
+<p>You may scan the QR code or visit the website at&nbsp;<a href="https://go.gov.sg/oeps-school-bus2022">https://go.gov.sg/oeps-school-bus2022</a>&nbsp;to register your child/ward for school bus service. Registration is open from 12 October 2021 to 12 November 2021.</p>
+<p>Upon registration, our bus coordinator, Mr Ang, will contact you after mid-December 2021 to confirm the pick-up/drop-off timing and the bus fares. If you have queries pertaining to school bus services, please call Mr Ang at&nbsp;<strong>9797 0652</strong>.</p>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
