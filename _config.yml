@@ -1,6 +1,6 @@
 title: Opera Estate Primary School
 url: ""
-favicon: /images/favicon-isomer.ico
+favicon: /images/oeps.jpg
 colors:
   primary-color: "#009f03"
   secondary-color: "#1c59d0"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://moe-operaestatepri-staging.netlify.app
 prod: https://moe-operaestatepri-prod.netlify.app
-shareicon: /images/isomer-logo.svg
+shareicon: /images/oeps.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
