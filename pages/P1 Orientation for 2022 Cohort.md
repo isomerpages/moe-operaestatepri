@@ -58,9 +58,9 @@ description: ""
 <p>If you wish to apply for MOE FAS 2022, please submit the completed&nbsp;<a href="/files/MOE-FAS-Application-Form-Sep-21.pdf"><strong>form</strong></a>&nbsp;together with the supporting documents to school.</p>
 </div>
 </li>
-<li><input id="accordion6" type="checkbox" /> <label for="accordion6">Gallery</label>
+<li><input id="accordion6" type="checkbox" /> <label for="accordion6">Consent for Dental Service 2022 (To be available soon)</label>
 <div>
-
+	<p>Available Soon!</p>
 </div>
 </li>
 </ul>
