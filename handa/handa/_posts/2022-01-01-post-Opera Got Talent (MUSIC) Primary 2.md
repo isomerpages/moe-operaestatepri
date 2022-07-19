@@ -5,5 +5,4 @@ date: 2022-01-01
 layout: post
 description: ""
 ---
-
-<a href="https://drive.google.com/drive/folders/1wvDaRT5vlIuZJtMgnBCrATW_aBzoxVjz">External Link</a>
+<a href="https://drive.google.com/drive/folders/1wvDaRT5vlIuZJtMgnBCrATW_aBzoxVjz"><img src="/images/handa2.png"></a>
