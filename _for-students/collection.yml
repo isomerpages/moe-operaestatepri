@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Students.md
-      - MySkills Future.md
       - "#oepsreads.md"
       - National Library Board E–Resource.md
       - Tinkle Friend Resource.md
