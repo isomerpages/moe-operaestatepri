@@ -114,14 +114,23 @@ description: ""
 <p>Upon registration, our bus coordinator, Mr Ang, will contact you after mid-December 2021 to confirm the pick-up/drop-off timing and the bus fares. If you have queries pertaining to school bus services, please call Mr Ang at&nbsp;<strong>9797 0652</strong>.</p>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Participation</label>
+<li><input id="accordion13" type="checkbox" /> <label for="accordion4">Opera Parents Club</label>
 <div>
-
+<p><img src="/images/pc.jpeg" /></p>
+<p>You may visit&nbsp;<strong><a href="https://oepsfamilies.wordpress.com/">https://oepsfamilies.wordpress.com/</a>&nbsp;</strong>to read more.</p>
+<p>Or email us at&nbsp;<strong>oepsparents@gmail.com</strong>&nbsp;if you have any enquiries.</p>
+<p>To sign up, you may submit by clicking this&nbsp;<strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSf14SOQn7tIolBjPDUmfBz3eDwagLZyezDyBmrx7tAKwb6OdA/viewform">form</a></strong></p>
+<p>Thank you!</p>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Gallery</label>
+<li><input id="accordion14" type="checkbox" /> <label for="accordion5">Useful External Links</label>
 <div>
-
+<p><strong>Click on the links below to read!</strong></p>
+<p><strong><a href="https://www.schoolbag.edu.sg/story/how-to-help-your-child-ace-the-first-week-of-school">How to help your child ace the first week of school</a></strong></p>
+<p><strong><a href="https://www.instagram.com/p/CUzpvhYBl7J/?utm_medium=share_sheet">Parenting with you (Instagram)</a></strong></p>
+<p><strong><a href="https://www.schoolbag.edu.sg/story/prepping-for-primary-1-in-the-time-of-covid">Prepping for Primary 1 in the time of COVID</a></strong></p>
+<p><strong><a href="https://www.moe.gov.sg/-/media/files/parent-kit/preschool-to-primary-school-transition.pdf">Transition from Preschool to Primary School</a></strong></p>
+<p><strong><a href="https://www.schoolbag.edu.sg/story/what-matters-when-our-children-start-primary-school?utm_medium=social&amp;utm_source=facebook+sb+article&amp;utm_campaign=p1registration&amp;fbclid=IwAR1B01Igo6t3CVeC0BHXurNhG5HbvfsYsmFGSySnaDyiAI2hEeTbiztaKb0">What matters when our children start primary school</a></strong></p>
 </div>
 </li>
 <img src="/images/p1o1.png">
