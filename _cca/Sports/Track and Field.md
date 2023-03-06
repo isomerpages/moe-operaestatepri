@@ -52,14 +52,15 @@ third_nav_title: Sports
 <h4><strong>GALLERY</strong></h4>
 <img src="/images/tf4.png">
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1"><span style="text-decoration: underline;"><strong>Teachers in Charge</strong></label>
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1"><span style="text-decoration: underline;"><strong>TEACHERS IN CHARGE</strong></label>
 <div>
 <p><span style="text-decoration: normal;"><strong>Mr Nor Hadi Bin Isnin (OIC)<br /></strong></span><span style="text-decoration: normal;"><strong>Ms Chen Lijia<br /></strong></span><span style="text-decoration: normal;"><strong>Ms. Lim Pei Yi, Rachel<br />
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2"><span style="text-decoration: underline;">CCA Schedule</label>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2"><span style="text-decoration: underline;">CCA SCHEDULE</label>
 <div>
-<p><strong>School Team:</strong>&nbsp;Monday and Thursday<br /><strong>Development Team:</strong>&nbsp;Thursday<br /><strong>Time:</strong>&nbsp;2.00pm - 4.00pm<br /><strong>Venue:&nbsp;</strong>Hall</p>
+	
+<p>School Team: Monday<br />Time: 2.00pm - 4.00pm<br />Venue: Hall<br /><br />Development Team: Thursday<br />Time: 2.00pm - 4.00pm<br />Venue: Hall</p>
 </div>
 </li>
 </ul>
