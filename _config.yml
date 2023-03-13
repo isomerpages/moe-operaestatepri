@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-operaestatepri-staging.netlify.app
-prod: https://moe-operaestatepri-prod.netlify.app
+staging: https://staging.dlqucfc4h71ac.amplifyapp.com/
+prod: https://master.dlqucfc4h71ac.amplifyapp.com/
 shareicon: /images/oeps.jpg
 is_government: false
 facebook-pixel: ""
