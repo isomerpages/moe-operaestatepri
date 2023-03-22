@@ -74,80 +74,106 @@ image: /images/p1o2023.png
 </td>
 <td style="width: 33.3333%;"><ul class="jekyllcodex_accordion">
 <li><input id="accordion7" type="checkbox" /> <label for="accordion7">Parent Kit - Starting Your Primary 1 Journey	</label>
+<div>
 <p><a href="/files/Parent-Kit-Starting-Your-Primary-1-Journey.pdf" target="_blank" rel="noopener">Parent Kit - Starting Your Primary 1 Journey</a></p>
+</div>
 </li>
 <li><input id="accordion8" type="checkbox" /> <label for="accordion8">Information Booklet for P1 Parents</label>
+<div>
 <p><a href="https://www.flipsnack.com/operaestatepri/info-booklet-for-2023-p1-parents-c90zyey3f2/full-view.html" target="_blank" rel="noopener"><strong>Click here to view!</strong></a></p>
+</div>
 </li>
 <li><input id="accordion9" type="checkbox" /> <label for="accordion9">A Day in OEPS</label>
+<div>
 <p><a href="https://drive.google.com/file/d/1-EmcqMU6YZzANcvuiaOilqaEFS8lYpwG/view?usp=share_link" target="_blank" rel="noopener"><strong>Click here to view!</strong></a></p>
+</div>
 </li>
 <li><input id="accordion10" type="checkbox" /> <label for="accordion10">P1 Orientation Briefing Slides</label>
+<div>
 <p><a href="https://drive.google.com/file/d/1WY2l4CyUBTKPefvYuQs0DpvDNb7L_Nar/view?usp=share_link" target="_blank" rel="noopener"><strong>P1 Orientation Briefing Slides (Click here)</strong></a></p>
+</div>
 </li>
 </ul>
 </td>
 <td style="width: 33.3333%;">
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion11" type="checkbox" /> <label for="accordion11">Parents Gateway</label>
+<div>
 <p>We strongly encourage all parents / guardians to come on board PG for quicker access to school information. Please refer to Annex A for the step-by-step onboarding guide and FAQs for Parents to address your queries.</p>
 <ul>
 <li><strong><a href="/files/Annex-A.pdf" target="_blank" rel="noopener">Annex A</a></strong></li>
 <li><strong><a href="/files/FAQs-for-Parents.pdf" target="_blank" rel="noopener">FAQs for Parents</a></strong></li>
 </ul>
+</div>
 </li>
 <li><input id="accordion12" type="checkbox" /> <label for="accordion12">School-based Student Care Centre (SCC)</label>
+<div>
 <a href="/files/SCC-Brochure-2023oeps.pdf"><img style="width: 80%;" src="/images/scc.jpg" /></a>
 <p style="text-align: center;">(Click to view the brochure)</p>
 <p style="text-align: center;"><strong>Expression of Interest:<br /></strong><a href="https://www.knowledgepark.com.sg/operaestatescc" target="_blank" rel="noopener">https://www.knowledgepark.com.sg/operaestatescc</a></p>
+</div>
 </li>
 <li><input id="accordion13" type="checkbox" /> <label for="accordion13">School Bus Service Provider</label>
+<div>
 <p><strong>School Bus Service Registration (From now to 31 October 2022)</strong></p>
 <p><a href="/files/OEPS-Info-Sheet-on-School-Bus-Services.pdf"><strong>Please click here to see the Bus Price List</strong></a></p>
 <p>Please register your child/ward for school bus service at&nbsp;<a href="https://bit.ly/oepsbus" target="_blank" rel="noopener">https://bit.ly/oepsbus</a></p>
 <p>Registration is open from now to 31 October 2022.</p>
 <p>Upon registration, Yeap Transport will contact you in mid-November 2022 to provide a tentative pick-up/drop-off timing. The confirmed timings will be provided by 27 December 2022.</p>
+</div>
 </li>
 <li><input id="accordion14" type="checkbox" /> <label for="accordion14">Opera Parents Club</label>
+<div>
 <a href="/images/opc.jpeg"><img src="/images/opc.jpeg"></a>
 <p>Click on the picture to view closer! or click&nbsp;<strong><a href="/images/opc.jpeg">here</a></strong></p>
 <p>You may also visit&nbsp;<strong><a href="https://oepsfamilies.wordpress.com/">https://oepsfamilies.wordpress.com/</a>&nbsp;</strong>to read more.</p>
 <p>Or email us at&nbsp;<strong>oepsparents@gmail.com</strong>&nbsp;if you have any enquiries.</p>
 <p>To sign up, you may submit by clicking this&nbsp;<strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSf14SOQn7tIolBjPDUmfBz3eDwagLZyezDyBmrx7tAKwb6OdA/viewform">form</a></strong></p>
 <p>Thank you!</p>
+</div>
 </li>
 <li><input id="accordion15" type="checkbox" /> <label for="accordion15">Useful External Links	</label>
+<div>
 <p><strong>Click on the links below to read!</strong></p>
 <p><strong><a href="https://www.schoolbag.edu.sg/story/how-to-help-your-child-ace-the-first-week-of-school">How to help your child ace the first week of school</a></strong></p>
 <p><strong><a href="https://www.instagram.com/p/CUzpvhYBl7J/?utm_medium=share_sheet">Parenting with you (Instagram)</a></strong></p>
 <p><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school"><strong>Health Screening for Primary School</strong></a></p>
 <p><strong><a href="https://www.moe.gov.sg/-/media/files/parent-kit/preschool-to-primary-school-transition.pdf">Transition from Preschool to Primary School</a></strong></p>
 <p><strong><a href="https://www.schoolbag.edu.sg/story/what-matters-when-our-children-start-primary-school?utm_medium=social&amp;utm_source=facebook+sb+article&amp;utm_campaign=p1registration&amp;fbclid=IwAR1B01Igo6t3CVeC0BHXurNhG5HbvfsYsmFGSySnaDyiAI2hEeTbiztaKb0">What matters when our children start primary school</a></strong></p>
+</div>
 </li>
 <li><input id="accordion16" type="checkbox" /> <label for="accordion16">Establishing routines to help your child learn</label>
+<div>
 <p><strong>Click on the link below to read:</strong></p>
 <ul>
 <li><strong><a href="/files/Establishing-routines-to-help-your-child-learn.pdf" target="_blank" rel="noopener">Establishing routines to help your child learn</a></strong></li>
 </ul>
+</div>
 </li>
 <li><input id="accordion17" type="checkbox" /> <label for="accordion17">Parent-Child-Activity: Ready, Set, Go!	</label>
+<div>
 <p><strong>Click on the link below to read:</strong></p>
 <ul>
 <li><strong><a href="/files/Parent-Child-Activity-Ready-Set-Go.pdf" target="_blank" rel="noopener">Parent-Child Activity: Ready, Set, Go!</a></strong></li>
 </ul>
+</div>
 </li>
 <li><input id="accordion18" type="checkbox" /> <label for="accordion18">Helping Your Child Transit to P1</label>
+<div>
 <p><strong>Click on the link below to read:</strong></p>
 <ul>
 <li><a href="/files/Helping-Your-Child-Transit-to-P1.pdf" target="_blank" rel="noopener"><strong>Helping Your Child Transit to P1</strong></a></li>
 </ul>
+</div>
 </li>
 <li><input id="accordion19" type="checkbox" /> <label for="accordion19">Transition to P1 - Cyber Wellness</label>
+<div>
 <p><strong>Click on the link below to read:</strong></p>
 <ul>
 <li><a href="/files/Transition-to-P1-Cyber-Wellness.pdf" target="_blank" rel="noopener"><strong>Transition to P1 - Cyber Wellness1</strong></a></li>
 </ul>
 </li>
+</div>
 </ul>
 </td>
 </tr>
