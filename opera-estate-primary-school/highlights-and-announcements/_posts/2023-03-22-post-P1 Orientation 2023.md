@@ -105,19 +105,36 @@ image: /images/p1o2023.png
 <p>Thank you!</p>
 </li>
 <li><input id="accordion15" type="checkbox" /> <label for="accordion15">Useful External Links	</label>
-<p>This is a simple one line item</p>
+<p><strong>Click on the links below to read!</strong></p>
+<p><strong><a href="https://www.schoolbag.edu.sg/story/how-to-help-your-child-ace-the-first-week-of-school">How to help your child ace the first week of school</a></strong></p>
+<p><strong><a href="https://www.instagram.com/p/CUzpvhYBl7J/?utm_medium=share_sheet">Parenting with you (Instagram)</a></strong></p>
+<p><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school"><strong>Health Screening for Primary School</strong></a></p>
+<p><strong><a href="https://www.moe.gov.sg/-/media/files/parent-kit/preschool-to-primary-school-transition.pdf">Transition from Preschool to Primary School</a></strong></p>
+<p><strong><a href="https://www.schoolbag.edu.sg/story/what-matters-when-our-children-start-primary-school?utm_medium=social&amp;utm_source=facebook+sb+article&amp;utm_campaign=p1registration&amp;fbclid=IwAR1B01Igo6t3CVeC0BHXurNhG5HbvfsYsmFGSySnaDyiAI2hEeTbiztaKb0">What matters when our children start primary school</a></strong></p>
 </li>
 <li><input id="accordion16" type="checkbox" /> <label for="accordion16">Establishing routines to help your child learn</label>
-<p>This is a simple one line item</p>
+<p><strong>Click on the link below to read:</strong></p>
+<ul>
+<li><strong><a href="/files/Establishing-routines-to-help-your-child-learn.pdf" target="_blank" rel="noopener">Establishing routines to help your child learn</a></strong></li>
+</ul>
 </li>
 <li><input id="accordion17" type="checkbox" /> <label for="accordion17">Parent-Child-Activity: Ready, Set, Go!	</label>
-<p>This is a simple one line item</p>
+<p><strong>Click on the link below to read:</strong></p>
+<ul>
+<li><strong><a href="/files/Parent-Child-Activity-Ready-Set-Go.pdf" target="_blank" rel="noopener">Parent-Child Activity: Ready, Set, Go!</a></strong></li>
+</ul>
 </li>
 <li><input id="accordion18" type="checkbox" /> <label for="accordion18">Helping Your Child Transit to P1</label>
-<p>This is a simple one line item</p>
+<p><strong>Click on the link below to read:</strong></p>
+<ul>
+<li><a href="/files/Helping-Your-Child-Transit-to-P1.pdf" target="_blank" rel="noopener"><strong>Helping Your Child Transit to P1</strong></a></li>
+</ul>
 </li>
 <li><input id="accordion19" type="checkbox" /> <label for="accordion19">Transition to P1 - Cyber Wellness</label>
-<p>This is a simple one line item</p>
+<p><strong>Click on the link below to read:</strong></p>
+<ul>
+<li><a href="/files/Transition-to-P1-Cyber-Wellness.pdf" target="_blank" rel="noopener"><strong>Transition to P1 - Cyber Wellness1</strong></a></li>
+</ul>
 </li>
 </ul>
 </td>
