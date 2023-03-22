@@ -20,9 +20,20 @@ image: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 40;"><img src="/images/ogg2.jpeg"></td>
-<td style="width: 25;"><img src="/images/ogg3.jpeg"></td>
+<td style="width: 40%"><img src="/images/ogg2.jpeg"></td>
+<td style="width: 25"><img src="/images/ogg3.jpeg"></td>
 <td style="width: 35;"><img src="/images/ogg4.jpeg"></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Digital Maker Programme</strong></h4>
+<p>In line with Smart Nation and a need to inculcate entrepreneurial dare and lifelong learning, the P4 and P5 levels go through a Digital Maker Programme which integrates STEM with Sustainability education. Students learn coding and computational thinking using a micro:bit. They then go through a Design Thinking process to create prototypes using recycled materials to tackle real-life environmental problems. These experiences nurture creativity and builds a culture of innovation and resilience among students.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 40;"><img src="/images/ogg5.jpg"></td>
+<td style="width: 25;"><img src="/images/ogg6.jpg"></td>
+<td style="width: 35;"><img src="/images/ogg7.jpg"></td>
 </tr>
 </tbody>
 </table>
