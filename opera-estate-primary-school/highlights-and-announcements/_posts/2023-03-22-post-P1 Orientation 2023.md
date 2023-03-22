@@ -54,7 +54,9 @@ image: /images/p1o2023.png
 <p>For more information on the scheme, please refer to Annex I in the FAS 2023 Application form.</p>
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Consent for Dental Service 2023</label>
-<p>This is a simple one line item</p>
+<ul>
+<li><a href="/files/Letter-to-P1-Parent.pdf">Letter to P1 Parent</a></li>
+</ul>
 </li>
 </ul>	
 </td>
