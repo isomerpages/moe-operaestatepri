@@ -97,7 +97,12 @@ image: /images/p1o2023.png
 <p>Upon registration, Yeap Transport will contact you in mid-November 2022 to provide a tentative pick-up/drop-off timing. The confirmed timings will be provided by 27 December 2022.</p>
 </li>
 <li><input id="accordion14" type="checkbox" /> <label for="accordion14">Opera Parents Club</label>
-<p>This is a simple one line item</p>
+<a href="/images/opc.jpeg"><img src="/images/opc.jpeg"></a>
+<p>Click on the picture to view closer! or click&nbsp;<strong><a href="/images/opc.jpeg">here</a></strong></p>
+<p>You may also visit&nbsp;<strong><a href="https://oepsfamilies.wordpress.com/">https://oepsfamilies.wordpress.com/</a>&nbsp;</strong>to read more.</p>
+<p>Or email us at&nbsp;<strong>oepsparents@gmail.com</strong>&nbsp;if you have any enquiries.</p>
+<p>To sign up, you may submit by clicking this&nbsp;<strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSf14SOQn7tIolBjPDUmfBz3eDwagLZyezDyBmrx7tAKwb6OdA/viewform">form</a></strong></p>
+<p>Thank you!</p>
 </li>
 <li><input id="accordion15" type="checkbox" /> <label for="accordion15">Useful External Links	</label>
 <p>This is a simple one line item</p>
