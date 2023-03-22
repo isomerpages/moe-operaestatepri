@@ -76,7 +76,45 @@ image: /images/p1o2023.png
 </ul>
 </td>
 <td style="width: 33.3333%;">
-	
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion11" type="checkbox" /> <label for="accordion11">Parents Gateway</label>
+<p>We strongly encourage all parents / guardians to come on board PG for quicker access to school information. Please refer to Annex A for the step-by-step onboarding guide and FAQs for Parents to address your queries.</p>
+<ul>
+<li><strong><a href="/files/Annex-A.pdf" target="_blank" rel="noopener">Annex A</a></strong></li>
+<li><strong><a href="/files/FAQs-for-Parents.pdf" target="_blank" rel="noopener">FAQs for Parents</a></strong></li>
+</ul>
+</li>
+<li><input id="accordion12" type="checkbox" /> <label for="accordion12">School-based Student Care Centre (SCC)</label>
+<a href="/files/SCC-Brochure-2023oeps.pdf"><img style="width: 80%;" src="/images/scc.jpg" /></a>
+<p style="text-align: center;">(Click to view the brochure)</p>
+<p style="text-align: center;"><strong>Expression of Interest:<br /></strong><a href="https://www.knowledgepark.com.sg/operaestatescc" target="_blank" rel="noopener">https://www.knowledgepark.com.sg/operaestatescc</a></p>
+</li>
+<li><input id="accordion13" type="checkbox" /> <label for="accordion13">School Bus Service Provider</label>
+<p><strong>School Bus Service Registration (From now to 31 October 2022)</strong></p>
+<p><a href="/files/OEPS-Info-Sheet-on-School-Bus-Services.pdf"><strong>Please click here to see the Bus Price List</strong></a></p>
+<p>Please register your child/ward for school bus service at&nbsp;<a href="https://bit.ly/oepsbus" target="_blank" rel="noopener">https://bit.ly/oepsbus</a></p>
+<p>Registration is open from now to 31 October 2022.</p>
+<p>Upon registration, Yeap Transport will contact you in mid-November 2022 to provide a tentative pick-up/drop-off timing. The confirmed timings will be provided by 27 December 2022.</p>
+</li>
+<li><input id="accordion14" type="checkbox" /> <label for="accordion14">Opera Parents Club</label>
+<p>This is a simple one line item</p>
+</li>
+<li><input id="accordion15" type="checkbox" /> <label for="accordion15">Useful External Links	</label>
+<p>This is a simple one line item</p>
+</li>
+<li><input id="accordion16" type="checkbox" /> <label for="accordion16">Establishing routines to help your child learn</label>
+<p>This is a simple one line item</p>
+</li>
+<li><input id="accordion17" type="checkbox" /> <label for="accordion17">Parent-Child-Activity: Ready, Set, Go!	</label>
+<p>This is a simple one line item</p>
+</li>
+<li><input id="accordion18" type="checkbox" /> <label for="accordion18">Helping Your Child Transit to P1</label>
+<p>This is a simple one line item</p>
+</li>
+<li><input id="accordion19" type="checkbox" /> <label for="accordion19">Transition to P1 - Cyber Wellness</label>
+<p>This is a simple one line item</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
