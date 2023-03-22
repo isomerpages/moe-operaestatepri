@@ -60,7 +60,20 @@ image: /images/p1o2023.png
 </li>
 </ul>	
 </td>
-<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;"><ul class="jekyllcodex_accordion">
+<li><input id="accordion7" type="checkbox" /> <label for="accordion7">Parent Kit - Starting Your Primary 1 Journey	</label>
+<p><a href="/files/Parent-Kit-Starting-Your-Primary-1-Journey.pdf" target="_blank" rel="noopener">Parent Kit - Starting Your Primary 1 Journey</a></p>
+</li>
+<li><input id="accordion8" type="checkbox" /> <label for="accordion8">Information Booklet for P1 Parents</label>
+<p><a href="https://www.flipsnack.com/operaestatepri/info-booklet-for-2023-p1-parents-c90zyey3f2/full-view.html" target="_blank" rel="noopener"><strong>Click here to view!</strong></a></p>
+</li>
+<li><input id="accordion9" type="checkbox" /> <label for="accordion9">A Day in OEPS</label>
+<p><a href="https://drive.google.com/file/d/1-EmcqMU6YZzANcvuiaOilqaEFS8lYpwG/view?usp=share_link" target="_blank" rel="noopener"><strong>Click here to view!</strong></a></p>
+</li>
+<li><input id="accordion10" type="checkbox" /> <label for="accordion10">P1 Orientation Briefing Slides</label>
+<p><a href="https://drive.google.com/file/d/1WY2l4CyUBTKPefvYuQs0DpvDNb7L_Nar/view?usp=share_link" target="_blank" rel="noopener"><strong>P1 Orientation Briefing Slides (Click here)</strong></a></p>
+</li>
+</ul></td>
 <td style="width: 33.3333%;">&nbsp;</td>
 </tr>
 </tbody>
