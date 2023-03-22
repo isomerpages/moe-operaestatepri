@@ -172,8 +172,8 @@ image: /images/p1o2023.png
 <ul>
 <li><a href="/files/Transition-to-P1-Cyber-Wellness.pdf" target="_blank" rel="noopener"><strong>Transition to P1 - Cyber Wellness1</strong></a></li>
 </ul>
-</li>
 </div>
+</li>
 </ul>
 </td>
 </tr>
