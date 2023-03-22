@@ -21,8 +21,8 @@ image: ""
 <tbody>
 <tr>
 <td style="width: 40%"><img src="/images/ogg2.jpeg"></td>
-<td style="width: 25"><img src="/images/ogg3.jpeg"></td>
-<td style="width: 35;"><img src="/images/ogg4.jpeg"></td>
+<td style="width: 25%"><img src="/images/ogg3.jpeg"></td>
+<td style="width: 35%"><img src="/images/ogg4.jpeg"></td>
 </tr>
 </tbody>
 </table>
@@ -31,9 +31,9 @@ image: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 40;"><img src="/images/ogg5.jpg"></td>
-<td style="width: 25;"><img src="/images/ogg6.jpg"></td>
-<td style="width: 35;"><img src="/images/ogg7.jpg"></td>
+<td style="width: 25%"><img src="/images/ogg5.jpg"></td>
+<td style="width: 38%"><img src="/images/ogg6.jpg"></td>
+<td style="width: 37%"><img src="/images/ogg7.jpg"></td>
 </tr>
 </tbody>
 </table>
