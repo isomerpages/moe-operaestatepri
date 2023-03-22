@@ -37,3 +37,14 @@ image: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Green Champions</strong></h4>
+<p>The &ldquo;Green Champion&rdquo; is the leadership arm of OPG. It provides opportunities for students with the aptitude and interest in Sustainability to lead their peers in such matters. They take charge of OPG events and advocate for sustainable living as they carry out their leadership duties.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%"><img src="/images/ogg8.jpg"></td>
+<td style="width: 38%"><img src="/images/ogg9.jpeg"></td>
+<td style="width: 37%"><img src="/images/ogg10.jpeg"></td>
+</tr>
+</tbody>
+</table>
