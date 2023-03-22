@@ -73,8 +73,11 @@ image: /images/p1o2023.png
 <li><input id="accordion10" type="checkbox" /> <label for="accordion10">P1 Orientation Briefing Slides</label>
 <p><a href="https://drive.google.com/file/d/1WY2l4CyUBTKPefvYuQs0DpvDNb7L_Nar/view?usp=share_link" target="_blank" rel="noopener"><strong>P1 Orientation Briefing Slides (Click here)</strong></a></p>
 </li>
-</ul></td>
-<td style="width: 33.3333%;">&nbsp;</td>
+</ul>
+</td>
+<td style="width: 33.3333%;">
+	
+</td>
 </tr>
 </tbody>
 </table>
