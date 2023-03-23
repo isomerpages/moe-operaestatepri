@@ -97,12 +97,12 @@ description: ""
 <p>Wednesday</p>
 </td>
 <td style="text-align: center;">
-<p>7.30 a.m. to 12.00 p.m.</p>
+<p>7.30 a.m. to 12.30 p.m.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>CCA</strong></p>
+<p><strong><u>CCA</u></strong></p>
 <table>
 <tbody>
 <tr>
@@ -115,15 +115,23 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Monday and Thursday</p>
+<p>Monday</p>
 </td>
 <td style="text-align: center;">
 <p>2.00 p.m. to 4.00 p.m.</p>
 </td>
 </tr>
+<tr>
+<td>
+<p>Thursday (NSG & SYF)</p>
+</td>
+<td style="text-align: center;">
+<p>3.00 p.m to 5.00 p.m</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><strong>Remedial and Enrichment Programme</strong></p>
+<p><strong><u>Remedial and Enrichment Programme</u></strong></p>
 <table>
 <tbody>
 <tr>
@@ -136,15 +144,15 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Tuesday and Friday</p>
+<p>Tuesday and Thursday</p>
 </td>
 <td style="text-align: center;">
-<p>2.15 p.m. to 3.45 p.m.</p>
+<p>2.00 p.m. to 3.15 p.m.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Recess Time</strong></p>
+<p><strong><u>Recess Time</u></strong></p>
 <table>
 <tbody>
 <tr>
@@ -157,23 +165,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Primary 1</p>
-</td>
-<td style="text-align: center;">
-<p>8.30 a.m. to 9.00 a.m.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Primary 2</p>
-</td>
-<td style="text-align: center;">
-<p>9.00 a.m. to 9.30 a.m.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Primary 3</p>
+<p>Primary 1 & Primary 4</p>
 </td>
 <td style="text-align: center;">
 <p>9.30 a.m. to 10.00 a.m.</p>
@@ -181,7 +173,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Primary 4</p>
+<p>Primary 2 & Primary 5</p>
 </td>
 <td style="text-align: center;">
 <p>10.00 a.m. to 10.30 a.m.</p>
@@ -189,23 +181,16 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Primary 5</p>
+<p>Primary 3 & Primary 6</p>
 </td>
 <td style="text-align: center;">
 <p>10.30 a.m. to 11.00 a.m.</p>
 </td>
 </tr>
-<tr>
-<td>
-<p>Primary 6</p>
-</td>
-<td>
-<p style="text-align: center;">11.00 a.m. to 11.30 a.m.</p>
-</td>
-</tr>
 </tbody>
 </table>
-<p><strong>Snack Break</strong></p>
+<p><strong><u>Snack Break</u></strong></p>
+<p><strong>Monday to Friday, except Wednesday</strong></p>
 <table>
 <tbody>
 <tr>
@@ -218,26 +203,47 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Primary 4 and 5</p>
+<p>Primary 1, 2, 4 and 5</p>
 </td>
 <td style="text-align: center;">
-<p>9.00 a.m. to 9.30 a.m.</p>
+<p>12.00 p.m.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Primary 1</p>
+<p>Primary 3 and 6</p>
 </td>
 <td style="text-align: center;">
-<p>11.00 a.m. to 11.30 a.m.</p>
+<p>9.00 a.m.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Wednesday</strong></p>
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Levels</strong></p>
+</td>
+<td style="text-align: center;">
+<p><strong>Timing</strong></p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Primary 2, 3 and 6</p>
+<p>Primary 1, 2, 4 and 5</p>
 </td>
 <td style="text-align: center;">
-<p>12.00 p.m. to 12.30 p.m.</p>
+<p>11.00 a.m.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Primary 3 and 6</p>
+</td>
+<td style="text-align: center;">
+<p>9.00 a.m.</p>
 </td>
 </tr>
 </tbody>
