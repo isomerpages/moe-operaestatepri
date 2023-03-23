@@ -31,47 +31,31 @@ description: ""
 </tr>
 </tbody>
 </table>
-
-
-<table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td colspan="2">
-<h4 style="text-align: center;"><span style="text-decoration: underline;"><strong>OUR&nbsp;TEACHER&nbsp;RECOMMENDS</strong></span></h4>
+<td style="text-align: center;" colspan="2">
+<p><span style="text-decoration: underline;"><strong>OUR STUDENT RECOMMENDS</strong></span></p>
+</td>
+<td style="text-align: center;" colspan="2" rowspan="2">
+<p><img style="width: 100%;" src="/images/br7.jpg" /><br>
+<img style="width: 100%;" src="/images/br8.jpeg" /><br>
+<img style="width: 100%;" src="/images/br9.jpg" /><br>
+<img style="width: 100%;" src="/images/br20.jpg" /></p>
 </td>
 </tr>
 <tr>
-<td>
-<p><img src="/images/br5.jpg" /></p>
-</td>
-<td>
-<p>The Wishing Spell talks about twin siblings Alex and Conner Bailey, who magically got transported into their grandmother's fairy tale treasury. In order to find their way back home, they need to hunt for items from Kingdoms.<br />Pick up this exciting book and find out how they went through this hunt with ups and downs together with your favorite fairy tale characters.</p>
-<p style="text-align: right;"><strong>- Mdm Tang Suey Lee</strong></p>
+<td style="width: 25%;"><p><img src="/images/br6.png" /></p></td>
+<td style="width: 25%;">
+<p>I am enjoying this book, The BFG by Roald Dahl.</p>
+<p style="text-align: right;">- Sumaira, 1 Diligence</p>
+<p>Borrow one online at:<br /><a href="https://nlb.overdrive.com/media/2259697">https://nlb.overdrive.com/media/2259697</a></p>
+<p>How about testing your knowledge<br /><a href="https://www.roalddahl.com/create-and-learn/teach/test-their-roald-dahl-knowledge">https://www.roalddahl.com/create-and-learn/teach/test-their-roald-dahl-knowledge</a></p>
 </td>
 </tr>
 </tbody>
 </table>
-<table>
-<tbody>
-<tr>
-<td colspan="2">
-<h4 style="text-align: center;"><strong>OUR&nbsp;STUDENT</strong><strong>&nbsp;RECOMMENDS</strong></h4>
-</td>
-</tr>
-<tr>
-<td>
-<p><img src="/images/br6.png" /></p>
-</td>
-<td>
-<p>I&nbsp;am&nbsp;enjoying&nbsp;this&nbsp;book,&nbsp;The&nbsp;BFG&nbsp;by&nbsp;Roald&nbsp;Dahl.</p>
-<p style="text-align: right;">-&nbsp;<strong>Sumaira, 1 Diligence</strong></p>
-<p>Borrow one online at:<br /><a href="https://nlb.overdrive.com/media/2259697"><strong>https://nlb.overdrive.com/media/2259697</strong></a></p>
-<p>How about testing your knowledge?<br /><a href="https://www.roalddahl.com/create-and-learn/teach/test-their-roald-dahl-knowledge"><strong>https://www.roalddahl.com/create-and-learn/teach/test-their-roald-dahl-knowledge</strong></a></p>
-</td>
-</tr>
-</tbody>
-</table>
-<img style="width: 65%;" src="/images/br7.jpg" /><br>
-<img style="width: 65%;" src="/images/br8.jpeg" /><br>
-<img style="width: 65%;" src="/images/br9.jpg" /><br>
-<img style="width: 65%;" src="/images/br20.jpg" />
+
+
+
+
