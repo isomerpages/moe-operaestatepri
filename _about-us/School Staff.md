@@ -128,7 +128,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Miss Felicia Chow</p>
+<p>Ms. Chow Wai Mun Felicia</p>
 </td>
 <td>
 <p>HOD &ndash; Mother Tongue Languages</p>
@@ -136,7 +136,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Mr&nbsp;Johnny Tong</p>
+<p>Mr. Tong Chin Hong</p>
 </td>
 <td>
 <p>HOD &ndash; Information &amp; Communications Technology</p>
@@ -144,7 +144,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Mr Amir Hamzah</p>
+<p>Mr. Tok Chek Puay Jackmond</p>
 </td>
 <td>
 <p>HOD&nbsp;&ndash; Physical Education &amp; Co-Curricular Activities</p>
@@ -152,7 +152,15 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Mrs Elvenia Poh</p>
+<p>Ms. Chua Jin Xun</p>
+</td>
+<td>
+<p>HOD - CCE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mrs. Chan Sook Fen Elvenia</p>
 </td>
 <td>
 <p>School Staff Developer</p>
