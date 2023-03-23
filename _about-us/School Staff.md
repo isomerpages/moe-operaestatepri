@@ -634,55 +634,6 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion8" type="checkbox" /> <label for="accordion8">Non-Form Teachers</label>
-<div>
-<table style="margin-left: auto; margin-right: auto;">
-<tbody>
-<tr>
-<td>
-<p style="text-align: center;"><strong>Name</strong></p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td>
-<p>Mdm Jane Wong</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td>
-<p>Mrs Eileen Pang</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td>
-<p>Miss Komathy D/O Selvaraj</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td>
-<p>Mr Rahim</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td>
-<p>Mr Amir Hamzah</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td>
-<p>Ms Khadijah</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td>
-<p>Ms Rafizah</p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</li>
-</li>
 <li><input id="accordion9" type="checkbox" /> <label for="accordion9">Allied Educators</label>
 <div>
 <table>
@@ -697,7 +648,7 @@ description: ""
 </tr>
 <tr style="text-align: center;">
 <td>
-<p>Ms Nikki Chan</p>
+<p>Ms. Chan Jia Shuan, Nikki</p>
 </td>
 <td>
 <p>Special Educational Needs Officer (SEN Officer)</p>
@@ -705,7 +656,7 @@ description: ""
 </tr>
 <tr style="text-align: center;">
 <td>
-<p>Ms Raihana</p>
+<p>Ms. Raihana Binte Rahmat</p>
 </td>
 <td>
 <p>Special Educational Needs Officer (SEN Officer)</p>
@@ -713,7 +664,7 @@ description: ""
 </tr>
 <tr style="text-align: center;">
 <td>
-<p>Ms Yus Azizah</p>
+<p>Ms. Yus Azizah binte Ahmad Ariff</p>
 </td>
 <td>
 <p>Special Educational Needs Officer (SEN Officer)</p>
@@ -721,7 +672,7 @@ description: ""
 </tr>
 <tr style="text-align: center;">
 <td>
-<p>Mdm Hafizzah</p>
+<p>Mdm. Hafizzah binte Mustafah</p>
 </td>
 <td>
 <p>Allied Educator/ Teaching &amp; Learning</p>
@@ -729,7 +680,7 @@ description: ""
 </tr>
 <tr style="text-align: center;">
 <td>
-<p>Ms Tng Jia En Joanne</p>
+<p>Ms. Tng Jia En Joanne</p>
 </td>
 <td>
 <p>School Counsellor</p>
@@ -737,7 +688,7 @@ description: ""
 </tr>
 <tr style="text-align: center;">
 <td>
-<p>Ms Janice Low</p>
+<p>Ms. Janice Low</p>
 </td>
 <td>
 <p>School Counsellor</p>
@@ -745,7 +696,7 @@ description: ""
 </tr>
 <tr style="text-align: center;">
 <td>
-<p>Ms Juhariah</p>
+<p>Ms. Juhariah Binte Ahmad</p>
 </td>
 <td>
 <p>School Counsellor</p>
@@ -754,7 +705,6 @@ description: ""
 </tbody>
 </table>
 </div>
-</li>
 </li>
 <li><input id="accordion10" type="checkbox" /> <label for="accordion10">Administrative & Support Staff</label>
 <div>
@@ -771,7 +721,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>Mdm&nbsp;Shameema</p>
+<p>Mdm. Shameema Fathima Abdul Gaffar</p>
 </td>
 <td style="text-align: center;">
 <p>Administrative Executive</p>
@@ -779,7 +729,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>Mdm Zalina</p>
+<p>Mdm. Zalina Bte Raib</p>
 </td>
 <td style="text-align: center;">
 <p>Corporate Support Officer</p>
@@ -787,15 +737,15 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>Mr Salim</p>
+<p>Ms. Tay Siew Kwee Chanel</p>
 </td>
 <td style="text-align: center;">
-<p>ICT Manager</p>
+<p>Corporate Support Officer</p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>Mr Zaidan</p>
+<p>Mr. Muhammad Zaidan Khan Bin Hamid Khan</p>
 </td>
 <td style="text-align: center;">
 <p>ICT Associate</p>
@@ -803,7 +753,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>Ms Fauziah</p>
+<p>Ms. Fauziah binte Omar Khattaf</p>
 </td>
 <td style="text-align: center;">
 <p>Operations Support Officer (Admin)</p>
@@ -811,7 +761,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>Mr Abdul Razak&nbsp;</p>
+<p>Mr.. Abdul Razak Bin Abdul Kadir</p>
 </td>
 <td style="text-align: center;">
 <p>Operations Support Officer</p>
@@ -819,7 +769,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>Mr Mah Tong Chai</p>
+<p>Mr. Mah Tong Chai</p>
 </td>
 <td style="text-align: center;">
 <p>Operations Support Officer</p>
@@ -827,7 +777,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>Mr Chia Kwee Lim</p>
+<p>Mr. Chia Kwee Lim</p>
 </td>
 <td style="text-align: center;">
 <p>Operations Support Officer</p>
@@ -835,7 +785,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>Mr Shamsudin</p>
+<p>Mr. Shamsudin</p>
 </td>
 <td style="text-align: center;">
 <p>Operations Support Officer</p>
@@ -856,7 +806,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>Mr Mohamad Omar</p>
+<p>Mr. Mohamad Omar Bin Mohd Noh</p>
 </td>
 <td style="text-align: center;">
 <p>Desktop Engineer</p>
@@ -864,7 +814,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>Mr Yong Yi Jie</p>
+<p>Mr. Yong Yi Jie</p>
 </td>
 <td style="text-align: center;">
 <p>Desktop Engineer</p>
@@ -872,7 +822,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>Mdm Murlianti</p>
+<p>Mdm. Murlianti Binte Rahmat</p>
 </td>
 <td style="text-align: center;">
 <p>Librarian</p>
@@ -880,7 +830,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>Ms Siti Nur Ayuni</p>
+<p>Ms. Siti Nur Ayuni Binte Abdul Rahman</p>
 </td>
 <td style="text-align: center;">
 <p>Lab Technician</p>
@@ -888,15 +838,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>Ms Chanel</p>
-</td>
-<td style="text-align: center;">
-<p>Office Assistant</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;">
-<p>Mr Sundram</p>
+<p>Mr. Sundram</p>
 </td>
 <td style="text-align: center;">
 <p>Security Officer</p>
@@ -904,7 +846,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>Mohd Sultan</p>
+<p>Mr. Mohd Sultan</p>
 </td>
 <td style="text-align: center;">
 <p>Security Officer</p>
