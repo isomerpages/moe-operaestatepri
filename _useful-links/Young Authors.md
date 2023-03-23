@@ -10,14 +10,14 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><a href="https://www.w3schools.com"><img src="/images/yau1.png"></a></td>
-<td style="width: 33.3333%;"><a href="https://www.w3schools.com"><img src="/images/yau2.png"></a></td>
-<td style="width: 33.3333%;"><a href="https://www.w3schools.com"><img src="/images/yau3.png"></a></td>
+<td style="width: 33.3333%;"><a href="https://www.flipsnack.com/operaestatepri/cl-p3-2022-young-writers/full-view.html"><img src="/images/yau1.png"></a></td>
+<td style="width: 33.3333%;"><a href="https://www.flipsnack.com/operaestatepri/cl-p4-2022-young-writers/full-view.html"><img src="/images/yau2.png"></a></td>
+<td style="width: 33.3333%;"><a href="https://www.flipsnack.com/operaestatepri/primary-5-chinese-2022/full-view.html"><img src="/images/yau3.png"></a></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><a href="https://www.w3schools.com"><img src="/images/yau4.png"></a></td>
-<td style="width: 33.3333%;"><a href="https://www.w3schools.com"><img src="/images/yau5.png"></a></td>
-<td style="width: 33.3333%;"><a href="https://www.w3schools.com"><img src="/images/yau6.png"></a></td>
+<td style="width: 33.3333%;"><a href="https://www.flipsnack.com/operaestatepri/cl-p6-2022-young-writers/full-view.html"><img src="/images/yau4.png"></a></td>
+<td style="width: 33.3333%;"><a href="https://www.flipsnack.com/operaestatepri/tl-p3-p4-compiled-compositions-2022/full-view.html"><img src="/images/yau5.png"></a></td>
+<td style="width: 33.3333%;"><a href="https://www.flipsnack.com/operaestatepri/ml-p4-to-p6-2022-combined/full-view.html"><img src="/images/yau6.png"></a></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;"><a href="https://www.flipsnack.com/operaestatepri/fun-facts-about-animals/full-view.html"><img src="/images/ya9.png"/></a></td>
