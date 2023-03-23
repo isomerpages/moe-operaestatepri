@@ -57,10 +57,18 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Mdm Noraini</p>
+<p>Mdm. Noraini Binte Abdul Rahim</p>
 </td>
 <td>
 <p>Year Head &ndash; Lower Pri</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ms. Yu Xinyi</p>
+</td>
+<td>
+<p>Assistant Year Head – Lower Pri</p>
 </td>
 </tr>
 <tr>
@@ -73,7 +81,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Mrs Rafiq</p>
+<p>Mdm. Rajima d/o Sevathamaricar (Mrs. Rafiq)</p>
 </td>
 <td>
 <p>Year Head &ndash; Upper Pri</p>
