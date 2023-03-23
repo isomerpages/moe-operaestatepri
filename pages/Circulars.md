@@ -7,7 +7,7 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><a href="/files/January-2023.pdf"><img src="/images/mn.png"></a></td>
+<td style="width: 33.3333%;"><a href="/files/January-2023.pdf"><img style="width: 80%;" src="/images/mn.png"></a></td>
 <td style="width: 33.3333%;">&nbsp;</td>
 <td style="width: 33.3333%;">&nbsp;</td>
 </tr>
