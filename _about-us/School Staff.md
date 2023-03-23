@@ -436,7 +436,7 @@ description: ""
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Primary 3 Form Teachers</label>
 <div>
-<table style="margin-left: auto; margin-right: auto;">
+<table>
 <tbody>
 <tr>
 <td style="text-align: center;">
@@ -446,44 +446,36 @@ description: ""
 <p><strong>Name</strong></p>
 </td>
 </tr>
-<tr style="text-align: center;">
-<td>
-<p><strong>3 Caring</strong><strong><br /></strong></p>
+<tr>
+<td style="text-align: center;" width="228">
+<p><strong>3 Caring</strong></p>
 </td>
-<td>
-<p>Mdm Zahureen&nbsp;</p>
-<p>Mdm Eileen Ong</p>
-<p>Mdm&nbsp;Nasibah</p>
+<td style="text-align: center;" width="232">
+<p>Mr. Foo Yu Ren<br />Mrs. Lee Siew Fun</p>
 </td>
 </tr>
-<tr style="text-align: center;">
-<td>
-<p><strong>3 Diligence</strong><strong><br /></strong></p>
+<tr>
+<td style="text-align: center;" width="228">
+<p><strong>3 Diligence</strong></p>
 </td>
-<td>
-<p>Mr Ray Aziz</p>
-<p>Mr Gomes</p>
-<p>Mdm Nuraihan</p>
+<td style="text-align: center;" width="232">
+<p>Mdm. Karen Koo Sze Yong<br />Mdm. Ma Khin Kyi</p>
 </td>
 </tr>
-<tr style="text-align: center;">
-<td>
-<p><strong>3 Grace</strong><strong><br /></strong></p>
+<tr>
+<td style="text-align: center;" width="228">
+<p><strong>3 Grace</strong></p>
 </td>
-<td>
-<p>Mdm Erlis</p>
-<p>Mr Stanley Ang</p>
-<p>Mr Leng Kok Keong</p>
+<td style="text-align: center;" width="232">
+<p>Mdm. Aruna<br />Mdm. Nasibah Bte Idross Alkhatib<br />Mdm. Wong Mey Lin (Mdm. Jane Wong)</p>
 </td>
 </tr>
-<tr style="text-align: center;">
-<td>
+<tr>
+<td style="text-align: center;" width="228">
 <p><strong>3 Honesty</strong></p>
 </td>
-<td>
-<p>Mdm Aruna</p>
-<p>Mdm Mary Lim</p>
-<p>Ms Anne Yeong (Mrs Goh)</p>
+<td style="text-align: center;" width="232">
+<p>Mrs. Pung Yang Chiu Eileen (Mrs. Eileen Pang)<br />Mdm. Nurul Ashilah Binte Abdul Latiff</p>
 </td>
 </tr>
 </tbody>
@@ -492,61 +484,46 @@ description: ""
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">Primary 4 Form Teachers</label>
 <div>
-<table style="margin-left: auto; margin-right: auto;">
+<table>
 <tbody>
 <tr>
-<td>
-<p style="text-align: center;"><strong>Class</strong></p>
+<td style="text-align: center;">
+<p><strong>Class</strong></p>
 </td>
 <td style="text-align: center;">
 <p><strong>Name</strong></p>
 </td>
 </tr>
-<tr style="text-align: center;">
-<td>
+<tr>
+<td style="text-align: center;" width="228">
 <p><strong>4 Caring</strong></p>
 </td>
-<td>
-<p>Mdm Karen Koo</p>
-<p>Mr Hadi</p>
+<td style="text-align: center;" width="232">
+<p>Mdm. Zahureen Binte Aman<br />Mdm. Tan Hui Qing</p>
 </td>
 </tr>
-<tr style="text-align: center;">
-<td>
+<tr>
+<td style="text-align: center;" width="228">
 <p><strong>4 Diligence</strong></p>
 </td>
-<td>
-<p>Mrs Eliza Lim</p>
-<p>Mr Ho Lui Soon</p>
-<p>Mrs Lee Siew Fun</p>
+<td style="text-align: center;" width="232">
+<p>Mr. Ray Aziz<br />Mdm. Nuraihan Bte Abdul Subhan<br />Mr. Leonard Paul Gomes</p>
 </td>
 </tr>
-<tr style="text-align: center;">
-<td>
+<tr>
+<td style="text-align: center;" width="228">
 <p><strong>4 Grace</strong></p>
 </td>
-<td>
-<p>Mdm Sidah</p>
-<p>Miss Rachel Lim</p>
-<p>Mdm Ma Khin Kyi</p>
+<td style="text-align: center;" width="232">
+<p>Ms. Lim Pei Yi, Rachel<br />Mr. Leng Kok Keong</p>
 </td>
 </tr>
-<tr style="text-align: center;">
-<td>
+<tr>
+<td style="text-align: center;" width="228">
 <p><strong>4 Honesty</strong></p>
 </td>
-<td>
-<p>Ms Shaikha</p>
-<p>Mr Foo Yu Ren</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td>
-<p><strong>4 Integrity</strong></p>
-</td>
-<td>
-<p>Mdm Lim Ching Ching</p>
-<p>Mdm Tan Li San</p>
+<td style="text-align: center;" width="232">
+<p>Ms. Yeong Wai Cheng Anne (Mrs. Goh)<br />Mdm. Lim Hwee Ming, Mary</p>
 </td>
 </tr>
 </tbody>
@@ -555,45 +532,54 @@ description: ""
 </li>
 <li><input id="accordion6" type="checkbox" /> <label for="accordion6">Primary 5 Form Teachers</label>
 <div>
-<table style="margin-left: auto; margin-right: auto;">
+<table>
 <tbody>
 <tr>
-<td style="text-align: center;"><strong>Class</strong></td>
-<td style="text-align: center;"><strong>Name</strong></td>
-</tr>
-<tr style="text-align: center;">
-<td><strong>5 Caring</strong><strong><br /></strong></td>
-<td>
-<p>Ms Rajima (Mrs Rafiq)</p>
-<p>Mdm Amal Norahmah</p>
-<p>Mr Daryl Sim</p>
+<td style="text-align: center;">
+<p><strong>Class</strong></p>
+</td>
+<td style="text-align: center;">
+<p><strong>Name</strong></p>
 </td>
 </tr>
-<tr style="text-align: center;">
-<td><strong>5 Diligence</strong><strong><br /></strong></td>
-<td>
-<p>Mr Yeo Jun Cong</p>
-<p>Ms Chen Lijia</p>
-<p>Mr Omar Azahari</p>
+<tr>
+<td style="text-align: center;" width="228">
+<p><strong>5 Caring</strong></p>
+</td>
+<td style="text-align: center;" width="232">
+<p>Ms. Manickam Sumathi (Mrs. Balan)<br />Mr. Tok Chek Puay Jackmond</p>
 </td>
 </tr>
-<tr style="text-align: center;">
-<td>
-<p><strong>5 Grace</strong><strong><br /></strong></p>
+<tr>
+<td style="text-align: center;" width="228">
+<p><strong>5 Diligence</strong></p>
 </td>
-<td>
-<p>Mr Issac Pang</p>
-<p>Ms He Wen Li</p>
-<p>Mr Lim Yan Zhi</p>
+<td style="text-align: center;" width="232">
+<p>Mdm. Lim Ching Ching<br />Mr. Ho Lui Soon<br />Mr. Tong Chin Hong</p>
 </td>
 </tr>
-<tr style="text-align: center;">
-<td>
+<tr>
+<td style="text-align: center;" width="228">
+<p><strong>5 Grace</strong></p>
+</td>
+<td style="text-align: center;" width="232">
+<p>Ms. Shaikha Maimunah binte Shaikh Fuad Mattar<br />Ms. Ng Ai Leen</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="228">
 <p><strong>5 Honesty</strong></p>
 </td>
-<td>
-<p>Mr Alex Chee</p>
-<p>Ms Dawn Sim</p>
+<td style="text-align: center;" width="232">
+<p>Ms. Chow Wai Mun Felicia<br />Mr. Lim Yan Zhi<br />Ms. Chia Hui Min</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="228">
+<p><strong>5 Integrity</strong></p>
+</td>
+<td style="text-align: center;" width="232">
+<p>Ms. Chua Jin Xun<br />Mdm. Nur Farah Binte Mohamad Shukor</p>
 </td>
 </tr>
 </tbody>
