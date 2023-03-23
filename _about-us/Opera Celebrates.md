@@ -3,8 +3,7 @@ title: Opera Celebrates
 permalink: /opera-celebrates/
 description: ""
 ---
-<h4><strong>2022</strong></h4>
-<h4>ENGLISH LANGUAGE</h4>
+<p><strong>NATIONAL SCHOOL GAMES</strong></p>
 <table>
 <tbody>
 <tr>
@@ -13,144 +12,72 @@ description: ""
 <td style="text-align: center;"><strong>Name of Student</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;" rowspan="5" width="253">What's Up</td>
-<td style="text-align: center;" rowspan="3" width="233">Letters Featured</td>
-<td style="text-align: center;" width="266">Nelly Andrea Binte Fahmy</td>
+<td style="text-align: center;" rowspan="18">National Floorball Championship</td>
+<td style="text-align: center;" rowspan="18">(Junior Div) Tier 1 Champion</td>
+<td style="text-align: center;">Rayaan Gupta</td>
 </tr>
 <tr>
-<td style="text-align: center;">Adam Abdullah Bin Aliman</td>
+<td style="text-align: center;">Vincent Albert Bennett</td>
 </tr>
 <tr>
-<td style="text-align: center;">Dun Shengyi</td>
+<td style="text-align: center;">Charlie Pin Yu Bennett</td>
 </tr>
 <tr>
-<td style="text-align: center;" rowspan="2">Competition Winners</td>
-<td style="text-align: center;">Gayatri Sujit</td>
+<td style="text-align: center;">Eden Sebastian Handoyo</td>
 </tr>
 <tr>
-<td style="text-align: center;">Valerie Cheah Xin Qi</td>
-</tr>
-</tbody>
-</table>
-<h4>MATHEMATICS</h4>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;"><strong>Competition / Programme</strong></td>
-<td style="text-align: center;"><strong>Achievement</strong></td>
-<td style="text-align: center;"><strong>Name of Student</strong></td>
+<td style="text-align: center;">Ryan Bhagyesh Chaubey</td>
 </tr>
 <tr>
-<td style="text-align: center;" rowspan="21" width="253">Raffles Institution Primary<br />Mathematics World Contest</td>
-<td style="text-align: center;" rowspan="2" width="233">High Distinction(Junior Category)</td>
-<td style="text-align: center;" width="266">Prisha Burman Ray</td>
+<td style="text-align: center;">Xaviell Chia Yi Zhong</td>
 </tr>
 <tr>
-<td style="text-align: center;" width="266">Soma Moukthika</td>
+<td style="text-align: center;">Mattia Sugianto</td>
 </tr>
 <tr>
-<td style="text-align: center;" width="233">Distinction(Round 2)</td>
-<td style="text-align: center;">Soma Moukthika</td>
+<td style="text-align: center;">Aarav Satya Maruvada</td>
 </tr>
 <tr>
-<td style="text-align: center;" rowspan="9" width="233">Distinction<br />(Junior Category)</td>
-<td style="text-align: center;">Muhammed Zaahir Bin Ismad Inun</td>
+<td style="text-align: center;">Jared Wong Rong Shen</td>
 </tr>
 <tr>
-<td style="text-align: center;">Sophie Clare Hope Morris</td>
+<td style="text-align: center;">Kiaan Chauhan</td>
 </tr>
 <tr>
-<td style="text-align: center;">Oliver Goana</td>
+<td style="text-align: center;">Muhd Royhan bin Mohd Faisal Angullia</td>
+</tr>
+<tr>
+<td style="text-align: center;">Naitik Oswal</td>
+</tr>
+<tr>
+<td style="text-align: center;">Aidan Lu Tze Yuen</td>
 </tr>
 <tr>
 <td style="text-align: center;">Edward Charles Barr</td>
 </tr>
 <tr>
-<td style="text-align: center;">Emmanuel Chen Jin Yi</td>
-</tr>
-<tr>
-<td style="text-align: center;">Kotha Venkata Sai Ram</td>
-</tr>
-<tr>
-<td style="text-align: center;">Lai Jia En, Joan</td>
-</tr>
-<tr>
-<td style="text-align: center;">Saanvi Sharma</td>
-</tr>
-<tr>
-<td style="text-align: center;">Samarth Kalra</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="5" width="233">Merit<br />(Junior Category)</td>
-<td style="text-align: center;">Myra Chaubey</td>
-</tr>
-<tr>
-<td style="text-align: center;">Bhagwat Kimaya Kishor</td>
-</tr>
-<tr>
-<td style="text-align: center;">Samaira Taneja</td>
-</tr>
-<tr>
-<td style="text-align: center;">Mira June Weehuizen</td>
-</tr>
-<tr>
 <td style="text-align: center;">Aahan Aseem Jain</td>
 </tr>
 <tr>
-<td style="text-align: center;" rowspan="3" width="233">Distinction<br />(Open Category)</td>
-<td style="text-align: center;">Bajaj Shreyash</td>
+<td style="text-align: center;">Aqil bin Amir</td>
 </tr>
 <tr>
-<td style="text-align: center;">Toshniwal Remi Ameya Ritesh</td>
+<td style="text-align: center;">Jamie Ng Ho Jin</td>
 </tr>
 <tr>
-<td style="text-align: center;">Teo Yee Ben Taylor</td>
+<td style="text-align: center;">Kyle Evan Somu (Vice-Captain)</td>
 </tr>
 <tr>
-<td style="text-align: center;" width="233">Merit(Open Category)</td>
-<td style="text-align: center;">Pendse Shaunak Subodh</td>
-</tr>
-</tbody>
-</table>
-<h4>ROBOTICS</h4>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;"><strong>Competition / Programme</strong></td>
-<td style="text-align: center;"><strong>Achievement</strong></td>
-<td style="text-align: center;"><strong>Name of Student</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="4" width="253">Cargo Connect<br />"First Lego League"</td>
-<td style="text-align: center;" rowspan="4" width="233">Core Values Award<br />(3rd Place)</td>
-<td style="text-align: center;" width="266">Ames Violet Zehra</td>
-</tr>
-<tr>
-<td style="text-align: center;">David Chow</td>
-</tr>
-<tr>
-<td style="text-align: center;">Amy Teresa Yan</td>
-</tr>
-<tr>
-<td style="text-align: center;">Advay Goenka</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>NA</strong>TIONAL SCHOOL GAMES</h4>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;"><strong>Competition / Programme</strong></td>
-<td style="text-align: center;"><strong>Achievement</strong></td>
-<td style="text-align: center;"><strong>Name of Student</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="19" width="253">East Zone Football Championship</td>
+<td style="text-align: center;" rowspan="19" width="253">
+<p>East Zone Football Championship</p>
+</td>
 <td style="text-align: center;" width="233">Top Scorer Award</td>
 <td style="text-align: center;" width="266">Rossiter Lennon Ken</td>
 </tr>
 <tr>
-<td style="text-align: center;" rowspan="18" width="233">Senior Division Boys<br />(4th Place)</td>
+<td style="text-align: center;" rowspan="18" width="233">
+<p>Senior Division Boys<br />(4th Place)</p>
+</td>
 <td style="text-align: center;">Ilhan Rizqi Bin Sulaiman</td>
 </tr>
 <tr>
@@ -196,7 +123,7 @@ description: ""
 <td style="text-align: center;">Jayden Joash Kee</td>
 </tr>
 <tr>
-<td style="text-align: center;" width="266">Muhammad Amier Noor SyahiedBin Muhammad Yusof</td>
+<td style="text-align: center;" width="266">Muhammad Amier Noor Syahied<br />Bin Muhammad Yusof</td>
 </tr>
 <tr>
 <td style="text-align: center;">Nur Al Muhaimin Bin Mohd Helmi</td>
@@ -205,13 +132,17 @@ description: ""
 <td style="text-align: center;">Zachary John Lai</td>
 </tr>
 <tr>
-<td style="text-align: center;">Rhythmic Gymnastic</td>
-<td style="text-align: center;" width="233">Senior Division Development -Hoop Level 3(Ranked 9th of 34 participants)</td>
-<td style="text-align: center;">Lim Si Tong</td>
+<td style="text-align: center;">
+<p>Rhythmic Gymnastic</p>
+</td>
+<td style="text-align: center;" width="233">Senior Division Development -<br />Hoop Level 3<br />(Ranked 9th of 34 participants)</td>
+<td style="text-align: center;">
+<p>Lim Si Tong</p>
+</td>
 </tr>
 </tbody>
 </table>
-<h4>CCA</h4>
+<p><strong>CCA</strong></p>
 <table width="91.854%">
 <tbody>
 <tr>
