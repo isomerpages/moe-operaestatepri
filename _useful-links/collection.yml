@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - For Students/Tinkle Friend Resource.md
       - For Students/For Students.md
       - For Students/.keep
       - For Parents.md
