@@ -3,12 +3,18 @@ title: Circulars
 permalink: /circulars/
 description: ""
 ---
-<h4><strong>TERMLY NEWSLETTERS</strong></h4>
-<a href="/files/OEPS-Newsletter-Term-1-2022.pdf"><img style="width: 20%;" src="/images/cir1.png" align = "left" /></a><br><br><br><br><br>
-<p><a href="/files/OEPS-Newsletter-Term-1-2022.pdf">2022 Term 1 Newsletter</a></p>
-<h4><strong>ASSESSMENT MATTERS</strong></h4>
-<img style="width: 20%;" src="/images/cir2.png" align = "left" /><br><br><br><br><br>
-<p>TBA</p>
-<h4><strong>SCHOOL SAFETY AND TRAFFIC MATTERS</strong></h4>
-<a href="/files/Transport-Matters-and-Road-Safety-Circular-2021-.pdf"><img style="width: 20%;" src="/images/cir3.png" align = "left" /></a><br><br><br><br><br>
-<p><a href="/files/Transport-Matters-and-Road-Safety-Circular-2021-.pdf">School Traffic Guidelines</a></p>
+<h4><strong>MONTHLY NEWSLETTER</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><a href="/files/January-2023.pdf"><img src="/images/mn.png"></a></td>
+<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><p style="text-align: center;"><strong><a href="/files/January-2023.pdf">JANUARY 2023</a></strong></p></td>
+<td style="width: 33.3333%;">&nbsp;</td>
+<td style="width: 33.3333%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
