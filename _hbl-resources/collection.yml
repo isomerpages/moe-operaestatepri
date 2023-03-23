@@ -1,0 +1,4 @@
+collections:
+  hbl-resources:
+    output: true
+    order: []
