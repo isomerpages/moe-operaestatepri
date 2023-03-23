@@ -3,7 +3,6 @@ title: Additional Reading Materials
 permalink: /additional-materials-during-hbl/
 description: ""
 ---
-
 <table>
 <tbody>
 <tr>
@@ -91,3 +90,4 @@ description: ""
 </tr>
 </tbody>
 </table>
+<img src="/images/hbl.jpg">
