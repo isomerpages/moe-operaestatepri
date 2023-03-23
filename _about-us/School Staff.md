@@ -591,59 +591,43 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td>
-<p style="text-align: center;"><strong>Class</strong></p>
+<td style="text-align: center;">
+<p><strong>Class</strong></p>
 </td>
 <td style="text-align: center;">
 <p><strong>Name</strong></p>
 </td>
 </tr>
-<tr style="text-align: center;">
-<td>
+<tr>
+<td style="text-align: center;" width="228">
 <p><strong>6 Caring</strong></p>
 </td>
-<td>
-<p>Miss Ng Ai Leen</p>
-<p>Mdm Norain</p>
-<p>Mr&nbsp;Johnny Tong</p>
+<td style="text-align: center;" width="232">
+<p>Mdm. Rajima d/o Sevathamaricar (Mrs. Rafiq)<br />Mdm. Tan Li San<br />Mr. Omar Azahari Bin Mohammed Ali</p>
 </td>
 </tr>
-<tr style="text-align: center;">
-<td>
+<tr>
+<td style="text-align: center;" width="228">
 <p><strong>6 Diligence</strong></p>
 </td>
-<td>
-<p>Mr Andrew Chong</p>
-<p>Ms Elvenia Chan (Mrs Poh)</p>
+<td style="text-align: center;" width="232">
+<p>Mr. Yeo Jun Cong<br />Ms. Chen Lijia</p>
 </td>
 </tr>
-<tr style="text-align: center;">
-<td>
+<tr>
+<td style="text-align: center;" width="228">
 <p><strong>6 Grace</strong></p>
 </td>
-<td>
-<p>Mrs&nbsp;June Low</p>
-<p>Ms Manickam Sumathi (Mrs Balan)</p>
+<td style="text-align: center;" width="232">
+<p>Mr. Pang Sheir Zheng Issac<br />Ms. He Wen Li</p>
 </td>
 </tr>
-<tr style="text-align: center;">
-<td>
+<tr>
+<td style="text-align: center;" width="228">
 <p><strong>6 Honesty</strong></p>
 </td>
-<td>
-<p>Ms Felicia Chow</p>
-<p>Ms Chua Jin Xun</p>
-<p>Ms Lee Peiling (Mrs Sng)</p>
-</td>
-</tr>
-<tr style="text-align: center;">
-<td>
-<p><strong>6 Integrity</strong></p>
-</td>
-<td>
-<p>Ms Chia Hui Min</p>
-<p>Mdm Farah</p>
-<p>Ms Clarice Sim</p>
+<td style="text-align: center;" width="232">
+<p>Mr. Andrew Chong Wenyi<br />Ms. Dawn Sim Ee Szu<br />Mr. Abdul Rahim s/o A P M Adam</p>
 </td>
 </tr>
 </tbody>
