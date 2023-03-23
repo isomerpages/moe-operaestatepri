@@ -37,3 +37,49 @@ description: ""
 <li>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.</li>
 </ol>
 <p style="text-align: center;"><strong> At Opera Estate Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2023</u>:</strong></p>
+<table>
+<tbody>
+<tr>
+<td style="width: 675px;" colspan="4"><img style="width: 25%;" src="/images/sel1.jpg" /></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 675px;" colspan="4"><strong>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</strong></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 675px;" colspan="4"><strong>Primary 5</strong></td>
+</tr>
+<tr>
+<td style="width: 95px;"><strong>CCE(FTGP) THEME</strong></td>
+<td style="width: 121px;"><strong>LESSON TITLE / DURATION</strong></td>
+<td style="width: 342px;"><strong>LESSON OVERVIEW</strong></td>
+<td style="width: 99px;">
+<p><strong>TIME PERIOD<br /></strong><strong>(e.g. Term 1 Week 2)</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 95px;" rowspan="3">Growing Years</td>
+<td style="width: 121px; text-align: center;">The Changes in Me<br />(60 min)</td>
+<td style="width: 342px; text-align: center;">
+<p>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one&rsquo;s identity need not be negatively affected, even when one&rsquo;s body is experiencing changes due to puberty.</p>
+<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.<strong><br /></strong></p>
+</td>
+<td style="width: 99px; text-align: center;">Term 2 Week 2</td>
+</tr>
+<tr>
+<td style="width: 121px; text-align: center;">Did You Know?<br />(60 min)</td>
+<td style="width: 342px; text-align: center;">
+<p>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy &lsquo;<strong>Stop-Think-Do&rsquo;.</strong></p>
+<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
+</td>
+<td style="width: 99px; text-align: center;">Term 2 Week 2</td>
+</tr>
+<tr>
+<td style="width: 121px; text-align: center;">Keeping Myself Safe<br />(60 min)</td>
+<td style="width: 342px; text-align: center;">
+<p>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.</p>
+<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
+</td>
+<td style="width: 99px; text-align: center;">Term 2 Week 2</td>
+</tr>
+</tbody>
+</table>
