@@ -256,52 +256,77 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td>&nbsp;</td>
-<td style="text-align: center;">
-<p><strong>Bus-stop Gate</strong></p>
-</td>
-<td style="text-align: center;">
-<p><strong>Canteen Gate</strong></p>
+<td colspan="2">
+<p style="text-align: center;"><strong>SCHOOL GATE OPENING HOURS</strong></p>
 </td>
 </tr>
 <tr>
-<td>
+<td style="text-align: left;">
 <p>Monday to Friday</p>
 </td>
 <td style="text-align: center;">
 <p>6.45 a.m. - 7.30 a.m.</p>
 </td>
-<td style="text-align: center;">
-<p>6.45 a.m. - 7.30 a.m.</p>
-</td>
 </tr>
 <tr>
-<td>
-<p>Monday, Tuesday, Thursday and Friday</p>
+<td style="text-align: left;">
+<p>Monday to Friday (except Wednesdays)</p>
 </td>
 <td style="text-align: center;">
 <p>1.30 p.m. - 2.00 p.m.</p>
-<p>3.45 p.m. - 4.15 p.m.</p>
-</td>
-<td style="text-align: center;">
-<p>1.30 p.m. - 2.00 p.m.</p>
-<p>3.45 p.m. - 4.15 p.m.</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Wednesday</p>
+<td style="text-align: left;">
+<p>Wednesdays</p>
 </td>
 <td style="text-align: center;">
-<p>12.00 p.m. - 12.30 p.m.</p>
-</td>
-<td style="text-align: center;">
-<p>12.00 p.m. - 12.30 p.m.</p>
+<p>12.30 p.m. - 1.00 p.m.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>All visitors are required to register yourself at the Security Guard post before entering the school.</p>
+<table>
+<tbody>
+<tr>
+<td colspan="2">
+<p style="text-align: center;"><strong>AFTER SCHOOL ACTIVITIES</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Monday</p>
+</td>
+<td style="text-align: center;">
+<p>3.00 p.m. - 3.30 p.m.</p>
+<p>4.00 p.m. - 4.15p.m.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tuesday</p>
+</td>
+<td style="text-align: center;">
+<p>3.00 p.m. - 3.30 p.m.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Thursday</p>
+</td>
+<td style="text-align: center;">
+<p>3.00 p.m. - 3.30 p.m.</p>
+<p>5.00 p.m. - 5.15 p.m.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>All visitors are required to register themselves at the Security Guard post before entering the school.</p>
+<p>All private vehicles, including parent&rsquo;s vehicles and non-official school bus services, are only allowed to drive into the school compound:</p>
+<ul>
+<li>when there is inclement weather in the morning before school starts and</li>
+<li>after 2pm.</li>
+</ul>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">School Safety and Security</label>
