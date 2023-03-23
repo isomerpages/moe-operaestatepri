@@ -51,22 +51,26 @@ description: ""
 <tr>
 <td><a href="https://new.edmodo.com/?go2url=%2Fhome"><img src="images/ed.jpg"/></a></td>
 <td><a href="https://new.edmodo.com/?go2url=%2Fhome"><p><strong>Edmodo</strong></p></a></td>
-<td><strong><a href="https://play.google.com/store/apps/details?id=com.fusionprojects.edmodo&amp;hl=en_SG" target="_blank" rel="noopener"><img src="images/google.jpg" /> </a><a href="https://apps.apple.com/us/app/edmodo/id378352300" target="_blank" rel="noopener"><img src="images/apple.jpg" /></a></strong></td>
+<td><div><a href="https://play.google.com/store/apps/details?id=com.fusionprojects.edmodo&amp;hl=en_SG" target="_blank" rel="noopener"><img src="images/google.jpg" /></div></a>
+<div><a href="https://apps.apple.com/us/app/edmodo/id378352300" target="_blank" rel="noopener"><img src="images/apple.jpg" /></a></div></td>
 </tr>
 <tr>
 <td><a href="https://quizlet.com/"><img src="images/quiz.png" /></a></td>
 <td><a href="https://quizlet.com/"><p><strong>Quizlet</strong></p></a></td>
-<td><a href="https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid&amp;hl=en_SG" target="_blank" rel="noopener"><img src="images/google.jpg" /> </a><a href="https://apps.apple.com/us/app/quizlet/id546473125" target="_blank" rel="noopener"><img src="images/apple.jpg" /></a></td>
+<td><div><a href="https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid&amp;hl=en_SG" target="_blank" rel="noopener"><img src="images/google.jpg" /></a></div>
+<div><a href="https://apps.apple.com/us/app/quizlet/id546473125" target="_blank" rel="noopener"><img src="images/apple.jpg" /></a></div></td>
 </tr>
 <tr>
 <td><a href="https://padlet.com/auth/login"><img src="images/pad.png" /></a></td>
 <td><a href="https://padlet.com/auth/login"><p><strong>Padlet</strong></p></a></td>
-<td><a href="https://play.google.com/store/apps/details?id=com.wallwisher.Padlet&amp;hl=en_SG" target="_blank" rel="noopener"><img src="images/google.jpg" /> </a><a href="https://apps.apple.com/us/app/padlet/id834618886" target="_blank" rel="noopener"><img src="images/apple.jpg" /></a></td>
+<td><div><a href="https://play.google.com/store/apps/details?id=com.wallwisher.Padlet&amp;hl=en_SG" target="_blank" rel="noopener"><img src="images/google.jpg" /><div></a>
+<div><a href="https://apps.apple.com/us/app/padlet/id834618886" target="_blank" rel="noopener"><img src="images/apple.jpg" /></a></div></td>
 </tr>
 <tr>
 <td><a href="https://padlet.com/auth/login"><img src="images/ee.png" /></a></td>
 <td><a href="https://padlet.com/auth/login"><p><strong>Explain Everything</strong></p></a></td>
-<td><a href="https://play.google.com/store/apps/details?id=com.explaineverything.explaineverything&amp;hl=en_SG" target="_blank" rel="noopener"><img src="images/google.jpg" /></a> <a href="https://apps.apple.com/us/app/explain-everything-whiteboard/id1020339980" target="_blank" rel="noopener"><img src="images/apple.jpg" alt="" width="142" height="49" /></a></td>
+<td><div><a href="https://play.google.com/store/apps/details?id=com.explaineverything.explaineverything&amp;hl=en_SG" target="_blank" rel="noopener"><img src="images/google.jpg" /></a></div>
+<div><a href="https://apps.apple.com/us/app/explain-everything-whiteboard/id1020339980" target="_blank" rel="noopener"><img src="images/apple.jpg" alt="" width="142" height="49" /></a></div></td>
 </tr>
 </tbody>
 </table>
