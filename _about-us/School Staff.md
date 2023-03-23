@@ -235,7 +235,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Ms Manickam Sumathi (Mrs Balan)</p>
+<p>Ms. Manickam Sumathi (Mrs. Balan)</p>
 </td>
 <td>
 <p>LT - Science</p>
@@ -243,7 +243,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Mr Lincoln Yeo</p>
+<p>Mr. Yeo Lim Khun Lincoln</p>
 </td>
 <td>
 <p>ST - Physical Education</p>
@@ -251,7 +251,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Mr Leng Kok Keong</p>
+<p>Mr. Leng Kok Keong</p>
 </td>
 <td>
 <p>ST - Chinese Language</p>
@@ -259,15 +259,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Ms Rosnah&nbsp;</p>
-</td>
-<td>
-<p>ST - Mathematics</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Mr Ray Aziz</p>
+<p>Mr. Ray Aziz</p>
 </td>
 <td>
 <p>ST - Music</p>
@@ -288,7 +280,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Ms Jennifer Ng</p>
+<p>Ms. Ng Siew Hoong Jennifer</p>
 </td>
 <td>
 <p>Administration Manager</p>
@@ -296,7 +288,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Mr Steven Tan</p>
+<p>Mr. Tan Yong Thye Steven</p>
 </td>
 <td>
 <p>Operations Manager</p>
@@ -304,7 +296,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Mr Mathew Mak</p>
+<p>Mr. Mak Chee Wai Mathew</p>
 </td>
 <td>
 <p>Operations Manager</p>
