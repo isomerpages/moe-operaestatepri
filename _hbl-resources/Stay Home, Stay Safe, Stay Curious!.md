@@ -3,12 +3,11 @@ title: Stay Home, Stay Safe, Stay Curious!
 permalink: /stay-home-stay-safe-and-stay-curious/
 description: ""
 ---
-
 <h4 style="text-align: center;"><strong>STAY CURIOUS, STAY HEALTHY, EAT HEALTHY &amp; STAY SAFE</strong></h4>
 <table>
 <tbody>
 <tr>
-<td><strong>Stay Curious</strong></td>
+<td><p><strong>Stay Curious</strong></p></td>
 <td>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=tT2dK4Qvt7Q&amp;feature=youtu.be" target="_blank" rel="noopener">Singapore Science Centre&rsquo;s Youtube Channel</a></li>
@@ -28,7 +27,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td><strong>Stay Healthy</strong></td>
+<td><p><strong>Stay Healthy</strong></p></td>
 <td>
 <ul>
 <li><a href="https://www.youtube.com/playlist?reload=9&amp;list=PLw_CrLrIHQhXK4N3VuGhtg6lWoUB6q1Lg" target="_blank" rel="noopener">Exercises for Children</a></li>
@@ -42,7 +41,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td><strong>Eat Healthy</strong></td>
+<td><p><strong>Eat Healthy</strong></p></td>
 <td>
 <ul>
 <li><a href="https://www.healthhub.sg/programmes/54/recipes" target="_blank" rel="noopener">Healthy Recipes by Health Promotion Board</a></li>
@@ -53,7 +52,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td><strong>Stay Safe</strong></td>
+<td><p><strong>Stay Safe</strong></p></td>
 <td>
 <ul>
 <li><a href="https://www.familiesforlife.sg/play-as-a-family/Pages/Family-Activities-in-Apr-2020-Stay-Home-Edition.aspx" target="_blank" rel="noopener">Families for Life</a></li>
