@@ -20,8 +20,7 @@ description: ""
 <p><strong><a href="/files/RECOMMEDATION-BOOK-PART-1-P34.pdf"><img src="/images/br3.png" /></a></strong></p>
 <p style="text-align: center;"><strong><a href="/files/RECOMMEDATION-BOOK-PART-1-P34.pdf">Books for P3 &amp; P4</a></strong></p>
 <p><a href="/files/RECOMMENDATION-BOOK-P1-P56.pdf"><img src="/images/br4.png" /></a>
-<p style="text-align: center;"><strong><a href="/files/RECOMMENDATION-BOOK-P1-P56.pdf">Books for P5 &amp; P6</a></strong></p>
-</td>
+<p style="text-align: center;"><strong><a href="/files/RECOMMENDATION-BOOK-P1-P56.pdf">Books for P5 &amp; P6</a></strong></p></td>
 <td style="width: 25%;"><p><img src="/images/br5.jpg" /></p></td>
 <td style="width: 25%;">
 <p>The Wishing Spell talks about twin siblings Alex and Conner Bailey, who magically got transported into their grandmother's fairy tale treasury. In order to find their way back home, they need to hunt for items from Kingdoms.</p>
@@ -31,6 +30,7 @@ description: ""
 </tr>
 </tbody>
 </table>
+
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -55,7 +55,3 @@ description: ""
 </tr>
 </tbody>
 </table>
-
-
-
-
