@@ -130,3 +130,8 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p><strong>INFORMATION FOR PARENTS</strong></p>
+<ol start="8">
+<li>Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</li>
+<li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="https://form.gov.sg/61f242dd84dd250013230254" target="_blank" rel="noopener"><u>here</u></a>. The completed opt-out form is to be submitted by 24/02/2023.</li>
+</ol>
