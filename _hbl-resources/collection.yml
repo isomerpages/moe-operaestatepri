@@ -2,6 +2,7 @@ collections:
   hbl-resources:
     output: true
     order:
+      - Additional Reading Materials.md
       - Book Recommendations.md
       - HBL Tools & Apps.md
       - Stay Home, Stay Safe, Stay Curious!.md
