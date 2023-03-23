@@ -15,7 +15,8 @@ description: ""
 </tr>
 <tr>
 <td style="width: 25%;"><p><img src="/images/br1.png"/></p></td>
-<td style="width: 25%;"><p><a href="/files/RECOMMENDATION-BOOK-PT1-P12.pdf"><img src="/images/br2.png" /></a></p>
+<td style="width: 25%;">
+<p><a href="/files/RECOMMENDATION-BOOK-PT1-P12.pdf"><img src="/images/br2.png" /></a></p>
 <p style="text-align: center;"><strong><a href="/files/RECOMMENDATION-BOOK-PT1-P12.pdf">Books for P1 &amp; P2</a></strong></p>
 <p><strong><a href="/files/RECOMMEDATION-BOOK-PART-1-P34.pdf"><img src="/images/br3.png" /></a></strong></p>
 <p style="text-align: center;"><strong><a href="/files/RECOMMEDATION-BOOK-PART-1-P34.pdf">Books for P3 &amp; P4</a></strong></p>
