@@ -13,6 +13,10 @@ description: ""
 <p><span style="text-decoration: underline;"><strong>OUR TEACHER RECOMMENDS</strong></span></p>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
 <tr>
 <td style="width: 25%;"><p><img src="/images/br1.png"/></p></td>
 <td style="width: 25%;">
@@ -32,7 +36,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
