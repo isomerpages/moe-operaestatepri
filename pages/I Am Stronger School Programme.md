@@ -17,7 +17,7 @@ description: ""
 <td style="height: 36px; width: 146px;">P1, P2, P3</td>
 <td style="height: 36px; width: 146px;">Green</td>
 <td style="height: 594px; width: 145px;" rowspan="24">
-<p>1. Lesson and resources prepared by a team of teachers from CCE and ICT Dept<br />2. SLS Lessons<br />3. Self-Directed Learning FT will assign the lessons to the pupils on a weekly basis in SLS.</p>
+<div>1. Lesson and resources prepared by a team of teachers from CCE and ICT Dept<br />2. SLS Lessons<br />3. Self-Directed Learning FT will assign the lessons to the pupils on a weekly basis in SLS.</div>
 </td>
 </tr>
 <tr style="height: 18px;">
