@@ -3,7 +3,6 @@ title: HBL Tools & Apps
 permalink: /hbl-tools-apps/
 description: ""
 ---
-
 <h4 style="text-align: center;"><strong>GUIDES ON HBL TOOLS &amp; APPS</strong></h4>
 <p><strong>General<br /></strong><strong><a href="/Accessing-Zoom-from-Home-Pupils.pptx">Accessing Zoom from Home (for pupils)</a></strong></p>
 <p><strong>English</strong></p>
@@ -46,27 +45,27 @@ description: ""
 <tbody>
 <tr>
 <td><a href="https://vle.learning.moe.edu.sg/login"><img src="images/sls1.jpg" /></a></td>
-<td><strong> <a href="https://vle.learning.moe.edu.sg/login">Student Learning Space</a></strong></td>
+<td><a href="https://vle.learning.moe.edu.sg/login"><p><strong>Student Learning Space</strong></p></a></strong></td>
 <td>&nbsp;</td>
 </tr>
 <tr>
 <td><a href="https://new.edmodo.com/?go2url=%2Fhome"><img src="images/ed.jpg"/></a></td>
-<td><strong> <a href="https://new.edmodo.com/?go2url=%2Fhome">Edmodo</a></strong></td>
+<td><a href="https://new.edmodo.com/?go2url=%2Fhome"><p><strong>Edmodo</strong></p></a></td>
 <td><strong><a href="https://play.google.com/store/apps/details?id=com.fusionprojects.edmodo&amp;hl=en_SG" target="_blank" rel="noopener"><img src="images/google.jpg" /> </a><a href="https://apps.apple.com/us/app/edmodo/id378352300" target="_blank" rel="noopener"><img src="images/apple.jpg" /></a></strong></td>
 </tr>
 <tr>
 <td><a href="https://quizlet.com/"><img src="images/quiz.png" /></a></td>
-<td><a href="https://quizlet.com/"><strong>Quizlet</strong></a></td>
+<td><a href="https://quizlet.com/"><p><strong>Quizlet</strong></p></a></td>
 <td><a href="https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid&amp;hl=en_SG" target="_blank" rel="noopener"><img src="images/google.jpg" /> </a><a href="https://apps.apple.com/us/app/quizlet/id546473125" target="_blank" rel="noopener"><img src="images/apple.jpg" /></a></td>
 </tr>
 <tr>
 <td><a href="https://padlet.com/auth/login"><img src="images/pad.png" /></a></td>
-<td><a href="https://padlet.com/auth/login"><strong>Padlet</strong></a></td>
+<td><a href="https://padlet.com/auth/login"><p><strong>Padlet</strong></p></a></td>
 <td><a href="https://play.google.com/store/apps/details?id=com.wallwisher.Padlet&amp;hl=en_SG" target="_blank" rel="noopener"><img src="images/google.jpg" /> </a><a href="https://apps.apple.com/us/app/padlet/id834618886" target="_blank" rel="noopener"><img src="images/apple.jpg" /></a></td>
 </tr>
 <tr>
 <td><a href="https://padlet.com/auth/login"><img src="images/ee.png" /></a></td>
-<td><a href="https://padlet.com/auth/login"><strong>Explain Everything</strong></a></td>
+<td><a href="https://padlet.com/auth/login"><p><strong>Explain Everything</strong></p></a></td>
 <td><a href="https://play.google.com/store/apps/details?id=com.explaineverything.explaineverything&amp;hl=en_SG" target="_blank" rel="noopener"><img src="images/google.jpg" /></a> <a href="https://apps.apple.com/us/app/explain-everything-whiteboard/id1020339980" target="_blank" rel="noopener"><img src="images/apple.jpg" alt="" width="142" height="49" /></a></td>
 </tr>
 </tbody>
