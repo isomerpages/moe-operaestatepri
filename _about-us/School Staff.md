@@ -375,56 +375,59 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td>
-<p style="text-align: center;"><strong>Class</strong></p>
+<td style="text-align: center;">
+<p><strong>Class</strong></p>
 </td>
 <td style="text-align: center;">
 <p><strong>Name</strong></p>
 </td>
 </tr>
-<tr style="text-align: center;">
-<td>
+<tr>
+<td style="text-align: center;" width="228">
 <p><strong>2 Caring</strong></p>
 </td>
-<td>
-<p>Ms Angeline Wee</p>
-<p>Miss Leong Sue Ning</p>
+<td style="text-align: center;" width="231">
+<p>Mdm. Siti Arfah Bte Yusof<br />Ms. Lee Xueqi Sherilyn</p>
 </td>
 </tr>
-<tr style="text-align: center;">
-<td>
+<tr>
+<td style="text-align: center;" width="228">
 <p><strong>2 Diligence</strong></p>
 </td>
-<td>
-<p>Ms Siti Haszilah (Ms Zi)</p>
-<p>Mr Ben Lee</p>
+<td style="text-align: center;" width="231">
+<p>Mdm. Siti Mariam Binti Md Akhtar Khan<br />Mr. Yeo Lim Khun Lincoln<br />Ms. Komathy D/O Selvaraj</p>
 </td>
 </tr>
-<tr style="text-align: center;">
-<td>
+<tr>
+<td style="text-align: center;" width="228">
 <p><strong>2 Grace</strong></p>
 </td>
-<td>
-<p>Mdm Rosnah</p>
-<p>Mdm Wang</p>
+<td style="text-align: center;" width="231">
+<p>Ms. Cheng Yoke Kin (Mrs. Koh-Cheng)<br />Mdm. Rosnah Bte Mohammad</p>
 </td>
 </tr>
-<tr style="text-align: center;">
-<td>
+<tr>
+<td style="text-align: center;" width="228">
 <p><strong>2 Honesty</strong></p>
 </td>
-<td>
-<p>Mdm Debby</p>
-<p>Mdm Angie Wa</p>
+<td style="text-align: center;" width="231">
+<p>Mdm. Noraini Binte Abdul Rahim<br />Mdm. Chng Kwee Gek</p>
 </td>
 </tr>
-<tr style="text-align: center;">
-<td>
+<tr>
+<td style="text-align: center;" width="228">
 <p><strong>2 Integrity</strong></p>
 </td>
-<td>
-<p>Mdm Angeline Png</p>
-<p>Mdm Suhaila</p>
+<td style="text-align: center;" width="231">
+<p>Ms. Gwendolyn Poh Su Wen (Ms. Poh)<br />Mdm. Zuo Qinjie</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="228">
+<p><strong>2 Joy</strong></p>
+</td>
+<td style="text-align: center;" width="231">
+<p>Ms. Yong Yue Teng Amanda (Mrs. Seow)<br />Mr. Osman B Suradi</p>
 </td>
 </tr>
 </tbody>
