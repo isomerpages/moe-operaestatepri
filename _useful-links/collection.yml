@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - For Parents/Curriculum Briefing.md
       - For Parents/Circulars.md
       - For Parents/Parents Gateway (PG).md
       - For Parents/I Am Stronger School Programme.md
