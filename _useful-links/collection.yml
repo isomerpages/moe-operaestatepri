@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - For Students/.keep
       - For Parents.md
       - For Students.md
       - MOE Sexuality Education.md
