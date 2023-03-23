@@ -30,7 +30,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
