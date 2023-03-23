@@ -2,4 +2,5 @@ collections:
   hbl-resources:
     output: true
     order:
+      - Stay Home, Stay Safe, Stay Curious!.md
       - HBL Tips for Parents.md
