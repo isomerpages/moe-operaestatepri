@@ -345,7 +345,7 @@ description: ""
 </ul>
 <p><strong>Making purchases at bookshop</strong></p>
 <ul>
-<li>Parents are allowed to go to the school bookshop to make purchases only after 2.00 p.m. except for Wednesday which is after 12.30 p.m.</li>
+<li>Parents are allowed to go to the school bookshop to make purchases only after 2.00 p.m. except for Wednesday which is after 1.00 p.m.</li>
 </ul>
 <p><strong>Leaving school early</strong></p>
 <ul>
@@ -355,17 +355,19 @@ description: ""
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">Vendors Information</label>
 <div>
-<p><strong>School Student Care</strong></p>
-<p>Managed by&nbsp;<strong>Knowledge Park Pte Ltd<br /></strong>Ms Cassandra Poon (Centre Supervisor)<br />Tel: 9667 0687<br />Email: <a href="mailto:operaestatescc@knowledgepark.com.sg">operaestatescc@knowledgepark.com.sg</a></p>
+<p><strong><u>School Student Care</u></strong></p>
+<p>Managed by&nbsp;<strong>Knowledge Park Pte Ltd<br /></strong>Ms Tania Ong&nbsp;(Centre Supervisor)<br />Tel: 9667 0687<br />Email: <a href="mailto:operaestatescc@knowledgepark.com.sg">operaestatescc@knowledgepark.com.sg</a></p>
 <p><em>Opening Hours<br /></em>Monday to Friday<br />(Closed on Saturdays, Sundays and Public Holidays)<br />School Term: 1.00 p.m. to 6.30 p.m.<br />School Holiday: 7.30 a.m. to 6.30 p.m.</p>
-<p><strong>School Bookshop</strong></p>
-<p>The Continental Book Centre<br />Tel: 62478482</p>
-<p><em>Operating Hours<br /></em>Monday to Friday: 8.00 a.m. to 3.00 p.m.<br />Parents/Guardians are allowed to purchase books/stationery after 2.00 p.m. except on Wednesday after 12.30pm.</p>
-<p><strong>School Uniform Supplier</strong></p>
-<p>Johnson Uniform Supplier<br />729 Geylang Road<br />Singapore 389640<br />Tel: 63458698<br />Fax: 63487173</p>
-<p><em>Operating Hours<br /></em>Monday to Friday: 10.00 a.m. to 6.00 p.m.<br />Saturday: 10.00 a.m. to 3.00 p.m.<br />(Closed on Sundays and Public Holidays)</p>
-<p><strong>School Bus Operator</strong></p>
-<p>Mr Ang Chee Heng<br />Tel: 97970652<br />Email: ach2166@gmail.com</p>
+<p><strong><u>School Bookshop</u></strong></p>
+<p>The Continental Book Centre<br /><em>Operating Hours<br /></em>Monday to Friday: 8.00 a.m. to 3.00 p.m.<br />Tel: 62478482</p>
+<p>Parents/Guardians are allowed to purchase books/stationery after 2.00 p.m. except on Wednesday after 1.00pm.</p>
+<p><strong><u>School Uniform Supplier</u></strong></p>
+<p><em>1 Kaki Bukit Road 1<br /></em><em>#01-30/31 Enterprise One<br /></em><em>Singapore 415934</em></p>
+<p><em>Telephone: +65 6741 0930<br /></em><em>Fax: +65 6744 7689<br /></em><em>Website:&nbsp;</em><em><a href="http://www.intrenduniforms.com">www.intrenduniforms.com</a><br /></em><em>Email:&nbsp;</em><a href="mailto:sales@itu.com.sg"><em>sales@itu.com.sg</em></a></p>
+<p><em>Operating Hours<br /></em><em>Monday to Friday: 10.00 a.m. to 6.00 p.m.<br /></em><em>Saturday: 10.00 a.m. to 3.00 p.m.<br /></em><em>(Closed on Sundays and Public Holidays)</em></p>
+<p><strong><u>School Bus Operator</u></strong></p>
+<p><em>Name of Bus Operator: Yeap Transport Pte Ltd<br /></em><em>Liaison officer: Mr Ken Tan<br /></em><em>Tel No/ Hand phone No: 9759-2488<br /></em><em>Email address:&nbsp;</em><em><a href="mailto:oepsbus@yeaptpt.com">oepsbus@yeaptpt.com</a></em></p>
+<p><em>Parents who are interested in taking up the school bus services in 2023 please register via this link: </em><a href="https://bit.ly/oepsbus" target="_blank" rel="noopener">https://bit.ly/oepsbus</a></p>
 </div>
 </li>
 </ul>
