@@ -46,7 +46,7 @@ description: ""
 <td style="text-align: center; width: 675px;" colspan="4"><strong>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</strong></td>
 </tr>
 <tr>
-<td style="text-align: center; width: 675px;" colspan="4"><strong>Primary 5</strong></td>
+<td style="text-align: center; width: 675px;" colspan="4"><h4><strong>Primary 5</strong></h4></td>
 </tr>
 <tr>
 <td style="width: 95px;"><strong>CCE(FTGP) THEME</strong></td>
@@ -86,7 +86,7 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td style="text-align: center; width: 675px;" colspan="4"><strong>Primary 6</strong></td>
+<td style="text-align: center; width: 675px;" colspan="4"><h4><strong>Primary 6</strong></h4></td>
 </tr>
 <tr>
 <td style="width: 94px; text-align: center;"><strong>CCE(FTGP) THEME</strong></td>
