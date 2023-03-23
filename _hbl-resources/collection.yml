@@ -1,4 +1,5 @@
 collections:
   hbl-resources:
     output: true
-    order: []
+    order:
+      - HBL Tips for Parents.md
