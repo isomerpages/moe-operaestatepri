@@ -182,7 +182,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Mdm Siti Haszilah (Mdm Zi)</p>
+<p>Mdm. Siti Haszilah Bte Mohd Hanafiah (Mdm. Zi)</p>
 </td>
 <td>
 <p>LH &ndash; English Language</p>
@@ -190,7 +190,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Ms Shaikha</p>
+<p>Ms. Shaikha Maimunah binte Shaikh Fuad Mattar</p>
 </td>
 <td>
 <p>LH - Mathematics</p>
@@ -198,23 +198,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Ms Chua Jin Xun</p>
-</td>
-<td>
-<p>LH - CCE</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Mr Ben Lee</p>
-</td>
-<td>
-<p>LH - Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Mdm Siti Suhaila</p>
+<p>Mdm. Siti Suhaila Binte Md Raihan</p>
 </td>
 <td>
 <p>SH &ndash; Malay Language</p>
@@ -222,7 +206,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Miss Dawn Sim</p>
+<p>Ms. Dawn Sim Ee Szu</p>
 </td>
 <td>
 <p>SH - Aesthetics</p>
@@ -230,7 +214,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Mr Omar Azahari</p>
+<p>Mr. Omar Azahari Bin Mohammed Ali</p>
 </td>
 <td>
 <p>SH &ndash; Discipline</p>
