@@ -9,8 +9,31 @@ description: ""
 <p>EXPERIENCES</p>
 <p><strong><u>Language Week</u><br /></strong>This programme is held in collaboration with the English Department. It aims to enhance the joy of reading and language learning in pupils through a variety of activities that are organised during the week. This year, choice board reading activities were designed for lower/middle/upper primary levels. Pupils submitted their completed entries via ClassDojo. There was also a book mark design competition. Pupils had fun reading their favourite books and the activities were well-received by pupils.</p>
 <p><strong>Reading of MT Books</strong></p>
-
-
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><img src="/images/tm1.png"></td>
+<td style="width: 25%;"><img src="/images/tm2.png"></td>
+<td style="width: 25%;"><img src="/images/tm3.png"></td>
+<td style="width: 25%;"><img src="/images/tm4.png"></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Bookmark Making Competition</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img src="/images/tm5.png"></td>
+<td style="width: 33.3333%;"><img src="/images/tm6.png"></td>
+<td style="width: 33.3333%;"><img src="/images/tm7.png"></td>
+</tr>
+</tbody>
+</table>
+<img src="/images/tm8.png">
+<p><strong><u>Mother Tongue Language (MTL) Fortnight</u></strong></p>
+<p>In view of safe management measures, MTL Fortnight was carried out online last year. Pupils had the opportunity to be engaged in the making of different traditional crafts. This was conducted via Zoom by the vendor. Through these activities, pupils gained a better understanding of the respective Mother Tongue Language cultures. Pupils also showcased their language talents in poetry recitation, storytelling, singing etc and uploaded their performance clips via Padlet on the school website.</p>
+<img src="/images/tm9.png"><br>
+<img src="/images/tm10.png">
 
 <h4>SUPPORT PROGRAMMES</h4>
 <p><strong><u>P3-P6 Remediation Programme</u></strong><br />This programme provides targeted support for identified pupils to address learning gaps and support pupils in their learning through a structured remediation plan.</p>
