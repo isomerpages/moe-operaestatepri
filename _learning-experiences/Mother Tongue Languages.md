@@ -34,7 +34,12 @@ description: ""
 <p>In view of safe management measures, MTL Fortnight was carried out online last year. Pupils had the opportunity to be engaged in the making of different traditional crafts. This was conducted via Zoom by the vendor. Through these activities, pupils gained a better understanding of the respective Mother Tongue Language cultures. Pupils also showcased their language talents in poetry recitation, storytelling, singing etc and uploaded their performance clips via Padlet on the school website.</p>
 <img src="/images/tm9.png"><br>
 <img src="/images/tm10.png">
-
+<p><strong><u>P2 Language & Cultural Camp</u></strong><br>This programme aims to develop pupils’ oracy skills and arouse their interest in the learning of the language through speech and drama. </p>
+<img src="/images/tm11.png">
+<p><strong><u>Cultural Performance Exposure Scheme (CL)/Theatre Experience(ML)</u></strong><br>Pupils are provided with the opportunity to be exposed to language-related cultural performances by local and foreign performing arts groups. In view of the situation this year, pupils were not able to watch the performances live at the theatre. The experience was brought into the classrooms as pupils watched the performances live via Zoom. Nevertheless, pupils enjoyed the performances.</p>
+<img src="/images/tm12.jpg">
+<p><strong><u>Authentic Learning Experiences (Lower Primary)</u></strong><br>Authentic learning experiences are created within the curriculum to bring classroom teaching alive. For example, CL pupils take on the role of stallholders and customers when purchasing items. Pupils enjoyed the experience while learning the sentence structures for the lesson. Pupils also had the opportunity to have a picnic in class. They learnt vocabulary related to the theme as they ate the food they brought to class. ML pupils learnt the skill of journal writing through the unit “We are Active Learners”. Pupils learnt about animal folklore through storytelling and experienced paper weaving before writing about their experiences. Drama-based teaching methods are employed in the TL classroom. By taking on different roles in an imaginary setting, pupils are empowered to engage in creative conversations with their peers. The enthusiasm shown by pupils during these lessons brings out the joy of learning.</p>
+<img src="/images/tm13.png">
 <h4>SUPPORT PROGRAMMES</h4>
 <p><strong><u>P3-P6 Remediation Programme</u></strong><br />This programme provides targeted support for identified pupils to address learning gaps and support pupils in their learning through a structured remediation plan.</p>
 <h4>EXTENSION PROGRAMMES</h4>
