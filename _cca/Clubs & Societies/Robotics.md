@@ -5,7 +5,14 @@ description: ""
 third_nav_title: Clubs & Societies
 ---
 <h4><strong><a title="Our CCA Video (Click here)" href="https://drive.google.com/file/d/1xYyFCsjSmZZq43_IeHWUhsT_H9cByJLW/view?usp=sharing" target="_blank" rel="noopener">OUR CCA VIDEO (CLICK HERE)</a></strong></h4>
-<a href="https://drive.google.com/file/d/1xYyFCsjSmZZq43_IeHWUhsT_H9cByJLW/view?usp=sharing"><img style="width: 43%;" src="/images/robo1.jpg" align = "left" /></a><br><br><br><br><br>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 40%;"><a href="https://drive.google.com/file/d/1xYyFCsjSmZZq43_IeHWUhsT_H9cByJLW/view?usp=sharing"><img src="/images/robo1.jpg"></a></td>
+<td style="width: 60%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>ABOUT US</strong></h4>
 <p>The Robotics Club members attend weekly sessions that are designed to develop their programming skills progressively. During the CCA sessions, pupils work in teams to develop their robots and programming skills through accomplishing the challenges and missions assigned to them. Beyond honing their skills in Robotics, pupils also learn other invaluable skills such as teamwork, problem-solving and resilience as they work on their challenges.</p>
 <h4><strong>OUR OBJECTIVES</strong></h4>
@@ -63,7 +70,7 @@ third_nav_title: Clubs & Societies
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><span style="text-decoration: underline;"><strong>Mdm Zuo Qinjie<br /></strong></span><span style="text-decoration: underline;"><strong>Mr Stanley Ang<br /></strong></span><span style="text-decoration: underline;"><strong>Miss Shaikha<br /></strong></span><span style="text-decoration: underline;"><strong>Mrs Balan<br /></strong></span><span style="text-decoration: underline;"><strong>Mdm Ma</strong></span></p>
+<p><u><strong>Mdm Zuo Qinjie<br />Mr Stanley Ang<br />Miss Shaikha<br />Mrs Balan<br />Mdm Ma</strong></u></p>
 <p><strong><span style="text-decoration: underline;">ICT Support:</span><br /></strong>Mr Zaidan<br />Mr Salim<br />Mr Omar<br />Mr Yijie</p>
 </div>
 </li>
