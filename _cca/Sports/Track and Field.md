@@ -88,11 +88,6 @@ third_nav_title: Sports
 <td style="text-align: center;"><strong>Time:<br /></strong>2pm-4pm</td>
 <td style="text-align: center;"><strong>Location:<br /></strong>Basketball Court</td>
 </tr>
-</tbody>
-</table>
-<br>
-<table>
-<tbody>
 <tr>
 <td style="text-align: center;"><strong>THURSDAY</strong></td>
 <td style="text-align: center;">School Team</td>
