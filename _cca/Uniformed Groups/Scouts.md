@@ -5,7 +5,14 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 <h4><strong><a title="Our CCA Video (Click here)" href="https://drive.google.com/file/d/1oWOv5IegfsX7kk-tcoAthnqP0AYtU7MT/view" target="_blank" rel="noopener">OUR CCA VIDEO (CLICK HERE)</a></strong></h4>
-<a href="https://drive.google.com/file/d/1oWOv5IegfsX7kk-tcoAthnqP0AYtU7MT/viewg"><img style="width: 43%;" src="/images/scouts1.jpg" align = "left" /></a><br><br><br><br><br><br><br>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 40%;"><a href="https://drive.google.com/file/d/1oWOv5IegfsX7kk-tcoAthnqP0AYtU7MT/viewg"><img src="/images/scouts1.jpg"></a></td>
+<td style="width: 60%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>ABOUT US</strong></h4>
 <p>There are about 30 Cub Scouts. They are from P3 to P6. Cub Scouts engage themselves in various planned activities to achieve the Proficiency badges and the Progress badges. With self-discipline many of our Cub Scouts reach certain level of achievement.</p>
 <h4><strong>OUR OBJECTIVES</strong></h4>
