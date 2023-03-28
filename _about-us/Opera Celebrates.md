@@ -115,9 +115,7 @@ description: ""
 <td style="text-align: center;"><strong>Name of Student</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;" rowspan="11" width="253">
-<p>5th Text Recital Competition for Primary and Secondary Schools</p>
-</td>
+<td style="text-align: center;" rowspan="11" width="253">5th Text Recital Competition for Primary and Secondary Schools</td>
 <td style="text-align: center;" rowspan="2" width="233">
 <p>Lower Primary<br />(Individual Category)</p>
 </td>
@@ -127,9 +125,7 @@ description: ""
 <td style="text-align: center;">Ong Zong Han Owen (Bronze)</td>
 </tr>
 <tr>
-<td style="text-align: center;" rowspan="5">
-<p>Lower Primary<br />(Group Category)</p>
-</td>
+<td style="text-align: center;" rowspan="5">Lower Primary<br />(Group Category)</td>
 <td style="text-align: center;">Barr Kathryn Anne (Silver)</td>
 </tr>
 <tr>
@@ -198,9 +194,7 @@ description: ""
 <td style="text-align: center;">Ayden Chong Han Wen</td>
 </tr>
 <tr>
-<td style="text-align: center;" rowspan="13">
-<p>The 26th National Primary Schools On-the-Spot Chinese Creative Essay Writing Competition</p>
-</td>
+<td style="text-align: center;" rowspan="13">The 26th National Primary Schools On-the-Spot Chinese Creative Essay Writing Competition</td>
 <td style="text-align: center;">Merit Award</td>
 <td style="text-align: center;">Sophie Clare Hope Morris</td>
 </tr>
@@ -243,7 +237,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-
 <p><strong>ENGLISH LANGUAGE</strong></p>
 <table>
 <tbody>
@@ -253,9 +246,7 @@ description: ""
 <td style="text-align: center;"><strong>Name of Student</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;" rowspan="22">
-<p>35th YMCA Plain English</p>
-<p>Speaking Awards 2022</p>
+<td style="text-align: center;" rowspan="22">35th YMCA Plain English</ br>Speaking Awards 2022
 </td>
 <td style="text-align: center;" rowspan="22">Certificate of Recognition</td>
 <td style="text-align: center;">Nur Husna Binte Nordin Poh</td>
@@ -338,12 +329,8 @@ description: ""
 <td style="text-align: center;">Isha Chaudhury</td>
 </tr>
 <tr>
-<td style="text-align: center;" rowspan="5" width="253">
-<p>What's Up</p>
-</td>
-<td style="text-align: center;" rowspan="3" width="233">
-<p>Letters Featured</p>
-</td>
+<td style="text-align: center;" rowspan="5" width="253">What's Up</td>
+<td style="text-align: center;" rowspan="3" width="233">Letters Featured</td>
 <td style="text-align: center;" width="266">Nelly Andrea Binte Fahmy</td>
 </tr>
 <tr>
@@ -363,9 +350,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="4">What's Up</td>
-<td style="text-align: center;" rowspan="3">
-<p>Letters Featured</p>
-</td>
+<td style="text-align: center;" rowspan="3">Letters Featured</td>
 <td style="text-align: center;">Saanvi Sharma</td>
 </tr>
 <tr>
@@ -583,7 +568,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="21" width="253">
-<p>Raffles Institution Primary<br />Mathematics World Contest</p>
+<div>Raffles Institution Primary<br />Mathematics World Contest</div>
 </td>
 <td style="text-align: center;" rowspan="2" width="233">High Distinction<br />(Junior Category)</td>
 <td style="text-align: center;" width="266">Prisha Burman Ray</td>
@@ -597,7 +582,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="9" width="233">
-<p>Distinction<br />(Junior Category)</p>
+<div>Distinction<br />(Junior Category)</div>
 </td>
 <td style="text-align: center;">Muhammed Zaahir Bin Ismad Inun</td>
 </tr>
@@ -627,7 +612,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="5" width="233">
-<p>Merit<br />(Junior Category)</p>
+<div>Merit<br />(Junior Category)</div>
 </td>
 <td style="text-align: center;">Myra Chaubey</td>
 </tr>
@@ -645,7 +630,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="3" width="233">
-<p>Distinction<br />(Open Category)</p>
+<div>Distinction<br />(Open Category)</div>
 </td>
 <td style="text-align: center;">Bajaj Shreyash</td>
 </tr>
@@ -748,10 +733,10 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="4" width="253">
-<p>Cargo Connect<br />"First Lego League"</p>
+<div>Cargo Connect<br />"First Lego League"</div>
 </td>
 <td style="text-align: center;" rowspan="4" width="233">
-<p>Core Values Award<br />(3rd Place)</p>
+<div>Core Values Award<br />(3rd Place)</div>
 </td>
 <td style="text-align: center;" width="266">Ames Violet Zehra</td>
 </tr>
