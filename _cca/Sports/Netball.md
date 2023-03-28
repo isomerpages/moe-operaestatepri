@@ -8,7 +8,7 @@ third_nav_title: Sports
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 40%;"><a href="https://drive.google.com/file/d/1u4lsBXIvKAESi4AgxcfNR0-nTNYkgNZ-/view"><img src="/images/cc1.jpg"></a></td>
+<td style="width: 40%;"><a href="https://drive.google.com/file/d/1u4lsBXIvKAESi4AgxcfNR0-nTNYkgNZ-/view"><img src="/images/nb1.jpg"></a></td>
 <td style="width: 60%;">&nbsp;</td>
 </tr>
 </tbody>
