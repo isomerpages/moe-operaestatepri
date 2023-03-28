@@ -306,7 +306,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Primary 1 Form Teachers</label>
+<li><input id="accordion2" type="checkbox"  /> <label for="accordion2">Primary 1 Form Teachers</label>
 <div>
 <table>
 <tbody>
@@ -323,7 +323,7 @@ description: ""
 <p><strong>1 Caring</strong></p>
 </td>
 <td style="text-align: center;" width="231">
-<p>Mr. Nor Hadi Bin Isnin<br />Ms. Chan Sook Fen Elvenia (Mrs. Poh)</p>
+<p>Mr. Nor Hadi Bin Isnin<br />Ms. Chan Sook Fen Elvenia (Mrs. Poh)<br/>Mrs. Kee Swee Mien Michelle (Mrs Teo)</p>
 </td>
 </tr>
 <tr>
