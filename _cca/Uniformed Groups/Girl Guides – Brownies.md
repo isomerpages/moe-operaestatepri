@@ -5,7 +5,14 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 <h4><strong><a title="Our CCA Video (Click here)" href="https://drive.google.com/file/d/1zxlOuJxkIsubhGn4vyUDnNuOv-POKWtY/view" target="_blank" rel="noopener">OUR CCA VIDEO (CLICK HERE)</a></strong></h4>
-<a href="https://drive.google.com/file/d/1zxlOuJxkIsubhGn4vyUDnNuOv-POKWtY/view"><img style="width: 43%;" src="/images/gg1.jpg" align = "left" /></a><br><br><br><br><br><br><br><br>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 40%;"><a href="https://drive.google.com/file/d/1zxlOuJxkIsubhGn4vyUDnNuOv-POKWtY/view"><img src="/images/gg1.jpg"></a></td>
+<td style="width: 60%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>ABOUT US</strong></h4>
 <p>The OEPS Girl Guides (Brownies) aims to educate our girls in accordance with the Brownie Law. This includes respecting her elders, thinking of others before herself, telling the truth, being neat and tidy, being thrifty and to work and play cheerfully. By exposing our girls to a myriad of activities we aim to provide a fun and enriching means for girls to be educated in the Brownie Law while also imbuing the school values in them.</p>
 <h4><strong>OUR OBJECTIVES</strong></h4>
