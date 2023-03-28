@@ -5,7 +5,14 @@ description: ""
 third_nav_title: Clubs & Societies
 ---
 <h4><strong><a title="Our CCA Video (Click here)" href="https://drive.google.com/file/d/12LxiBhJmR4rHFZrtzrtB4M6v7mhSmSJP/view?usp=sharing" target="_blank" rel="noopener">OUR CCA VIDEO (CLICK HERE)</a></strong></h4>
-<a href="https://drive.google.com/file/d/12LxiBhJmR4rHFZrtzrtB4M6v7mhSmSJP/view?usp=sharing"><img style="width: 43%;" src="/images/it1.jpg" align = "left" /></a><br><br><br><br><br>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 40%;"><a href="https://drive.google.com/file/d/12LxiBhJmR4rHFZrtzrtB4M6v7mhSmSJP/view?usp=sharing"><img src="/images/it1.jpg"></a></td>
+<td style="width: 60%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>ABOUT US</strong></h4>
 <p>Games Development, Digital Art and Basic Animation Production Skills Workshop. This workshop provides a fun environment for the students to learn basic knowledge of digital art and animation process and game development through theory and hands on exercise with various tools like stop motion, inkscape and powerpoint. Students will do detailed planning with the use of Storyboarding and learn different techniques using different tools to help edit their work.</p>
 <h4><strong>OUR OBJECTIVES</strong></h4>
@@ -43,7 +50,7 @@ third_nav_title: Clubs & Societies
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><span style="text-decoration: underline;"><strong>Ms Sherilyn Lee<br /></strong><strong>Mrs Chng Kwee Gek</strong></span></p>
+<p><u><strong>Ms Sherilyn Lee<br />Mrs Chng Kwee Gek</strong></u></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">CCA Schedule</label>
