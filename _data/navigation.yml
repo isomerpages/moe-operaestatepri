@@ -57,8 +57,8 @@ links:
         url: /art-club/
       - title: Performing Arts
         url: /angklung-ensemble/
-  - title: Learning for Life
-    url: /ignite-darts/
+  - title: ALP and LLP
+    collection: alp-and-llp
   - title: Our Partners
     url: /school-advisory-committee/
     sublinks:
