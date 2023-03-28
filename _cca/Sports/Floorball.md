@@ -5,7 +5,14 @@ description: ""
 third_nav_title: Sports
 ---
 <h4><strong><a title="Our CCA Video (Click here)" href="https://drive.google.com/file/d/1-Nne62hGCc7DxhgcvKGOIROL6Ce3y7GK/view" target="_blank" rel="noopener">OUR CCA VIDEO (CLICK HERE)</a></strong></h4>
-<a href="https://drive.google.com/file/d/1-Nne62hGCc7DxhgcvKGOIROL6Ce3y7GK/view"><img style="width: 43%;" src="/images/fb1.jpg" align = "left" /></a><br><br><br><br><br>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 40%;"><a href="https://drive.google.com/file/d/1-Nne62hGCc7DxhgcvKGOIROL6Ce3y7GK/view"><img src="/images/fb1.jpg"></a></td>
+<td style="width: 60%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>ABOUT US</strong></h4>
 <p>The OEPS Floorball Team was established in 2008. Over the years, we have always strived to sharpen our skills and strategies. Our highly motivated and close-knit team has made us proud as we continuously emerge as one of the top 3 schools in our annual National School Games Floorball tournaments. In OEPS Floorball, we focus on inculcating values that constitute good sportsmanship. We believe that molding a team player of character is the key in sporting excellence.</p>
 <h4><strong>OUR OBJECTIVES</strong></h4>
@@ -72,12 +79,31 @@ third_nav_title: Sports
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><span style="text-decoration: underline;"><strong>Mr Osman<br /></strong></span><span style="text-decoration: underline;"><strong>Mr Hadi<br /></strong></span><span style="text-decoration: underline;"><strong>Ms Ashilah<br /></strong></span><span style="text-decoration: underline;"><strong>Mdm Lienda<br /></strong></span><span style="text-decoration: underline;"><strong>Mr Gomes</strong></span></p>
+<p>Mr. Osman B Suradi&nbsp;<strong>(OIC)<br /></strong>Mdm Lienda Bte Jamal<br />Mr. Leonard Paul Gomes</p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">CCA Schedule</label>
 <div>
-<p><strong>School Team:</strong>&nbsp;Monday and Thursday<br /><strong>Development Team:</strong>&nbsp;Thursday<br /><strong>Time:</strong>&nbsp;2.00pm - 4.00pm<br /><strong>Venue:&nbsp;</strong>Hall</p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>MONDAY</strong></td>
+<td style="text-align: center;">School Team &amp; Development Team</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Time:<br /></strong>2pm-4pm</td>
+<td style="text-align: center;"><strong>Location:<br /></strong>School Hall</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>THURSDAY</strong></td>
+<td style="text-align: center;">School Team</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Time:<br /></strong>3pm-5pm</td>
+<td style="text-align: center;"><strong>Location:<br /></strong>School Hall</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 </ul>
