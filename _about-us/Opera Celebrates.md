@@ -831,9 +831,7 @@ description: ""
 <td style="text-align: center;">Kyle Evan Somu (Vice-Captain)</td>
 </tr>
 <tr>
-<td style="text-align: center;" rowspan="19" width="253">
-<p>East Zone Football Championship</p>
-</td>
+<td style="text-align: center;" rowspan="19" width="253">East Zone Football Championship</td>
 <td style="text-align: center;" width="233">Top Scorer Award</td>
 <td style="text-align: center;" width="266">Rossiter Lennon Ken</td>
 </tr>
