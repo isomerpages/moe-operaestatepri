@@ -7,8 +7,7 @@ description: ""
 <p>The General Music Programme is developed on the premise that all children are musical and have the innate ability to listen, sing, dance, play and express themselves musically. They learn music best through active participation in performing, listening and moving, and creating music. Learning experiences should therefore be musical experiences, harnessing their abilities, and tailored to their developmental stage.</p>
 <img style="width: 65%;" src="/images/art1.gif" />
 <h4>Art</h4>
-<p>Students learn to&nbsp;<strong>see, express and appreciate</strong>&nbsp;through the four key components of the</p>
-<p>Learning Content -&nbsp;<strong>context, artistic processes, media and visual qualities</strong>. In the process, students acquire knowledge, skills and values that equip them to be&nbsp;<strong>active artists</strong>&nbsp;and&nbsp;<strong>informed audiences</strong>.</p>
+<p>Students learn to&nbsp;<strong>see, express and appreciate</strong>&nbsp;through the four key components of the Learning Content -&nbsp;<strong>context, artistic processes, media and visual qualities</strong>. In the process, students acquire knowledge, skills and values that equip them to be&nbsp;<strong>active artists</strong>&nbsp;and&nbsp;<strong>informed audiences</strong>.</p>
 <img style="width: 65%;" src="/images/art2.gif" />
 <h4>DEPARTMENT PROGRAMME</h4>
 <p>Pupils learn through the Head, Heart &amp; Hands approach:</p>
