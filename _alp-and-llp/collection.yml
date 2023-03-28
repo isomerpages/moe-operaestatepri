@@ -2,6 +2,6 @@ collections:
   alp-and-llp:
     output: true
     order:
-      - Environmental Sustainability.md
       - Ignite D'Arts.md
+      - Environmental Sustainability.md
       - Learn to Lead, Lead to Serve.md
