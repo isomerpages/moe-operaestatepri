@@ -813,12 +813,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">
-<p>Mr. Yong Yi Jie</p>
-</td>
-<td style="text-align: center;">
-<p>Desktop Engineer</p>
-</td>
+
+
 </tr>
 <tr>
 <td style="text-align: center;">
