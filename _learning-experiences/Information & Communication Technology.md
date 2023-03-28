@@ -24,7 +24,14 @@ description: ""
 <h4>CYBERWELLNESS PROGRAMME</h4>
 <img src="/images/ict3.png">
 <p>Cyber Wellness (CW) in Character and Citizenship Education (CCE) focuses on the well-being of our students as they navigate cyberspace. Our curriculum aims to equip students with the knowledge and skills to harness the power of ICT for positive purposes, maintain a positive presence in cyberspace and be safe and responsible users of ICT.<br />Through CW lessons, the children will be taught to:</p>
-<img style="width: 33%;" src="/images/ict4.jpg" align = "left" />
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33%;"><img src="/images/ict4.jpg"></td>
+<td style="width: 66%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 <table width="0">
 <tbody>
 <tr>
