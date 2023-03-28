@@ -12,7 +12,12 @@ description: ""
 
 
 
-
+<h4>SUPPORT PROGRAMMES</h4>
+<p><strong><u>P3-P6 Remediation Programme</u></strong><br />This programme provides targeted support for identified pupils to address learning gaps and support pupils in their learning through a structured remediation plan.</p>
+<h4>EXTENSION PROGRAMMES</h4>
+<p><strong><u>Competitions<br /></u></strong>The department provides opportunities and exposure to selected pupils to stretch their potential in relevant language skills, e.g. writing and oracy. Some competitions that our pupils have participated in include the National Primary Schools On-the-Spot Chinese Creative Essay Writing Competition, Text Recital Competition, Picture Book Creation Competition and Storytelling/Oratory Contests.</p>
+<img src="/images/tm14.png">
+<img src="/images/tm15.png">
 <h4><strong>USEFUL WEBSITES</strong></h4>
 <p><u><strong>FOR CL LEARNING</strong></u></p>
 <p><strong>xuele<br /></strong>Aligned to the 2015 Primary School Chinese Language curriculum. Focuses on developing students&rsquo; skills in listening, speaking, reading and writing in a fun way. Students can log on to Student Learning Space (SLS) with their account to access the resources.</p>
