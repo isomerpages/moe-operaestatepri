@@ -23,8 +23,6 @@ third_nav_title: Uniformed Groups
 <li>To allow Brownies to find happiness and try to live up to it.</li>
 <li>To allow Brownies to have many friends.</li>
 </ol>
-<div data-node="5db2b089628b0">
-<div>
 <h4><strong>EXPERIENCES/PERFORMANCES</strong></h4>
 <ul>
 <li aria-level="1">National Day Observance Ceremony (Annually)</li>
