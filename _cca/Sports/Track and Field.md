@@ -71,7 +71,7 @@ third_nav_title: Sports
 <h4><strong>GALLERY</strong></h4>
 <img src="/images/tf4.png">
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /><label for="accordion1"><strong>TEACHERS IN CHARGE</strong></label>
+<li><input id="accordion1" type="checkbox" /><label for="accordion1">TEACHERS IN CHARGE</label>
 <div>
 <p>Mr. Nor Hadi Bin Isnin&nbsp;<strong>(OIC)<br /></strong>Ms. Chen Lijia<br />Ms. Lim Pei Yi, Rachel</p>
 </div>
