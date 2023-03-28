@@ -1,5 +1,5 @@
 collections:
-  learning-for-life:
+  alp-and-llp:
     output: true
     order:
       - Ignite D'Arts.md
