@@ -5,14 +5,26 @@ description: ""
 third_nav_title: Sports
 ---
 <h4><strong><a title="Our CCA Video (Click here)" href="https://drive.google.com/file/d/1u4lsBXIvKAESi4AgxcfNR0-nTNYkgNZ-/view" target="_blank" rel="noopener">OUR CCA VIDEO (CLICK HERE)</a></strong></h4>
-<a href="https://drive.google.com/file/d/1u4lsBXIvKAESi4AgxcfNR0-nTNYkgNZ-/view"><img style="width: 43%;" src="/images/nb1.jpg" align = "left" /></a><br><br><br><br><br><br><br>
-<h4><strong>ABOUT US</strong></h4>
-<img style="width: 25%;" src="/images/nb2.png" align = "right" />
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 40%;"><a href="https://drive.google.com/file/d/1u4lsBXIvKAESi4AgxcfNR0-nTNYkgNZ-/view"><img src="/images/cc1.jpg"></a></td>
+<td style="width: 60%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 55%;"><h4><strong>ABOUT US</strong></h4>
 <p>Netball CCA is an all-girls CCA which aims to help students develop skills, and cultivates the spirit of sportsmanship and teamwork.&nbsp;Netball is a team game which promotes perseverance and diligence.</p>
 <h4><strong>OUR OBJECTIVES</strong></h4>
-<img style="width: 25%;" src="/images/nb3.jpg" align = "right" />
-<p>To teach students the basic rules and develop their skills in the sport. To ignite a passion for the sport and help build the girls&rsquo; physical fitness, stamina and endurance.</p>
-<p>To help them become confident and determined people who know how to work together as a team.</p>
+<p>To teach students the basic rules and develop their skills in the sport. To ignite a passion for the sport and help build the girls&rsquo; physical fitness, stamina and endurance.<br />To help them become confident and determined people who know how to work together as a team.</p></td>
+<td style="width: 45%;"><img src="/images/nb2.png"><br><img src="/images/nb3.jpg"></td>
+</tr>
+</tbody>
+</table>
+
 <h4><strong>CHARACTER DEVELOPMENT</strong></h4>
 <ul>
 <li>Instil discipline as an individual and a team player to work for one another as a team.</li>
@@ -43,7 +55,7 @@ third_nav_title: Sports
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox" /> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><span style="text-decoration: underline;"><strong>Mdm Tan Hui Qing<br /></strong></span><span style="text-decoration: underline;"><strong>Mr Lincoln Yeo<br /></strong></span><span style="text-decoration: underline;"><strong>Mdm Sidah</strong></span></p>
+<p><u><strong>Mdm Tan Hui Qing<br />Mr Lincoln Yeo<br />Mdm Sidah</strong></u></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">CCA Schedule</label>
