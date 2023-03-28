@@ -5,7 +5,14 @@ description: ""
 third_nav_title: Sports
 ---
 <h4><strong><a title="Our CCA Video (Click here)" href="https://drive.google.com/file/d/1-Nne62hGCc7DxhgcvKGOIROL6Ce3y7GK/view" target="_blank" rel="noopener">OUR CCA VIDEO (CLICK HERE)</a></strong></h4>
-<a href="https://drive.google.com/file/d/1-Nne62hGCc7DxhgcvKGOIROL6Ce3y7GK/view"><img style="width: 43%;" src="/images/tf1.jpg" align = "left" /></a><br><br><br><br><br>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 40%;"><a href="https://drive.google.com/file/d/1-Nne62hGCc7DxhgcvKGOIROL6Ce3y7GK/view"><img src="/images/tf1.jpg"></a></td>
+<td style="width: 60%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>ABOUT US</strong></h4>
 <p>The objective of our CCA is to provide the pupils with an opportunity to learn basic track &amp; field skills as well as enable pupils to develop their motor skills in a fun and safety manner. Under the guidance of the coach, the pupils learn to run, hop, throw and jump in activities suitable to their age and well-being.</p>
 <p>Pupils will have the opportunity to compete participate in the national competition, which has been revamped recently to suit the pupils&rsquo; needs.</p>
@@ -15,11 +22,23 @@ third_nav_title: Sports
 <ul>
 <li>2019 60th National Primary School Track &amp; Field Championships</li>
 </ul>
-<img style="width: 50%;" src="/images/tf2.jpeg" align = "left" />
-<p>The team participated in the 60th Primary School National Track &amp; Field competition. This year marks the beginning of the new format for the Junior Division whereby the emphasis is more on pupils performing multiple skills that caters to children their age instead of the traditional Track &amp; Field events. Our Athletics Development pupils were given the opportunity to represent the school in the events of this new format while our Athletics School team members continued to participate in the traditional events.</p>
-<img style="width: 50%;" src="/images/tf3.jpeg" align = "right" />
-<p>The pupils performed to the best of their abilities and managed to make the school proud by being able to compete with the best the country has to offer. A special mention goes out to David Sassarak of 5 Integrity, who finished a credible 11th out of 16th in the 600m C Boys Finals, with a personal best timing of 1 min 59.85 secs while Zosia Watkins of 5 Honesty managed to make it to the 200m C Girls semi-finals, running a personal best of 32.45 secs.</p>
-<p>You can read the team&rsquo;s achievements by clicking on the link below: <a href="https://nsg.rjcat.com/pritrack_2019/ss_home.php?mypage=result/zzschool-oep.htm">https://nsg.rjcat.com/pritrack_2019/ss_home.php?mypage=result/zzschool-oep.htm</a></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/tf2.jpeg"></td>
+<td style="width: 50%;"><p>The team participated in the 60th Primary School National Track &amp; Field competition. This year marks the beginning of the new format for the Junior Division whereby the emphasis is more on pupils performing multiple skills that caters to children their age instead of the traditional Track &amp; Field events. Our Athletics Development pupils were given the opportunity to represent the school in the events of this new format while our Athletics School team members continued to participate in the traditional events.</p></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><p>The pupils performed to the best of their abilities and managed to make the school proud by being able to compete with the best the country has to offer. A special mention goes out to David Sassarak of 5 Integrity, who finished a credible 11th out of 16th in the 600m C Boys Finals, with a personal best timing of 1 min 59.85 secs while Zosia Watkins of 5 Honesty managed to make it to the 200m C Girls semi-finals, running a personal best of 32.45 secs.</p>
+<p>You can read the team&rsquo;s achievements by clicking on the link below: <a href="https://nsg.rjcat.com/pritrack_2019/ss_home.php?mypage=result/zzschool-oep.htm">https://nsg.rjcat.com/pritrack_2019/ss_home.php?mypage=result/zzschool-oep.htm</a></p></td>
+<td style="width: 50%;"><img src="/images/tf3.jpeg"></td>
+</tr>
+</tbody>
+</table>
 <h4><strong>CHARACTER DEVELOPMENT</strong></h4>
 <p>Pupils will learn valuable life skills such as perseverance, working hard, not being afraid to fail, being a good team-mate and setting achievable goals.<br />Winning medals is not the focus of our CCA but rather, the journey of giving your best, doing your best and achieving your best.</p>
 <h4><strong>ACHIEVEMENTS</strong></h4>
@@ -52,15 +71,38 @@ third_nav_title: Sports
 <h4><strong>GALLERY</strong></h4>
 <img src="/images/tf4.png">
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1"><span style="text-decoration: underline;"><strong>TEACHERS IN CHARGE</strong></label>
+<li><input id="accordion1" type="checkbox" /><label for="accordion1"><strong>TEACHERS IN CHARGE</strong></label>
 <div>
-<p><span style="text-decoration: normal;"><strong>Mr Nor Hadi Bin Isnin (OIC)<br /></strong></span><span style="text-decoration: normal;"><strong>Ms Chen Lijia<br /></strong></span><span style="text-decoration: normal;"><strong>Ms. Lim Pei Yi, Rachel<br />
+<p>Mr. Nor Hadi Bin Isnin&nbsp;<strong>(OIC)<br /></strong>Ms. Chen Lijia<br />Ms. Lim Pei Yi, Rachel</p>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2"><span style="text-decoration: underline;">CCA SCHEDULE</label>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">CCA SCHEDULE</label>
 <div>
-	
-<p>School Team: Monday<br />Time: 2.00pm - 4.00pm<br />Venue: Hall<br /><br />Development Team: Thursday<br />Time: 2.00pm - 4.00pm<br />Venue: Hall</p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>MONDAY</strong></td>
+<td style="text-align: center;">School Team &amp; Development Team</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Time:<br /></strong>2pm-4pm</td>
+<td style="text-align: center;"><strong>Location:<br /></strong>Basketball Court</td>
+</tr>
+</tbody>
+</table>
+<br>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>THURSDAY</strong></td>
+<td style="text-align: center;">School Team</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Time:<br /></strong>3pm-5pm</td>
+<td style="text-align: center;"><strong>Location:<br /></strong>Basketball Court</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 </ul>
