@@ -451,7 +451,7 @@ description: ""
 <p><strong>3 Caring</strong></p>
 </td>
 <td style="text-align: center;" width="232">
-<p>Mr. Foo Yu Ren<br />Mrs. Lee Siew Fun</p>
+<p>Mr. Foo Yu Ren<br />Mrs. Lee Siew Fun<br />Mr. Tham Ren Jie</p>
 </td>
 </tr>
 <tr>
@@ -475,7 +475,7 @@ description: ""
 <p><strong>3 Honesty</strong></p>
 </td>
 <td style="text-align: center;" width="232">
-<p>Mrs. Pung Yang Chiu Eileen (Mrs. Eileen Pang)<br />Mdm. Nurul Ashilah Binte Abdul Latiff</p>
+<p>Mrs. Pung Yang Chiu Eileen (Mrs. Eileen Pang)<br />Mdm. Nurul Ashilah Binte Abdul Latiff<br />Mrs. Lee Siew Fun<br/>Ms. S Aishwarya (Ms. Aish)</p>
 </td>
 </tr>
 </tbody>
@@ -670,14 +670,7 @@ description: ""
 <p>Special Educational Needs Officer (SEN Officer)</p>
 </td>
 </tr>
-<tr style="text-align: center;">
-<td>
-<p>Mdm. Hafizzah binte Mustafah</p>
-</td>
-<td>
-<p>Allied Educator/ Teaching &amp; Learning</p>
-</td>
-</tr>
+
 <tr style="text-align: center;">
 <td>
 <p>Ms. Tng Jia En Joanne</p>
