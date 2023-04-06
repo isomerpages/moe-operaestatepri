@@ -1,0 +1,26 @@
+---
+title: Learn to Lead, Lead to Serve
+permalink: /learn-to-lead-lead-to-serve/
+description: ""
+---
+<img src="/images/l2l1.jpg">
+<p>The school launched the second Lifelong Learning Programme for Student Leadership in 2017,&nbsp;<strong>Learn to Lead, Lead to Serve</strong>, to imbue in our young charges the importance to serve and give back to society. It is also aligned to our belief that every child deserves an opportunity to be a leader by leading self with exemplary behavior before leading others. The defined attributes of an&nbsp;<strong>O.P.E.R.A&nbsp;</strong>Student Leader are clearly spelled out and reinforced to the students on a regular basis:</p>
+<ul>
+<li><strong>O</strong>&ndash;Outstanding in character,</li>
+<li><strong>P&nbsp;</strong>&ndash; Proper in conduct,</li>
+<li><strong>E&nbsp;</strong>&ndash; Eager to serve,</li>
+<li><strong>R&nbsp;</strong>&ndash; Ready to lead,</li>
+<li><strong>A&nbsp;</strong>&ndash; Always a good role model)</li>
+</ul>
+<p>Our P1 to P6 students undergo a series of school-based lessons, the&nbsp;<strong>Leader In Me</strong>&nbsp;and&nbsp;<strong>Values-in-Action</strong>&nbsp;(VIA). These lessons are prepared and conducted by our teachers, taking into consideration the needs and abilities of students at each level. Through group activities and class-based workshops, all students get the opportunity to learn and internalize leadership skills like communication, responsibility, team-building, event planning, problem solving and decision-making. They are then given opportunities to hone their skills to lead VIA projects for the school and the community-at-large. To deepen their learning, future student leaders are guided through&nbsp;<em>Borton&rsquo;s Model of Reflection</em>&nbsp;during the different phases of VIA projects.</p>
+<p>At lower primary level, the Leader In Me and VIA lessons focuses on&nbsp;<strong>Personal Leadership</strong>. They are taught self-management skills like being responsible for their belongings and caring for school property, within and beyond their classroom. Whilst the P1 and P2 advocate the&nbsp;<em>Happy Toilet</em>&nbsp;and&nbsp;<em>Happy Canteen</em>&nbsp;projects to their peers and seniors, the P3 students advocate environment-friendly habits via the&nbsp;<em>Opera Go Green</em>&nbsp;projects.</p>
+<p>At upper primary level, the Leader In Me and VIA Lessons focuses on&nbsp;<strong>People Leadership</strong>. They are taught additional inter-personal skills like active listening, turn taking, time management and event management. Through authentic VIA platforms like hosting kindergarten students, elderly from the community and students with special needs and students from overseas, our student leaders have been confidently serving the community as&nbsp;<em>School Ambassadors</em>. These authentic experiences have helped our students learn to become socially responsible within and beyond school. The P6 graduating class put up a Class Fair for their younger peers as a farewell gift in paying it forward as they work in teams to create positive experience for others.</p>
+<p>The student leaders are also further developed by giving them opportunities to partake in decision-making. The&nbsp;<em>Head Prefect Election</em>&nbsp;is one such platform whereby they get to experience the democratic process of electing their Head Prefect every year. Through&nbsp;<em>Student Voice</em>, they come together, brainstorm and plan the annual Teachers&rsquo; Day Celebrations with the student leaders leading in&nbsp;<em>Attitude of Gratitude</em>&nbsp;(AOG) programme. They are also actively involved in promoting good cyber wellness habits amongst their peers as&nbsp;<em>OEPS Beacons</em>. P4-P6 students are selected to serve as&nbsp;<em>Cheer Champs</em>&nbsp;to reach out to peers and establish and promote good friendships.</p>
+<p>In class, teachers provide opportunities for students to adopt varied leadership roles and responsibilities such as group leaders, scribes, time-keepers, or task managers during collaborative learning activities. These roles are rotated amongst students during group activities to allow opportunities for all. Through more class-based duties, student leaders have the opportunity to put into practice the skills they have learnt and experience the importance of being a responsible leader to strengthen the pervasive culture of care in the school.</p>
+<p>Student Leaders who are good role model are affirmed during morning assembly and given due recognition through certificates at the end of every year. They are given platforms to share their leadership journey through presentations and write-ups to inspire their fellow peers. They are also given mentoring opportunities to develop and grow their juniors.</p>
+<p>The school set the direction for our student leaders to be motivated to want to&nbsp;<strong>Learn to Lead and Lead to Serve</strong>&nbsp;through the customized leadership lessons, on-going guidance, reflective thinking and authentic learning experiences.</p>
+<h4><strong>LLP Programmes</strong></h4>
+<p>Head Prefect Elections</p>
+<img src="/images/l2l2.jpeg">
+<p>P1 Buddy Programme</p>
+<img src="/images/l2l3.png">

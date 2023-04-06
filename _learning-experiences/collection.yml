@@ -1,0 +1,14 @@
+collections:
+  learning-experiences:
+    output: true
+    order:
+      - English Language.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue Languages.md
+      - Physical Education.md
+      - Aesthetics.md
+      - Character & Citizenship Education.md
+      - Programme for Active Learning (PAL).md
+      - Information & Communication Technology.md
+      - Overseas Exchange.md
