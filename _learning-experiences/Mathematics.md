@@ -23,8 +23,12 @@ To extend our students’ learning in this authentic learning experience, they d
 <img src="/images/math5.png">
 <p><strong><em> 4. LEARNING MATHEMATICS WITH ICT</em><br></strong>Students engage in learning experiences that incorporate the use of technology to allow them to demonstrate their understanding of the Mathematical concepts.</p>
 <img src="/images/math6.png">
-<p><strong><em>5. LEARNING JOURNEY (IN-SCHOOL)</em><br></strong>This interdisciplinary learning experience, in collaboration with the Science department, provides students with the opportunity to apply Mathematical and Science concepts they have learnt as they work in a team to solve authentic, real-world problems.</p>
-<img src="/images/math7.png">
+<p><strong><em>5. LEARNING JOURNEY (IN-SCHOOL)</em><br>
+<img src="/images/science_1.jpg">
+	</strong>   
+
+Our P6 students had the opportunity to apply the Mathematical knowledge they learnt in the classroom to the real-life situation of making a kite. Flying their kites was truly seeing how Mathematics came alive!</p>
+
 <h4>SUPPORT PROGRAMMES</h4>
 <p>Early intervention programmes are provided to help support identified pupils address misconceptions, consolidate and reinforce their learning as well as build their confidence in the learning of Mathematics.</p>
 <p><strong><em>1. LEARNING SUPPORT FOR MATHEMATICS (LSM)&nbsp;PROGRAMME&nbsp;(P1- P3)</em><br></strong>The LSM programme aims to provide early intervention support in Mathematics to students who need additional support in acquiring basic numeracy skills at the lower primary levels.</p>
