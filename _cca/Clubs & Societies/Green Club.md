@@ -16,18 +16,20 @@ Green Club will concentrate on three main themes: conservation of resources, kee
 <li>To take the right actions to support environmental care in school;</li>
 <li>To spread the message of environmental care to others</li>
 </ul>
-<h4><strong>GALLERY</strong></h4>
-<img src="/images/sgames2.png"><br>
-<img src="/images/sgames3.jpg">
+<h4><strong>EXPERIENCES / PERFORMANCES</strong></h4>
+<img src="/images/green_1.jpg"><br>
+<img src="/images/green_2.jpg"><br>
+<img src="/images/green_3.jpg"><br>
+
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><strong>Mdm Tan Li San<br>Mr Ho Lui Soon</strong></p>
+<p><strong>Ms Manickam Sumathi (Mrs Balan)<br>Mdm Lim Ching Ching</strong></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
 <div>
-<p>Monday<br>Time: 2 pm to 4 pm<br>Location: IT Resource Room</p>
+<p>Monday<br>Time: 2 pm to 4 pm<br></p>
 </div>
 </li>
 </ul>
