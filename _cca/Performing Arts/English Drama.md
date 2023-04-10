@@ -49,7 +49,7 @@ third_nav_title: Performing Arts
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><u><strong>Ms Angeline Wee<br>Ms Komathy</strong></u></p>
+<p><strong>Mdm Amal Norahmah Bte Darlan<br>Ms Komathy Selvaraj</strong></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
