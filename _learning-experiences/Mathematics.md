@@ -12,8 +12,12 @@ description: ""
 <h4><strong>KEY DEPARTMENT PROGRAMMES</strong></h4>
 <p><u><strong>LEARNING EXPERIENCES<br></strong></u>Our students are exposed to a variety of learning experiences where they can apply and relate their knowledge of Mathematical skills and concepts to real-life experiences.</p>
 <p><strong><em>1) Mathematics all around us: OPERA SUPERMARKET SHOPPING DAY</em><br></strong>Students enjoy a shopping trip at the ‘Opera Supermarket’ where they use play money to buy items of their choice. They apply the concepts of addition and subtraction of money in this learning experience.</p>
-<img src="/images/math3.png">
-<p><strong><em>2. LEARNING MATHEMATICS WITH CONCRETE MANIPULATIVES<br></em></strong>Students use paper clips to measure the length of the items around them.</p>
+<img src="/images/math3.png"><br>
+<p> Our P3 students shopped at OPERA Supermarket for a class party where they used cash and vouchers to buy items within their budget. Students learnt basic financial literacy skills such as budgeting and maximizing the value of vouchers through the incorporation of ‘CDC’ vouchers in their shopping.<br>
+   
+To extend our students’ learning in this authentic learning experience, they designed an invitation card for their class party. Students learnt the language skills of writing an invitation, which will inform and entice their target audience. This writing activity was done in collaboration with the English Department.
+<img src="/images/math3.png"><br>
+</p><p><strong><em>2. LEARNING MATHEMATICS WITH CONCRETE MANIPULATIVES<br></em></strong>Students use paper clips to measure the length of the items around them.</p>
 <img src="/images/math4.png">
 <p><strong><em> 3. LEARNING MATHEMATICS THROUGH ART</em></strong></p>
 <img src="/images/math5.png">
