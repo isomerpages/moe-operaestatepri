@@ -16,7 +16,7 @@ description: ""
 <p> Our P3 students shopped at OPERA Supermarket for a class party where they used cash and vouchers to buy items within their budget. Students learnt basic financial literacy skills such as budgeting and maximizing the value of vouchers through the incorporation of ‘CDC’ vouchers in their shopping.<br>
    
 To extend our students’ learning in this authentic learning experience, they designed an invitation card for their class party. Students learnt the language skills of writing an invitation, which will inform and entice their target audience. This writing activity was done in collaboration with the English Department.
-<img src="/images/math3.png"><br>
+<img src="/images/mathematics_1.jpg"><br>
 </p><p><strong><em>2. LEARNING MATHEMATICS WITH CONCRETE MANIPULATIVES<br></em></strong>Students use paper clips to measure the length of the items around them.</p>
 <img src="/images/math4.png">
 <p><strong><em> 3. LEARNING MATHEMATICS THROUGH ART</em></strong></p>
