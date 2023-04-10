@@ -48,4 +48,6 @@ Our P6 students had the opportunity to apply the Mathematical knowledge they lea
 <img style="width: 65%;" src="/images/math10.png">
 <p style="text-align: center;">Our P5 and P6 pupils attaining the Silver and Bronze awards at the Singapore Mathematical Olympiad for Primary Schools (SMOPS).</p></em></em></em><br>
 <p><strong>2022 Raffles Institution Primary World Mathematics Contest (Junior Category – Primary 5)</strong><br>
-<img src="/images/mathematics_2.jpg"></p>
+<img src="/images/mathematics_2.jpg"></p><br>
+<img src="/images/mathematics_3.jpg">
+<p style="text-align: center;">Congratulations to our awardees of the 2022 Raffles Institution Primary Mathematics World Contest (RIPMWC)! Opera Celebrates!</p><br>
