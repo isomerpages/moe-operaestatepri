@@ -51,3 +51,7 @@ Our P6 students had the opportunity to apply the Mathematical knowledge they lea
 <img src="/images/mathematics_2.jpg"></p><br>
 <img src="/images/mathematics_3.jpg">
 <p style="text-align: center;">Congratulations to our awardees of the 2022 Raffles Institution Primary Mathematics World Contest (RIPMWC)! Opera Celebrates!</p><br>
+<p><strong>Congratulations to our 2022 PMPC P5 team for clinching the “Commendation Award” for their game! Opera Celebrates!
+
+Team members: Agastya Daga, Pek Yeng Yeng and Zakers Tang</strong><br>
+<img src="/images/mathematics_4.jpg"></p>
