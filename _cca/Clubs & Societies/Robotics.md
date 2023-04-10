@@ -2,7 +2,7 @@
 title: Robotics
 permalink: /robotics/
 description: ""
-third_nav_title: Clubs & Societies
+third_nav_title: Clubs &amp; Societies
 ---
 <h4><strong><a title="Our CCA Video (Click here)" href="https://drive.google.com/file/d/1xYyFCsjSmZZq43_IeHWUhsT_H9cByJLW/view?usp=sharing" target="_blank" rel="noopener">OUR CCA VIDEO (CLICK HERE)</a></strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -22,6 +22,7 @@ third_nav_title: Clubs & Societies
 </ol>
 <h4><strong>EXPERIENCES</strong></h4>
 <ul>
+	<li><strong>2022 - </strong>First Lego League Challenge - National Rototics&nbsp;Competition (CoderZ Coding Challenge)</li>
 <li><strong>2021 - </strong>First Lego League Challenge - National Robotics Competition</li>
 <li><strong>2020 -&nbsp;First Lego League Challenge - National Robotics Competition</strong></li>
 <li><strong>2019</strong>
@@ -34,8 +35,8 @@ third_nav_title: Clubs & Societies
 <ul>
 <li aria-level="1"><strong>2018</strong>
 <ul>
-<li aria-level="2">Creation of a &lsquo;WELCOME&rsquo; robots set-up for the OEPS Annual Prize Giving 2018 Commencement Ceremony. The robot activation was done by our Guest-of-Honour, Mr Edwin Tong (Senior Minister of State for Law and Health, Member of Parliament for Marine Parade GRC (Joo Chiat) Grassroots Organisations.</li>
-<li aria-level="2">Environment Challenge for Schools (ECS) 2018 &ndash; Application of Microbit</li>
+<li aria-level="2">Creation of a ‘WELCOME’ robots set-up for the OEPS Annual Prize Giving 2018 Commencement Ceremony. The robot activation was done by our Guest-of-Honour, Mr Edwin Tong (Senior Minister of State for Law and Health, Member of Parliament for Marine Parade GRC (Joo Chiat) Grassroots Organisations.</li>
+<li aria-level="2">Environment Challenge for Schools (ECS) 2018 – Application of Microbit</li>
 </ul>
 </li>
 </ul>
@@ -43,10 +44,13 @@ third_nav_title: Clubs & Societies
 <p>Our pupils are given the opportunity each week to work in teams to complete Robotic missions and challenges. Through this, our pupils develop themselves as a team player and they learn about what it takes for a team to be able to work cohesively in order to meet their goals.</p>
 <h4><strong>PROGRAMME</strong></h4>
 <ol>
-<li>Lego Mindstorms EV3 (Beginner)&nbsp;</li>
-<li>Lego Mindstorms EV3 (Intermediate)</li>
+<li>Lego SPIKE Prime (Beginner)&nbsp;</li>
+<li>Lego SPIKE Prime (Intermediate)</li>
 </ol>
 <h4><strong>ACHIEVEMENTS</strong></h4>
+<p><strong>2022 </strong></p>
+<ul>
+<li aria-level="1"><strong>National Robotics Competition (CoderZ Coding Challenge) - Singapore Novice 2nd place Regional Champion</strong></li>
 <p><strong>2021 </strong></p>
 <ul>
 <li aria-level="1"><strong>First Lego League (FLL) Competition - Rising Star Award</strong></li>
@@ -66,17 +70,21 @@ third_nav_title: Clubs & Societies
 </ul>
 <h4><strong>GALLERY</strong></h4>
 <img src="/images/robo2.png"><br>
-<img src="/images/robo3.png">
+<img src="/images/robo3.png"><br>
+	
+| <img src="/images/Robotics/robotics_1.png"> | <img src="/images/Robotics/robotics_2.png"> | <img src="/images/Robotics/robotics_3.png"> |
+| -------- | -------- | -------- |
+| <img src="/images/Robotics/robotics_4.png">|<img src="/images/Robotics/robotics_5.png">|<img src="/images/Robotics/robotics_6.png">|
+
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Teachers in Charge</label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><u><strong>Mdm Zuo Qinjie<br />Mr Stanley Ang<br />Miss Shaikha<br />Mrs Balan<br />Mdm Ma</strong></u></p>
-<p><strong><span style="text-decoration: underline;">ICT Support:</span><br /></strong>Mr Zaidan<br />Mr Salim<br />Mr Omar<br />Mr Yijie</p>
+	<p>Mdm Zuo Qinjie<br>Mdm Ma Khin Kyi</p>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">CCA Schedule</label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
 <div>
-<p>Every Thursday<br />2.00 - 4.00 p.m.</p>
+<p>Every Monday<br>2.00 - 4.00 p.m.</p>
 </div>
 </li>
-</ul>
+</ul></ul>
