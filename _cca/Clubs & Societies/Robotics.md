@@ -53,11 +53,8 @@ third_nav_title: Clubs &amp; Societies
 3. National Robotics Competition (WRO Category) - Preliminary Round&nbsp;<br><br>
 4. First Lego League (FLL) Competition - Finals Round</li>
 
-<p><strong>2018</strong></p>
-<ul>
-<li>First Lego League (FLL) Competition - Best Newcomer Award&nbsp;</li>
-<li>National Robotics Competition (Science Automatica Category) - Preliminary Round</li>
-</ul>
+<li style="font-size:120%;"><strong>2018</strong> - <br><br> 1. First Lego League (FLL) Competition - Best Newcomer Award <br><br>2. National Robotics Competition (Science Automatica Category) - Preliminary Round</li>
+
 <h4><strong>GALLERY</strong></h4>
 <img src="/images/robo2.png"><br>
 <img src="/images/robo3.png"><br>
@@ -67,12 +64,12 @@ third_nav_title: Clubs &amp; Societies
 | <img src="/images/Robotics/robotics_4.png">|<img src="/images/Robotics/robotics_5.png">|<img src="/images/Robotics/robotics_6.png">|
 
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
+<li style="font-size:120%;"><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
 <div>
 	<p>Mdm Zuo Qinjie<br>Mdm Ma Khin Kyi</p>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
+<li style="font-size:120%;"><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
 <div>
 <p>Every Monday<br>2.00 - 4.00 p.m.</p>
 </div>
