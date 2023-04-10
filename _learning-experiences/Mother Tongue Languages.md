@@ -36,9 +36,9 @@ This programme is held in collaboration with the English Department. It aims to 
 
 <h4><strong>USEFUL WEBSITES</strong></h4>
 <p><u><strong>FOR CL LEARNING</strong></u></p>
-<p><strong>xuele<br></strong>Aligned to the 2015 Primary School Chinese Language curriculum. Focuses on developing students’ skills in listening, speaking, reading and writing in a fun way. Students can log on to Student Learning Space (SLS) with their account to access the resources.</p>
+<p><strong>Xuele<br></strong>Aligned to the 2015 Primary School Chinese Language curriculum. Focuses on developing students’ skills in listening, speaking, reading and writing in a fun way. Students can log on to Student Learning Space (SLS) with their account to access the resources..</p>
 <p><u><strong>FOR ML LEARNING</strong></u></p>
-<p><strong>e-CEKAP<br></strong><em>(Suitable for Primary 1 to 5)&nbsp;</em>Aligned to the 2015 Primary School Malay Language curriculum. It provides complementary multimedia resources which develop students’ Malay language skills and knowledge in a fun and engaging way. Students can log on to Student Learning Space (SLS) with their account to access the resources.</p>
+<p><strong>e-CEKAP<br></strong>(Suitable for Primary 1 to 5) Aligned to the 2015 Primary School Malay Language curriculum. It provides complementary multimedia resources which develop students’ Malay Language skills and knowledge in a fun and engaging way. Students can log on to Student Learning Space (SLS) with their account to access the resources..</p>
 <p><strong>Young Readers Series, Nabil and Nabilah<br></strong><em>(Suitable for Primary 1 to 3)&nbsp;</em>Developed by the Malay Language Learning and Promotion Committee.<br><a href="https://www.mllpc.sg/agab-publications.html">https://www.mllpc.sg/agab-publications.html</a></p>
 <p><u><strong>FOR TL LEARNING</strong></u></p>
 <p><strong>Theen Tamizh<br></strong>Aligned to the 2015 Tamil Language Primary curriculum, the multimedia resources include animated songs, stories, interactive pages etc. These resources focus on developing students’ language skills and knowledge through joyful learning. Students can log on to Student Learning Space (SLS) with their account to access the resources.</p>
