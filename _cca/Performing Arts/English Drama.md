@@ -32,21 +32,27 @@ third_nav_title: Performing Arts
 </ul>
 <h4><strong>EXPERIENCES/PERFORMANCES</strong></h4>
 <ul>
-<li>2018<br />Recess programme (Fun with Art and Drama)<br />MuzART Day performance - The Gruffalo</li>
-<li>2019<br />MuzART Day performance - Charlie and the Chocolate Factory</li>
-<li>2020<br />International Science Drama Competition</li>
+<li>2018<br>Recess programme (Fun with Art and Drama)<br>MuzART Day performance - The Gruffalo</li>
+<li>2019<br>MuzART Day performance - Charlie and the Chocolate Factory</li>
+<li>2020<br>International Science Drama Competition</li>
 </ul>
 <h4><strong>GALLERY</strong></h4>
+
+
+<img src="/images/drama_6.jpeg">
+<img src="/images/drama_7.jpeg">
+
+
 <img src="/images/ed3.png"><br>
 <img src="/images/ed4.png"><br>
 <img src="/images/ed5.jpg">
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Teachers in Charge</label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><u><strong>Ms Angeline Wee<br />Ms Komathy</strong></u></p>
+<p><strong>Mdm Amal Norahmah Bte Darlan<br>Ms Komathy Selvaraj</strong></p>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">CCA Schedule</label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
 <div>
 <p>Monday, 2 - 4 p.m.</p>
 </div>
