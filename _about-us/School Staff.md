@@ -4,7 +4,7 @@ permalink: /school-staff/
 description: ""
 ---
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Key Personnel</label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1">Key Personnel</label>
 <div>
 <h4>School Leaders</h4>
 <table>
@@ -27,7 +27,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Ms Adila Ong</p>
+<p>Mr Raymond Tay</p>
 </td>
 <td>
 <p>Vice-Principal</p>
@@ -35,7 +35,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Mr Raymond Tay</p>
+<p>Mr Kenny Reyes</p>
 </td>
 <td>
 <p>Vice-Principal</p>
@@ -60,7 +60,7 @@ description: ""
 <p>Mdm. Noraini Binte Abdul Rahim</p>
 </td>
 <td>
-<p>Year Head &ndash; Lower Pri</p>
+<p>Year Head – Lower Pri</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@ description: ""
 <p>Mdm Aruna</p>
 </td>
 <td>
-<p>Year Head &ndash; Middle Pri</p>
+<p>Year Head – Middle Pri</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +84,7 @@ description: ""
 <p>Mdm. Rajima d/o Sevathamaricar (Mrs. Rafiq)</p>
 </td>
 <td>
-<p>Year Head &ndash; Upper Pri</p>
+<p>Year Head – Upper Pri</p>
 </td>
 </tr>
 </tbody>
@@ -107,7 +107,7 @@ description: ""
 <p>Mr Andrew Chong</p>
 </td>
 <td>
-<p>HOD &ndash; English Language</p>
+<p>HOD – English Language</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ description: ""
 <p>Ms Lee Pei Ling (Mrs Sng)</p>
 </td>
 <td>
-<p>HOD &ndash; Mathematics</p>
+<p>HOD – Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +131,7 @@ description: ""
 <p>Ms. Chow Wai Mun Felicia</p>
 </td>
 <td>
-<p>HOD &ndash; Mother Tongue Languages</p>
+<p>HOD – Mother Tongue Languages</p>
 </td>
 </tr>
 <tr>
@@ -139,7 +139,7 @@ description: ""
 <p>Mr. Tong Chin Hong</p>
 </td>
 <td>
-<p>HOD &ndash; Information &amp; Communications Technology</p>
+<p>HOD – Information &amp; Communications Technology</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +147,7 @@ description: ""
 <p>Mr. Tok Chek Puay Jackmond</p>
 </td>
 <td>
-<p>HOD&nbsp;&ndash; Physical Education &amp; Co-Curricular Activities</p>
+<p>HOD&nbsp;– Physical Education &amp; Co-Curricular Activities</p>
 </td>
 </tr>
 <tr>
@@ -160,7 +160,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Mrs. Chan Sook Fen Elvenia</p>
+<p>Ms. Chan Sook Fen Elvenia (Mrs. Poh)</p>
 </td>
 <td>
 <p>School Staff Developer</p>
@@ -185,7 +185,7 @@ description: ""
 <p>Mdm. Siti Haszilah Bte Mohd Hanafiah (Mdm. Zi)</p>
 </td>
 <td>
-<p>LH &ndash; English Language</p>
+<p>LH – English Language</p>
 </td>
 </tr>
 <tr>
@@ -201,7 +201,7 @@ description: ""
 <p>Mdm. Siti Suhaila Binte Md Raihan</p>
 </td>
 <td>
-<p>SH &ndash; Malay Language</p>
+<p>SH – Malay Language</p>
 </td>
 </tr>
 <tr>
@@ -217,7 +217,7 @@ description: ""
 <p>Mr. Omar Azahari Bin Mohammed Ali</p>
 </td>
 <td>
-<p>SH &ndash; Discipline</p>
+<p>SH – Discipline</p>
 </td>
 </tr>
 </tbody>
@@ -306,7 +306,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox"  /> <label for="accordion2">Primary 1 Form Teachers</label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">Primary 1 Form Teachers</label>
 <div>
 <table>
 <tbody>
@@ -323,7 +323,7 @@ description: ""
 <p><strong>1 Caring</strong></p>
 </td>
 <td style="text-align: center;" width="231">
-<p>Mr. Nor Hadi Bin Isnin<br />Ms. Chan Sook Fen Elvenia (Mrs. Poh)<br/>Mrs. Kee Swee Mien Michelle (Mrs Teo)</p>
+<p>Mr. Nor Hadi Bin Isnin<br>Ms. Chan Sook Fen Elvenia (Mrs. Poh)<br>Ms. Kee Swee Mien Michelle (Mrs Teo)</p>
 </td>
 </tr>
 <tr>
@@ -331,7 +331,7 @@ description: ""
 <p><strong>1 Diligence</strong></p>
 </td>
 <td style="text-align: center;" width="231">
-<p>Ms. Yu Xinyi<br />Mdm. Nursidah Bte Abdul Wahid</p>
+<p>Ms. Yu Xinyi<br>Mdm. Nursidah Bte Abdul Wahid</p>
 </td>
 </tr>
 <tr>
@@ -339,7 +339,7 @@ description: ""
 <p><strong>1 Grace</strong></p>
 </td>
 <td style="text-align: center;" width="231">
-<p>Mdm. Siti Suhaila Binte Md Raihan<br />Ms. Seet Swee Li</p>
+<p>Mdm. Siti Suhaila Binte Md Raihan<br>Ms. Seet Swee Li</p>
 </td>
 </tr>
 <tr>
@@ -347,7 +347,7 @@ description: ""
 <p><strong>1 Honesty</strong></p>
 </td>
 <td style="text-align: center;" width="231">
-<p>Ms. Sim Yoke Hian, Clarice<br />Mdm. Lienda Bte Jamali</p>
+<p>Ms. Sim Yoke Hian, Clarice<br>Mdm. Lienda Bte Jamali</p>
 </td>
 </tr>
 <tr>
@@ -355,7 +355,7 @@ description: ""
 <p><strong>1 Integrity</strong></p>
 </td>
 <td style="text-align: center;" width="231">
-<p>Mdm. Amal Norahmah Bte Darlan<br />Mr. Lee Chee Weng (Mr. Ben Lee)</p>
+<p>Mdm. Amal Norahmah Bte Darlan<br>Mr. Lee Chee Weng (Mr. Ben Lee)</p>
 </td>
 </tr>
 <tr>
@@ -363,14 +363,14 @@ description: ""
 <p><strong>1 Joy</strong></p>
 </td>
 <td style="text-align: center;" width="231">
-<p>Ms. Siti Haszilah Bte Mohd Hanafiah (Ms. Zi)<br />Mdm. Wa Sock Ling (Mrs. Angie Ngio)<br />Mdm. Debby Anggreanie</p>
+<p>Mdm. Siti Haszilah Bte Mohd Hanafiah (Mdm. Zi)<br>Mdm. Wa Sock Ling (Mrs. Angie Ngio)<br>Mdm. Debby Anggreanie</p>
 </td>
 </tr>
 </tbody>
 </table>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Primary 2 Form Teachers</label>
+<li><input id="accordion3" type="checkbox"> <label for="accordion3">Primary 2 Form Teachers</label>
 <div>
 <table>
 <tbody>
@@ -387,7 +387,7 @@ description: ""
 <p><strong>2 Caring</strong></p>
 </td>
 <td style="text-align: center;" width="231">
-<p>Mdm. Siti Arfah Bte Yusof<br />Ms. Lee Xueqi Sherilyn</p>
+<p>Mdm. Siti Arfah Bte Yusof<br>Ms. Lee Xueqi Sherilyn</p>
 </td>
 </tr>
 <tr>
@@ -395,7 +395,7 @@ description: ""
 <p><strong>2 Diligence</strong></p>
 </td>
 <td style="text-align: center;" width="231">
-<p>Mdm. Siti Mariam Binti Md Akhtar Khan<br />Mr. Yeo Lim Khun Lincoln<br />Ms. Komathy D/O Selvaraj</p>
+<p>Mdm. Siti Mariam Binti Md Akhtar Khan<br>Mr. Yeo Lim Khun Lincoln<br>Ms. Komathy D/O Selvaraj</p>
 </td>
 </tr>
 <tr>
@@ -403,7 +403,7 @@ description: ""
 <p><strong>2 Grace</strong></p>
 </td>
 <td style="text-align: center;" width="231">
-<p>Ms. Cheng Yoke Kin (Mrs. Koh-Cheng)<br />Mdm. Rosnah Bte Mohammad</p>
+<p>Ms. Cheng Yoke Kin (Mrs. Koh-Cheng)<br>Mdm. Rosnah Bte Mohammad</p>
 </td>
 </tr>
 <tr>
@@ -411,7 +411,7 @@ description: ""
 <p><strong>2 Honesty</strong></p>
 </td>
 <td style="text-align: center;" width="231">
-<p>Mdm. Noraini Binte Abdul Rahim<br />Mdm. Chng Kwee Gek</p>
+<p>Mdm. Noraini Binte Abdul Rahim<br>Mdm. Chng Kwee Gek</p>
 </td>
 </tr>
 <tr>
@@ -419,7 +419,7 @@ description: ""
 <p><strong>2 Integrity</strong></p>
 </td>
 <td style="text-align: center;" width="231">
-<p>Ms. Gwendolyn Poh Su Wen (Ms. Poh)<br />Mdm. Zuo Qinjie</p>
+<p>Ms. Gwendolyn Poh Su Wen (Ms. Poh)<br>Mdm. Zuo Qinjie</p>
 </td>
 </tr>
 <tr>
@@ -427,14 +427,14 @@ description: ""
 <p><strong>2 Joy</strong></p>
 </td>
 <td style="text-align: center;" width="231">
-<p>Ms. Yong Yue Teng Amanda (Mrs. Seow)<br />Mr. Osman B Suradi</p>
+<p>Ms. Yong Yue Teng Amanda (Mrs. Seow)<br>Mr. Osman B Suradi</p>
 </td>
 </tr>
 </tbody>
 </table>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Primary 3 Form Teachers</label>
+<li><input id="accordion4" type="checkbox"> <label for="accordion4">Primary 3 Form Teachers</label>
 <div>
 <table>
 <tbody>
@@ -451,7 +451,7 @@ description: ""
 <p><strong>3 Caring</strong></p>
 </td>
 <td style="text-align: center;" width="232">
-<p>Mr. Foo Yu Ren<br />Mrs. Lee Siew Fun<br />Mr. Tham Ren Jie</p>
+<p>Mr. Foo Yu Ren<br>Mrs. Lee Siew Fun<br>Mr. Tham Ren Jie</p>
 </td>
 </tr>
 <tr>
@@ -459,7 +459,7 @@ description: ""
 <p><strong>3 Diligence</strong></p>
 </td>
 <td style="text-align: center;" width="232">
-<p>Mdm. Karen Koo Sze Yong<br />Mdm. Ma Khin Kyi</p>
+<p>Mdm. Karen Koo Sze Yong<br>Mdm. Ma Khin Kyi</p>
 </td>
 </tr>
 <tr>
@@ -467,7 +467,7 @@ description: ""
 <p><strong>3 Grace</strong></p>
 </td>
 <td style="text-align: center;" width="232">
-<p>Mdm. Aruna<br />Mdm. Nasibah Bte Idross Alkhatib<br />Mdm. Wong Mey Lin (Mdm. Jane Wong)</p>
+<p>Mdm. Aruna<br>Mdm. Nasibah Bte Idross Alkhatib<br>Mdm. Wong Mey Lin (Mdm. Jane Wong)</p>
 </td>
 </tr>
 <tr>
@@ -475,14 +475,14 @@ description: ""
 <p><strong>3 Honesty</strong></p>
 </td>
 <td style="text-align: center;" width="232">
-<p>Mrs. Pung Yang Chiu Eileen (Mrs. Eileen Pang)<br />Mdm. Nurul Ashilah Binte Abdul Latiff<br />Mrs. Lee Siew Fun<br/>Ms. S Aishwarya (Ms. Aish)</p>
+<p>Ms. Pung Yang Chiu Eileen (Mrs. Eileen Pang)<br>Mdm. Nurul Ashilah Binte Abdul Latiff<br>Mrs. Lee Siew Fun<br>Ms. S Aishwarya (Ms. Aish)</p>
 </td>
 </tr>
 </tbody>
 </table>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Primary 4 Form Teachers</label>
+<li><input id="accordion5" type="checkbox"> <label for="accordion5">Primary 4 Form Teachers</label>
 <div>
 <table>
 <tbody>
@@ -499,7 +499,7 @@ description: ""
 <p><strong>4 Caring</strong></p>
 </td>
 <td style="text-align: center;" width="232">
-<p>Mdm. Zahureen Binte Aman<br />Mdm. Tan Hui Qing</p>
+<p>Mdm. Zahureen Binte Aman<br>Mdm. Tan Hui Qing</p>
 </td>
 </tr>
 <tr>
@@ -507,7 +507,7 @@ description: ""
 <p><strong>4 Diligence</strong></p>
 </td>
 <td style="text-align: center;" width="232">
-<p>Mr. Ray Aziz<br />Mdm. Nuraihan Bte Abdul Subhan<br />Mr. Leonard Paul Gomes</p>
+<p>Mr. Ray Aziz<br>Mdm. Nuraihan Bte Abdul Subhan<br>Mr. Leonard Paul Gomes</p>
 </td>
 </tr>
 <tr>
@@ -515,7 +515,7 @@ description: ""
 <p><strong>4 Grace</strong></p>
 </td>
 <td style="text-align: center;" width="232">
-<p>Ms. Lim Pei Yi, Rachel<br />Mr. Leng Kok Keong</p>
+<p>Ms. Lim Pei Yi, Rachel<br>Mr. Leng Kok Keong</p>
 </td>
 </tr>
 <tr>
@@ -523,14 +523,14 @@ description: ""
 <p><strong>4 Honesty</strong></p>
 </td>
 <td style="text-align: center;" width="232">
-<p>Ms. Yeong Wai Cheng Anne (Mrs. Goh)<br />Mdm. Lim Hwee Ming, Mary</p>
+<p>Ms. Yeong Wai Cheng Anne (Mrs. Goh)<br>Mdm. Lim Hwee Ming, Mary</p>
 </td>
 </tr>
 </tbody>
 </table>
 </div>
 </li>
-<li><input id="accordion6" type="checkbox" /> <label for="accordion6">Primary 5 Form Teachers</label>
+<li><input id="accordion6" type="checkbox"> <label for="accordion6">Primary 5 Form Teachers</label>
 <div>
 <table>
 <tbody>
@@ -547,7 +547,7 @@ description: ""
 <p><strong>5 Caring</strong></p>
 </td>
 <td style="text-align: center;" width="232">
-<p>Ms. Manickam Sumathi (Mrs. Balan)<br />Mr. Tok Chek Puay Jackmond</p>
+<p>Ms. Manickam Sumathi (Mrs. Balan)<br>Mr. Tok Chek Puay Jackmond</p>
 </td>
 </tr>
 <tr>
@@ -555,7 +555,7 @@ description: ""
 <p><strong>5 Diligence</strong></p>
 </td>
 <td style="text-align: center;" width="232">
-<p>Mdm. Lim Ching Ching<br />Mr. Ho Lui Soon<br />Mr. Tong Chin Hong</p>
+<p>Mdm. Lim Ching Ching<br>Mr. Ho Lui Soon<br>Mr. Tong Chin Hong</p>
 </td>
 </tr>
 <tr>
@@ -563,7 +563,7 @@ description: ""
 <p><strong>5 Grace</strong></p>
 </td>
 <td style="text-align: center;" width="232">
-<p>Ms. Shaikha Maimunah binte Shaikh Fuad Mattar<br />Ms. Ng Ai Leen</p>
+<p>Ms. Shaikha Maimunah binte Shaikh Fuad Mattar<br>Ms. Ng Ai Leen</p>
 </td>
 </tr>
 <tr>
@@ -571,7 +571,7 @@ description: ""
 <p><strong>5 Honesty</strong></p>
 </td>
 <td style="text-align: center;" width="232">
-<p>Ms. Chow Wai Mun Felicia<br />Mr. Lim Yan Zhi<br />Ms. Chia Hui Min</p>
+<p>Ms. Chow Wai Mun Felicia<br>Mr. Lim Yan Zhi<br>Ms. Chia Hui Min</p>
 </td>
 </tr>
 <tr>
@@ -579,14 +579,14 @@ description: ""
 <p><strong>5 Integrity</strong></p>
 </td>
 <td style="text-align: center;" width="232">
-<p>Ms. Chua Jin Xun<br />Mdm. Nur Farah Binte Mohamad Shukor</p>
+<p>Ms. Chua Jin Xun<br>Mdm. Nur Farah Binte Mohamad Shukor</p>
 </td>
 </tr>
 </tbody>
 </table>
 </div>
 </li>
-<li><input id="accordion7" type="checkbox" /> <label for="accordion7">Primary 6 Form Teachers</label>
+<li><input id="accordion7" type="checkbox"> <label for="accordion7">Primary 6 Form Teachers</label>
 <div>
 <table>
 <tbody>
@@ -603,7 +603,7 @@ description: ""
 <p><strong>6 Caring</strong></p>
 </td>
 <td style="text-align: center;" width="232">
-<p>Mdm. Rajima d/o Sevathamaricar (Mrs. Rafiq)<br />Mdm. Tan Li San<br />Mr. Omar Azahari Bin Mohammed Ali</p>
+<p>Mdm. Rajima d/o Sevathamaricar (Mrs. Rafiq)<br>Mdm. Tan Li San<br>Mr. Omar Azahari Bin Mohammed Ali</p>
 </td>
 </tr>
 <tr>
@@ -611,7 +611,7 @@ description: ""
 <p><strong>6 Diligence</strong></p>
 </td>
 <td style="text-align: center;" width="232">
-<p>Mr. Yeo Jun Cong<br />Ms. Chen Lijia</p>
+<p>Mr. Yeo Jun Cong<br>Ms. Chen Lijia</p>
 </td>
 </tr>
 <tr>
@@ -619,7 +619,7 @@ description: ""
 <p><strong>6 Grace</strong></p>
 </td>
 <td style="text-align: center;" width="232">
-<p>Mr. Pang Sheir Zheng Issac<br />Ms. He Wen Li</p>
+<p>Mr. Pang Sheir Zheng Issac<br>Ms. He Wen Li</p>
 </td>
 </tr>
 <tr>
@@ -627,14 +627,14 @@ description: ""
 <p><strong>6 Honesty</strong></p>
 </td>
 <td style="text-align: center;" width="232">
-<p>Mr. Andrew Chong Wenyi<br />Ms. Dawn Sim Ee Szu<br />Mr. Abdul Rahim s/o A P M Adam</p>
+<p>Mr. Andrew Chong Wenyi<br>Ms. Dawn Sim Ee Szu<br>Mr. Abdul Rahim s/o A P M Adam</p>
 </td>
 </tr>
 </tbody>
 </table>
 </div>
 </li>
-<li><input id="accordion9" type="checkbox" /> <label for="accordion9">Allied Educators</label>
+<li><input id="accordion9" type="checkbox"> <label for="accordion9">Allied Educators</label>
 <div>
 <table>
 <tbody>
@@ -699,7 +699,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion10" type="checkbox" /> <label for="accordion10">Administrative & Support Staff</label>
+<li><input id="accordion10" type="checkbox"> <label for="accordion10">Administrative &amp; Support Staff</label>
 <div>
 <h4>School Administrative Team</h4>
 <table>
@@ -754,7 +754,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>Mr.. Abdul Razak Bin Abdul Kadir</p>
+<p>Mr. Abdul Razak Bin Abdul Kadir</p>
 </td>
 <td style="text-align: center;">
 <p>Operations Support Officer</p>
