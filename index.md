@@ -19,6 +19,5 @@ sections:
           description: ""
           url: /moe-sexuality-education/
   - resources:
-      title: HIGHLIGHTS AND ANNOUNCEMENT
-      button: MORE
+      title: WEBSITE UNDER CONSTRUCTION
 ---
