@@ -55,12 +55,12 @@ third_nav_title: Physical Sports
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><u><strong>Mdm Tan Hui Qing<br>Mr Lincoln Yeo<br>Mdm Sidah</strong></u></p>
+<p><u><strong>Mr. Yeo Lim Khun Lincoln (OIC)<br>Mdm. Tan Hui Qing<br>Mdm. Rosnah Bte Mohammad<br>Mdm. Nursidah Bte Abdul Wahid</strong></u></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
 <div>
-<p>Mondays : P5 &amp; P6<br>Thursdays : P3 &amp; P4<br>2pm to 4pm</p>
+<p>Mondays: 2.00 p.m to 4.00 p.m<br>Thursdays: 3.00 p.m to 5.00 p.m<br>Venue: Netball/Basketball Court</p>
 </div>
 </li>
 </ul>

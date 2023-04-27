@@ -2,7 +2,7 @@
 title: Strategy Games Society
 permalink: /strategic-games-society/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
 ---
 <h4><strong><a title="Our CCA Video (Click here)" href="https://drive.google.com/file/d/137Y3zSOXJ6GVQEMYU79oJ-pih-g0zr8x/view?usp=share_link" target="_blank" rel="noopener">OUR CCA VIDEO (CLICK HERE)</a></strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -28,12 +28,12 @@ third_nav_title: Clubs &amp; Societies
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><strong>Mdm Tan Li San<br>Mr Ho Lui Soon</strong></p>
+<p><strong>Mdm. Tan Li San (OIC)<br>Mr. Ho Lui Soon</strong></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
 <div>
-<p>Monday<br>Time: 2 pm to 4 pm<br>Location: IT Resource Room</p>
+<p>Mondays<br>Time: 2.00 p.m to 4.00 p.m<br>Location: IT Resource Room</p>
 </div>
 </li>
 </ul>
