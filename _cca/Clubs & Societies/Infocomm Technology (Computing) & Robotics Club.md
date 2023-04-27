@@ -14,16 +14,19 @@ third_nav_title: Clubs & Societies
 </tbody>
 </table>
 <h4><strong>ABOUT US</strong></h4>
-<p>Games Development, Digital Art and Basic Animation Production Skills Workshop. This workshop provides a fun environment for the students to learn basic knowledge of digital art and animation process and game development through theory and hands on exercise with various tools like stop motion, inkscape and powerpoint. Students will do detailed planning with the use of Storyboarding and learn different techniques using different tools to help edit their work.</p>
+<p>In our infocomm modules, pupils go through the Games Development, Digital Art and Basic Animation Production Skills Workshop. This workshop provides a fun environment for the students to learn basic knowledge of digital art and animation process and game development through theory and hands on exercise with various tools like stop motion, inkscape and powerpoint. Students will do detailed planning with the use of Storyboarding and learn different techniques using different tools to help edit their work.<br><br>Through the Robotics Modules, pupils develop their programming skills progressively. During the CCA sessions, pupils work in teams to develop their robots and programming skills through accomplishing the challenges and missions assigned to them. Beyond honing their skills in Robotics, pupils also learn other invaluable skills such as teamwork, problem-solving and resilience as they work on their challenges.</p>
 <h4><strong>OUR OBJECTIVES</strong></h4>
-<p>To develop pupils’ competency in using a variety of multimedia tools to produce quality project work based on specific themes given. We hope to impart and nurture our pupils the values of teamwork, responsibility and leadership. Through working together, pupils will foster a stronger friendship among themselves.</p>
+<p>1. To develop pupils’ competency in using a variety of multimedia tools to produce quality project work based on specific themes given. <br>2.  To foster creativity and problem-solving skills in our pupils as they work together in a team to solve challenges.<br>
+3.  To provide a platform for pupils to apply their programming skills and logical thinking to create solutions to solve Robotic missions.<br>4. To impart and nurture our pupils the values of teamwork, responsibility and leadership. Through working together, pupils will foster a stronger friendship among themselves.</p>
 <h4><strong>EXPERIENCES/PERFORMANCES</strong></h4>
 <p>Participation in the following competitions:</p>
 <ul>
-<li>Young Illustration Award</li>
-<li>Typomania- Video Typo Contest</li>
+		<li>2022 - First Lego League Challenge - National Rototics Competition (CoderZ Coding Challenge) </li>
+	<li>2021 -&nbsp;First Lego League Challenge - National Robotics Competition</li>
+	<li>2020 - First Lego League Challenge - National Robotics Competition</li>
 <li>Craft Animfest 2019</li>
-	<li>2022 - First Lego League Challenge - National Rototics Competition (CoderZ Coding Challenge) </li>
+	<li>Young Illustration Award</li>
+<li>Typomania- Video Typo Contest</li>
 </ul>
 <h4><strong>PROGRAMME</strong></h4>
 <ul>
@@ -40,10 +43,12 @@ Lego SPIKE Prime (Intermediate)
 <h4><strong>ACHIEVEMENTS</strong></h4>
 <p>Participation in the following competitions:</p>
 <ul>
-<li>Young Illustration Award</li>
-<li>Typomania- Video Typo Contest</li>
-<li>Craft Animfest 2019</li>
 	<li>2022 - National Robotics Competition (CoderZ Coding Challenge) - Singapore Novice 2nd place Regional Champion</li>
+		<li>2021 - First Lego League Challenge - National Robotics Competition</li>
+		<li>2020 - First Lego League Challenge - National Robotics Competition</li>
+<li>Craft Animfest 2019</li>
+	<li>Young Illustration Award</li>
+<li>Typomania- Video Typo Contest</li>
 </ul>
 <h4><strong>GALLERY</strong></h4>
 <a href="https://drive.google.com/file/d/1GjiADW5lxIuUFXbfCHAtlXGAGiwyv1zT/view"><img style="width: 33%;" src="/images/it3.jpg" align="left"></a>
