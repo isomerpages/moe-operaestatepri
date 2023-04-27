@@ -2,7 +2,7 @@
 title: Green Club
 permalink: /cca/clubs-and-societies/permalink/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
 ---
 <h4><strong>ABOUT US</strong></h4>
 <p>   
@@ -24,12 +24,12 @@ Green Club will concentrate on three main themes: conservation of resources, kee
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><strong>Ms Manickam Sumathi (Mrs Balan)<br>Mdm Lim Ching Ching</strong></p>
+<p><strong>Ms. Manickam Sumathi (Mrs. Balan) (OIC)<br>Mdm. Lim Ching Ching</strong></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
 <div>
-<p>Monday<br>Time: 2 pm to 4 pm<br></p>
+<p>Mondays: 2.00 p.m to 4.00 p.m<br>Venue: B2-05</p>
 </div>
 </li>
 </ul>
