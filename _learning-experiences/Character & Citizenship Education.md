@@ -1,5 +1,5 @@
 ---
-title: Character &amp; Citizenship Education
+title: Character & Citizenship Education
 permalink: /character-citizenship-education/
 description: ""
 ---
