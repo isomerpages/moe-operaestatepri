@@ -50,7 +50,7 @@ third_nav_title: Clubs & Societies
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><u><strong>Ms. Lee Xueqi Sherilyn (OIC)<br>Mdm. Zuo Qinjie (OIC)</strong></u></p>
+<p><u><strong>Ms. Lee Xueqi Sherilyn (OIC)<br>Mdm. Zuo Qinjie (OIC)</strong><br>Mdm. Ma Khin Kyi<br>Mdm. Chng Kwee Gek</u></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
