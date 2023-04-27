@@ -49,12 +49,12 @@ third_nav_title: Visual & Performing Arts
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><strong>Mdm Amal Norahmah Bte Darlan<br>Ms Komathy Selvaraj</strong></p>
+<p><strong>Ms. Komathy Selvaraj<br>Mdm. Amal Norahmah Bte Darlan</strong></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
 <div>
-<p>Monday, 2 - 4 p.m.</p>
+<p>Mondays: 2.00 p.m to 4.00 p.m.<br>Venue: AVA Room 2</p>
 </div>
 </li>
 </ul>
