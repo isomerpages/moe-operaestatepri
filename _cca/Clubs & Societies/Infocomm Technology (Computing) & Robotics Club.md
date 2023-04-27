@@ -23,6 +23,7 @@ third_nav_title: Clubs & Societies
 <li>Young Illustration Award</li>
 <li>Typomania- Video Typo Contest</li>
 <li>Craft Animfest 2019</li>
+	<li>2022 - First Lego League Challenge - National Rototics Competition (CoderZ Coding Challenge) </li>
 </ul>
 <h4><strong>PROGRAMME</strong></h4>
 <ul>
@@ -32,6 +33,9 @@ third_nav_title: Clubs & Societies
 <li>Creating Illustration Romero Britto Inspired Digital Art using Inkscape</li>
 <li>Creating Digital Surrealism Inspired by Salvador Dali and Rene Magritte using pixlr website.</li>
 <li>Learning Game Coding using Scratch website.</li>
+	<li>Lego SPIKE Prime (Beginner)<br>
+Lego SPIKE Prime (Intermediate)
+</li>
 </ul>
 <h4><strong>ACHIEVEMENTS</strong></h4>
 <p>Participation in the following competitions:</p>
@@ -39,6 +43,7 @@ third_nav_title: Clubs & Societies
 <li>Young Illustration Award</li>
 <li>Typomania- Video Typo Contest</li>
 <li>Craft Animfest 2019</li>
+	<li>2022 - National Robotics Competition (CoderZ Coding Challenge) - Singapore Novice 2nd place Regional Champion</li>
 </ul>
 <h4><strong>GALLERY</strong></h4>
 <a href="https://drive.google.com/file/d/1GjiADW5lxIuUFXbfCHAtlXGAGiwyv1zT/view"><img style="width: 33%;" src="/images/it3.jpg" align="left"></a>
@@ -46,6 +51,7 @@ third_nav_title: Clubs & Societies
 <a href="https://drive.google.com/file/d/1D6LkuhnWhsc-9JJwxHZ5iJ34h7MKhmFF/view"><img style="width: 33%;" src="/images/it5.png" align="left"></a><br><br><br><br><br><br><br><br><br><br>
 <a href="https://drive.google.com/file/d/1i6S5jt-USplfUO7fi4Udj40OAEEDk8iW/view"><img style="width: 33%;" src="/images/it6.png" align="left"></a>
 <a href="https://drive.google.com/file/d/18etm6zhjDbuobh4QaqfV9RCQ4PN_fTi4/view"><img style="width: 33%;" src="/images/it7.png" align="left"></a><br><br><br><br><br><br><br><br><br><br>
+<img src="/images/Robotics/robotics_1.png">
 <img src="/images/it2.png">
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
