@@ -53,12 +53,12 @@ third_nav_title: Performing Arts
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><u><strong>Mdm Arfah<br>Mdm Erlis<br>Ms He Wen Li<br>Mdm Zahureen<br>Miss Dawn Sim</strong></u></p>
-</div>
-</li>
+<p><u><strong>Mdm. Zahureen Binte Rahman<br>Ms. He Wen Li<br>Ms. Yeong Wai Cheng Anne (Mrs. Goh)</strong></u><strong><br>Mdm. Siti Arfah Bte Yusof<br>Ms. Gwendolyn Poh Su Wen (Ms. Poh)</strong></p><strong>
+</strong></div><strong>
+</strong></li><strong>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
 <div>
-<p>Mondays : P5 &amp; P6<br>Thursdays : P3 &amp; P4<br>2 pm to 4 pm</p>
+<p>Mondays : 2.00 p.m to 4.00 p.m<br>Thursdays : 3.00 p.m to 5.00 p.m<br>Venue: Music Room 1</p>
 </div>
 </li>
-</ul>
+</strong></ul>
