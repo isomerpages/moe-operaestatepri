@@ -1,9 +1,9 @@
 ---
-title: Environmental Sustainability
+title: Opera Goes Green
 permalink: /environmental-sustainability/
 description: ""
 ---
-<p><em>ENVIRONMENT SUSTAINABILITY in OEPS is through creating an&nbsp;<strong>AWARENESS</strong>, students exercise&nbsp;<strong>CHOICES</strong>&nbsp;to make an informed and responsible decision for&nbsp;<strong>ACTION.</strong></p>
+<p><em>ENVIRONMENT SUSTAINABILITY in OEPS is through creating an&nbsp;<strong>AWARENESS</strong>, students exercise&nbsp;<strong>CHOICES</strong>&nbsp;to make an informed and responsible decision for&nbsp;<strong>ACTION.</strong></em></p><em>
 <h4 style="text-align: center;"><strong>3 THEMES support Environment Sustainability in OEPS</strong></h4>
 <img style="width: 40%;" src="/images/es1.png">
 <p style="text-align: center;"><strong>GREEN CHAMPIONS</strong>&nbsp;believe they can make a difference and promote an&nbsp;Attitude of Gratitude&nbsp;to Earth in the school community.</p>
@@ -97,4 +97,4 @@ description: ""
 <td style="width: 33.3333%;"><img src="/images/es20.png"></td>
 </tr>
 </tbody>
-</table>
+</table></em>
