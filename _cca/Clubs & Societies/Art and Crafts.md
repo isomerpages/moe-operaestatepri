@@ -50,7 +50,7 @@ third_nav_title: Clubs & Societies
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
 <div>
-<p>CCA Days: Thursday<br>Time: 2.00pm - 4.00pm<br>Venue: Art Room</p>
+<p>Thursdays: 2.00pm - 4.00pm<br>Venue: Art Room</p>
 </div>
 </li>
 </ul>
