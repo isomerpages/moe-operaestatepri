@@ -51,7 +51,7 @@ third_nav_title: Physical Sports
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
 <div>
-<p>Mondays: 2.00 p.m to 4.00 p.m (School Team) <br>Thursdays: 3:00 p.m to 5:00 p.m (Development Team)</p>
+<p>Mondays: 2.00 p.m to 4.00 p.m (School Team) <br>Thursdays: 3:00 p.m to 5:00 p.m (Development Team)<br>Venue: School Field</p>
 </div>
 </li>
 </ul>
