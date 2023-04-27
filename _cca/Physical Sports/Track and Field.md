@@ -81,19 +81,19 @@ third_nav_title: Physical Sports
 <table>
 <tbody>
 <tr>
-<td style="text-align: center;"><strong>MONDAY</strong></td>
+<td style="text-align: center;"><strong>MONDAYS</strong></td>
 <td style="text-align: center;">School Team &amp; Development Team</td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Time:<br></strong>2pm-4pm</td>
+<td style="text-align: center;"><strong>Time:<br></strong>2.00 p.m to 4.00 p.m</td>
 <td style="text-align: center;"><strong>Location:<br></strong>Basketball Court</td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>THURSDAY</strong></td>
+<td style="text-align: center;"><strong>THURSDAYS</strong></td>
 <td style="text-align: center;">School Team</td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Time:<br></strong>3pm-5pm</td>
+<td style="text-align: center;"><strong>Time:<br></strong>3.00 p.m to 5.00 p.m</td>
 <td style="text-align: center;"><strong>Location:<br></strong>Basketball Court</td>
 </tr>
 </tbody>
