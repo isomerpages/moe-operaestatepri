@@ -2,7 +2,7 @@
 title: Floorball
 permalink: /floorball/
 description: ""
-third_nav_title: Sports
+third_nav_title: Physical Sports
 ---
 <h4><strong><a title="Our CCA Video (Click here)" href="https://drive.google.com/file/d/1-Nne62hGCc7DxhgcvKGOIROL6Ce3y7GK/view" target="_blank" rel="noopener">OUR CCA VIDEO (CLICK HERE)</a></strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -94,7 +94,7 @@ third_nav_title: Sports
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p>Mr. Osman&nbsp;<strong>(OIC)<br></strong>Mdm Ashilah<br>Mdm. Lienda<br>Mr Gomes</p><p>Coaches<br>1. Coach Faris (School Team)<br>2. Coach Marcus (School Team)<br>3. Coach Francine (Development Team)<br>
+<p>Mr. Osman&nbsp;<strong>(OIC)<br></strong>Mdm. Ashilah Binte Abdul Latiff<br>Mdm. Lienda Bte Jamali<br>Mr. Leonard Paul Gomes</p><p>Coaches<br>1. Coach Faris (School Team)<br>2. Coach Marcus (School Team)<br>3. Coach Francine (Development Team)<br>
 </p></div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>

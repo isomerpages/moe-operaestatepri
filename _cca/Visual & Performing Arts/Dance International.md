@@ -1,8 +1,8 @@
 ---
-title: Modern Dance
+title: Dance International
 permalink: /dance/
 description: ""
-third_nav_title: Performing Arts
+third_nav_title: Visual & Performing Arts
 ---
 <h4><strong><a title="Our CCA Video (Click here)" href="https://drive.google.com/file/d/1OELZKspUXkxmzB0Zo-Tg7x5cZ25llv_r/view?usp=sharing" target="_blank" rel="noopener">OUR CCA VIDEO (CLICK HERE)</a></strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -22,7 +22,7 @@ third_nav_title: Performing Arts
 <li>To develop an appreciation for the art form</li>
 </ul>
 <h4><strong>EXPERIENCES/PERFORMANCES</strong></h4>
-<p>Singapore Youth Festival 2022<br />Children&rsquo;s Day Celebration 2022<br />Annual Prize Giving Day 2022<br />Singapore Youth Festival 2018<br />OEPS Open House 2019<br />Joo Chiat 30th Anniversary National Day Carnival 2019<br />Children&rsquo;s Day HeArts Celebration 2019<br />Annual Prize Giving Day 2019</p>
+<p>Singapore Youth Festival 2022<br>Children’s Day Celebration 2022<br>Annual Prize Giving Day 2022<br>Singapore Youth Festival 2018<br>OEPS Open House 2019<br>Joo Chiat 30th Anniversary National Day Carnival 2019<br>Children’s Day HeArts Celebration 2019<br>Annual Prize Giving Day 2019</p>
 <h4><strong>CHARACTER DEVELOPMENT</strong></h4>
 <p>Through dance, members will learn important values of perseverance, teamwork, commitment and discipline.</p>
 <h4><strong>PROGRAMME</strong></h4>
@@ -45,20 +45,20 @@ third_nav_title: Performing Arts
 <td style="width: 50%;"><img src="/images/md6.jpg"></td>
 </tr>
 <tr>
-<td colspan = "2"><img src="/images/dance2.png"></td>
+<td colspan="2"><img src="/images/dance2.png"></td>
 </tr>
 </tbody>
 </table>
 
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Teachers in Charge</label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><u><strong>Mdm Arfah<br />Mdm Erlis<br />Ms He Wen Li<br />Mdm Zahureen<br />Miss Dawn Sim</strong></u></p>
+<p><u><strong>Mdm. Zahureen Binte Rahman<br>Ms. He Wen Li<br>Ms. Yeong Wai Cheng Anne (Mrs. Goh)</strong></u><strong><br>Mdm. Siti Arfah Bte Yusof<br>Ms. Gwendolyn Poh Su Wen (Ms. Poh)</strong></p><strong>
+</strong></div><strong>
+</strong></li><strong>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
+<div>
+<p>Mondays : 2.00 p.m to 4.00 p.m<br>Thursdays : 3.00 p.m to 5.00 p.m<br>Venue: Music Room 1</p>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">CCA Schedule</label>
-<div>
-<p>Mondays : P5 &amp; P6<br />Thursdays : P3 &amp; P4<br />2 pm to 4 pm</p>
-</div>
-</li>
-</ul>
+</strong></ul>

@@ -2,7 +2,7 @@
 title: Track and Field
 permalink: /athletics/
 description: ""
-third_nav_title: Sports
+third_nav_title: Physical Sports
 ---
 <h4><strong><a title="Our CCA Video (Click here)" href="https://drive.google.com/file/d/1-Nne62hGCc7DxhgcvKGOIROL6Ce3y7GK/view" target="_blank" rel="noopener">OUR CCA VIDEO (CLICK HERE)</a></strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -15,7 +15,7 @@ third_nav_title: Sports
 </table>
 <h4><strong>ABOUT US</strong></h4>
 <p>The objective of our CCA is to provide the pupils with an opportunity to learn basic track &amp; field skills as well as enable pupils to develop their motor skills in a fun and safety manner. Under the guidance of the coach, the pupils learn to run, hop, throw and jump in activities suitable to their age and well-being.</p>
-<p>Pupils will have the opportunity to compete participate in the national competition, which has been revamped recently to suit the pupils&rsquo; needs.</p>
+<p>Pupils will have the opportunity to compete participate in the national competition, which has been revamped recently to suit the pupils’ needs.</p>
 <h4><strong>OUR OBJECTIVES</strong></h4>
 <p>Track and Field CCA is a platform for pupils to learn the basic fundamentals of Track &amp; Field as well as valuable life skills such as perseverance, working hard, not being afraid to fail, being a good team-mate and setting achievable goals. Winning medals is not the focus of our CCA but rather, the journey of giving your best, doing your best and achieving your best.</p>
 <h4><strong>EXPERIENCES/PERFORMANCES</strong></h4>
@@ -34,49 +34,49 @@ third_nav_title: Sports
 <tbody>
 <tr>
 <td style="width: 50%;"><p>The pupils performed to the best of their abilities and managed to make the school proud by being able to compete with the best the country has to offer. A special mention goes out to David Sassarak of 5 Integrity, who finished a credible 11th out of 16th in the 600m C Boys Finals, with a personal best timing of 1 min 59.85 secs while Zosia Watkins of 5 Honesty managed to make it to the 200m C Girls semi-finals, running a personal best of 32.45 secs.</p>
-<p>You can read the team&rsquo;s achievements by clicking on the link below: <a href="https://nsg.rjcat.com/pritrack_2019/ss_home.php?mypage=result/zzschool-oep.htm">https://nsg.rjcat.com/pritrack_2019/ss_home.php?mypage=result/zzschool-oep.htm</a></p></td>
+<p>You can read the team’s achievements by clicking on the link below: <a href="https://nsg.rjcat.com/pritrack_2019/ss_home.php?mypage=result/zzschool-oep.htm">https://nsg.rjcat.com/pritrack_2019/ss_home.php?mypage=result/zzschool-oep.htm</a></p></td>
 <td style="width: 50%;"><img src="/images/tf3.jpeg"></td>
 </tr>
 </tbody>
 </table>
 <h4><strong>CHARACTER DEVELOPMENT</strong></h4>
-<p>Pupils will learn valuable life skills such as perseverance, working hard, not being afraid to fail, being a good team-mate and setting achievable goals.<br />Winning medals is not the focus of our CCA but rather, the journey of giving your best, doing your best and achieving your best.</p>
+<p>Pupils will learn valuable life skills such as perseverance, working hard, not being afraid to fail, being a good team-mate and setting achievable goals.<br>Winning medals is not the focus of our CCA but rather, the journey of giving your best, doing your best and achieving your best.</p>
 <h4><strong>ACHIEVEMENTS</strong></h4>
 <p>2018 59th National Primary School Track &amp; Field Championships</p>
 <ul>
-<li>A Division 600m Boys &ndash; Wu Junhao (1st)</li>
-<li>A Division 300m Boys &ndash; Wu Junhao (2nd)</li>
-<li>A Division 100m Girls &ndash; Alyssa Maxene Berongoy (1st)</li>
-<li>A Division 200m Girls &ndash; Alyssa Maxene Berongoy (4th)</li>
-<li>B Division 600m Girls &ndash; Olivia Hornsleth (1st)</li>
-<li>C Division 600m Girls &ndash; Aimee O&rsquo;Toole (9th)</li>
-<li>D Division 600m Boys &ndash; David Sassarak (6th)</li>
-<li>D Division 100m Girls &ndash; Zosia Watkins (14th)</li>
-<li>D Division 200m Girls &ndash; Zosia Watkins (15th)</li>
+<li>A Division 600m Boys – Wu Junhao (1st)</li>
+<li>A Division 300m Boys – Wu Junhao (2nd)</li>
+<li>A Division 100m Girls – Alyssa Maxene Berongoy (1st)</li>
+<li>A Division 200m Girls – Alyssa Maxene Berongoy (4th)</li>
+<li>B Division 600m Girls – Olivia Hornsleth (1st)</li>
+<li>C Division 600m Girls – Aimee O’Toole (9th)</li>
+<li>D Division 600m Boys – David Sassarak (6th)</li>
+<li>D Division 100m Girls – Zosia Watkins (14th)</li>
+<li>D Division 200m Girls – Zosia Watkins (15th)</li>
 </ul>
 <p>2017 58th National Primary School Track &amp; Field Championships</p>
 <ul>
-<li>B Division 100m Boys &ndash; Davide Justin Rosetto (9th)</li>
-<li>D Division 600m Girls &ndash; Nicole Philip (9th)</li>
+<li>B Division 100m Boys – Davide Justin Rosetto (9th)</li>
+<li>D Division 600m Girls – Nicole Philip (9th)</li>
 </ul>
 <p>2016 57th National Primary School Track &amp; Field Championships</p>
 <ul>
-<li>A Division 300m Boys &ndash; Song Yuze (3rd)</li>
-<li>A Division 600m Boys &ndash; Song Yuze (3rd)</li>
-<li>C Division 100m Boys &ndash; Davide Justin Rossetto (1st)</li>
-<li>C Division 200m Boys &ndash; Davide Justin Rossetto (1st) (28:36-NR)</li>
-<li>D Division 300m Girls &ndash; Olivia Hornsleth (2nd)</li>
-<li>D Division 200m Girls &ndash; Olivia Hornsleth (8th)</li>
+<li>A Division 300m Boys – Song Yuze (3rd)</li>
+<li>A Division 600m Boys – Song Yuze (3rd)</li>
+<li>C Division 100m Boys – Davide Justin Rossetto (1st)</li>
+<li>C Division 200m Boys – Davide Justin Rossetto (1st) (28:36-NR)</li>
+<li>D Division 300m Girls – Olivia Hornsleth (2nd)</li>
+<li>D Division 200m Girls – Olivia Hornsleth (8th)</li>
 </ul>
 <h4><strong>GALLERY</strong></h4>
 <img src="/images/tf4.png">
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /><label for="accordion1">TEACHERS IN CHARGE</label>
+<li><input id="accordion1" type="checkbox"><label for="accordion1">TEACHERS IN CHARGE</label>
 <div>
-<p>Mr. Nor Hadi Bin Isnin&nbsp;<strong>(OIC)<br /></strong>Ms. Chen Lijia<br />Ms. Lim Pei Yi, Rachel</p>
+<p>Mr. Nor Hadi Bin Isnin&nbsp;<strong>(OIC)<br></strong>Ms. Chen Lijia<br>Ms. Lim Pei Yi, Rachel</p>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">CCA SCHEDULE</label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA SCHEDULE</label>
 <div>
 <table>
 <tbody>
@@ -85,16 +85,16 @@ third_nav_title: Sports
 <td style="text-align: center;">School Team &amp; Development Team</td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Time:<br /></strong>2pm-4pm</td>
-<td style="text-align: center;"><strong>Location:<br /></strong>Basketball Court</td>
+<td style="text-align: center;"><strong>Time:<br></strong>2pm-4pm</td>
+<td style="text-align: center;"><strong>Location:<br></strong>Basketball Court</td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>THURSDAY</strong></td>
 <td style="text-align: center;">School Team</td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Time:<br /></strong>3pm-5pm</td>
-<td style="text-align: center;"><strong>Location:<br /></strong>Basketball Court</td>
+<td style="text-align: center;"><strong>Time:<br></strong>3pm-5pm</td>
+<td style="text-align: center;"><strong>Location:<br></strong>Basketball Court</td>
 </tr>
 </tbody>
 </table>
