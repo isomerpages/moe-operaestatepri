@@ -46,12 +46,12 @@ third_nav_title: Physical Sports
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><span style="text-decoration: underline;"><strong>Mr Omar Azahari<br></strong></span><span style="text-decoration: underline;"><strong>Mr Issac Pang<br></strong></span><span style="text-decoration: underline;"><strong>Mr Ho Lui Soon<br></strong></span><span style="text-decoration: underline;"><strong>Mr Alex Chee<br></strong></span><span style="text-decoration: underline;"><strong>Mr Yeo Jun Cong<br></strong></span><span style="text-decoration: underline;"><strong>Ms Amanda Yong</strong></span></p>
+<p><span style="text-decoration: underline;"><strong>Mr. Omar Azahari Bin Mohammed Ali  (OIC)<br></strong></span><span style="text-decoration: underline;"><strong>Mr. Pang Sheir Zheng Issac<br></strong></span><span style="text-decoration: underline;"><strong>Ms. Yong Yue Teng Amanda (Mrs. Seow)<br></strong></span><span style="text-decoration: underline;"><strong>Mr. Leng Kok Keong<br></strong></span><span style="text-decoration: underline;"><strong>Mr. Yeo Jun Cong<br></strong></span><span style="text-decoration: underline;"></span></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
 <div>
-<p>School Team: Monday<br>Development Team: Thursday<br>Time:<br>2:00pm to 4:00pm</p>
+<p>Mondays: 2.00 p.m to 4.00 p.m (School Team) <br>Thursdays: 3:00 p.m to 5:00 p.m (Development Team)</p>
 </div>
 </li>
 </ul>
