@@ -3,10 +3,7 @@ title: History
 permalink: /history/
 description: ""
 ---
-
-
-
-	<title>My Web Page</title>
+<title>My Web Page</title>
 	<style>
 		body {
 			text-align: center; /* Set the text alignment for the whole body */
