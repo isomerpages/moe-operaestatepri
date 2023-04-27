@@ -64,10 +64,7 @@ third_nav_title: Performing Arts
 </strong></u></li><u><strong>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
 <div>
-<p>Monday : 2.00 p.m to 4.00 p.m<br>Thursday : 3.00 p.m. to 5.00 p.m.</p><br> Location: Music Room 2
+<p>Monday : 2.00 p.m to 4.00 p.m<br>Thursday : 3.00 p.m. to 5.00 p.m.</p>Venue: Music Room 2
 </div>
 </li>
 </strong></u></ul>
-
-
-
