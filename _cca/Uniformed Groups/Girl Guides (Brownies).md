@@ -67,12 +67,12 @@ third_nav_title: Uniformed Groups
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><span style="text-decoration: underline;"><strong>Ms Nur Farah<br></strong><strong>Mdm Nuraihan<br></strong><strong>Mdm Hafizzah</strong></span></p>
+<p><span style="text-decoration: underline;"><strong>Mdm. Nur Farah Binte Mohamad Shukor (OIC)<br></strong><strong>Mdm. Nuraihan Bte Abdul Subhan<br></strong></span></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
 <div>
-<p>Every Monday 2 pm - 4 pm</p>
+<p>Mondays: 2.00 p.m to 4.00 p.m<br>Venue: C2-02</p>
 </div>
 </li>
 </ul>
