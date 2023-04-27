@@ -50,12 +50,12 @@ third_nav_title: Clubs & Societies
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><u><strong>Ms Sherilyn Lee<br>Mrs Chng Kwee Gek</strong></u></p>
+<p><u><strong>Ms. Lee Xueqi Sherilyn (OIC)<br>Mdm. Zuo Qinjie (OIC)</strong></u></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
 <div>
-<p>Monday<br>2:00pm to 4:00pm</p>
+<p>Mondays: 2:00 p.m to 4:00 p.m<br>Venue: Computer Lab Level 2-4, AVA Room 1</p>
 </div>
 </li>
 </ul>
