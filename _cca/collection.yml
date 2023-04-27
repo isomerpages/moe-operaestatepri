@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - CCA.md
-      - Sports/.keep
-      - Sports/Track and Field.md
-      - Sports/Football.md
-      - Sports/Netball.md
-      - Sports/Floorball.md
+      - Physical Sports/.keep
+      - Physical Sports/Track and Field.md
+      - Physical Sports/Football.md
+      - Physical Sports/Netball.md
+      - Physical Sports/Floorball.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Girl Guides – Brownies.md
       - Uniformed Groups/Scouts.md
