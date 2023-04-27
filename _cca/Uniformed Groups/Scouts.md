@@ -40,14 +40,14 @@ third_nav_title: Uniformed Groups
 <h4><strong>GALLERY</strong></h4>
 <img src="/images/scouts2.png">
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Teachers in Charge</label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><span style="text-decoration: underline;"><strong>Mr Abdul Rahim<br /></strong><strong>Mr Ray</strong></span></p>
+<p><span style="text-decoration: underline;"><strong>Mr. Abdul Rahim s/o A P M Adam<br></strong><strong>Mr. Ray Aziz</strong></span></p>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">CCA Schedule</label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
 <div>
-<p>THURSDAYS (2PM - 4PM)</p>
+<p>Mondays: 2.00 p.m to 4.00 p.m</p>
 </div>
 </li>
 </ul>
