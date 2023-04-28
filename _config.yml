@@ -1,5 +1,5 @@
 title: Opera Estate Primary School
-url: ""
+url: https://operaestatepri.moe.edu.sg
 favicon: /images/oeps.jpg
 colors:
   primary-color: "#009f03"
@@ -57,3 +57,4 @@ facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: opera-estate-primary-school
+google_analytics_ga4: ""
