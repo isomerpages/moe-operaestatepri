@@ -24,6 +24,7 @@ third_nav_title: For Parents
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><a href="/files/month_apr_2023.pdf"><img style="width: 80%;" src="/images/mn.png"></a></td>
+	<td style="width: 33.3333%;"><a href="/files/may 2023.pdf"><img style="width: 80%;" src="/images/mn.png"></a></td>
 	
 	
 
@@ -31,7 +32,7 @@ third_nav_title: For Parents
 <td style="width: 33.3333%;">&nbsp;</td>
 </tr>
 	<tr>
-<td style="width: 33.3333%;"><p style="text-align: center;"><strong><a href="/files/month_apr_2023.pdf">APRIL 2023</a></strong></p></td>
+<td style="width: 33.3333%;"><p style="text-align: center;"><strong><a href="/files/month_apr_2023.pdf">APRIL 2023</a></strong></p></td><td style="width: 33.3333%;"><p style="text-align: center;"><strong><a href="/files/may 2023.pdf">MAY 2023</a></strong></p></td>
 	
 	
 	
