@@ -834,12 +834,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">
-<p>Mr. Mohd Sultan</p>
-</td>
-<td style="text-align: center;">
-<p>Security Officer</p>
-</td>
+
+
 </tr>
 </tbody>
 </table>
