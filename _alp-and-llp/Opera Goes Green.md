@@ -44,4 +44,4 @@ description: ""
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;line-height:normal"><span style="mso-spacerun:yes">&nbsp; <img src="/images/operagogreen_5.png"></span></p></td></tr></tbody></table>
 	
-<img src="/images/operagogreen_8.jpg"><p></p>
+<img src="/images/operagogreen_10.PNG"><p></p>
