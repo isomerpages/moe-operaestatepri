@@ -26,4 +26,20 @@ description: ""
 <ul>
   <li>Influence and persuade peers and community on environmental sustainability issues</li>
    <li>Lead school-wide environmental sustainability projects</li>
-</ul>
+</ul><br>
+<p align="center" style="color:green;"><b>OPG FOCUS AREAS</b></p>
+<img src="/images/operagogreen_1.png"> <br>
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:493.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.05pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.05pt"><p style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-SG" style="font-size:14.0pt;color:#003399;mso-ansi-language:EN-SG">Less Food Waste - COMPOST VIA</span></b><span style="font-size:14.0pt"></span></p></td><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.05pt"><p style="margin-bottom:0cm;line-height:normal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:166.1pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal"><span style="font-size:12.0pt"><br>Compost VIA is an initiative at OEPS that promotes environmental sustainability by reducing food waste.</span></p><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal"><span style="font-size:12.0pt">Students are encouraged to donate food waste to turn it into nutrient-rich<span style="mso-spacerun:yes">&nbsp; </span>compost .</span></p><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal"><span style="font-size:12.0pt">Green Champions are involved in community outreach by giving away compost to residents in the neighborhood.</span></p></td><td width="329" valign="top" style="width:246.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;line-height:normal"><span style="mso-spacerun:yes">&nbsp; </span></p></td></tr></tbody></table>
