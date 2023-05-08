@@ -411,7 +411,7 @@ description: ""
 <p><strong>2 Honesty</strong></p>
 </td>
 <td style="text-align: center;" width="231">
-<p>Mdm. Noraini Binte Abdul Rahim<br>Mdm. Chng Kwee Gek</p>
+<p>Mdm. Noraini Binte Abdul Rahim<br>Mdm. Chng Kwee Gek<br>Ms. Harlyn Nadiah Binte Mohamed Tahar</p>
 </td>
 </tr>
 <tr>
