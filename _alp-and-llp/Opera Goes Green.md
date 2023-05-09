@@ -3,98 +3,113 @@ title: Opera Goes Green
 permalink: /environmental-sustainability/
 description: ""
 ---
-<p><em>ENVIRONMENT SUSTAINABILITY in OEPS is through creating an&nbsp;<strong>AWARENESS</strong>, students exercise&nbsp;<strong>CHOICES</strong>&nbsp;to make an informed and responsible decision for&nbsp;<strong>ACTION.</strong></em></p><em>
-<h4 style="text-align: center;"><strong>3 THEMES support Environment Sustainability in OEPS</strong></h4>
-<img style="width: 40%;" src="/images/es1.png">
-<p style="text-align: center;"><strong>GREEN CHAMPIONS</strong>&nbsp;believe they can make a difference and promote an&nbsp;Attitude of Gratitude&nbsp;to Earth in the school community.</p>
-<p style="text-align: center;">Green Champions play an active role in leading the school in Environment Sustainability.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><p><strong>Green Champions -&nbsp;</strong>Create awareness through FTGP talks &amp; recess activities- Support School-wide &amp; Level Activities</p>
+<h5>OPERA GOES GREEN</h5>
+<p>Focus Area: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>STEM</b>
+<br>Contextual Theme:&nbsp;&nbsp;&nbsp;<b>Sustainability</b><br><b></b></p><p style="color:green;"><b>AIM</b></p><ul>
+  <li>Create awareness of environmental sustainability issues</li>
+   <li>Motivate students in taking environmentally-conscious actions</li>
+	<li>Empower students to advocate for environmental causes</li>
+</ul><br>
+<p style="color:green;"><b>3A APPROACH</b></p>
+<b>Awareness</b>
 <ul>
-<li>Keeping School Clean Movement</li>
-<li>Reduce Waste - 3Rs/ Paper Recycling</li>
-<li>Reduce Food Waste - Composting Machine</li>
-<li>World Water Day</li>
-<li>Earth Hour</li>
-<li>Monitoring Garden</li>
-</ul></td>
-<td style="width: 50%;"><img style="width: 65%;" src="/images/es2.png"><img style="width: 50%;" src="/images/es3.png"></td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Keep School Clean Movement</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><p>Primary 3 to Primary 6 Green Champions are rostered to ensure that:</p>
-<ul>
-<li><strong>Maintain cleanliness&nbsp;</strong>in the classroom</li>
-<li>Manage the recycling tray in the classroom</li>
-<li>Switch off lights along the corridors before 7.30 am daily</li>
+  <li>Acquire knowledge on environmental sustainability issues and challenges</li>
+   <li>Develop an attitude of gratitude towards the environment</li>
+	<li>Inculcate values towards environmentally-conscious living</li>
 </ul>
-<img style="width: 50%;" src="/images/es5.jpg"></td>
-<td style="width: 50%;"><img src="/images/es4.jpg"></td>
-</tr>
-</tbody>
-</table>
-<h4 style="text-align: center;"><strong>Monitoring of the OEPS Green Corridor</strong></h4>
-<p style="text-align: center;">Green Champions have a sense of ownership to care for the biodiversity in OEPS. Selected GCs monitor the condition of the Opera Green Corridor during their recess, using the Epicollect5 app. They actively give feedback&nbsp; about the flora and fauna and the safety aspects of the garden.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/es6.png"></td>
-<td style="width: 50%;"><img src="/images/es7.png"></td>
-</tr>
-</tbody>
-</table>
-<h4 style="text-align: center;"><strong>Reduce Food Waste – Composting Machine</strong></h4>
-<p style="text-align: center;">Green Champions took charge of the composting machine by guiding fellow students on disposing of the leftover food during recess. A sharing was conducted by a Green Champion on reducing food waste during FTGP to bring greater awareness that food waste can be converted into fertiliser and put to good use.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%;"><img src="/images/es8.png"></td>
-<td style="width: 33.3333%;"><img src="/images/es9.png"></td>
-<td style="width: 33.3333%;"><img src="/images/es10.png"></td>
-</tr>
-</tbody>
-</table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 65%;"><h4><strong>World Water Day</strong></h4>
-<p>There was a sharing on World Water Day and water conservation during FTGP. Through a recess activity, Green Champions took the lead to spread awareness on water conservation with their classmates.</p></td>
-<td style="width: 35%;"><img src="/images/es11.png"></td>
-</tr>
-</tbody>
-</table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 20%;"><img src="/images/es12.png"></td>
-<td style="width: 20%;"><img src="/images/es13.png"></td>
-<td style="width: 20%;"><img src="/images/es14.png"></td>
-<td style="width: 20%;"><img src="/images/es15.png"></td>
-<td style="width: 20%;"><img src="/images/es16.png"></td>
-</tr>
-</tbody>
-</table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 65%;"><h4><strong>OEPS Earth Hour</strong></h4>
-<p>An FTGP talk was conducted on saving electricity and to bring a greater awareness on Earth Hour. OEPS switched off all lights at a specific time to commemorate Earth Hour. It was followed up with a recess activity.</p></td>
-<td style="width: 35%;"><img src="/images/es17.png"></td>
-</tr>
-</tbody>
-</table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%;"><img src="/images/es18.png"></td>
-<td style="width: 33.3333%;"><img src="/images/es19.png"></td>
-<td style="width: 33.3333%;"><img src="/images/es20.png"></td>
-</tr>
-</tbody>
-</table></em>
+<b>Action</b>
+<ul>
+  <li>Make informed and responsible environmentally-sustainable decisions</li>
+   <li>Take initiative to contribute towards caring for the environment</li>
+</ul>
+<b>Advocacy</b>
+<ul>
+  <li>Influence and persuade peers and community on environmental sustainability issues</li>
+   <li>Lead school-wide environmental sustainability projects</li>
+</ul><br>
+<p align="center" style="color:green;"><b>OPG FOCUS AREAS</b></p>
+<img src="/images/operagogreen_1.png"> <br><br>
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:493.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.05pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.05pt"><p style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-SG" style="font-size:14.0pt;color:#003399;mso-ansi-language:EN-SG">Less Food Waste - COMPOST VIA</span></b><span style="font-size:14.0pt"></span></p></td><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.05pt"><p style="margin-bottom:0cm;line-height:normal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:166.1pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal"><span style="font-size:12.0pt"><br><br>Compost VIA is an initiative at OEPS that promotes environmental sustainability by reducing food waste.</span></p><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal"><span style="font-size:12.0pt"><br>Students are encouraged to donate food waste to turn it into nutrient-rich<span style="mso-spacerun:yes">&nbsp; </span>compost .</span></p><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal"><span style="font-size:12.0pt"><br>Green Champions are involved in community outreach by giving away compost to residents in the neighborhood.</span></p></td><td width="329" valign="top" style="width:246.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;line-height:normal"><span style="mso-spacerun:yes">&nbsp; <img src="/images/operagogreen_5.png"></span></p></td></tr></tbody></table>
+	
+<img src="/images/operagogreen_10.PNG"><p></p>
+<br>
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:493.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.05pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.05pt"><p style="margin-bottom:0cm;line-height:normal" align="center"><b><span lang="EN-SG" style="font-size:14.0pt;color:#003399;mso-ansi-language:EN-SG">   Less E-Waste-Recycling Drive</span></b><span style="font-size:14.0pt"></span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:166.1pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal"><span style="font-size:12.0pt"><br>   Earth Day is an annual event commemorated on April 22 to demonstrate support for environmental protection. In conjunction with this event, the school&nbsp; organises e-waste recycling drive.</span></p><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal"><span style="font-size:12.0pt">Green champions shared during the assembly on focusing on sustainability practices for Earth Day year through recycling electronic-waste also known as e-waste.<span style="mso-spacerun:yes">&nbsp; </span>compost .</span></p><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal"><span style="font-size:12.0pt"> Students are encouraged to bring in&nbsp; appropriate e-waste from home and deposit them into the e-waste recycling bin. They recycling drive is also extended to the community.</span></p></td></tr></tbody></table>
+<p>	<img src="/images/operagogreen_11.png"></p><p>	<img src="/images/operagogreen_12.png"></p>
+<br><br><br><br>
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:493.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.05pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.05pt"><p style="margin-bottom:0cm;line-height:normal" align="center"><b><span lang="EN-SG" style="font-size:14.0pt;color:#003399;mso-ansi-language:EN-SG">World Water Day</span></b><span style="font-size:14.0pt"></span></p></td><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.05pt"><p style="margin-bottom:0cm;line-height:normal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:166.1pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal"><span style="font-size:12.0pt"><br>World Water Day is commemorated on 22 March.<br><br>World Water Day is celebrated through school-wide activities that educates our students on the importance of water security.<br><br>Our Green Champions,&nbsp; mark the beginning of the commemoration with an assembly talk on freshwater shortage and the mindful habits when using water.<br><br>There was also a skit on water ration exercise to help our students appreciate our country’s water infrastructures.<br><br>During recess, Green Champions were seen educating their schoolmates on water conservation.&nbsp; The game booths were well-received by students who were eager to try out the games.</span></p></td><td width="329" valign="top" style="width:246.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;line-height:normal"><span style="mso-spacerun:yes">&nbsp; <img src="/images/operagogreen_13.PNG"></span></p></td></tr></tbody></table>
+<img src="/images/operagogreen_14.PNG"><br><br>
+
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:493.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.05pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.05pt"><p style="margin-bottom:0cm;line-height:normal" align="center"><b><span lang="EN-SG" style="font-size:14.0pt;color:#003399;mso-ansi-language:EN-SG">Biodiversity Day</span></b><span style="font-size:14.0pt"></span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:166.1pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal"><span style="font-size:12.0pt"><br>Biodiversity Day is commerated on 22 May. Green Champions shared on real-life situations and how pupils can contribute in conserving our biodiversity. <br><br> <img src="/images/operagogreen_16.PNG"><br><br> <img src="/images/operagogreen_17.PNG"></span></p></td>
+</tr></tbody></table><br><br>
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:493.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.05pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.05pt"><p style="margin-bottom:0cm;line-height:normal" align="center"><b><span lang="EN-SG" style="font-size:14.0pt;color:#003399;mso-ansi-language:EN-SG">   P4 Sungei Buloh Trip</span></b><span style="font-size:14.0pt"></span></p></td><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.05pt"><p style="margin-bottom:0cm;line-height:normal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:166.1pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal"><span style="font-size:12.0pt"><br><br>P4 students went on a learning journey to Sungei Buloh Wetland Reserve on 7 or 8 February during curriculum time. <br><br>The P4 theme for Opera Goes Green is “Conservation of Biodiversity”, hence the students learnt about the rich biodiversity in Sungei Buloh, as well as the threats that plants and animals face.</span></p></td><td width="329" valign="top" style="width:246.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;line-height:normal"><span style="mso-spacerun:yes">&nbsp; <img src="/images/operagogreen_18.PNG"></span></p></td></tr></tbody></table>
+	<img src="/images/operagogreen_19.PNG"><br><br>
+	
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:493.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.05pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.05pt"><p style="margin-bottom:0cm;line-height:normal" align="center"><b><span lang="EN-SG" style="font-size:14.0pt;color:#003399;mso-ansi-language:EN-SG">      P4 Digital Maker Programme</span></b><span style="font-size:14.0pt"></span></p></td><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.05pt"><p style="margin-bottom:0cm;line-height:normal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:166.1pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal"><span style="font-size:12.0pt"><br><br>P4 students took part in the Digital Maker Programme from 7 to 9 March, during curriculum time.<br><br>They learnt coding and computational thinking using a micro:bit.<br><br>Applying Design Thinking framework, the students&nbsp; created&nbsp; prototype using recycled materials and the micro:bit to solve authentic real-world problems related to the theme “Conservation of Biodiversity”.</span></p></td><td width="329" valign="top" style="width:246.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;line-height:normal"><span style="mso-spacerun:yes">&nbsp; <img src="/images/operagogreen_20.PNG"></span></p></td></tr></tbody></table>
+	<img src="/images/operagogreen_24.JPG"><br><br>
+	<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:493.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.05pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.05pt"><p style="margin-bottom:0cm;line-height:normal" align="center"><b><span lang="EN-SG" style="font-size:14.0pt;color:#003399;mso-ansi-language:EN-SG">P5 Learning Journey to Gardens By the Bay</span></b><span style="font-size:14.0pt"></span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:166.1pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal"><span style="font-size:12.0pt"><br>Our Primary 5 students went on a Science learning journey to Gardens by the Bay. <br><br>Our students were immersed in the "World of Plants" as they discovered how different plants carry out pollination and seed dispersal, and how they adapt to their living environments.<br><br>Not only did the students learn more about the flora and fauna in Gardens by the Bay, they also ended the trip with fond memories from visiting one of many iconic places in Singapore!<br><br> <img src="/images/operagogreen_23.JPG"></span></p></td>
+</tr></tbody></table><br><br>
+
+	

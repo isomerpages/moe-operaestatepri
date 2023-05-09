@@ -411,7 +411,7 @@ description: ""
 <p><strong>2 Honesty</strong></p>
 </td>
 <td style="text-align: center;" width="231">
-<p>Mdm. Noraini Binte Abdul Rahim<br>Mdm. Chng Kwee Gek</p>
+<p>Mdm. Noraini Binte Abdul Rahim<br>Mdm. Chng Kwee Gek<br>Ms. Harlyn Nadiah Binte Mohamed Tahar</p>
 </td>
 </tr>
 <tr>
@@ -670,8 +670,15 @@ description: ""
 <p>Special Educational Needs Officer (SEN Officer)</p>
 </td>
 </tr>
+	<tr style="text-align: center;">
+<td>
+<p>Miss Yeo Jing Jing Rebecca</p>
+</td>
+<td>
+<p>Special Educational Needs Officer (SEN Officer)</p>
+</td>
 
-<tr style="text-align: center;">
+</tr><tr style="text-align: center;">
 <td>
 <p>Ms. Tng Jia En Joanne</p>
 </td>
@@ -687,14 +694,8 @@ description: ""
 <p>School Counsellor</p>
 </td>
 </tr>
-<tr style="text-align: center;">
-<td>
-<p>Ms. Juhariah Binte Ahmad</p>
-</td>
-<td>
-<p>School Counsellor</p>
-</td>
-</tr>
+
+
 </tbody>
 </table>
 </div>
@@ -834,12 +835,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">
-<p>Mr. Mohd Sultan</p>
-</td>
-<td style="text-align: center;">
-<p>Security Officer</p>
-</td>
+
+
 </tr>
 </tbody>
 </table>
