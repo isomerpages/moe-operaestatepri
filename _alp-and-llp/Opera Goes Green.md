@@ -28,7 +28,7 @@ description: ""
    <li>Lead school-wide environmental sustainability projects</li>
 </ul><br>
 <p align="center" style="color:green;"><b>OPG FOCUS AREAS</b></p>
-<img src="/images/operagogreen_1.png"> <br>
+<img src="/images/operagogreen_1.png"> <br><br>
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:493.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.05pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
@@ -45,7 +45,7 @@ description: ""
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;line-height:normal"><span style="mso-spacerun:yes">&nbsp; <img src="/images/operagogreen_5.png"></span></p></td></tr></tbody></table>
 	
 <img src="/images/operagogreen_10.PNG"><p></p>
-
+<br>
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:493.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.05pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.05pt"><p style="margin-bottom:0cm;line-height:normal" align="center"><b><span lang="EN-SG" style="font-size:14.0pt;color:#003399;mso-ansi-language:EN-SG">   Less E-Waste-Recycling Drive</span></b><span style="font-size:14.0pt"></span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:166.1pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
@@ -54,3 +54,5 @@ description: ""
   inter-ideograph;line-height:normal"><span style="font-size:12.0pt"><br>   Earth Day is an annual event commemorated on April 22 to demonstrate support for environmental protection. In conjunction with this event, the school&nbsp; organises e-waste recycling drive.</span></p><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal"><span style="font-size:12.0pt">Green champions shared during the assembly on focusing on sustainability practices for Earth Day year through recycling electronic-waste also known as e-waste.<span style="mso-spacerun:yes">&nbsp; </span>compost .</span></p><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal"><span style="font-size:12.0pt"> Students are encouraged to bring in&nbsp; appropriate e-waste from home and deposit them into the e-waste recycling bin. They recycling drive is also extended to the community.</span></p></td></tr></tbody></table>
+<p>	<img src="/images/operagogreen_11.png"></p><p>	<img src="/images/operagogreen_12.png"></p>
+<br>
