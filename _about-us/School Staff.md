@@ -670,8 +670,15 @@ description: ""
 <p>Special Educational Needs Officer (SEN Officer)</p>
 </td>
 </tr>
+	<tr style="text-align: center;">
+<td>
+<p>Miss Yeo Jing Jing Rebecca</p>
+</td>
+<td>
+<p>Special Educational Needs Officer (SEN Officer)</p>
+</td>
 
-<tr style="text-align: center;">
+</tr><tr style="text-align: center;">
 <td>
 <p>Ms. Tng Jia En Joanne</p>
 </td>
@@ -687,14 +694,8 @@ description: ""
 <p>School Counsellor</p>
 </td>
 </tr>
-<tr style="text-align: center;">
-<td>
-<p>Ms. Juhariah Binte Ahmad</p>
-</td>
-<td>
-<p>School Counsellor</p>
-</td>
-</tr>
+
+
 </tbody>
 </table>
 </div>
