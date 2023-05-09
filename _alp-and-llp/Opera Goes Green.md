@@ -77,4 +77,19 @@ description: ""
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal"><span style="font-size:12.0pt"><br>Biodiversity Day is commerated on 22 May. Green Champions shared on real-life situations and how pupils can contribute in conserving our biodiversity. <br><br> <img src="/images/operagogreen_16.PNG"><br><br> <img src="/images/operagogreen_17.PNG"></span></p></td>
-</tr></tbody></table>
+</tr></tbody></table><br><br>
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:493.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.05pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.05pt"><p style="margin-bottom:0cm;line-height:normal" align="center"><b><span lang="EN-SG" style="font-size:14.0pt;color:#003399;mso-ansi-language:EN-SG">   P4 Sungei Buloh Trip</span></b><span style="font-size:14.0pt"></span></p></td><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.05pt"><p style="margin-bottom:0cm;line-height:normal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:166.1pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal"><span style="font-size:12.0pt"><br><br>P4 students went on a learning journey to Sungei Buloh Wetland Reserve on 7 or 8 February during curriculum time. <br><br>The P4 theme for Opera Goes Green is “Conservation of Biodiversity”, hence the students learnt about the rich biodiversity in Sungei Buloh, as well as the threats that plants and animals face.</span></p></td><td width="329" valign="top" style="width:246.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;line-height:normal"><span style="mso-spacerun:yes">&nbsp; <img src="/images/operagogreen_18.PNG"></span></p></td></tr></tbody></table>
+	<img src="/images/operagogreen_19.PNG">
+	
+	
