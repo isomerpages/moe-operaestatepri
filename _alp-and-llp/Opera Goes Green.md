@@ -89,8 +89,8 @@ description: ""
   inter-ideograph;line-height:normal"><span style="font-size:12.0pt"><br><br>P4 students went on a learning journey to Sungei Buloh Wetland Reserve on 7 or 8 February during curriculum time. <br><br>The P4 theme for Opera Goes Green is “Conservation of Biodiversity”, hence the students learnt about the rich biodiversity in Sungei Buloh, as well as the threats that plants and animals face.</span></p></td><td width="329" valign="top" style="width:246.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;line-height:normal"><span style="mso-spacerun:yes">&nbsp; <img src="/images/operagogreen_18.PNG"></span></p></td></tr></tbody></table>
-	<img src="/images/operagogreen_19.PNG"><br><br>
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;line-height:normal"><span style="mso-spacerun:yes">&nbsp; <img src="/images/operagogreen_18.PNG"></span></p></td></tr></tbody></table><img src="/images/operagogreen_19.PNG"><br>
+	<br>
 	
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:493.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.05pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
@@ -111,5 +111,3 @@ description: ""
   padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal"><span style="font-size:12.0pt"><br>Our Primary 5 students went on a Science learning journey to Gardens by the Bay. <br><br>Our students were immersed in the "World of Plants" as they discovered how different plants carry out pollination and seed dispersal, and how they adapt to their living environments.<br><br>Not only did the students learn more about the flora and fauna in Gardens by the Bay, they also ended the trip with fond memories from visiting one of many iconic places in Singapore!<br><br> <img src="/images/operagogreen_23.JPG"></span></p></td>
 </tr></tbody></table><br><br>
-
-	
