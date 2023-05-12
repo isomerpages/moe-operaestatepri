@@ -4,7 +4,7 @@ permalink: /general-information/
 description: ""
 ---
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">School Information</label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1">School Information</label>
 <div>
 <table style="height: 234px;">
 <tbody>
@@ -21,8 +21,8 @@ description: ""
 <p><strong>Contact Number:</strong></p>
 </td>
 <td style="height: 36px; width: 493px;">
-<p>62410 417</p>
-<p>Fax: 64493 042</p>
+<p>6241 0417</p>
+<p>Fax: 6449 3042</p>
 </td>
 </tr>
 <tr style="height: 18px;">
@@ -38,8 +38,8 @@ description: ""
 <p><strong>School Operating Hours:</strong></p>
 </td>
 <td style="height: 54px; width: 493px;">
-<p>Monday to Friday<br />7.00 a.m. to 5.30 p.m.</p>
-<p>Monday to Friday (during school holidays)<br />7.30 a.m. to 5.00 p.m.</p>
+<p>Monday to Friday<br>7.00 a.m. to 5.30 p.m.</p>
+<p>Monday to Friday (during school holidays)<br>7.30 a.m. to 5.00 p.m.</p>
 </td>
 </tr>
 <tr style="height: 36px;">
@@ -70,7 +70,7 @@ description: ""
 <img src="/images/map.png">
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">School Hours</label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">School Hours</label>
 <div>
 <p>Opera Estate Primary School is a single session government school.</p>
 <p><strong><u>School Hours</u></strong></p>
@@ -123,7 +123,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Thursday (NSG & SYF)</p>
+<p>Thursday (NSG &amp; SYF)</p>
 </td>
 <td style="text-align: center;">
 <p>3.00 p.m to 5.00 p.m</p>
@@ -165,7 +165,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Primary 1 & Primary 4</p>
+<p>Primary 1 &amp; Primary 4</p>
 </td>
 <td style="text-align: center;">
 <p>9.30 a.m. to 10.00 a.m.</p>
@@ -173,7 +173,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Primary 2 & Primary 5</p>
+<p>Primary 2 &amp; Primary 5</p>
 </td>
 <td style="text-align: center;">
 <p>10.00 a.m. to 10.30 a.m.</p>
@@ -181,7 +181,7 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Primary 3 & Primary 6</p>
+<p>Primary 3 &amp; Primary 6</p>
 </td>
 <td style="text-align: center;">
 <p>10.30 a.m. to 11.00 a.m.</p>
@@ -250,7 +250,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">School Gate Opening Hours</label>
+<li><input id="accordion3" type="checkbox"> <label for="accordion3">School Gate Opening Hours</label>
 <div>
 <p>The school gates will be opened at the following hours:</p>
 <table>
@@ -322,14 +322,14 @@ description: ""
 </tbody>
 </table>
 <p>All visitors are required to register themselves at the Security Guard post before entering the school.</p>
-<p>All private vehicles, including parent&rsquo;s vehicles and non-official school bus services, are only allowed to drive into the school compound:</p>
+<p>All private vehicles, including parent’s vehicles and non-official school bus services, are only allowed to drive into the school compound:</p>
 <ul>
 <li>when there is inclement weather in the morning before school starts and</li>
 <li>after 2pm.</li>
 </ul>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">School Safety and Security</label>
+<li><input id="accordion4" type="checkbox"> <label for="accordion4">School Safety and Security</label>
 <div>
 <p>For the safety of our students, any unauthorized person will not be allowed into the school building at any time.</p>
 <p>The visitor is required to register at the security guard post before he/she is allowed to enter the school premises.</p>
@@ -353,20 +353,20 @@ description: ""
 </ul>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Vendors Information</label>
+<li><input id="accordion5" type="checkbox"> <label for="accordion5">Vendors Information</label>
 <div>
 <p><strong><u>School Student Care</u></strong></p>
-<p>Managed by&nbsp;<strong>Knowledge Park Pte Ltd<br /></strong>Ms Tania Ong&nbsp;(Centre Supervisor)<br />Tel: 9667 0687<br />Email: <a href="mailto:operaestatescc@knowledgepark.com.sg">operaestatescc@knowledgepark.com.sg</a></p>
-<p><em>Opening Hours<br /></em>Monday to Friday<br />(Closed on Saturdays, Sundays and Public Holidays)<br />School Term: 1.00 p.m. to 6.30 p.m.<br />School Holiday: 7.30 a.m. to 6.30 p.m.</p>
+<p>Managed by&nbsp;<strong>Knowledge Park Pte Ltd<br></strong>Ms Tania Ong&nbsp;(Centre Supervisor)<br>Tel: 9667 0687<br>Email: <a href="mailto:operaestatescc@knowledgepark.com.sg">operaestatescc@knowledgepark.com.sg</a></p>
+<p><em>Opening Hours<br></em>Monday to Friday<br>(Closed on Saturdays, Sundays and Public Holidays)<br>School Term: 1.00 p.m. to 6.30 p.m.<br>School Holiday: 7.30 a.m. to 6.30 p.m.</p>
 <p><strong><u>School Bookshop</u></strong></p>
-<p>The Continental Book Centre<br /><em>Operating Hours<br /></em>Monday to Friday: 8.00 a.m. to 3.00 p.m.<br />Tel: 62478482</p>
+<p>The Continental Book Centre<br><em>Operating Hours<br></em>Monday to Friday: 8.00 a.m. to 3.00 p.m.<br>Tel: 62478482</p>
 <p>Parents/Guardians are allowed to purchase books/stationery after 2.00 p.m. except on Wednesday after 1.00pm.</p>
 <p><strong><u>School Uniform Supplier</u></strong></p>
-<p><em>1 Kaki Bukit Road 1<br /></em><em>#01-30/31 Enterprise One<br /></em><em>Singapore 415934</em></p>
-<p><em>Telephone: +65 6741 0930<br /></em><em>Fax: +65 6744 7689<br /></em><em>Website:&nbsp;</em><em><a href="http://www.intrenduniforms.com">www.intrenduniforms.com</a><br /></em><em>Email:&nbsp;</em><a href="mailto:sales@itu.com.sg"><em>sales@itu.com.sg</em></a></p>
-<p><em>Operating Hours<br /></em><em>Monday to Friday: 10.00 a.m. to 6.00 p.m.<br /></em><em>Saturday: 10.00 a.m. to 3.00 p.m.<br /></em><em>(Closed on Sundays and Public Holidays)</em></p>
+<p><em>1 Kaki Bukit Road 1<br></em><em>#01-30/31 Enterprise One<br></em><em>Singapore 415934</em></p>
+<p><em>Telephone: +65 6741 0930<br></em><em>Fax: +65 6744 7689<br></em><em>Website:&nbsp;</em><em><a href="http://www.intrenduniforms.com">www.intrenduniforms.com</a><br></em><em>Email:&nbsp;</em><a href="mailto:sales@itu.com.sg"><em>sales@itu.com.sg</em></a></p>
+<p><em>Operating Hours<br></em><em>Monday to Friday: 10.00 a.m. to 6.00 p.m.<br></em><em>Saturday: 10.00 a.m. to 3.00 p.m.<br></em><em>(Closed on Sundays and Public Holidays)</em></p>
 <p><strong><u>School Bus Operator</u></strong></p>
-<p><em>Name of Bus Operator: Yeap Transport Pte Ltd<br /></em><em>Liaison officer: Mr Ken Tan<br /></em><em>Tel No/ Hand phone No: 9759-2488<br /></em><em>Email address:&nbsp;</em><em><a href="mailto:oepsbus@yeaptpt.com">oepsbus@yeaptpt.com</a></em></p>
+<p><em>Name of Bus Operator: Yeap Transport Pte Ltd<br></em><em>Liaison officer: Mr Ken Tan<br></em><em>Tel No/ Hand phone No: 9759-2488<br></em><em>Email address:&nbsp;</em><em><a href="mailto:oepsbus@yeaptpt.com">oepsbus@yeaptpt.com</a></em></p>
 <p><em>Parents who are interested in taking up the school bus services in 2023 please register via this link: </em><a href="https://bit.ly/oepsbus" target="_blank" rel="noopener">https://bit.ly/oepsbus</a></p>
 </div>
 </li>
