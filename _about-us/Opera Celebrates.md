@@ -3,7 +3,7 @@ title: Opera Celebrates
 permalink: /opera-celebrates/
 description: ""
 ---
-<h4> ENGLISH</h4>
+<h4><b> ENGLISH</b></h4>
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="727" style="width:500pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="245" style="width:184.05pt;border:solid windowtext 1.0pt;mso-border-alt:
@@ -52,7 +52,7 @@ description: ""
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
   line-height:normal"><span style="font-size:14.0pt">Amelia D'arcy Mcinally</span></p></td></tr></tbody></table>
 	
-<h4> OPERA GOES GREEN</h4>
+<h4><b> OPERA GOES GREEN</b></h4>
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="727" style="width:500.5pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td width="245" style="width:184.05pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
@@ -63,4 +63,4 @@ description: ""
   EN-SG">Merit Award</span></p></td><td width="312" style="width:233.85pt;border:solid windowtext 1.0pt;border-left:
   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt">Anishka<br>Saanvi<br>Sai Ram</span></p></td></tr></tbody></table>
+		line-height:normal"><span style="font-size:14.0pt">Anishka Vinayak<br>Saanvi Sharma<br>Kotha Venkata Sai Ram</span></p></td></tr></tbody></table>
