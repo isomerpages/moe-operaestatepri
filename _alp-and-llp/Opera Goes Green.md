@@ -3,7 +3,7 @@ title: Opera Goes Green
 permalink: /environmental-sustainability/
 description: ""
 ---
-<h5>OPERA GOES GREEN</h5>
+<h5><b>OPERA GOES GREEN</b></h5>
 <p>Focus Area: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>STEM</b>
 <br>Contextual Theme:&nbsp;&nbsp;&nbsp;<b>Sustainability</b><br><b></b></p><p style="color:green;"><b>AIM</b></p><ul>
   <li>Create awareness of environmental sustainability issues</li>
@@ -30,7 +30,7 @@ description: ""
 <p align="center" style="color:green;"><b>OPG FOCUS AREAS</b></p>
 <img src="/images/operagogreen_1.png"> <br><br>
 
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:493.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:500.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.05pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.05pt"><p style="margin-bottom:0cm;line-height:normal"><b><span lang="EN-SG" style="font-size:14.0pt;color:#003399;mso-ansi-language:EN-SG">Less Food Waste - COMPOST VIA</span></b><span style="font-size:14.0pt"></span></p></td><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
@@ -44,9 +44,9 @@ description: ""
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;line-height:normal"><span style="mso-spacerun:yes">&nbsp; <img src="/images/operagogreen_5.png"></span></p></td></tr></tbody></table>
 	
-<img src="/images/operagogreen_10.PNG"><p></p>
+<p><img src="/images/operagogreen_10.PNG"></p>
 <br>
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:493.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:500.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.05pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.05pt"><p style="margin-bottom:0cm;line-height:normal" align="center"><b><span lang="EN-SG" style="font-size:14.0pt;color:#003399;mso-ansi-language:EN-SG">   Less E-Waste-Recycling Drive</span></b><span style="font-size:14.0pt"></span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:166.1pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
@@ -57,7 +57,7 @@ description: ""
 <p>	<img src="/images/operagogreen_11.png"></p><p>	<img src="/images/operagogreen_12.png"></p>
 <br><br><br><br>
 
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:493.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:500.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.05pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.05pt"><p style="margin-bottom:0cm;line-height:normal" align="center"><b><span lang="EN-SG" style="font-size:14.0pt;color:#003399;mso-ansi-language:EN-SG">World Water Day</span></b><span style="font-size:14.0pt"></span></p></td><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
@@ -71,7 +71,7 @@ description: ""
 <img src="/images/operagogreen_14.PNG"><br><br>
 
 
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:493.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:500.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.05pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.05pt"><p style="margin-bottom:0cm;line-height:normal" align="center"><b><span lang="EN-SG" style="font-size:14.0pt;color:#003399;mso-ansi-language:EN-SG">Biodiversity Day</span></b><span style="font-size:14.0pt"></span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:166.1pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
@@ -79,7 +79,7 @@ description: ""
   inter-ideograph;line-height:normal"><span style="font-size:12.0pt"><br>Biodiversity Day is commerated on 22 May. Green Champions shared on real-life situations and how pupils can contribute in conserving our biodiversity. <br><br> <img src="/images/operagogreen_16.PNG"><br><br> <img src="/images/operagogreen_17.PNG"></span></p></td>
 </tr></tbody></table><br><br>
 
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:493.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:500.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.05pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.05pt"><p style="margin-bottom:0cm;line-height:normal" align="center"><b><span lang="EN-SG" style="font-size:14.0pt;color:#003399;mso-ansi-language:EN-SG">   P4 Sungei Buloh Trip</span></b><span style="font-size:14.0pt"></span></p></td><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
@@ -92,7 +92,7 @@ description: ""
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;line-height:normal"><span style="mso-spacerun:yes">&nbsp; <img src="/images/operagogreen_18.PNG"></span></p></td></tr></tbody></table><img src="/images/operagogreen_19.PNG"><br>
 	<br>
 	
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:493.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:500.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.05pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.05pt"><p style="margin-bottom:0cm;line-height:normal" align="center"><b><span lang="EN-SG" style="font-size:14.0pt;color:#003399;mso-ansi-language:EN-SG">      P4 Digital Maker Programme</span></b><span style="font-size:14.0pt"></span></p></td><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
@@ -105,7 +105,7 @@ description: ""
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;line-height:normal"><span style="mso-spacerun:yes">&nbsp; <img src="/images/operagogreen_20.PNG"></span></p></td></tr>
 	</tbody></table><p>	<img src="/images/operagogreen_24.JPG"></p><br><br>
 	
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:493.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:500.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.05pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.05pt"><p style="margin-bottom:0cm;line-height:normal" align="center"><b><span lang="EN-SG" style="font-size:14.0pt;color:#003399;mso-ansi-language:EN-SG">      P5 Learning Journey to Gardens By the Bay</span></b><span style="font-size:14.0pt"></span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:166.1pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
