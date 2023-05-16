@@ -3,7 +3,7 @@ title: Opera Goes Green
 permalink: /environmental-sustainability/
 description: ""
 ---
-<h5>OPERA GOES GREEN</h5>
+<h5><b>OPERA GOES GREEN</b></h5>
 <p>Focus Area: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>STEM</b>
 <br>Contextual Theme:&nbsp;&nbsp;&nbsp;<b>Sustainability</b><br><b></b></p><p style="color:green;"><b>AIM</b></p><ul>
   <li>Create awareness of environmental sustainability issues</li>
@@ -44,7 +44,7 @@ description: ""
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:166.1pt"><p style="margin-bottom:0cm;line-height:normal"><span style="mso-spacerun:yes">&nbsp; <img src="/images/operagogreen_5.png"></span></p></td></tr></tbody></table>
 	
-<img src="/images/operagogreen_10.PNG"><p></p>
+<p><img src="/images/operagogreen_10.PNG"></p>
 <br>
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="657" style="width:493.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.05pt"><td width="329" valign="top" style="width:246.5pt;border:solid windowtext 1.0pt;
