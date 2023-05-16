@@ -113,6 +113,5 @@ description: ""
   inter-ideograph;line-height:normal"><span style="font-size:12.0pt"><br>Our Primary 5 students went on a Science learning journey to Gardens by the Bay.</span></p><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal"><span style="font-size:12.0pt">   
 Our students were immersed in the "World of Plants" as they discovered how different plants carry out pollination and seed dispersal, and how they adapt to their living environments.<br><br>Not only did the students learn more about the flora and fauna in Gardens by the Bay, they also ended the trip with fond memories from visiting one of many iconic places in Singapore!</span></p></td></tr></tbody></table>
-<p>	<img src="/images/operagogreen_11.png"></p><p>	<img src="/images/operagogreen_12.png"></p>
+<p>	<img src="/images/operagogreen_23.JPG"></p>
 <br><br><br><br>
-	
