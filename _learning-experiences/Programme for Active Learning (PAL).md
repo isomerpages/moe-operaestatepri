@@ -3,7 +3,7 @@ title: Programme for Active Learning (PAL)
 permalink: /pal/
 description: ""
 ---
-<h4 align="center">PAL @ Opera Estate Primary School</h4>
+<h4 align="center"><b>PAL @ Opera Estate Primary School</b></h4>
 
 <p align="justify">In Opera Estate Primary School, all P1 and P2 students undergo Programme for Active Learning (PAL) within the curriculum hours. During PAL, students will be engaged in fun and varied learning experiences where they get the opportunity to discover new interests, learn new skills and develop character through the following modules:</p><b>1) Sports and Games<br>2) Performing Arts (Music, Creative Dance and Drama)<br>3) Visual Arts<br>4) Outdoor Education </b><p></p>
 
