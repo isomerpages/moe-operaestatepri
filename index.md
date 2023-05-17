@@ -18,5 +18,7 @@ sections:
         - title: Useful Links
           description: ""
           url: /moe-sexuality-education/
-  - resources: {}
+  - infobar:
+      title: Opera Estate Prmary School
+      subtitle: Welcome to
 ---
