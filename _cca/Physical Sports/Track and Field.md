@@ -4,11 +4,11 @@ permalink: /athletics/
 description: ""
 third_nav_title: Physical Sports
 ---
-<h4><strong><a title="Our CCA Video (Click here)" href="https://drive.google.com/file/d/1-Nne62hGCc7DxhgcvKGOIROL6Ce3y7GK/view" target="_blank" rel="noopener">OUR CCA VIDEO (CLICK HERE)</a></strong></h4>
+<h4><strong><a title="Our CCA Video (Click here)" href="https://drive.google.com/file/d/1BSjB52VxG6aMncPcWC9xojRuEhMkO4r7/view?usp=share_link&quot;" target="_blank" rel="noopener">OUR CCA VIDEO (CLICK HERE)</a></strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 40%;"><a href="https://drive.google.com/file/d/1-Nne62hGCc7DxhgcvKGOIROL6Ce3y7GK/view"><img src="/images/tf1.jpg"></a></td>
+<td style="width: 40%;"><a href="https://drive.google.com/file/d/1BSjB52VxG6aMncPcWC9xojRuEhMkO4r7/view?usp=share_link"><img src="/images/tf1.jpg"></a></td>
 <td style="width: 60%;">&nbsp;</td>
 </tr>
 </tbody>
