@@ -18,6 +18,5 @@ sections:
         - title: Useful Links
           description: ""
           url: /moe-sexuality-education/
-  - resources:
-      title: WEBSITE UNDER CONSTRUCTION
+  - resources: {}
 ---
