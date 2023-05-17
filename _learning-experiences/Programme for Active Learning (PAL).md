@@ -5,9 +5,9 @@ description: ""
 ---
 <h4 align="center"><b>PAL @ Opera Estate Primary School</b></h4>
 
-<p align="justify">In Opera Estate Primary School, all P1 and P2 students undergo Programme for Active Learning (PAL) within the curriculum hours. During PAL, students will be engaged in fun and varied learning experiences where they get the opportunity to discover new interests, learn new skills and develop character through the following modules:</p><b>1) Sports and Games<br>2) Performing Arts (Music, Creative Dance and Drama)<br>3) Visual Arts<br>4) Outdoor Education </b><p></p>
+<p align="justify">In Opera Estate Primary School, all P1 and P2 students undergo Programme for Active Learning (PAL) within the curriculum hours. During PAL, students will be engaged in fun and varied learning experiences where they get the opportunity to discover new interests, learn new skills and develop character through the following modules:</p><b>1) Sports and Games<br>2) Performing Arts (Music, Creative Dance and Drama)<br>3) Visual Arts<br>4) Outdoor Education </b>
 
-<p align="justify">Students also learn socio-emotional competencies such as respecting others and responsible decision-making. The PAL modules aim to provide P1 and P2 students with the opportunities to : </p><ul>
+Students also learn socio-emotional competencies such as respecting others and responsible decision-making. The PAL modules aim to provide P1 and P2 students with the opportunities to : <p></p><ul>
 <li>explore and exhibit their curiosity about things and places around them and beyond </li>
 <li>develop positive attitude to learn new skills and experiences</li>
 <li>develop confidence in what they do</li>
