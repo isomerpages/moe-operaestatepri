@@ -3,8 +3,11 @@ title: Principal’s Message
 permalink: /principals-message/
 description: ""
 ---
-<table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
- 0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td width="312" valign="top" style="width:200pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><br><img src="/images/principal.jpg"></p></td><td width="312" valign="top" style="width:200pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Lato&quot;,sans-serif;color:#1A202C;background:white">Dear Parents/Guardians,<br><b>Greetings to you !</b></span></p><p align="justify">I am humbled to join the Opera Estate Primary School community, which has a rich history and heritage. Since its establishment in 1985 as amerger between Opera Boys’ School and Opera Girls’ School, OEPS has grown from strength to strength, establishing itself as a Happy, Loving, Learning School. </p></td></tr></tbody></table>
+<p>Dear Parents/Guardians,<br><b>Greetings to you !</b></p>
+
+<img align="center" src="/images/principal.jpg">
+
+<p align="justify" style="width:400pt;">I am humbled to join the Opera Estate Primary School community, which has a rich history and heritage. Since its establishment in 1985 as amerger between Opera Boys’ School and Opera Girls’ School, OEPS has grown from strength to strength, establishing itself as a Happy, Loving, Learning School. </p>
 
 <p align="justify" style="width:400pt;">I am grateful for the care and support from our dedicated teaching and non-teaching staff, our partners, including the School Advisory Committee members, Opera Parents Club, community partners, and our supportive parents.</p>
 
