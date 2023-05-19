@@ -5,7 +5,7 @@ description: ""
 ---
 <p>Dear Parents/Guardians,<br><b>Greetings to you !</b></p>
 
-<img align="center" src="/images/principal.jpg">
+<img width="200" align="center" src="/images/principal.jpg">
 
 <p align="justify" style="width:400pt;">I am humbled to join the Opera Estate Primary School community, which has a rich history and heritage. Since its establishment in 1985 as amerger between Opera Boys’ School and Opera Girls’ School, OEPS has grown from strength to strength, establishing itself as a Happy, Loving, Learning School. </p>
 
