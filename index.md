@@ -18,5 +18,12 @@ sections:
         - title: Useful Links
           description: ""
           url: /moe-sexuality-education/
-  - resources: {}
+  - infopic:
+      title: OPERA GOT TALENT
+      subtitle: highlights
+      description: "For more information, "
+      button: Click here
+      url: /ogt
+      image: /images/ogtogt_1.jpg
+      alt: Image alt text
 ---
