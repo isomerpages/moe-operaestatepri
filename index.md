@@ -19,9 +19,14 @@ sections:
           description: ""
           url: /moe-sexuality-education/
   - infopic:
+      title: OPEN HOUSE 2023
+      description: The Webinar code will be displayed soon.
+      image: /images/open-house-pre.jpg
+      alt: Image alt text
+  - infopic:
       title: OPERA GOT TALENT
       subtitle: highlights
-      description: "For more information, "
+      description: For more information,
       button: Click here
       url: /ogt
       image: /images/ogtogt_1.jpg
