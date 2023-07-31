@@ -145,6 +145,33 @@ Chan Charlotte Hui Xia<br>Isabelle Goh Xuwen
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
   line-height:normal"><span lang="EN-SG" style="font-size:14.0pt;mso-ansi-language:
   EN-SG">Soma Moukthika<br>Aakash Gupta<br>Oliver Goana
+</span><span style="font-size:14.0pt"></span></p></td></tr><tr style="mso-yfti-irow:1"><td width="245" style="width:184.05pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal"><span style="font-size:14.0pt">Asia-Pacific Mathematical Olympiad for Primary School 2023 (APMOPS)</span></p></td><td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal"><span lang="EN-SG" style="font-size:14.0pt;mso-ansi-language:
+  EN-SG">Silver</span><span style="font-size:14.0pt"></span></p></td><td width="312" style="width:233.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal"><span lang="EN-SG" style="font-size:14.0pt;mso-ansi-language:
+  EN-SG">Oliver Goana</span><span style="font-size:14.0pt"></span></p></td></tr><tr style="mso-yfti-irow:1"><td width="245" style="width:184.05pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal"><span style="font-size:14.0pt"></span></p></td><td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal"><span lang="EN-SG" style="font-size:14.0pt;mso-ansi-language:
+  EN-SG">Bronze</span><span style="font-size:14.0pt"></span></p></td><td width="312" style="width:233.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal"><span lang="EN-SG" style="font-size:14.0pt;mso-ansi-language:
+  EN-SG">Bhagwat Kimaya Kishor<br>Ling Chin Ler Axel<br>Saanvi Sharma
 </span></p></td></tr></tbody></table>
 
 
