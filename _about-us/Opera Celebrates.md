@@ -64,3 +64,29 @@ description: ""
   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
 		line-height:normal"><span style="font-size:14.0pt">Anishka Vinayak<br>Saanvi Sharma<br>Kotha Venkata Sai Ram</span></p></td></tr></tbody></table>
+  
+  <h4><b> MOTHER TONGUE</b></h4>
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="727" style="width:500.5pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td width="245" style="width:184.05pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal"><span style="font-size:14.0pt">24th International Chinese Language Competition (ICLC) 2023</span></p></td><td width="170" style="width:127.6pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal"><span lang="EN-SG" style="font-size:14.0pt;mso-ansi-language:
+  EN-SG">Bronze Award</span></p></td><td width="312" style="width:233.85pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+		line-height:normal"><span style="font-size:14.0pt">Myra Chaubey<br></span></p></td></tr></tbody></table>
+
+<h4><b> AESTHETICS</b></h4>
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="727" style="width:500.5pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td width="245" style="width:184.05pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal"><span style="font-size:14.0pt">SYF Art Exhibition </span></p></td><td width="170" style="width:127.6pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal"><span lang="EN-SG" style="font-size:14.0pt;mso-ansi-language:
+  EN-SG">Certificate of Recognition</span></p></td><td width="312" style="width:233.85pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+		line-height:normal"><span style="font-size:14.0pt">Poppy Mai-anh Leach <br> Sophie Clare Hope Morris <br> Jamie Lin Lawther <br> Alexis Lee Jia En <br> Vaanya Garg <br> Mariella Zarrilli <br> Vanessa Choo Kai Li <br> Sonal Naidu <br> Hasya Insyirah Binte Muhamad Hirwan</span></p></td></tr></tbody></table>
