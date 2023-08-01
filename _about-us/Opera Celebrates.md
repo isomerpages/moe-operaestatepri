@@ -175,34 +175,14 @@ description: ""
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="312"><p style="margin-bottom:0cm;text-align:center;
   line-height:106%" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:106%;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt">Satija Samarth</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:106%" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:106%;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt">Wong Jun Teng Elden</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:106%" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:106%;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt">Arohan Sarma</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:106%" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:106%;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt">Saatvik Kusumwal</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:106%" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:106%;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt">Anthony Ruhen Almeida</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:106%" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:106%;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt">Arya Ishana Kaur</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:106%" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:106%;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt">Gwyn Tan Rui Long</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:106%" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:106%;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt">Fong Hao Sheng</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:106%" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:106%;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt">Chua Jing Xu</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:106%" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:106%;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt">Tang Estelle</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:127.6pt;border-top:none;border-left:none;
+  color:#1F2328;mso-font-kerning:1.0pt">Satija Samarth<br>Wong Jun Teng Elden<br>Arohan Sarma
+<br>Saatvik Kusumwal<br>Anthony Ruhen Almeida
+<br>Arya Ishana Kaur
+<br>Gwyn Tan Rui Long
+<br>Fong Hao Sheng
+<br>Chua Jing Xu
+<br>Tang Estelle
+</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="170"><p style="margin-bottom:0cm;text-align:center;
