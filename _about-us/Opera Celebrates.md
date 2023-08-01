@@ -33,28 +33,9 @@ description: ""
   line-height:106%"><span lang="EN-SG" style="font-size:14.0pt;line-height:106%;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;color:#1F2328;mso-font-kerning:1.0pt;
-  mso-ansi-language:EN-SG">Prisha Burman Ray</span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:106%"><span lang="EN-SG" style="font-size:14.0pt;line-height:106%;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;mso-font-kerning:1.0pt;
-  mso-ansi-language:EN-SG">Aniskha Vinayak</span><span style="font-size:14.0pt;
-  line-height:106%;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:#1F2328;mso-font-kerning:1.0pt"></span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:106%"><span lang="EN-SG" style="font-size:14.0pt;line-height:106%;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;mso-font-kerning:1.0pt;
-  mso-ansi-language:EN-SG">Saanvi Sharma</span><span style="font-size:14.0pt;
-  line-height:106%;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:#1F2328;mso-font-kerning:1.0pt"></span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:106%"><span lang="EN-SG" style="font-size:14.0pt;line-height:106%;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;mso-font-kerning:1.0pt;
-  mso-ansi-language:EN-SG">Vanessa Choo Kai Li</span><span style="font-size:
-  14.0pt;line-height:106%;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:#1F2328;mso-font-kerning:1.0pt"></span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal"><span lang="EN-SG" style="font-size:14.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt;mso-ansi-language:EN-SG">Francesca Andeline Murray</span><span style="font-size:14.0pt"></span></p></td></tr><tr style="mso-yfti-irow:2"><td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  mso-ansi-language:EN-SG">Prisha Burman Ray<br>Aniskha Vinayak<br>Saanvi Sharma
+<br>Vanessa Choo Kai Li<br>Francesca Andeline Murray
+</span><span style="font-size:14.0pt"></span></p></td></tr><tr style="mso-yfti-irow:2"><td width="170" style="width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
