@@ -101,16 +101,7 @@ description: ""
 		mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
 		line-height:106%"><span style="font-size:14.0pt;line-height:106%;mso-fareast-font-family:
 		&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-		color:#1F2328;mso-font-kerning:1.0pt">Junaidi Adri Bin Imran</span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-		line-height:106%"><span style="font-size:14.0pt;line-height:106%;mso-fareast-font-family:
-		&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-		color:#1F2328;mso-font-kerning:1.0pt">Tenza Heng Miao Hua</span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-		line-height:106%"><span style="font-size:14.0pt;line-height:106%;mso-fareast-font-family:
-		&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-		color:#1F2328;mso-font-kerning:1.0pt">Surajiv Ranjith</span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-		line-height:106%"><span style="font-size:14.0pt;line-height:106%;mso-fareast-font-family:
-		&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-		color:#1F2328;mso-font-kerning:1.0pt">&nbsp;</span></p></td></tr></tbody></table>
+		color:#1F2328;mso-font-kerning:1.0pt">Junaidi Adri Bin Imran<br>Tenza Heng Miao Hua<br>Surajiv Ranjith</span></p></td></tr></tbody></table>
 
 
 <h4><b> MATHEMATICS</b></h4>
