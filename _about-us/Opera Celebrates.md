@@ -157,13 +157,8 @@ description: ""
   padding:0cm 5.4pt 0cm 5.4pt" width="312"><p style="margin-bottom:0cm;text-align:center;
   line-height:106%" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:106%;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt">Arjun Prasanna</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:106%" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:106%;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt">Chan Charlotte Hui Xia</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt">Isabelle Goh Xuwen</span><span style="font-size:14.0pt"></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:127.6pt;border-top:none;border-left:none;
+  color:#1F2328;mso-font-kerning:1.0pt">Arjun Prasanna<br>Chan Charlotte Hui Xia<br>Isabelle Goh Xuwen
+</span><span style="font-size:14.0pt"></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="170"><p style="margin-bottom:0cm;text-align:center;
