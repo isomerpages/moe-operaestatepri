@@ -57,11 +57,9 @@ description: ""
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt">Amelia D'arcy Mcinally</span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt">Aayan Pranav Jain</span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt">Siddhant Ananthanarayana</span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt">Dia Poojari</span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt">Hasya Insyirah Bte Muhd Hirwan</span></p></td></tr><tr style="mso-yfti-irow:4"><td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  line-height:normal"><span style="font-size:14.0pt">Amelia D'arcy Mcinally<br>Aayan Pranav Jain<br>Siddhant Ananthanarayana<br>Dia Poojari
+<br>Hasya Insyirah Bte Muhd Hirwan
+</span></p></td></tr><tr style="mso-yfti-irow:4"><td width="170" style="width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
