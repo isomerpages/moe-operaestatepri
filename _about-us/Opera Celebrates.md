@@ -236,15 +236,9 @@ description: ""
   line-height:106%" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:106%;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;color:#1F2328;mso-font-kerning:1.0pt;
-  mso-ansi-language:DE" lang="DE">Soma Moukthika</span><span style="font-size:14.0pt;
-  line-height:106%;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:#1F2328;mso-font-kerning:1.0pt"></span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:106%" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:106%;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt">Aakash Gupta</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:106%" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:106%;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt">Oliver Goana</span><span style="font-size:14.0pt;line-height:106%;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-ansi-language:DE" lang="DE">Soma Moukthika<br>Aakash Gupta<br>
+Oliver Goana
+</span><span style="font-size:14.0pt;line-height:106%;mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#1F2328;
   mso-font-kerning:1.0pt;mso-ansi-language:DE" lang="DE"></span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:184.05pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
@@ -278,21 +272,9 @@ description: ""
   line-height:106%" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:106%;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;color:#1F2328;mso-font-kerning:1.0pt;
-  mso-ansi-language:DE" lang="DE">Bhagwat Kimaya Kishor</span><span style="font-size:
-  14.0pt;line-height:106%;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:#1F2328;mso-font-kerning:1.0pt"></span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:106%" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:106%;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;mso-font-kerning:1.0pt;
-  mso-ansi-language:DE" lang="DE">Ling Chin Ler Axel<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="font-size:14.0pt;line-height:106%;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#1F2328;
-  mso-font-kerning:1.0pt"></span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:106%" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:106%;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;mso-font-kerning:1.0pt;
-  mso-ansi-language:DE" lang="DE">Saanvi Sharma</span><span style="font-size:14.0pt;
-  line-height:106%;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:#1F2328;mso-font-kerning:1.0pt"></span></p></td></tr></tbody></table>
+  mso-ansi-language:DE" lang="DE">Bhagwat Kimaya Kishor<br>Ling Chin Ler Axel                 
+<br>Saanvi Sharma
+</span></p></td></tr></tbody></table>
 
 
 
