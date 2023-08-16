@@ -3,37 +3,31 @@ title: testing for teaching staff
 permalink: /testingforteachingstaff/
 description: ""
 ---
-<div class="row">
-  <div class="columns">
-    <h2>Accordion</h2>
-    <p>Accordions lets you organize and navigate multiple documents in a single container. Highly useful for switching between items in the container specially when you have a large amount of content.</p>
-  </div>
-</div>
+<ul>
+        <li>
+            <a class="uk-accordion-title" href="#"></a>
+            <div class="uk-accordion-content"></div>
+        </li>
+    </ul>
 
-<div class="row">
-  <div class="columns">
-    <ul data-accordion="" class="accordion">
-  <li data-accordion-item="" class="accordion-item is-active">
-    <a class="accordion-title" href="#">Accordion 1</a>
-    <div data-tab-content="" class="accordion-content">
-      <p>Panel 1. Lorem ipsum dolor</p>
-      <a href="#">Nowhere to Go</a>
-    </div>
-  </li>
-  <li data-accordion-item="" class="accordion-item">
-    <a class="accordion-title" href="#">Accordion 2</a>
-    <div data-tab-content="" class="accordion-content">
-      <textarea></textarea>
-      <button class="button">I do nothing!</button>
-    </div>
-  </li>
-  <li data-accordion-item="" class="accordion-item">
-    <a class="accordion-title" href="#">Accordion 3</a>
-    <div data-tab-content="" class="accordion-content">
-      Type your name!
-      <input type="text">
-    </div>
-  </li>
+
+<ul>
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">Item 1</a>
+        <div class="uk-accordion-content">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </div>
+    </li>
+    <li>
+        <a class="uk-accordion-title" href="#">Item 2</a>
+        <div class="uk-accordion-content">
+            <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor reprehenderit.</p>
+        </div>
+    </li>
+    <li>
+        <a class="uk-accordion-title" href="#">Item 3</a>
+        <div class="uk-accordion-content">
+            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat proident.</p>
+        </div>
+    </li>
 </ul>
-  </div>
-</div>
