@@ -1,6 +1,6 @@
 ---
 title: test for parent
-permalink: /permalink/
+permalink: /testforparent/
 description: ""
 ---
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="434" style="width:325.8pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
