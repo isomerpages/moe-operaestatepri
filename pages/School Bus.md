@@ -21,5 +21,11 @@ description: ""
 • &nbsp; Email: <br>
 • &nbsp; Contact Person: <br>
 
+</p>
+
+<p><b>How do I get there?</b><br>
+• &nbsp; Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance <br>
+• &nbsp; Bus number: 900 - 3 minutes walking distance <br>
+
 
 </p>
