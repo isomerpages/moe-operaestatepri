@@ -14,7 +14,7 @@ description: ""
 
 <p><b>Application Procedure:</b><br>
 1. &nbsp; Complete the &nbsp;<a href="https://go.gov.sg/yux0xw">Call for Proposal - Annex A</a><br>
-2. &nbsp; Submit the completed Call for Proposal – Annex A by closing date, 29 August &nbsp;2023 , to the School’s General Office. <br>
+2. &nbsp; Submit the completed Call for Proposal – Annex A by closing date, 29 August &nbsp;2023 , to the School’s General Office. <br><br>
 
 • &nbsp; Address:&nbsp; 48 Fidelio Street Singapore 458436<br>
 • &nbsp; Contact No:&nbsp; 6241 0417 <br>
