@@ -18,12 +18,10 @@ sections:
         - title: Useful Links
           description: ""
           url: /moe-sexuality-education/
-  - infopic:
-      title: OPEN HOUSE 2023
-      image: /images/open-house-actual.jpg
-      alt: Image alt text
-      url: https://operaestatepri.moe.edu.sg/eop2023/
+  - infobar:
+      title: Advertisement for School Bus Services
       button: Click here
+      url: https://www.operaestatepri.moe.edu.sg/schoolbus/
   - infopic:
       title: OPERA GOT TALENT
       subtitle: highlights
