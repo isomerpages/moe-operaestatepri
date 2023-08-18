@@ -278,14 +278,7 @@ description: ""
 <p><strong>Designation</strong></p>
 </td>
 </tr>
-<tr>
-<td>
-<p>Ms. Ng Siew Hoong Jennifer</p>
-</td>
-<td>
-<p>Administration Manager</p>
-</td>
-</tr>
+
 <tr>
 <td>
 <p>Mr. Tan Yong Thye Steven</p>
