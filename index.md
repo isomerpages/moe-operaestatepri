@@ -18,10 +18,6 @@ sections:
         - title: Useful Links
           description: ""
           url: /moe-sexuality-education/
-  - infobar:
-      title: Advertisement for School Bus Services
-      button: Click here
-      url: https://www.operaestatepri.moe.edu.sg/schoolbus/
   - infopic:
       title: OPERA GOT TALENT
       subtitle: highlights
