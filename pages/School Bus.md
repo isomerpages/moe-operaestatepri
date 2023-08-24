@@ -9,8 +9,8 @@ description: ""
 
 
 <p><b>Service Requirement:</b><br>
-1. &nbsp;&nbsp;&nbsp;<a href="https://go.gov.sg/y1brxy">Call for Proposal</a><br>
-Please note that a corrigendum has been issued for the “Call for Proposal”. <b>Amendment has been made to the “Duration of Services Required” and the “Closing date of submission”. </b><br>
+1. &nbsp;&nbsp;&nbsp;<a href="https://go.gov.sg/t6pj2z">Call for Proposal</a><br>
+Please note that a corrigendum has been issued for the “Call for Proposal”. <b>Amendment has been made to the “Duration of Services Required” and the “Closing date of submission”. </b>&nbsp;&nbsp;&nbsp;<a href="https://go.gov.sg/p5o6w2">Corrigendum on School Bus Advertisements for Opera Estate Primary School</a><br>
 	2. &nbsp;&nbsp;&nbsp;<a href="https://go.gov.sg/tl5ure">Agreement for Appointment of School Bus Operator</a><br></p>
 
 <p><b>Application Procedure:</b><br>
