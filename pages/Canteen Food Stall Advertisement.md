@@ -22,7 +22,8 @@ description: ""
 	•	Address: &nbsp;&nbsp;48 Fidelio Street Singapore 458436<br>
 		•	Contact No:  &nbsp;&nbsp;6241 0417<br>
 	
-	
-
+<b>How do I get there?</b><br>
+• &nbsp; Nearest MRT: &nbsp;Kembangan <br>
+• &nbsp; Bus number: 42
 
 </p>
