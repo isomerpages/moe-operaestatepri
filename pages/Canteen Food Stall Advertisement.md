@@ -9,10 +9,10 @@ description: ""
 
 
 <p>1. &nbsp;&nbsp;&nbsp;<b>Service Requirement:</b><br>&nbsp;&nbsp;&nbsp;&nbsp;Basic requirements for application to operate a canteen stall:<br>
-•	Able to provide good Chinese cooked food like rice/noodles &nbsp;&nbsp;&nbsp;&nbsp;with mix dishes;<br>
-•	Able to provide good service and quality food at reasonable &nbsp;&nbsp;&nbsp;&nbsp;prices;<br>
+•	Able to provide good Chinese cooked food like rice/noodles with mix dishes;<br>
+•	Able to provide good service and quality food at reasonable prices;<br>
 •	Able to observe high standard of food and personal hygiene;<br>
-•	Must be able to be in personal attendance at the stall during &nbsp;&nbsp;&nbsp;&nbsp;the whole of its operation hours;<br>
+•	Must be able to be in personal attendance at the stall during the whole of its operation hours;<br>
 •	Other criteria as set by the school.
 <br></p>
 
@@ -20,7 +20,7 @@ description: ""
 	•	Email: &nbsp;&nbsp;mak_chee_wai_mathew@schools.gov.sg<br>
 	•	Contact Person:&nbsp;&nbsp; Mr Mathew Mak<br>
 	•	Address: &nbsp;&nbsp;48 Fidelio Street Singapore 458436<br>
-		•	Contact No:  &nbsp;&nbsp;6241 0417<br>
+		•	Contact No:  &nbsp;&nbsp;6241 0417<br><br>
 	
 <b>How do I get there?</b><br>
 • &nbsp; Nearest MRT: &nbsp;Kembangan <br>
