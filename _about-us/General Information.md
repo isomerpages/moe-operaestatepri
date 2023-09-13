@@ -371,4 +371,14 @@ description: ""
 </p><p><b><a href="https://www.operaestatepri.moe.edu.sg/schoolbus/">ADVERTISEMENT FOR SCHOOL BUS SERVICES<br></a></b></p><b><a href="https://www.operaestatepri.moe.edu.sg/schoolbus/">
 </a></b></div><b><a href="https://www.operaestatepri.moe.edu.sg/schoolbus/">
 </a></b></li><b><a href="https://www.operaestatepri.moe.edu.sg/schoolbus/">
-</a></b></ul>
+</a></b>
+	
+<p><strong><u>School Canteen</u></strong></p>
+<p><b><a href="https://www.operaestatepri.moe.edu.sg/canteenadvertisement/">ADVERTISEMENT FOR CANTEEN FOOD STALL<br></a></b></p><b><a href="https://www.operaestatepri.moe.edu.sg/canteenadvertisement/">
+</a></b><b><a href="https://www.operaestatepri.moe.edu.sg/canteenadvertisement/">
+</a></b><b><a href="https://www.operaestatepri.moe.edu.sg/canteenadvertisement/">
+</a></b>
+
+
+</ul>
+
