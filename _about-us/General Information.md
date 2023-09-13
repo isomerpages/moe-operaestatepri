@@ -368,22 +368,11 @@ description: ""
 <p><strong><u>School Bus Operator</u></strong></p>
 <p><em>Name of Bus Operator: Yeap Transport Pte Ltd<br></em><em>Liaison officer: Mr. Nam<br></em><em>Tel No/ Hand phone No: 9831 1016<br></em><em>Email address:&nbsp;</em><em><a href="mailto:oepsbus@yeaptpt.com">oepsbus@yeaptpt.com</a></em><br>
 	
-</p><p><b><a href="https://www.operaestatepri.moe.edu.sg/schoolbus/">ADVERTISEMENT FOR SCHOOL BUS SERVICES<br></a></b></p><b><a href="https://www.operaestatepri.moe.edu.sg/schoolbus/">
-</a></b></div><b><a href="https://www.operaestatepri.moe.edu.sg/schoolbus/">
-</a></b></li><b><a href="https://www.operaestatepri.moe.edu.sg/schoolbus/">
-</a></b>
-	
-	
+</p>
+
 <p><strong><u>School Canteen</u></strong></p>
 
-<p></p><p><b><a href="https://www.operaestatepri.moe.edu.sg/canteenadvertisement/">ADVERTISEMENT FOR CANTEEN FOOD STALL<br></a></b></p><b><a href="https://www.operaestatepri.moe.edu.sg/canteenadvertisement/">
-</a></b><b><a href="https://www.operaestatepri.moe.edu.sg/canteenadvertisement/">
-</a></b><b><a href="https://www.operaestatepri.moe.edu.sg/canteenadvertisement/">
-</a></b>
+<p></p><p><b><a href="https://www.operaestatepri.moe.edu.sg/canteenadvertisement/">ADVERTISEMENT FOR CANTEEN FOOD STALL<br></a>
 	
 	
-	
-	
-
-</ul>
-
+</b></p></div></li></ul>
