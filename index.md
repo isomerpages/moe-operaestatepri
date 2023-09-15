@@ -18,6 +18,11 @@ sections:
         - title: Useful Links
           description: ""
           url: /moe-sexuality-education/
+  - infobar:
+      title: Advertisement For Canteen Food Stall
+      id: infobar
+      button: CLICK HERE
+      url: https://www.operaestatepri.moe.edu.sg/canteenadvertisement/
   - infopic:
       title: Any Teacher's Day wishes for our Opera staff?
       button: CLICK HERE TO SUBMIT YOUR WISHES
