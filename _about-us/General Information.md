@@ -370,7 +370,7 @@ description: ""
 <p><em>Name of Bus Operator: Yeap Transport Pte Ltd_<br></em><em>Liaison officer: Mr. Nam<br></em><em>Tel No/ Hand phone No: 9831 1016<br></em><em>Email address:&nbsp;</em><em><a href="mailto:oepsbus@yeaptpt.com">oepsbus@yeaptpt.com</a></em><br><br>
 School Bus Operator and “Not to Exceed Price”(NTE) for 2024 - 2025   </p>
 	• &nbsp; <a href="https://go.gov.sg/k1x411">School 
-	Bus Operator and NTE Price for 2024 - 2025</a>
+	Bus Operator and NTE Price for 2024 - 2025</a><br>
 	*School will provide with more information at a later date<p></p>
 
 	
