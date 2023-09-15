@@ -368,14 +368,14 @@ description: ""
 <p><strong><u>School Bus Operator</u></strong></p>
 <p><em>Name of Bus Operator: Uncle Lin Transport and Mesa Travel (S) Pte Ltd<br></em><em>Liaison officer: Ms. Serena Chua<br></em><em>Tel No/ Hand phone No: 98597944<br></em><em>Email address:&nbsp;</em><em><a href="mailto:Unclelin.bus@gmail.com">Unclelin.bus@gmail.com</a></em><br><br>
 	<em>*School will provide with more information at a later date<br></em><br>
-	
+	School Bus Operator and “Not to Exceed Price”(NTE) for 2024 - 2025   </p>
+	• &nbsp; <a href="https://go.gov.sg/k1x411">School Bus Operator and NTE Price for 2024 - 2025<br>
+
 
 	
-</p>
-
 <p><strong><u>School Canteen</u></strong></p>
 
-<p></p><p><b><a href="https://www.operaestatepri.moe.edu.sg/canteenadvertisement/">ADVERTISEMENT FOR CANTEEN FOOD STALL<br></a>
+<p></p></a><p><a href="https://go.gov.sg/k1x411"><b></b></a><b><a href="https://www.operaestatepri.moe.edu.sg/canteenadvertisement/">ADVERTISEMENT FOR CANTEEN FOOD STALL<br></a>
 	
 	
 </b></p></div></li></ul>
