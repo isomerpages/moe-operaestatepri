@@ -373,11 +373,6 @@ School Bus Operator and “Not to Exceed Price”(NTE) for 2024 - 2025   </p>
 	Bus Operator and NTE Price for 2024 - 2025</a>
 	*School will provide with more information at a later date<p></p>
 
-
-	
-<p><strong><u>School Canteen</u></strong></p>
-
-<p></p><p><a href="https://go.gov.sg/k1x411"><b></b></a><b><a href="https://www.operaestatepri.moe.edu.sg/canteenadvertisement/">ADVERTISEMENT FOR CANTEEN FOOD STALL<br></a>
 	
 	
-</b></p></div></li></ul>
+<p></p></div></li></ul>
