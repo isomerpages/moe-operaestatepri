@@ -371,7 +371,7 @@ description: ""
 School Bus Operator and “Not to Exceed Price”(NTE) for 2024 - 2025   </p>
 	• &nbsp; <a href="https://go.gov.sg/k1x411">School 
 	Bus Operator and NTE Price for 2024 - 2025</a><br>
-	*School will provide with more information at a later date<p></p>
+	*School will provide more information at a later date<p></p>
 
 	
 	
