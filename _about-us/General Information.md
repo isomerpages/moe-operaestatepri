@@ -365,17 +365,19 @@ description: ""
 <p><em>1 Kaki Bukit Road 1<br></em><em>#01-30/31 Enterprise One<br></em><em>Singapore 415934</em></p>
 <p><em>Telephone: +65 6741 0930<br></em><em>Fax: +65 6744 7689<br></em><em>Website:&nbsp;</em><em><a href="http://www.intrenduniforms.com">www.intrenduniforms.com</a><br></em><em>Email:&nbsp;</em><a href="mailto:sales@itu.com.sg"><em>sales@itu.com.sg</em></a></p>
 <p><em>Operating Hours<br></em><em>Monday to Friday: 10.00 a.m. to 6.00 p.m.<br></em><em>Saturday: 10.00 a.m. to 3.00 p.m.<br></em><em>(Closed on Sundays and Public Holidays)</em></p>
+	
 <p><strong><u>School Bus Operator</u></strong></p>
-<p><em>Name of Bus Operator: Uncle Lin Transport and Mesa Travel (S) Pte Ltd<br></em><em>Liaison officer: Ms. Serena Chua<br></em><em>Tel No/ Hand phone No: 98597944<br></em><em>Email address:&nbsp;</em><em><a href="mailto:Unclelin.bus@gmail.com">Unclelin.bus@gmail.com</a></em><br><br>
-	<em>*School will provide with more information at a later date<br></em><br>
-	School Bus Operator and “Not to Exceed Price”(NTE) for 2024 - 2025   </p>
-	• &nbsp; <a href="https://go.gov.sg/k1x411">School Bus Operator and NTE Price for 2024 - 2025<br>
+<p><em>Name of Bus Operator: Yeap Transport Pte Ltd_<br></em><em>Liaison officer: Mr. Nam<br></em><em>Tel No/ Hand phone No: 9831 1016<br></em><em>Email address:&nbsp;</em><em><a href="mailto:oepsbus@yeaptpt.com">oepsbus@yeaptpt.com</a></em><br><br>
+School Bus Operator and “Not to Exceed Price”(NTE) for 2024 - 2025   </p>
+	• &nbsp; <a href="https://go.gov.sg/k1x411">School 
+	Bus Operator and NTE Price for 2024 - 2025</a>
+	*School will provide with more information at a later date<p></p>
 
 
 	
 <p><strong><u>School Canteen</u></strong></p>
 
-<p></p></a><p><a href="https://go.gov.sg/k1x411"><b></b></a><b><a href="https://www.operaestatepri.moe.edu.sg/canteenadvertisement/">ADVERTISEMENT FOR CANTEEN FOOD STALL<br></a>
+<p></p><p><a href="https://go.gov.sg/k1x411"><b></b></a><b><a href="https://www.operaestatepri.moe.edu.sg/canteenadvertisement/">ADVERTISEMENT FOR CANTEEN FOOD STALL<br></a>
 	
 	
 </b></p></div></li></ul>
