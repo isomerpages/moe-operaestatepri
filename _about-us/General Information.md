@@ -366,7 +366,10 @@ description: ""
 <p><em>Telephone: +65 6741 0930<br></em><em>Fax: +65 6744 7689<br></em><em>Website:&nbsp;</em><em><a href="http://www.intrenduniforms.com">www.intrenduniforms.com</a><br></em><em>Email:&nbsp;</em><a href="mailto:sales@itu.com.sg"><em>sales@itu.com.sg</em></a></p>
 <p><em>Operating Hours<br></em><em>Monday to Friday: 10.00 a.m. to 6.00 p.m.<br></em><em>Saturday: 10.00 a.m. to 3.00 p.m.<br></em><em>(Closed on Sundays and Public Holidays)</em></p>
 <p><strong><u>School Bus Operator</u></strong></p>
-<p><em>Name of Bus Operator: Yeap Transport Pte Ltd<br></em><em>Liaison officer: Mr. Nam<br></em><em>Tel No/ Hand phone No: 9831 1016<br></em><em>Email address:&nbsp;</em><em><a href="mailto:oepsbus@yeaptpt.com">oepsbus@yeaptpt.com</a></em><br>
+<p><em>Name of Bus Operator: Uncle Lin Transport and Mesa Travel (S) Pte Ltd<br></em><em>Liaison officer: Ms. Serena Chua<br></em><em>Tel No/ Hand phone No: 98597944<br></em><em>Email address:&nbsp;</em><em><a href="mailto:Unclelin.bus@gmail.com">Unclelin.bus@gmail.com</a></em><br><br>
+	<em>*School will provide with more information at a later date<br></em><br>
+	
+
 	
 </p>
 
