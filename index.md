@@ -24,12 +24,6 @@ sections:
       button: CLICK HERE
       url: https://www.operaestatepri.moe.edu.sg/canteenadvertisement/
   - infopic:
-      title: Any Teacher's Day wishes for our Opera staff?
-      button: CLICK HERE TO SUBMIT YOUR WISHES
-      url: https://form.gov.sg/5e94f7682b18f50011ee37e1
-      image: /images/teachersdayfinal.png
-      alt: Image alt text
-  - infopic:
       title: OPERA GOT TALENT
       subtitle: highlights
       description: For more information,
