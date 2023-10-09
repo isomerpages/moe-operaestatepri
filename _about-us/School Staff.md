@@ -144,14 +144,6 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Mr. Tok Chek Puay Jackmond</p>
-</td>
-<td>
-<p>HOD&nbsp;– Physical Education &amp; Co-Curricular Activities</p>
-</td>
-</tr>
-<tr>
-<td>
 <p>Ms. Chua Jin Xun</p>
 </td>
 <td>
@@ -349,7 +341,7 @@ description: ""
 <p><strong>1 Honesty</strong></p>
 </td>
 <td style="text-align: center;" width="231">
-<p>Ms. Sim Yoke Hian, Clarice<br>Mdm. Lienda Bte Jamali</p>
+<p>Mdm. Lienda Bte Jamali</p>
 </td>
 </tr>
 <tr>
@@ -549,7 +541,7 @@ description: ""
 <p><strong>5 Caring</strong></p>
 </td>
 <td style="text-align: center;" width="232">
-<p>Ms. Manickam Sumathi (Mrs. Balan)<br>Mr. Tok Chek Puay Jackmond</p>
+<p>Ms. Manickam Sumathi (Mrs. Balan)</p>
 </td>
 </tr>
 <tr>
@@ -648,14 +640,7 @@ description: ""
 <p><strong>Designation</strong></p>
 </td>
 </tr>
-<tr style="text-align: center;">
-<td>
-<p>Ms. Chan Jia Shuan, Nikki</p>
-</td>
-<td>
-<p>Special Educational Needs Officer (SEN Officer)</p>
-</td>
-</tr>
+
 <tr style="text-align: center;">
 <td>
 <p>Ms. Raihana Binte Rahmat</p>
