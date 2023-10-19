@@ -14,26 +14,25 @@ description: ""
 <tr>
 <td style="width: 33.3333%;">
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1">P1 Booklist 2023 &amp; Purchase of PE Attire</label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1">P1 Booklist 2023</label>
 <div>
 <ul>
-<li><a href="/files/OEPS-Uniforms-Measurement-Table.pdf">PE Attire and School Shoes Measurements/ Price List</a></li>
-<li><a href="/files/Opera-Estate-Booklist.pdf">Opera Estate Booklist</a></li>
+<li><a href="/files/p12024/">P1 Booklist 2024</a></li>
 </ul>
-<p>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for books and PE attire until you are updated on the outcome of the MOE FAS application.</p>
+<p>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for books/shoes/socks until you are updated on the outcome of the MOE FAS application.</p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">Purchase of School Uniform</label>
 <div>
-<p><a href="/files/Information-for-School-Uniforms.pdf"><strong>Please click here for the uniform price sheet</strong></a></p>
+<p><a href="/files/p12024/information for sale of uniforms 2024_oeps.pdf"><strong>Information for Sale of Uniforms 2024</strong></a></p>
 <p>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for school uniform until you are updated on the outcome of the MOE FAS application.</p>
-<p>WEF 1 November 2022, Johnson Uniform will relocate to 1 Kaki Bukit Road 1 #01-30/31 Enterprise One Singapore 415934<br>Telephone: +65 6741 0930<br>Website:&nbsp;www.intrenduniforms.com<br>Email:&nbsp;sales@itu.com.sg</p>
+<p></p>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox"> <label for="accordion3">Application for Interbank GIRO</label>
 <div>
-<p>Sign up for MOE eGiro through the online portal at https://www.moe.gov.sg/financial-matters/fees/egiro or from the “Services” tab in Parents Gateway app - “GIRO Setup” which will bring you to the same page for you to click “Apply for GIRO”.</p>
-<p>Should you encounter error in the process, please provide screen captures as well as the time and date of application to MOE using the below Feedback Form&nbsp;<a href="https://www.moe.gov.sg/feedback">https://www.moe.gov.sg/feedback</a></p>
+<p>Sign up for MOE eGiro through the online portal at <a href="https://www.moe.gov.sg/financial-matters/fees/egiro">https://www.moe.gov.sg/financial-matters/fees/egiro</a> or from the “Services” tab in Parents Gateway app - “GIRO Setup” which will bring you to the same page for you to click “Apply for GIRO”.</p>
+<p>Should you encounter error in the process, please provide screen captures as well as the time and date of application to MOE using the below Feedback Form&nbsp;</p><a href="https://www.moe.gov.sg/feedback">https://www.moe.gov.sg/feedback</a><p></p>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox"> <label for="accordion4">Edusave Scheme (for Singapore Citizens students only)</label>
