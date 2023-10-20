@@ -84,10 +84,10 @@ Please refer to the infosheet in various languages for an overview of the scheme
 	
 </div>
 </li>
-<li><input id="accordion6" type="checkbox"> <label for="accordion6">Consent for Dental Service 2023</label>
+<li><input id="accordion6" type="checkbox"> <label for="accordion6">Consent for Dental Service 2024</label>
 <div>
 <ul>
-<li><a href="/files/Letter-to-P1-Parent.pdf">Letter to P1 Parent</a></li>
+<li></li>
 </ul>
 </div>
 </li>
