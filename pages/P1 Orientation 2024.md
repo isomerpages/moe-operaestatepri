@@ -139,12 +139,6 @@ Please refer to the infosheet in various languages for an overview of the scheme
 <p>We have Uncle Lin Transport and Mesa Travel (S) Pte Ltd as our contracted school bus service provider with effect from 1 January 2024. </p>
 <p>If you need their service, please submit your request to the school bus service provider directly via the following link:</p><a href="https://go.gov.sg/oeps-school-bus-service." target="_blank" rel="noopener">https://go.gov.sg/oeps-school-bus-service.</a>
 	
-	
-
-<p><a href="/files/OEPS-Info-Sheet-on-School-Bus-Services.pdf"><strong>Please click here to see the Bus Price List</strong></a></p>
-<p>Please register your child/ward for school bus service at&nbsp;<a href="https://bit.ly/oepsbus" target="_blank" rel="noopener">https://bit.ly/oepsbus</a></p>
-<p>Registration is open from now to 31 October 2022.</p>
-<p>Upon registration, Yeap Transport will contact you in mid-November 2022 to provide a tentative pick-up/drop-off timing. The confirmed timings will be provided by 27 December 2022.</p>
 </div>
 </li>
 <li><input id="accordion14" type="checkbox"> <label for="accordion14">Opera Parents Club</label>
