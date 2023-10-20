@@ -38,18 +38,27 @@ description: ""
 <li><input id="accordion4" type="checkbox"> <label for="accordion4">Edusave Scheme (for Singapore Citizens students only)</label>
 <div>
 <p>All Singapore Citizens students will have an Edusave account automatically opened for them and receive a yearly contribution. For more information on Edusave Account, please refer to this&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds" target="_blank" rel="noopener">link</a></strong>.</p>
-<p>Parents can sign up for Edusave standing order to use your child’s Edusave account to pay for the single tier miscellaneous fees and enrichment programmes to reduce your out-of-pocket expense. Complete the online Edusave Standing Order Form via this&nbsp;<strong><a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" target="_blank" rel="noopener">link</a>&nbsp;</strong>with either parent's SingPass login.</p>
+<p>Parents can sign up for Edusave standing order to use your child’s Edusave account to pay for the 2nd tier miscellaneous fees and enrichment programmes to reduce your out-of-pocket expense. Complete the online Edusave Standing Order Form via this&nbsp;<strong><a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" target="_blank" rel="noopener">link</a>&nbsp;</strong>with either parent's SingPass login.</p>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox"> <label for="accordion5">MOE Financial Assistance Scheme 2023 (for eligible Singapore Citizens only)</label>
+<li><input id="accordion5" type="checkbox"> <label for="accordion5">MOE Financial Assistance Scheme 2024 (for eligible Singapore Citizens only)</label>
 <div>
-<p><strong>MOE FAS Application Form</strong></p>
+<p><strong>2024 MOE FAS Application Form</strong></p>
 <ul>
-<li><a href="/files/FAS-2023-Application-Form.pdf" target="_blank" rel="noopener">FAS 2023 Application Form</a></li>
+<li><a href="/files/p12024/2024 moe fas application form.pdf" target="_blank" rel="noopener">FAS 2024 Application Form</a></li>
 </ul>
-<p>Singapore Citizens who wish to apply for MOE FAS 2023, please complete the eFAS form via this link&nbsp;<strong><a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></strong>&nbsp;or scan the QR code. You will be required to submit the supporting documents together with the eFAS form too.</p>
+<p>Singapore Citizens who wish to apply for MOE FAS 2024, can do so via this mode:
+	
+<strong>a)</strong> eFAS link in PG’s services section:
+<img style="width: 80%;" src="/images/p12024/efas1212.png">
+	
+<strong>b)</strong> eFAS form via this <a href="https://go.gov.sg/moe-efas">link</a>
+	
+	
+	
+<strong>c)</strong>
 <img style="width: 80%;" src="/images/fasa.jpg">
-<p><a href="/files/MOE-FAS-Application-Form.pdf"><strong>Hardcopy form</strong></a>&nbsp;is required for:</p>
+</p><p><a href="/files/MOE-FAS-Application-Form.pdf"><strong>Hardcopy form</strong></a>&nbsp;is required for:</p>
 <ol style="list-style-type: lower-alpha;">
 <li>families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)</li>
 <li>family with more than 5 children in GGAS</li>
