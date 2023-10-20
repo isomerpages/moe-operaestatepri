@@ -3,12 +3,12 @@ title: P1 Orientation 2024
 permalink: /2024-p1/
 description: ""
 ---
-<img src="/images/ori1.jpg">
+<img src="/images/p12024.jpg">
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/ori2.png"></td>
-<td style="width: 33.3333%;"><img src="/images/ori3.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/p12024ori33.jpg"></td>
 <td style="width: 33.3333%;"><img src="/images/ori4.png"></td>
 </tr>
 <tr>
@@ -17,7 +17,7 @@ description: ""
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">P1 Booklist 2024</label>
 <div>
 <ul>
-<li><a href="/files/p12024/">P1 Booklist 2024</a></li>
+<li><a href="/files/p12024/oeps booklist p1.pdf">P1 Booklist 2024</a></li>
 </ul>
 <p>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for books/shoes/socks until you are updated on the outcome of the MOE FAS application.</p>
 </div>
