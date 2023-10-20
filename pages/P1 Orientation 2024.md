@@ -17,7 +17,7 @@ description: ""
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">P1 Booklist 2024</label>
 <div>
 <ul>
-<a href="/files/p12024/oeps-booklist-p1-2024.pdf">P1 Booklist 2024</a>
+<a href="/files/P12024/oeps-booklist-p1-2024.pdf">P1 Booklist 2024</a>
 </ul>
 <p>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for books/shoes/socks until you are updated on the outcome of the MOE FAS application.</p>
 </div>
