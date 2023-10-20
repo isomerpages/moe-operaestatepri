@@ -3,12 +3,12 @@ title: P1 Orientation 2024
 permalink: /2024-p1/
 description: ""
 ---
-<img src="/images/ori1.jpg">
+<img src="/images/p12024.jpg">
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/ori2.png"></td>
-<td style="width: 33.3333%;"><img src="/images/ori3.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/p12024ori33.jpg"></td>
 <td style="width: 33.3333%;"><img src="/images/ori4.png"></td>
 </tr>
 <tr>
