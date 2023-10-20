@@ -14,7 +14,7 @@ description: ""
 <tr>
 <td style="width: 33.3333%;">
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1">P1 Booklist 2023</label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1">P1 Booklist 2024</label>
 <div>
 <ul>
 <li><a href="/files/p12024/">P1 Booklist 2024</a></li>
