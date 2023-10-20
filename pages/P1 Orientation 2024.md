@@ -78,7 +78,9 @@ Please refer to the infosheet in various languages for an overview of the scheme
 <a href="/files/p12024/document4a_moe fas pamphet el.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (English)</a><br>
 <a href="/files/p12024/document4a_moe fas pamphet cl.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Chinese)</a><br>
 <a href="/files/p12024/document4a_moe fas pamphet ml.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Malay)</a><br>
-<a href="/files/p12024/document4a_moe fas pamphet tl.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Tamil)</a><p></p>
+<a href="/files/p12024/document4a_moe fas pamphet tl.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Tamil)</a>
+	
+<b>NOTE:</b> Parent whose child is a ComCare recipient need not submit the application for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries in Government/Government-Aided Schools.
 	
 </div>
 </li>
