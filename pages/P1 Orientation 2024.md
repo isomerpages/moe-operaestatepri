@@ -38,7 +38,7 @@ description: ""
 <li><input id="accordion4" type="checkbox"> <label for="accordion4">Edusave Scheme (for Singapore Citizens students only)</label>
 <div>
 <p>All Singapore Citizens students will have an Edusave account automatically opened for them and receive a yearly contribution. For more information on Edusave Account, please refer to this&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds" target="_blank" rel="noopener">link</a></strong>.</p>
-<p>Parents can sign up for Edusave standing order to use your child’s Edusave account to pay for the 2nd tier miscellaneous fees and enrichment programmes to reduce your out-of-pocket expense. Complete the online Edusave Standing Order Form via this&nbsp;<strong><a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" target="_blank" rel="noopener">link</a>&nbsp;</strong>with either parent's SingPass login.</p>
+<p>Parents can sign up for Edusave standing order to use your child’s Edusave account to pay for the single tier miscellaneous fees and enrichment programmes to reduce your out-of-pocket expense. Complete the online Edusave Standing Order Form via this&nbsp;<strong><a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" target="_blank" rel="noopener">link</a>&nbsp;</strong>with either parent's SingPass login.</p>
 </div>
 </li>
 <li><input id="accordion5" type="checkbox"> <label for="accordion5">MOE Financial Assistance Scheme 2023 (for eligible Singapore Citizens only)</label>
