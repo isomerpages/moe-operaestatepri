@@ -72,12 +72,13 @@ Please refer <a href="https://go.gov.sg/oeps-efas-userguide-2024" target="_blank
 <li>family with more than 5 unmarried children not in GGAS</li>
 <li>family with more than 3 grandparents in the household</li>
 </ol>
-<p>For more information on the scheme, please refer to Annex I in the FAS 2023 Application form.
 	
+Please refer to the infosheet in various languages for an overview of the scheme. For more information, kindly go to Annex I in the 2024 MOE FAS Application form.
+
 <a href="/files/p12024/document4a_moe fas pamphet el.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (English)</a><br>
 <a href="/files/p12024/document4a_moe fas pamphet cl.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Chinese)</a><br>
 <a href="/files/p12024/document4a_moe fas pamphet ml.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Malay)</a><br>
-<a href="/files/p12024/document4a_moe fas pamphet tl.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Tamil)</a></p>
+<a href="/files/p12024/document4a_moe fas pamphet tl.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Tamil)</a><p></p>
 	
 </div>
 </li>
