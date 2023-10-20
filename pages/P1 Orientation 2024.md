@@ -3,12 +3,12 @@ title: P1 Orientation 2024
 permalink: /2024-p1/
 description: ""
 ---
-<img src="/images/p12024.jpg">
+<img src="/images/ori1.jpg">
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/ori2.png"></td>
-<td style="width: 33.3333%;"><img src="/images/p12024ori33.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/ori3.jpg"></td>
 <td style="width: 33.3333%;"><img src="/images/ori4.png"></td>
 </tr>
 <tr>
@@ -129,6 +129,10 @@ Please refer to the infosheet in various languages for an overview of the scheme
 </li>
 <li><input id="accordion12" type="checkbox"> <label for="accordion12">School-based Student Care Centre (SCC)</label>
 <div>
+	
+<p> Registration is now open until 3 November 2023, Friday.</p>
+	<p>Please refer to <a href="/files/SCC-Brochure-2023oeps.pdf">SCC Cover Letter</a> for more information. </p>
+	
 <a href="/files/SCC-Brochure-2023oeps.pdf"><img style="width: 80%;" src="/images/scc.jpg"></a>
 <p style="text-align: center;">(Click to view the brochure)</p>
 <p style="text-align: center;"><strong>Expression of Interest:<br></strong><a href="https://www.knowledgepark.com.sg/operaestatescc" target="_blank" rel="noopener">https://www.knowledgepark.com.sg/operaestatescc</a></p>
