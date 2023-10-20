@@ -3,12 +3,12 @@ title: P1 Orientation 2024
 permalink: /2024-p1/
 description: ""
 ---
-<img src="/images/p12024.jpg">
+<img src="/images/ori1.jpg">
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/ori2.png"></td>
-<td style="width: 33.3333%;"><img src="/images/p12024ori33.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/ori3.jpg"></td>
 <td style="width: 33.3333%;"><img src="/images/ori4.png"></td>
 </tr>
 <tr>
@@ -130,19 +130,19 @@ Please refer to the infosheet in various languages for an overview of the scheme
 <li><input id="accordion12" type="checkbox"> <label for="accordion12">School-based Student Care Centre (SCC)</label>
 <div>
 	
-<p>Registration is now open until 3 November 2023, Friday.</p>
-	<p>Please refer<a href="/files/SCC-Brochure-2023oeps.pdf"> SCC Brochure</a> to for more information.</p>
-	
+<p> Registration is now open until 3 November 2023, Friday.</p>
+	<p>Please refer to <a href="/files/SCC-Brochure-2023oeps.pdf">SCC Cover Letter</a> for more information. </p>
 	
 <a href="/files/SCC-Brochure-2023oeps.pdf"><img style="width: 80%;" src="/images/scc.jpg"></a>
 <p style="text-align: center;">(Click to view the brochure)</p>
 <p style="text-align: center;"><strong>Expression of Interest:<br></strong><a href="https://www.knowledgepark.com.sg/operaestatescc" target="_blank" rel="noopener">https://www.knowledgepark.com.sg/operaestatescc</a></p>
 </div>
 </li>
-<li><input id="accordion13" type="checkbox"> <label for="accordion13">School Bus Application Form</label>
+<li><input id="accordion13" type="checkbox"> <label for="accordion13">School Bus Service Provider</label>
 <div>
-<p>We have Uncle Lin Transport and Mesa Travel (S) Pte Ltd as our contracted school bus service provider with effect from 1 January 2024. </p>
-<p>If you need their service, please submit your request to the school bus service provider directly via the following link:</p><a href="https://go.gov.sg/oeps-school-bus-service." target="_blank" rel="noopener">https://go.gov.sg/oeps-school-bus-service.</a>
+	<p>The school has appointed <b>Uncle Lin</b> and <b>Mesa</b> as our contracted school bus service provider with effect from 1 January 2024. </p>
+	
+<p>You may indicate your interest through the link : <a href="https://go.gov.sg/oeps-school-bus-service." target="_blank" rel="noopener">https://go.gov.sg/oeps-school-bus-service</a> or by emailing the “Request for School Bus Services” form to <a href="mailto:OEPSbus@unclelintransport.com">OEPSbus@unclelintransport.com</a>.</p>
 	
 </div>
 </li>
