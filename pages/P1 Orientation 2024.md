@@ -24,7 +24,7 @@ description: ""
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">Purchase of School Uniform</label>
 <div>
-<p><a href="/files/p12024/information for sale of uniforms 2024_oeps.pdf"><strong>Information for Sale of Uniforms 2024</strong></a></p>
+<p><a href="/files/P12024/uniform-oeps-p1-2024.pdf"><strong>Information for Sale of Uniforms 2024</strong></a></p>
 <p>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for school uniform until you are updated on the outcome of the MOE FAS application.</p>
 <p></p>
 </div>
@@ -38,19 +38,19 @@ description: ""
 <li><input id="accordion4" type="checkbox"> <label for="accordion4">Edusave Scheme (for Singapore Citizens students only)</label>
 <div>
 <p>All Singapore Citizens students will have an Edusave account automatically opened for them and receive a yearly contribution. For more information on Edusave Account, please refer to this&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds" target="_blank" rel="noopener">link</a></strong>.</p>
-<p>Parents can sign up for Edusave standing order to use your child’s Edusave account to pay for the 2nd tier miscellaneous fees and enrichment programmes to reduce your out-of-pocket expense. Complete the online Edusave Standing Order Form via this&nbsp;<strong><a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" target="_blank" rel="noopener">link</a>&nbsp;</strong>with either parent's SingPass login.</p>
+<p>Parents can sign up for Edusave standing order to use your child’s Edusave account to pay for the single tier miscellaneous fees and enrichment programmes to reduce your out-of-pocket expense. Complete the online Edusave Standing Order Form via this&nbsp;<strong><a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" target="_blank" rel="noopener">link</a>&nbsp;</strong>with either parent's SingPass login.</p>
 </div>
 </li>
 <li><input id="accordion5" type="checkbox"> <label for="accordion5">MOE Financial Assistance Scheme 2024 (for eligible Singapore Citizens only)</label>
 <div>
 <p><strong>2024 MOE FAS Application Form</strong></p>
 <ul>
-<li><a href="/files/p12024/2024 moe fas application form.pdf" target="_blank" rel="noopener">FAS 2024 Application Form</a></li>
+<li><a href="/files/P12024/moe-fas-2024.pdf" target="_blank" rel="noopener">FAS 2024 Application Form</a></li>
 </ul>
 <p>Singapore Citizens who wish to apply for MOE FAS 2024, can do so via this mode:
 	
 <strong>a)</strong> eFAS link in PG’s services section:
-<img style="width: 80%;" src="/images/p12024/efasefas.png">
+<img style="width: 80%;" src="/images/efasefas.png">
 	
 <strong>b)</strong> eFAS form via this <a href="https://go.gov.sg/moe-efas">link</a>
 	
@@ -75,10 +75,10 @@ Please refer <a href="https://go.gov.sg/oeps-efas-userguide-2024" target="_blank
 	
 Please refer to the infosheet in various languages for an overview of the scheme. For more information, kindly go to Annex I in the 2024 MOE FAS Application form.
 
-<a href="/files/p12024/document4a_moe fas pamphet el.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (English)</a><br>
-<a href="/files/p12024/document4a_moe fas pamphet cl.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Chinese)</a><br>
-<a href="/files/p12024/document4a_moe fas pamphet ml.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Malay)</a><br>
-<a href="/files/p12024/document4a_moe fas pamphet tl.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Tamil)</a>
+<a href="/files/P12024/moe-fas-el-2024.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (English)</a><br>
+<a href="/files/P12024/moe-fas-cl-2024.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Chinese)</a><br>
+<a href="/files/P12024/moe-fas-ml-2024.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Malay)</a><br>
+<a href="/files/P12024/moe-fas-tl-2024.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Tamil)</a>
 	
 <b>NOTE:</b> Parent whose child is a ComCare recipient need not submit the application for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries in Government/Government-Aided Schools.
 	
@@ -87,7 +87,7 @@ Please refer to the infosheet in various languages for an overview of the scheme
 <li><input id="accordion6" type="checkbox"> <label for="accordion6">Consent for Dental Service 2024</label>
 <div>
 <ul>
-<li><i>COMING SOON</i></li>
+<li><i>Please visit again in early January 2024</i></li>
 </ul>
 </div>
 </li>
@@ -131,7 +131,7 @@ Please refer to the infosheet in various languages for an overview of the scheme
 <div>
 	
 <p> Registration is now open until 3 November 2023, Friday.</p>
-	<p>Please refer to <a href="/files/SCC-Brochure-2023oeps.pdf">SCC Cover Letter</a> for more information. </p>
+	<p>Please refer to <a href="/files/P12024/scc-cover-2024.pdf">SCC Cover Letter</a> for more information. </p>
 	
 <a href="/files/SCC-Brochure-2023oeps.pdf"><img style="width: 80%;" src="/images/scc.jpg"></a>
 <p style="text-align: center;">(Click to view the brochure)</p>
@@ -142,7 +142,18 @@ Please refer to the infosheet in various languages for an overview of the scheme
 <div>
 	<p>The school has appointed <b>Uncle Lin</b> and <b>Mesa</b> as our contracted school bus service provider with effect from 1 January 2024. </p>
 	
-<p>You may indicate your interest through the link : <a href="https://go.gov.sg/oeps-school-bus-service." target="_blank" rel="noopener">https://go.gov.sg/oeps-school-bus-service</a> or by emailing the “Request for School Bus Services” form to <a href="mailto:OEPSbus@unclelintransport.com">OEPSbus@unclelintransport.com</a>.</p>
+<p>You may indicate your interest through the link : <a href="https://go.gov.sg/oeps-school-bus-service." target="_blank" rel="noopener">https://go.gov.sg/oeps-school-bus-service</a> or by emailing the “Request for School Bus Services” form to <a href="mailto:OEPSbus@unclelintransport.com">OEPSbus@unclelintransport.com</a>.
+	
+
+Please click here to see <a href="/files/P12024/bus-service-2024.pdf">Information on School Bus Services</a> Infosheet. 
+
+As the welcome letter needs to be sent out via PG and email before end today, would greatly appreciate if the webpage can be up before 2pm.
+Thank you for your kind help.
+
+
+</p>
+	
+
 	
 </div>
 </li>
