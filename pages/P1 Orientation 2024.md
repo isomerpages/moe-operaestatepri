@@ -45,7 +45,7 @@ description: ""
 <div>
 <p><strong>2024 MOE FAS Application Form</strong></p>
 <ul>
-<li><a href="/files/p12024/2024 moe fas application form.pdf" target="_blank" rel="noopener">FAS 2024 Application Form</a></li>
+<li><a href="/files/P12024/moe-fas-2024.pdf" target="_blank" rel="noopener">FAS 2024 Application Form</a></li>
 </ul>
 <p>Singapore Citizens who wish to apply for MOE FAS 2024, can do so via this mode:
 	
