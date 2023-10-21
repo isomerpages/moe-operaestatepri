@@ -131,7 +131,7 @@ Please refer to the infosheet in various languages for an overview of the scheme
 <div>
 	
 <p> Registration is now open until 3 November 2023, Friday.</p>
-	<p>Please refer to <a href="/files/SCC-Brochure-2023oeps.pdf">SCC Cover Letter</a> for more information. </p>
+	<p>Please refer to <a href="/files/P12024/scc-cover-2024.pdf">SCC Cover Letter</a> for more information. </p>
 	
 <a href="/files/SCC-Brochure-2023oeps.pdf"><img style="width: 80%;" src="/images/scc.jpg"></a>
 <p style="text-align: center;">(Click to view the brochure)</p>
