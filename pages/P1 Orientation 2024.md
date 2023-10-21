@@ -24,7 +24,7 @@ description: ""
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">Purchase of School Uniform</label>
 <div>
-<p><a href="/files/P12024/information for sale of uniforms 2024_oeps.pdf"><strong>Information for Sale of Uniforms 2024</strong></a></p>
+<p><a href="/files/P12024/uniform-oeps-p1-2024.pdf"><strong>Information for Sale of Uniforms 2024</strong></a></p>
 <p>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for school uniform until you are updated on the outcome of the MOE FAS application.</p>
 <p></p>
 </div>
