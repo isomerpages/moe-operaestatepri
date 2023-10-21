@@ -87,7 +87,7 @@ Please refer to the infosheet in various languages for an overview of the scheme
 <li><input id="accordion6" type="checkbox"> <label for="accordion6">Consent for Dental Service 2024</label>
 <div>
 <ul>
-<li><i>COMING SOON</i></li>
+<li><i>Please visit again in early January 2024</i></li>
 </ul>
 </div>
 </li>
