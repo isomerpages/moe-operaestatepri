@@ -145,7 +145,7 @@ Please refer to the infosheet in various languages for an overview of the scheme
 <p>You may indicate your interest through the link : <a href="https://go.gov.sg/oeps-school-bus-service." target="_blank" rel="noopener">https://go.gov.sg/oeps-school-bus-service</a> or by emailing the “Request for School Bus Services” form to <a href="mailto:OEPSbus@unclelintransport.com">OEPSbus@unclelintransport.com</a>.
 	
 
-Please click here to see <a href="/files/P12024/bus-service-2024.pdf">SCC Cover Letter</a> Infosheet. 
+Please click here to see <a href="/files/P12024/bus-service-2024.pdf">Information on School Bus Services</a> Infosheet. 
 
 As the welcome letter needs to be sent out via PG and email before end today, would greatly appreciate if the webpage can be up before 2pm.
 Thank you for your kind help.
