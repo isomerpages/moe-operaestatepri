@@ -111,9 +111,10 @@ Please refer to the infosheet in various languages for an overview of the scheme
 </li>
 <li><input id="accordion10" type="checkbox"> <label for="accordion10">P1 Orientation Briefing Slides</label>
 <div>
-</div></li><li><i>Please visit this page after the P1 Orientation Day</i>
+	</div></li><li><i>Please visit this page after the P1 Orientation Day</i></li>
+	
 
-</li>
+
 </ul>
 </td>
 <td style="width: 33.3333%;">
@@ -142,7 +143,7 @@ Please refer to the infosheet in various languages for an overview of the scheme
 <div>
 	<p>The school has appointed <b>Uncle Lin</b> and <b>Mesa</b> as our contracted school bus service provider with effect from 1 January 2024. </p>
 	
-<p>You may indicate your interest through the link : <a href="https://go.gov.sg/oeps-school-bus-service." target="_blank" rel="noopener">https://go.gov.sg/oeps-school-bus-service</a> or by emailing the “Request for School Bus Services” form to <a href="mailto:OEPSbus@unclelintransport.com">OEPSbus@unclelintransport.com</a>.
+<p>You may indicate your interest through the link : <a href="https://go.gov.sg/oeps-school-bus-service." target="_blank" rel="noopener">https://go.gov.sg/oeps-school-bus-service</a> or by emailing the “Request for School Bus Services” form to <a href="mailto:OEPSbus@unclelintransport.com">OEPSbus@unclelintransport.com</a>.<br>
 	
 
 Please click here to see <a href="/files/P12024/bus-service-2024.pdf">Information on School Bus Services</a> Infosheet. 
