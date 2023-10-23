@@ -111,8 +111,8 @@ Please refer to the infosheet in various languages for an overview of the scheme
 </li>
 <li><input id="accordion10" type="checkbox"> <label for="accordion10">P1 Orientation Briefing Slides</label>
 <div>
-<p><a href="https://drive.google.com/file/d/1WY2l4CyUBTKPefvYuQs0DpvDNb7L_Nar/view?usp=share_link" target="_blank" rel="noopener"><strong>P1 Orientation Briefing Slides (Click here)</strong></a></p>
-</div>
+</div></li><li><i>Please visit this page after the P1 Orientation Day</i>
+
 </li>
 </ul>
 </td>
