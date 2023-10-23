@@ -101,7 +101,7 @@ Please refer to the infosheet in various languages for an overview of the scheme
 </li>
 <li><input id="accordion8" type="checkbox"> <label for="accordion8">Information Booklet for P1 Parents</label>
 <div>
-<p><a href="https://www.flipsnack.com/operaestatepri/info-booklet-for-2023-p1-parents-c90zyey3f2/full-view.html" target="_blank" rel="noopener"><strong>Click here to view!</strong></a></p>
+<p><a href="/files/P12024/info-booklet-p1-2024.pdf" target="_blank" rel="noopener"><strong>Click here to view!</strong></a></p>
 </div>
 </li>
 <li><input id="accordion9" type="checkbox"> <label for="accordion9">A Day in OEPS</label>
@@ -111,8 +111,8 @@ Please refer to the infosheet in various languages for an overview of the scheme
 </li>
 <li><input id="accordion10" type="checkbox"> <label for="accordion10">P1 Orientation Briefing Slides</label>
 <div>
-<p><a href="https://drive.google.com/file/d/1WY2l4CyUBTKPefvYuQs0DpvDNb7L_Nar/view?usp=share_link" target="_blank" rel="noopener"><strong>P1 Orientation Briefing Slides (Click here)</strong></a></p>
-</div>
+</div></li><li><i>Please visit this page after the P1 Orientation Day</i>
+
 </li>
 </ul>
 </td>
@@ -146,9 +146,6 @@ Please refer to the infosheet in various languages for an overview of the scheme
 	
 
 Please click here to see <a href="/files/P12024/bus-service-2024.pdf">Information on School Bus Services</a> Infosheet. 
-
-As the welcome letter needs to be sent out via PG and email before end today, would greatly appreciate if the webpage can be up before 2pm.
-Thank you for your kind help.
 
 
 </p>
