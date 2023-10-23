@@ -69,12 +69,11 @@ Please refer <a href="https://go.gov.sg/oeps-efas-userguide-2024" target="_blank
 <ul>
 <li><a href="/files/P12024/moe-fas-2024.pdf" target="_blank" rel="noopener">FAS 2024 Application Form</a></li>
 </ul>
-Please refer to the infosheet in various languages for an overview of the scheme. For more information, kindly go to Annex I in the 2024 MOE FAS Application form.
-
+Please refer to the infosheet in various languages for an overview of the scheme. For more information, kindly go to Annex I in the 2024 MOE FAS Application form.<br>
 <a href="/files/P12024/moe-fas-el-2024.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (English)</a><br>
 <a href="/files/P12024/moe-fas-cl-2024.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Chinese)</a><br>
 <a href="/files/P12024/moe-fas-ml-2024.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Malay)</a><br>
-<a href="/files/P12024/moe-fas-tl-2024.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Tamil)</a>
+<a href="/files/P12024/moe-fas-tl-2024.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Tamil)</a><br>
 	
 <b>NOTE:</b> Parent whose child is a ComCare recipient need not submit the application for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries in Government/Government-Aided Schools.
 	
