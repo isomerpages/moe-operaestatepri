@@ -18,17 +18,16 @@ sections:
         - title: Useful Links
           description: ""
           url: /moe-sexuality-education/
+  - infopic:
+      title: P1 Orientation 2024
+      description: For more information,
+      button: Click here
+      url: /2024-p1
+      image: /images/p12024web.jpg
+      alt: Image alt text
   - infobar:
       title: Advertisement For Canteen Food Stall
       id: infobar
       button: CLICK HERE
       url: https://www.operaestatepri.moe.edu.sg/canteenadvertisement/
-  - infopic:
-      title: OPERA GOT TALENT
-      subtitle: highlights
-      description: For more information,
-      button: Click here
-      url: /ogt
-      image: /images/ogtogt_1.jpg
-      alt: Image alt text
 ---
