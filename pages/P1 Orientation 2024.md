@@ -101,7 +101,7 @@ Please refer to the infosheet in various languages for an overview of the scheme
 </li>
 <li><input id="accordion8" type="checkbox"> <label for="accordion8">Information Booklet for P1 Parents</label>
 <div>
-<p><a href="https://www.flipsnack.com/operaestatepri/info-booklet-for-2023-p1-parents-c90zyey3f2/full-view.html" target="_blank" rel="noopener"><strong>Click here to view!</strong></a></p>
+<p><a href="/files/P12024/info-booklet-p1-2024.pdf" target="_blank" rel="noopener"><strong>Click here to view!</strong></a></p>
 </div>
 </li>
 <li><input id="accordion9" type="checkbox"> <label for="accordion9">A Day in OEPS</label>
