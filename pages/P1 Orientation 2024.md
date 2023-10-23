@@ -129,12 +129,10 @@ Please refer to the infosheet in various languages for an overview of the scheme
 	
 <p> Registration is now open until 3 November 2023, Friday.</p>
 	<p>Please refer to <a href="/files/P12024/scc-cover-2024.pdf">SCC Cover Letter</a> for more information. </p>
-	
-<a href="/files/SCC-Brochure-2023oeps.pdf"><img style="width: 80%;" src="/images/scc.jpg"></a>
-<p style="text-align: center;">(Click to view the brochure)</p>
+
 <p style="text-align: center;"><strong>Expression of Interest:<br></strong><a href="https://www.knowledgepark.com.sg/operaestatescc" target="_blank" rel="noopener">https://www.knowledgepark.com.sg/operaestatescc</a></p>
 </div>
-</li>
+</li><br>
 <li><input id="accordion13" type="checkbox"> <label for="accordion13">School Bus Service Provider</label>
 <div>
 	<p>The school has appointed <b>Uncle Lin</b> and <b>Mesa</b> as our contracted school bus service provider with effect from 1 January 2024. </p>
