@@ -107,12 +107,11 @@ Please refer to the infosheet in various languages for an overview of the scheme
 </li>
 <li><input id="accordion10" type="checkbox"> <label for="accordion10">P1 Orientation Briefing Slides</label>
 <div>
-	</div></li><li><i>Please visit this page after the P1 Orientation Day</i></li>
-	
-
-
+<ul>
+<li><i>Please visit this page after the P1 Orientation Day</i></li>
 </ul>
-</td>
+</div>
+</li></ul></td>
 <td style="width: 33.3333%;">
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion11" type="checkbox"> <label for="accordion11">Parents Gateway</label>
