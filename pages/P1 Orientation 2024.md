@@ -43,28 +43,20 @@ description: ""
 </li>
 <li><input id="accordion5" type="checkbox"> <label for="accordion5">MOE Financial Assistance Scheme 2024 (for eligible Singapore Citizens only)</label>
 <div>
-<p><strong>2024 MOE FAS Application Form</strong></p>
-<ul>
-<li><a href="/files/P12024/moe-fas-2024.pdf" target="_blank" rel="noopener">FAS 2024 Application Form</a></li>
-</ul>
+
 <p>Singapore Citizens who wish to apply for MOE FAS 2024, can do so via this mode:
 	
 <strong>a)</strong> eFAS link in PG’s services section:
 <img style="width: 80%;" src="/images/efasefas.png">
 	
-<strong>b)</strong> eFAS form via this <a href="https://go.gov.sg/moe-efas">link</a>
-	
-	
-	
+<strong>b)</strong> eFAS form via this <a href="https://go.gov.sg/moe-efas">link</a><br>
 <strong>c)</strong> Scan the QR code:
 <img style="width: 80%;" src="/images/fasa.jpg">
 	</p><p><a href="/files/MOE-FAS-Application-Form.pdf"></a>
 	
 <strong><u>IMPORTANT:</u></strong> You will be required to submit the supporting documents together with the eFAS form too.<br>
 	
-Please refer <a href="https://go.gov.sg/oeps-efas-userguide-2024" target="_blank" rel="noopener">here</a>for the steps to follow when making application through the eFAS form. 
-	
-	
+Please refer <a href="https://go.gov.sg/oeps-efas-userguide-2024" target="_blank" rel="noopener">here</a> for the steps to follow when making application through the eFAS form. <br>
 <strong>Hardcopy form</strong>&nbsp;is required for:</p>
 <ol style="list-style-type: lower-alpha;">
 <li>families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)</li>
@@ -73,6 +65,10 @@ Please refer <a href="https://go.gov.sg/oeps-efas-userguide-2024" target="_blank
 <li>family with more than 3 grandparents in the household</li>
 </ol>
 	
+<p><strong>2024 MOE FAS Application Form</strong></p>
+<ul>
+<li><a href="/files/P12024/moe-fas-2024.pdf" target="_blank" rel="noopener">FAS 2024 Application Form</a></li>
+</ul>
 Please refer to the infosheet in various languages for an overview of the scheme. For more information, kindly go to Annex I in the 2024 MOE FAS Application form.
 
 <a href="/files/P12024/moe-fas-el-2024.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (English)</a><br>
