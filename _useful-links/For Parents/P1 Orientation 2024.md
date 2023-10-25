@@ -127,8 +127,8 @@ Please refer to the infosheet in various languages for an overview of the scheme
 <div>
 	
 <p> Registration is now open until 3 November 2023, Friday.</p>
-	<p>SCC BROCHURE: <a href="/files/P12024/scc-cover-2024.pdf">Click here</a></p>
-	<p>Please refer to <a href="/files/P12024/scc-brochure2024.pdf">SCC Cover Letter</a> for more information. </p>
+	<p>SCC BROCHURE: <a href="/files/P12024/scc-brochure2024.pdf">Click here</a></p>
+	<p>Please refer to <a href="/files/P12024/scc-cover-2024.pdf">SCC Cover Letter</a> for more information. </p>
 
 <p style="text-align: center;"><strong>Expression of Interest:<br></strong><a href="https://www.knowledgepark.com.sg/operaestatescc" target="_blank" rel="noopener">https://www.knowledgepark.com.sg/operaestatescc</a></p>
 </div>
