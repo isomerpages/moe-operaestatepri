@@ -500,6 +500,19 @@ description: ""
   line-height:normal"><span lang="EN-SG" style="font-size:14.0pt;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1;
   background:white;mso-ansi-language:EN-SG">&nbsp;</span></p></td></tr></tbody></table>
+	
+<h4><b> SCIENCE</b></h4>
+<table style="width:500.5pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="727" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td style="width:184.05pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="245"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">SYF Art Exhibition </span></p></td><td style="width:127.6pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="170"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-ansi-language:
+  EN-SG" lang="EN-SG">Certificate of Recognition</span></p></td><td style="width:233.85pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" width="312"><p style="margin-bottom:0cm;text-align:center;
+		line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">Poppy Mai-anh Leach <br> Sophie Clare Hope Morris <br> Jamie Lin Lawther <br> Alexis Lee Jia En <br> Vaanya Garg <br> Mariella Zarrilli <br> Vanessa Choo Kai Li <br> Sonal Naidu <br> Hasya Insyirah Binte Muhamad Hirwan</span></p></td></tr></tbody></table>
 
 
 
