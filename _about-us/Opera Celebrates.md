@@ -1031,7 +1031,7 @@ description: ""
 <h4><b> Floorball CCA</b></h4>
 
 
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="727" style="width:545.5pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="727" style="width:500pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td width="245" style="width:184.05pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
   line-height:normal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
