@@ -440,7 +440,7 @@ description: ""
 
   
   <h4><b> MOTHER TONGUE</b></h4>
-<table style="width:545.5pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+<table style="width:500pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="727" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:184.05pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="245"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
@@ -1045,5 +1045,3 @@ description: ""
   padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
   line-height:normal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Aarav Satya Maruvada</span></p></td></tr></tbody></table>
-	
-	
