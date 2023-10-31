@@ -177,7 +177,7 @@ description: ""
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="245" rowspan="4" style="width:184.05pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
   line-height:normal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Raffles Institution Primary Mathematics World Contest (RIPMWC</span>) 2023<span style="font-size:14.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Raffles Institution Primary Mathematics World Contest (RIPMWC) 2023</span><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
   minor-latin"></span></p></td><td width="170" style="width:127.6pt;border:solid windowtext 1.0pt;border-left:
   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
