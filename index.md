@@ -29,5 +29,5 @@ sections:
       title: Advertisement For Canteen Food Stall
       id: infobar
       button: CLICK HERE
-      url: https://www.operaestatepri.moe.edu.sg/canteenadvertisement/
+      url: https://operaestatepri.moe.edu.sg/ca2024/
 ---
