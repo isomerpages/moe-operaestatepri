@@ -2,6 +2,7 @@
 title: P1 Orientation 2023
 permalink: /2023-p1/
 description: ""
+variant: markdown
 ---
 <img src="/images/ori1.jpg">
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -87,7 +88,7 @@ description: ""
 </li>
 <li><input id="accordion10" type="checkbox"> <label for="accordion10">P1 Orientation Briefing Slides</label>
 <div>
-<p><a href="https://drive.google.com/file/d/1WY2l4CyUBTKPefvYuQs0DpvDNb7L_Nar/view?usp=share_link" target="_blank" rel="noopener"><strong>P1 Orientation Briefing Slides (Click here)</strong></a></p>
+<p><a href="https://go.gov.sg/p1orientationslides2023" target="_blank" rel="noopener"><strong>P1 Orientation Briefing Slides (Click here)</strong></a></p>
 </div>
 </li>
 </ul>
