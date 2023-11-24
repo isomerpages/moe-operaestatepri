@@ -3,6 +3,7 @@ title: P1 Orientation 2024
 permalink: /2024-p1/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 <img src="/images/p12024.jpg">
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -108,7 +109,7 @@ Please refer to the infosheet in various languages for an overview of the scheme
 <li><input id="accordion10" type="checkbox"> <label for="accordion10">P1 Orientation Briefing Slides</label>
 <div>
 <ul>
-<li><i>Please visit this page after the P1 Orientation Day</i></li>
+<li><p><a href="https://go.gov.sg/p1orientationslides2024" target="_blank" rel="noopener"><strong>P1 Orientation Briefing Slides (Click here)</strong></a></p></li>
 </ul>
 </div>
 </li></ul></td>
