@@ -1,6 +1,7 @@
 ---
 title: stafftest2024
 permalink: /permalink/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+![](/images/2024/staff2024.png)
