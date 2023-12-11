@@ -392,7 +392,11 @@ description: ""
 	
 	
 </li>
-<li><input id="accordion3" type="checkbox"> <label for="accordion3">Primary 2 Form Teachers</label>
+<li><input id="accordion3" type="checkbox"> <label for="accordion2">         
+<table style="background:#FFE593;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+  height:21.1pt"><td style="width:77.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.1pt" valign="top" width="104"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-color-alt:windowtext">PRIMARY 2</span><span style="font-size:14.0pt"></span></p></td></tr></tbody></table></label>
 <div>
 <table>
 <tbody>
@@ -456,7 +460,11 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox"> <label for="accordion4">Primary 3 Form Teachers</label>
+<li><input id="accordion4" type="checkbox"> <label for="accordion2">         
+<table style="background:#FFE593;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+  height:21.1pt"><td style="width:77.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.1pt" valign="top" width="104"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-color-alt:windowtext">PRIMARY 3</span><span style="font-size:14.0pt"></span></p></td></tr></tbody></table></label>
 <div>
 <table>
 <tbody>
@@ -504,7 +512,11 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox"> <label for="accordion5">Primary 4 Form Teachers</label>
+<li><input id="accordion5" type="checkbox"><label for="accordion2">         
+<table style="background:#FFE593;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+  height:21.1pt"><td style="width:77.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.1pt" valign="top" width="104"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-color-alt:windowtext">PRIMARY 4</span><span style="font-size:14.0pt"></span></p></td></tr></tbody></table></label>
 <div>
 <table>
 <tbody>
@@ -552,7 +564,11 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion6" type="checkbox"> <label for="accordion6">Primary 5 Form Teachers</label>
+<li><input id="accordion6" type="checkbox"> <label for="accordion2">         
+<table style="background:#FFE593;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+  height:21.1pt"><td style="width:77.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.1pt" valign="top" width="104"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-color-alt:windowtext">PRIMARY 5</span><span style="font-size:14.0pt"></span></p></td></tr></tbody></table></label>
 <div>
 <table>
 <tbody>
@@ -608,7 +624,11 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion7" type="checkbox"> <label for="accordion7">Primary 6 Form Teachers</label>
+<li><input id="accordion7" type="checkbox"> <label for="accordion2">         
+<table style="background:#FFE593;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+  height:21.1pt"><td style="width:77.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.1pt" valign="top" width="104"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-color-alt:windowtext">PRIMARY 6</span><span style="font-size:14.0pt"></span></p></td></tr></tbody></table></label>
 <div>
 <table>
 <tbody>
@@ -656,7 +676,11 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion9" type="checkbox"> <label for="accordion9">Allied Educators</label>
+<li><input id="accordion9" type="checkbox"> <label for="accordion2">         
+<table style="background:#FFE593;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+  height:21.1pt"><td style="width:77.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.1pt" valign="top" width="104"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-color-alt:windowtext">ALLIED EDUCATORS</span><span style="font-size:14.0pt"></span></p></td></tr></tbody></table></label>
 <div>
 <table>
 <tbody>
@@ -715,9 +739,11 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion10" type="checkbox"> <label for="accordion10">Administrative &amp; Support Staff</label>
-<div>
-<h4>School Administrative Team</h4>
+<li><input id="accordion10" type="checkbox"> <label for="accordion2">         
+<table style="background:#FFE593;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+  height:21.1pt"><td style="width:77.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.1pt" valign="top" width="104"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-color-alt:windowtext">SCHOOL ADMINISTRATIVE TEAM</span><span style="font-size:14.0pt"></span></p></td></tr></tbody></table></label>
 <table>
 <tbody>
 <tr>
@@ -861,6 +887,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-</div>
+
 </li>
 </ul>
