@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1">Key Personnel</label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1">KEY PERSONNEL </label>
 <div>
 <h4>School Leaders</h4>
 <table>
@@ -301,7 +301,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox"> <label for="accordion2">Primary 1 Form Teachers</label>
+	<li><input id="accordion2" type="checkbox"> <label for="accordion2"><b>PRIMARY 1 FORM TEACHERS</b></label>
 <div>
 <table>
 <tbody>
@@ -365,7 +365,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox"> <label for="accordion3">Primary 2 Form Teachers</label>
+<li><input id="accordion3" type="checkbox"> <label for="accordion3"><b>PRIMARY 2 FORM TEACHERS</b></label>
 <div>
 <table>
 <tbody>
@@ -429,7 +429,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox"> <label for="accordion4">Primary 3 Form Teachers</label>
+<li><input id="accordion4" type="checkbox"> <label for="accordion4"><b>PRIMARY 3 FORM TEACHERS</b></label>
 <div>
 <table>
 <tbody>
@@ -477,7 +477,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox"> <label for="accordion5">Primary 4 Form Teachers</label>
+<li><input id="accordion5" type="checkbox"> <label for="accordion5"><b>PRIMARY 4 FORM TEACHERS</b></label>
 <div>
 <table>
 <tbody>
@@ -525,7 +525,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion6" type="checkbox"> <label for="accordion6">Primary 5 Form Teachers</label>
+<li><input id="accordion6" type="checkbox"> <label for="accordion6"><b>PRIMARY 5 FORM TEACHERS</b></label>
 <div>
 <table>
 <tbody>
@@ -581,7 +581,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion7" type="checkbox"> <label for="accordion7">Primary 6 Form Teachers</label>
+<li><input id="accordion7" type="checkbox"> <label for="accordion7"><b>PRIMARY 6 FORM TEACHERS</b></label>
 <div>
 <table>
 <tbody>
@@ -629,7 +629,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion9" type="checkbox"> <label for="accordion9">Allied Educators</label>
+<li><input id="accordion9" type="checkbox"> <label for="accordion9"><b>ALLIED EDUCATORS</b></label>
 <div>
 <table>
 <tbody>
@@ -688,7 +688,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion10" type="checkbox"> <label for="accordion10">Administrative &amp; Support Staff</label>
+<li><input id="accordion10" type="checkbox"> <label for="accordion10"><b>ADMINISTRATIVE &amp; SUPPORT STAFF</b></label>
 <div>
 <h4>School Administrative Team</h4>
 <table>
