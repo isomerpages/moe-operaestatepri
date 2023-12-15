@@ -705,58 +705,62 @@ description: ""
 </li>
 <li><input id="accordion6" type="checkbox"> <label for="accordion6"><b>PRIMARY 5 FORM TEACHERS</b></label>
 <div>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;">
-<p><strong>Class</strong></p>
-</td>
-<td style="text-align: center;">
-<p><strong>Name</strong></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="228">
-<p><strong>5 Caring</strong></p>
-</td>
-<td style="text-align: center;" width="232">
-<p>Ms. Manickam Sumathi (Mrs. Balan)</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="228">
-<p><strong>5 Diligence</strong></p>
-</td>
-<td style="text-align: center;" width="232">
-<p>Mdm. Lim Ching Ching<br>Mr. Ho Lui Soon<br>Mr. Tong Chin Hong</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="228">
-<p><strong>5 Grace</strong></p>
-</td>
-<td style="text-align: center;" width="232">
-<p>Ms. Shaikha Maimunah binte Shaikh Fuad Mattar<br>Ms. Ng Ai Leen</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="228">
-<p><strong>5 Honesty</strong></p>
-</td>
-<td style="text-align: center;" width="232">
-<p>Ms. Chow Wai Mun Felicia<br>Mr. Lim Yan Zhi<br>Ms. Chia Hui Min</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="228">
-<p><strong>5 Integrity</strong></p>
-</td>
-<td style="text-align: center;" width="232">
-<p>Ms. Chua Jin Xun<br>Mdm. Nur Farah Binte Mohamad Shukor</p>
-</td>
-</tr>
-</tbody>
-</table>
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#1F3864;mso-background-themecolor:
+  accent1;mso-background-themeshade:128;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;color:white;mso-color-alt:
+  windowtext">CLASS</span></b><b><span style="font-size:14.0pt"></span></b></p></td><td style="width:290.55pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#385623;mso-background-themecolor:accent6;
+  mso-background-themeshade:128;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;color:white;mso-themecolor:
+  background1">NAME</span></b><b><span style="font-size:14.0pt"></span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#D9E2F3;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-color-alt:
+  windowtext">5 CARING</span><span style="font-size:14.0pt"></span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E2EFD9;mso-background-themecolor:
+  accent6;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Mdm. Rajima d/o Sevathamaricar (Mrs. Rafiq)<br>Mr. Leng Kok Keong</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">5 DILIGENCE</span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Ms. Lim Pei Yi, Rachel<br>Mr. Abdul Rahim s/o A P M Adam</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#D9E2F3;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-color-alt:
+  windowtext">5 GRACE</span><span style="font-size:14.0pt"></span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E2EFD9;mso-background-themecolor:
+  accent6;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-themecolor:
+  text1">Mr. Yeo Jun Cong<br>Mdm. Chng Kwee Gek</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">5 HONESTY</span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Mr. Pang Sheir Zheng Issac<br>Ms. Dawn Sim Ee Szu<br>Ms Lee Pei Ling (Mrs Sng)</span></p></td></tr></tbody></table>
+	
+	
+	
+	
+	
+	
 </div>
 </li>
 <li><input id="accordion7" type="checkbox"> <label for="accordion7"><b>PRIMARY 6 FORM TEACHERS</b></label>
