@@ -644,50 +644,63 @@ description: ""
 </li>
 <li><input id="accordion5" type="checkbox"> <label for="accordion5"><b>PRIMARY 4 FORM TEACHERS</b></label>
 <div>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;">
-<p><strong>Class</strong></p>
-</td>
-<td style="text-align: center;">
-<p><strong>Name</strong></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="228">
-<p><strong>4 Caring</strong></p>
-</td>
-<td style="text-align: center;" width="232">
-<p>Mdm. Zahureen Binte Aman<br>Mdm. Tan Hui Qing</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="228">
-<p><strong>4 Diligence</strong></p>
-</td>
-<td style="text-align: center;" width="232">
-<p>Mr. Ray Aziz<br>Mdm. Nuraihan Bte Abdul Subhan<br>Mr. Leonard Paul Gomes</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="228">
-<p><strong>4 Grace</strong></p>
-</td>
-<td style="text-align: center;" width="232">
-<p>Ms. Lim Pei Yi, Rachel<br>Mr. Leng Kok Keong</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="228">
-<p><strong>4 Honesty</strong></p>
-</td>
-<td style="text-align: center;" width="232">
-<p>Ms. Yeong Wai Cheng Anne (Mrs. Goh)<br>Mdm. Lim Hwee Ming, Mary</p>
-</td>
-</tr>
-</tbody>
-</table>
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#1F3864;mso-background-themecolor:
+  accent1;mso-background-themeshade:128;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;color:white;mso-color-alt:
+  windowtext">CLASS</span></b><b><span style="font-size:14.0pt"></span></b></p></td><td style="width:290.55pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#385623;mso-background-themecolor:accent6;
+  mso-background-themeshade:128;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;color:white;mso-themecolor:
+  background1">NAME</span></b><b><span style="font-size:14.0pt"></span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#D9E2F3;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-color-alt:
+  windowtext">4 CARING</span><span style="font-size:14.0pt"></span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E2EFD9;mso-background-themecolor:
+  accent6;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Mr. Tham Ren Jie<br>Mrs. Lee Siew Fun</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">4 DILIGENCE</span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Mr. Ray Aziz<br>Mdm. Lim Hwee Ming, Mary<br>Mr. Leonard Paul Gomes</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#D9E2F3;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-color-alt:
+  windowtext">4 GRACE</span><span style="font-size:14.0pt"></span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E2EFD9;mso-background-themecolor:
+  accent6;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-themecolor:
+  text1">Mdm Aruna<br>Mdm. Nasibah Bte Idross Alkhatib</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">4 HONESTY</span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Ms. Pung Yang Chiu Eileen (Mrs. Eileen Pang)<br>Mdm. Nurul Ashilah Binte Abdul Latiff<br>Mdm. Nuraihan Bte Abdul Subhan</span></p></td></tr></tbody></table>
+	
+	
+	
+	
+	
+	
+	
 </div>
 </li>
 <li><input id="accordion6" type="checkbox"> <label for="accordion6"><b>PRIMARY 5 FORM TEACHERS</b></label>
