@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1">KEY PERSONNEL </label>
+	<li><input id="accordion1" type="checkbox"> <label for="accordion1"><b>KEY PERSONNEL </b></label>
 <div>
 <h4>School Leaders</h4>
 <table>
