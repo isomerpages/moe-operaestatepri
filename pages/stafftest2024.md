@@ -488,66 +488,86 @@ description: ""
 </li>
 <li><input id="accordion3" type="checkbox"> <label for="accordion3"><b>PRIMARY 2 FORM TEACHERS</b></label>
 <div>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;">
-<p><strong>Class</strong></p>
-</td>
-<td style="text-align: center;">
-<p><strong>Name</strong></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="228">
-<p><strong>2 Caring</strong></p>
-</td>
-<td style="text-align: center;" width="231">
-<p>Mdm. Siti Arfah Bte Yusof<br>Ms. Lee Xueqi Sherilyn</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="228">
-<p><strong>2 Diligence</strong></p>
-</td>
-<td style="text-align: center;" width="231">
-<p>Mdm. Siti Mariam Binti Md Akhtar Khan<br>Mr. Yeo Lim Khun Lincoln<br>Ms. Komathy D/O Selvaraj</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="228">
-<p><strong>2 Grace</strong></p>
-</td>
-<td style="text-align: center;" width="231">
-<p>Ms. Cheng Yoke Kin (Mrs. Koh-Cheng)<br>Mdm. Rosnah Bte Mohammad</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="228">
-<p><strong>2 Honesty</strong></p>
-</td>
-<td style="text-align: center;" width="231">
-<p>Mdm. Noraini Binte Abdul Rahim<br>Mdm. Chng Kwee Gek<br>Ms. Harlyn Nadiah Binte Mohamed Tahar</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="228">
-<p><strong>2 Integrity</strong></p>
-</td>
-<td style="text-align: center;" width="231">
-<p>Ms. Gwendolyn Poh Su Wen (Ms. Poh)<br>Mdm. Zuo Qinjie</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="228">
-<p><strong>2 Joy</strong></p>
-</td>
-<td style="text-align: center;" width="231">
-<p>Ms. Yong Yue Teng Amanda (Mrs. Seow)<br>Mr. Osman B Suradi</p>
-</td>
-</tr>
-</tbody>
-</table>
+	
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#1F3864;mso-background-themecolor:
+  accent1;mso-background-themeshade:128;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;color:white;mso-color-alt:
+  windowtext">CLASS</span></b><b><span style="font-size:14.0pt"></span></b></p></td><td style="width:290.55pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#385623;mso-background-themecolor:accent6;
+  mso-background-themeshade:128;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;color:white;mso-themecolor:
+  background1">NAME</span></b><b><span style="font-size:14.0pt"></span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#D9E2F3;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-color-alt:
+  windowtext">2 CARING</span><span style="font-size:14.0pt"></span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E2EFD9;mso-background-themecolor:
+  accent6;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Mr. Nor Hadi Bin Isnin<br>Ms. Kee Swee Mien Michelle (Mrs Teo)</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">2 DILIGENCE</span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Ms. Yu Xinyi<br>Mdm. Nursidah Bte Abdul Wahid</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#D9E2F3;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-color-alt:
+  windowtext">2 GRACE</span><span style="font-size:14.0pt"></span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E2EFD9;mso-background-themecolor:
+  accent6;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-themecolor:
+  text1">Mdm. Siti Suhaila Binte Md Raihan<br>Mdm. Siti Arfah Bte Yusof<br>Mdm. Ma Khin Kyi</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">2 HONESTY</span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Mdm. Noraini Binte Abdul Rahim<br>Ms. Seet Swee Li</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#D9E2F3;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-color-alt:
+  windowtext">2 INTEGRITY</span><span style="font-size:14.0pt"></span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#E2EFD9;mso-background-themecolor:
+  accent6;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-themecolor:
+  text1">Mdm. Amal Norahmah Bte Darlan<br>Mr. Lee Chee Weng (Mr. Ben Lee)</span></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">2 JOY</span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-themecolor:
+  text1">Mdm. Siti Haszilah Bte Mohd Hanafiah (Mdm. Zi)<br>Mdm. Wa Sock Ling (Mrs. Angie Ngio)<br>Ms. Chen Lijia</span></p></td></tr></tbody></table>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
 </div>
 </li>
 <li><input id="accordion4" type="checkbox"> <label for="accordion4"><b>PRIMARY 3 FORM TEACHERS</b></label>
