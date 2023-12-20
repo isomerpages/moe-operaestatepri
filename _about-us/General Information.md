@@ -2,6 +2,7 @@
 title: General Information
 permalink: /general-information/
 description: ""
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">School Information</label>
@@ -362,12 +363,13 @@ description: ""
 <p>The Continental Book Centre<br><em>Operating Hours<br></em>Monday to Friday: 8.00 a.m. to 3.00 p.m.<br>Tel: 62478482</p>
 <p>Parents/Guardians are allowed to purchase books/stationery after 2.00 p.m. except on Wednesday after 1.00pm.</p>
 <p><strong><u>School Uniform Supplier</u></strong></p>
-<p><em>1 Kaki Bukit Road 1<br></em><em>#01-30/31 Enterprise One<br></em><em>Singapore 415934</em></p>
-<p><em>Telephone: +65 6741 0930<br></em><em>Fax: +65 6744 7689<br></em><em>Website:&nbsp;</em><em><a href="http://www.intrenduniforms.com">www.intrenduniforms.com</a><br></em><em>Email:&nbsp;</em><a href="mailto:sales@itu.com.sg"><em>sales@itu.com.sg</em></a></p>
+	<p>Name: IN-TREND UNIFORMS</p>
+<p><em>Address: 1 Kaki Bukit Road 1<br></em><em>#01-31 Enterprise One<br></em><em>Singapore 415934</em></p>
+<p><em>Telephone: 6741 0930<br></em><em></em><em>Email:&nbsp;</em><a href="mailto:sales@itu.com.sg"><em>sales@itu.com.sg</em></a></p>
 <p><em>Operating Hours<br></em><em>Monday to Friday: 10.00 a.m. to 6.00 p.m.<br></em><em>Saturday: 10.00 a.m. to 3.00 p.m.<br></em><em>(Closed on Sundays and Public Holidays)</em></p>
 	
 <p><strong><u>School Bus Operator</u></strong></p>
-<p><em>Name of Bus Operator: Yeap Transport Pte Ltd_<br></em><em>Liaison officer: Mr. Nam<br></em><em>Tel No/ Hand phone No: 9831 1016<br></em><em>Email address:&nbsp;</em><em><a href="mailto:oepsbus@yeaptpt.com">oepsbus@yeaptpt.com</a></em><br><br>
+<p><em>Name of Bus Operator: Uncle Lin Transport and Mesa Travel (S) Pte Ltd<br></em><em>Contact Person: Ms Serena Chua<br></em><em>Contact No: 9234 6908<br></em><em>Email address:&nbsp;</em><em><a href="mailto:oepsbus@yeaptpt.com">OEPSbus@unclelintransport.com</a></em><br><br>
 School Bus Operator and “Not to Exceed Price”(NTE) for 2024 - 2025   </p>
 	• &nbsp; <a href="https://go.gov.sg/k1x411">School 
 	Bus Operator and NTE Price for 2024 - 2025</a><br>
