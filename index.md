@@ -25,9 +25,4 @@ sections:
       url: /2024-p1
       image: /images/p12024web.jpg
       alt: Image alt text
-  - infobar:
-      title: Advertisement For Canteen Food Stall
-      id: infobar
-      button: CLICK HERE
-      url: https://operaestatepri.moe.edu.sg/ca2024/
 ---
