@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - stafftest2024.md
       - Principal’s Message.md
       - History.md
       - School Mission and Vision, Values and Motto.md
