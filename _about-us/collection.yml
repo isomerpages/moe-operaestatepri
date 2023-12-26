@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - FAQs.md
       - Principal’s Message.md
       - History.md
       - School Mission and Vision, Values and Motto.md
@@ -11,4 +10,5 @@ collections:
       - School Rules.md
       - School Staff.md
       - General Information.md
+      - FAQs.md
       - Opera Celebrates.md
