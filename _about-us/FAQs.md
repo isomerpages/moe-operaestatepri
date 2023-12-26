@@ -1,6 +1,6 @@
 ---
 title: FAQs
-permalink: /faq2024/
+permalink: /faqs/
 variant: markdown
 description: ""
 ---
