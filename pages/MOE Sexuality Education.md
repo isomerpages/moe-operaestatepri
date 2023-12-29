@@ -4,8 +4,6 @@ permalink: /permalink/
 variant: markdown
 description: ""
 ---
-
-
 <p style="font-size:120%;" align="center"><b>OPERA ESTATE PRIMARY SCHOOL</b></p>
 <p><b>MOE SEXUALITY EDUCATION IN SCHOOLS</b></p>
 
@@ -25,10 +23,6 @@ description: ""
 <p><b>OVERVIEW OF OPERA ESTATE PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</b></p>
 
 
-<p style="font-size:110%;" align="justify">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope)[\[J1\]](#_msocom_1)&nbsp; for more information on the scope of Sexuality Education in the school curriculum.</p>
+<p style="font-size:110%;" align="justify">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a> for more information on the scope of Sexuality Education in the school curriculum.</p>
 
 <p style="font-size:110%;" align="justify">5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics on sexuality include:<br>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science<br>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)</p>
-
-
-
-
