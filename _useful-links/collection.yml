@@ -2,9 +2,8 @@ collections:
   useful-links:
     output: true
     order:
-      - MOE Sexuality Education.md
-      - For Parents/P1 Orientation 2024.md
       - For Parents/.keep
+      - For Parents/P1 Orientation 2024.md
       - For Parents/For Parents.md
       - For Parents/Curriculum Briefing.md
       - For Parents/Letters to Parents.md
@@ -13,6 +12,7 @@ collections:
       - For Students/For Students.md
       - For Students/SLS Helpline.md
       - For Students/Tinkle Friend Resource.md
+      - MOE Sexuality Education.md
       - Young Authors.md
       - Photo Gallery.md
       - Our OEPS AOG Bouquets.md
