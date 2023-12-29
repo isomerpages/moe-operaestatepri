@@ -36,4 +36,9 @@ description: ""
 
 <p style="font-size:110%;" align="justify">7. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks.</p>
 
+
+<p style="font-size:110%;" align="justify"><b>At Opera Estate Primary School, the following Sexuality Education lessons will be taught in 2024:</b></p>
+
 <img align="center" src="/images/2024/Moesex/se1.jpg">
+
+
