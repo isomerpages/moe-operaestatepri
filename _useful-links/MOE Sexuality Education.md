@@ -1,6 +1,6 @@
 ---
 title: MOE Sexuality Education
-permalink: /permalink/
+permalink: /moe-sexuality-education/
 variant: markdown
 description: ""
 ---
@@ -63,5 +63,3 @@ description: ""
 <p style="font-size:110%;" align="justify">9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated &nbsp;to parents at the start of the year and can be accessed <a href="https://form.gov.sg/61f242dd84dd250013230254">here</a>. The completed opt-out form is to be submitted by 29/02/2024.</p>
 
 <p style="font-size:110%;" align="justify">10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at &nbsp;for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
-
-
