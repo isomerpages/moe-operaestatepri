@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - MOE Sexuality Education.md
       - For Parents/P1 Orientation 2024.md
       - For Parents/.keep
       - For Parents/For Parents.md
