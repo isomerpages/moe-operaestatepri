@@ -18,6 +18,7 @@ sections:
         - title: Useful Links
           description: ""
           url: /moe-sexuality-education/
+      variant: image
   - infopic:
       title: P1 Orientation 2024
       description: For more information,
