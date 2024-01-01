@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner.gif
+      background: /images/2024/New Banner/Untitled_design.gif
       key_highlights:
         - title: For Parents
           description: ""
@@ -18,6 +18,7 @@ sections:
         - title: Useful Links
           description: ""
           url: /moe-sexuality-education/
+      variant: center
   - infopic:
       title: P1 Orientation 2024
       description: For more information,
