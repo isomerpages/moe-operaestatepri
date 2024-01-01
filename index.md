@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner.gif
+      background: /images/2024/New Banner/2024_banner_reduce.gif
       key_highlights:
         - title: For Parents
           description: ""
