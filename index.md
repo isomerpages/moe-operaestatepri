@@ -20,6 +20,13 @@ sections:
           url: /moe-sexuality-education/
       variant: center
   - infopic:
+      title: Launching of Dads for Life in OEPS
+      id: infopic
+      button: CLICK HERE
+      url: https://www.operaestatepri.moe.edu.sg/dads-for-life/
+      image: /images/2024/Dad for LIfe /DadsForLife_2_line_4c.jpg
+      alt: Image alt text
+  - infopic:
       title: P1 Orientation 2024
       description: For more information,
       button: Click here
