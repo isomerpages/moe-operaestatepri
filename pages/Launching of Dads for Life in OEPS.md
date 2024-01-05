@@ -14,3 +14,4 @@ description: ""
 
 </p><p style="font-size:120%;" align="center">Intagram Page: <a href="https://www.instagram.com/operaparentsclub?igsh=Ynp4cHg2NWN3ZjF1">https://www.instagram.com/operaparentsclub?igsh=Ynp4cHg2NWN3ZjF1</a></p>
 
+<p></p><p style="font-size:120%;" align="center">Click here to find out more about OPC! <a href="https://oepsfamilies.wordpress.com/">https://oepsfamilies.wordpress.com/</a></p>
