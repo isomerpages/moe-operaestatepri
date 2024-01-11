@@ -3,6 +3,7 @@ title: Scouts
 permalink: /scouts/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <h4><strong><a title="Our CCA Video (Click here)" href="https://drive.google.com/file/d/1oWOv5IegfsX7kk-tcoAthnqP0AYtU7MT/view" target="_blank" rel="noopener">OUR CCA VIDEO (CLICK HERE)</a></strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -13,30 +14,39 @@ third_nav_title: Uniformed Groups
 </tr>
 </tbody>
 </table>
-<h4><strong>ABOUT US</strong></h4>
-<p>There are about 30 Cub Scouts. They are from P3 to P6. Cub Scouts engage themselves in various planned activities to achieve the Proficiency badges and the Progress badges. With self-discipline many of our Cub Scouts reach certain level of achievement.</p>
-<h4><strong>OUR OBJECTIVES</strong></h4>
-<p>To live by the Scout Promise and the Scout Law.</p>
-<h4><strong>EXPERIENCES/PERFORMANCES</strong></h4>
-<p>Cub Scouts take part in various planned activities to enrich their learning. They learn basic knots, orienteering, first-aid, outdoor cooking, tent-pitching, first aid and many more. They do take part in activities organized by Singapore Scouts Association.</p>
-<h4><strong>CHARACTER DEVELOPMENT</strong></h4>
-<p>Cub Scouts pick up skills such as self-awareness, self-management, social awareness, relationship management and responsible decision-making in their involvement in various activities.</p>
-<h4><strong>PROGRAMME</strong></h4>
-<ul>
-<li aria-level="1"><strong><em>Job Week (Annually)</em></strong></li>
-<li aria-level="1"><strong>Donation Draw (Annually)</strong></li>
-<li aria-level="1"><strong>Cub Scout Leadership Course (Annually)</strong></li>
-<li aria-level="1"><strong>Bicentennial Trek 2019</strong></li>
-<li aria-level="1"><strong>Dunman High Outreach Camp 2019</strong></li>
-<li aria-level="1"><strong>East Area Field Day 2019</strong></li>
-</ul>
-<h4><strong>ACHIEVEMENTS</strong></h4>
-<ul>
-<li><strong><em>Frank Cooper Sands Award (Silver) 2019</em></strong></li>
-<li><strong><em>Frank Cooper Sands Award (Bronze) 2018</em></strong></li>
-<li><strong><em>Frank Cooper Sands Award (Silver) 2017</em></strong></li>
-<li><strong><em>Frank Cooper Sands Award (Bronze) 2016</em></strong></li>
-</ul>
+
+
+
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#FFE389;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;color:black;mso-color-alt:
+  windowtext">ABOUT US</span></b><b><span style="font-size:14.0pt"></span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-top:0cm;margin-right:32.0pt;margin-bottom:
+  0cm;margin-left:0cm;text-align:justify;text-justify:inter-ideograph;
+  line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;
+  mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">There are about </span><span style="font-size:
+  14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:red">15</span><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
+  Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:#484848"> Cub Scouts. They are from P3 to P6. Cub Scouts engage themselves in various planned activities to achieve the Proficiency badges and the Progress badges. With self-discipline many of our Cub Scouts reach certain level of achievement.</span><span style="font-size:15.0pt;mso-bidi-font-size:
+  11.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848"></span></p></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
 <h4><strong>GALLERY</strong></h4>
 <img src="/images/scouts2.png">
 <ul class="jekyllcodex_accordion">
