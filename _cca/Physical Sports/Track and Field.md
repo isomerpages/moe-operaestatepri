@@ -124,26 +124,69 @@ variant: markdown
 	
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA SCHEDULE</label>
 <div>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;"><strong>MONDAYS</strong></td>
-<td style="text-align: center;">School Team &amp; Development Team</td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Time:<br></strong>2.00 p.m to 4.00 p.m</td>
-<td style="text-align: center;"><strong>Location:<br></strong>Basketball Court</td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>THURSDAYS</strong></td>
-<td style="text-align: center;">School Team</td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Time:<br></strong>3.00 p.m to 5.00 p.m</td>
-<td style="text-align: center;"><strong>Location:<br></strong>Basketball Court</td>
-</tr>
-</tbody>
-</table>
+
+
+
+<table style="width:70%">
+	
+<tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:14.75pt"><td style="width:191.15pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="255"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+	minor-latin">Mondays:<br><i>(School Develoment Team)</i></span></b></p></td><td style="width:5.0cm;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="189"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
+  Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  mso-bidi-font-weight:bold">2.00 p.m to 4.00 p.m</span></p></td></tr><tr style="mso-yfti-irow:1;height:14.75pt"><td style="width:191.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="255"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Venue:</span></b></p></td><td style="width:5.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="189"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
+  Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  mso-bidi-font-weight:bold">Basketball Court</span></p></td></tr><tr style="mso-yfti-irow:2;height:14.75pt"><td style="width:191.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:black;mso-background-themecolor:text1;padding:0cm 5.4pt 0cm 5.4pt;
+  height:14.75pt" valign="top" width="255"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">&nbsp;</span></b></p></td><td style="width:5.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:black;mso-background-themecolor:
+  text1;padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="189"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
+  Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  mso-bidi-font-weight:bold">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:3;height:14.75pt"><td style="width:191.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="255"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+	minor-latin">Thursdays:<br><i>(School Develoment Team)</i></span><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin"></span></b></b></p></td><td style="width:5.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="189"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
+  Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  mso-bidi-font-weight:bold">3.00 p.m to 5.00 p.m</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:14.75pt"><td style="width:191.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="255"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Venue:</span></b></p></td><td style="width:5.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="189"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
+  Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  mso-bidi-font-weight:bold">Basketball Court</span></p></td></tr></tbody></table>
+	
+	
+	
+	
+	
+
+	
+	
+
+
 </div>
 </li>
 </ul>
