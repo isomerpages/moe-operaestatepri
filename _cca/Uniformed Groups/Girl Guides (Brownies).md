@@ -3,6 +3,7 @@ title: Girl Guides (Brownies)
 permalink: /brownies/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <h4><strong><a title="Our CCA Video (Click here)" href="https://drive.google.com/file/d/1zxlOuJxkIsubhGn4vyUDnNuOv-POKWtY/view" target="_blank" rel="noopener">OUR CCA VIDEO (CLICK HERE)</a></strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -12,55 +13,34 @@ third_nav_title: Uniformed Groups
 <td style="width: 60%;">&nbsp;</td>
 </tr>
 </tbody>
-</table>
-<h4><strong>ABOUT US</strong></h4>
-<p>The OEPS Girl Guides (Brownies) aims to educate our girls in accordance with the Brownie Law. This includes respecting her elders, thinking of others before herself, telling the truth, being neat and tidy, being thrifty and to work and play cheerfully. By exposing our girls to a myriad of activities we aim to provide a fun and enriching means for girls to be educated in the Brownie Law while also imbuing the school values in them.</p>
-<h4><strong>OUR OBJECTIVES</strong></h4>
-<ol>
-<li>To provide pupils the opportunities to develop in character in line with the Brownie Law.</li>
-<li>To allow Brownies to take part in worthwhile and exciting activities indoors as well as outdoors.</li>
-<li>To allow Brownies to work and play in a group of their own (sixes/ pack)</li>
-<li>To allow Brownies to find happiness and try to live up to it.</li>
-<li>To allow Brownies to have many friends.</li>
-</ol>
-<h4><strong>EXPERIENCES/PERFORMANCES</strong></h4>
-<ul>
-<li aria-level="1">National Day Observance Ceremony (Annually)</li>
-<li aria-level="1">Singapore Gardens Festival @ Gardens By The Bay (sharing with public)</li>
-<li aria-level="1">Collaboration with Manjusri Secondary School 2017 (Outdoor Cooking)</li>
-<li aria-level="1">World Thinking Day 2017 - Present</li>
-<li aria-level="1">2016 Scouts and Brownies Outdoor Cooking</li>
-</ul>
-<h4><strong>CHARACTER DEVELOPMENT</strong></h4>
-<p>Brownies play a game of adventure, of observation, of general knowledge and of ideas. They play the game through a series of healthy and happy activities. The game becomes an educational course that teaches them how to lead a useful life.</p>
-<h4><strong>ACHIEVEMENTS</strong></h4>
-<p><strong>&nbsp;Brownies Camp Challenge 2019</strong>&nbsp;</p>
-<ul>
-<li aria-level="1">Overall 2nd position</li>
-<li aria-level="1">Best Campfire Performance (2nd)</li>
-<li aria-level="1">The Great Brownie Cook-Off (2nd)</li>
-</ul>
-<p><strong>East Division Day 2019</strong></p>
-<ul>
-<li aria-level="1">Toy Making using Recycled Materials Competition (1st)</li>
-<li aria-level="1">Fashion Show Using Recycled Material Competition (3rd)</li>
-<li aria-level="1">Dance Performance (Merit)</li>
-</ul>
-<p><strong>East Division Day 2018</strong></p>
-<ul>
-<li aria-level="1">Toy Making using Recycled Materials Competition (1st)</li>
-<li aria-level="1">3D Art Competition (1st)</li>
-<li aria-level="1">Fashion Show Using Recycled Materials Competition (2nd)</li>
-</ul>
-<p><strong>Disney Princess Award 2018&nbsp;</strong></p>
-<ul>
-<li aria-level="1">Rhea Srivastava (5 Honesty)</li>
-</ul>
-<p><strong>East Division Day 2017</strong></p>
-<ul>
-<li aria-level="1">Fashion Show Using Recycled Material Competition (Merit)</li>
-<li aria-level="1">Hannan Binti Mohamad Hafidz (4 Caring)</li>
-</ul>
+</table><br>
+
+
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#2F5496;mso-background-themecolor:
+  accent1;mso-background-themeshade:191;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;color:white;mso-themecolor:
+  background1">ABOUT US</span></b><b><span style="font-size:14.0pt"></span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">The OEPS Girl Guides (Brownies) aims to educate our girls in accordance with the Brownie Law. This includes respecting her elders, thinking of others before herself, telling the truth, being neat and tidy, being thrifty and to work and play cheerfully. By exposing our girls to a myriad of activities we aim to provide a fun and enriching means for girls to be educated in the Brownie Law while also imbuing the school values in them.</span></p></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h4><strong>GALLERY</strong></h4>
 <img src="/images/gg2.png"><br>
 <img src="/images/gg3.png">
