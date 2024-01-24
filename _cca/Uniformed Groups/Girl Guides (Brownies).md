@@ -121,7 +121,7 @@ variant: markdown
   mso-bidi-font-weight:bold">1) Puan Noor Aishah Award (Bronze) 2021 and 2022</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-bidi-font-weight:bold">2) East Division Day 2023 - Comic Strip Competition [Merit</span><span style="font-size:14.0pt;mso-bidi-font-size:
+  minor-latin;mso-bidi-font-weight:bold">2) East Division Day 2023 - Comic Strip Competition (Merit)</span><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
   minor-latin;color:#484848"></span></p></td></tr></tbody></table>
 
