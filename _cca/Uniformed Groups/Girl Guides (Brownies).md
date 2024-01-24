@@ -3,6 +3,7 @@ title: Girl Guides (Brownies)
 permalink: /brownies/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <h4><strong><a title="Our CCA Video (Click here)" href="https://drive.google.com/file/d/1zxlOuJxkIsubhGn4vyUDnNuOv-POKWtY/view" target="_blank" rel="noopener">OUR CCA VIDEO (CLICK HERE)</a></strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -12,67 +13,175 @@ third_nav_title: Uniformed Groups
 <td style="width: 60%;">&nbsp;</td>
 </tr>
 </tbody>
-</table>
-<h4><strong>ABOUT US</strong></h4>
-<p>The OEPS Girl Guides (Brownies) aims to educate our girls in accordance with the Brownie Law. This includes respecting her elders, thinking of others before herself, telling the truth, being neat and tidy, being thrifty and to work and play cheerfully. By exposing our girls to a myriad of activities we aim to provide a fun and enriching means for girls to be educated in the Brownie Law while also imbuing the school values in them.</p>
-<h4><strong>OUR OBJECTIVES</strong></h4>
-<ol>
-<li>To provide pupils the opportunities to develop in character in line with the Brownie Law.</li>
-<li>To allow Brownies to take part in worthwhile and exciting activities indoors as well as outdoors.</li>
-<li>To allow Brownies to work and play in a group of their own (sixes/ pack)</li>
-<li>To allow Brownies to find happiness and try to live up to it.</li>
-<li>To allow Brownies to have many friends.</li>
-</ol>
-<h4><strong>EXPERIENCES/PERFORMANCES</strong></h4>
-<ul>
-<li aria-level="1">National Day Observance Ceremony (Annually)</li>
-<li aria-level="1">Singapore Gardens Festival @ Gardens By The Bay (sharing with public)</li>
-<li aria-level="1">Collaboration with Manjusri Secondary School 2017 (Outdoor Cooking)</li>
-<li aria-level="1">World Thinking Day 2017 - Present</li>
-<li aria-level="1">2016 Scouts and Brownies Outdoor Cooking</li>
-</ul>
-<h4><strong>CHARACTER DEVELOPMENT</strong></h4>
-<p>Brownies play a game of adventure, of observation, of general knowledge and of ideas. They play the game through a series of healthy and happy activities. The game becomes an educational course that teaches them how to lead a useful life.</p>
-<h4><strong>ACHIEVEMENTS</strong></h4>
-<p><strong>&nbsp;Brownies Camp Challenge 2019</strong>&nbsp;</p>
-<ul>
-<li aria-level="1">Overall 2nd position</li>
-<li aria-level="1">Best Campfire Performance (2nd)</li>
-<li aria-level="1">The Great Brownie Cook-Off (2nd)</li>
-</ul>
-<p><strong>East Division Day 2019</strong></p>
-<ul>
-<li aria-level="1">Toy Making using Recycled Materials Competition (1st)</li>
-<li aria-level="1">Fashion Show Using Recycled Material Competition (3rd)</li>
-<li aria-level="1">Dance Performance (Merit)</li>
-</ul>
-<p><strong>East Division Day 2018</strong></p>
-<ul>
-<li aria-level="1">Toy Making using Recycled Materials Competition (1st)</li>
-<li aria-level="1">3D Art Competition (1st)</li>
-<li aria-level="1">Fashion Show Using Recycled Materials Competition (2nd)</li>
-</ul>
-<p><strong>Disney Princess Award 2018&nbsp;</strong></p>
-<ul>
-<li aria-level="1">Rhea Srivastava (5 Honesty)</li>
-</ul>
-<p><strong>East Division Day 2017</strong></p>
-<ul>
-<li aria-level="1">Fashion Show Using Recycled Material Competition (Merit)</li>
-<li aria-level="1">Hannan Binti Mohamad Hafidz (4 Caring)</li>
-</ul>
-<h4><strong>GALLERY</strong></h4>
-<img src="/images/gg2.png"><br>
-<img src="/images/gg3.png">
+</table><br>
+
+
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#2F5496;mso-background-themecolor:
+  accent1;mso-background-themeshade:191;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;color:white;mso-themecolor:
+  background1">ABOUT US</span></b><b><span style="font-size:14.0pt"></span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">The OEPS Girl Guides (Brownies) aims to educate our girls in accordance with the Brownie Law. This includes respecting her elders, thinking of others before herself, telling the truth, being neat and tidy, being thrifty and to work and play cheerfully. By exposing our girls to a myriad of activities we aim to provide a fun and enriching means for girls to be educated in the Brownie Law while also imbuing the school values in them.</span></p></td></tr></tbody></table><br>
+	
+	
+	
+	
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#FFE599;mso-background-themecolor:
+  accent4;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;color:black;mso-color-alt:
+  windowtext">OUR OBJECTIVES</span></b><b><span style="font-size:14.0pt"></span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">- To provide pupils the opportunities to develop in character in line with the Brownie Law.</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">- To allow Brownies to take part in worthwhile and exciting activities indoors as well as outdoors.</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">- To allow Brownies to work and play in a group of their own (sixes/ pack)</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">- To allow Brownies to find happiness and try to live up to it.</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">- To allow Brownies to have many friends.</span></p></td></tr></tbody></table><br>
+	
+	
+
+
+
+
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#2F5496;mso-background-themecolor:
+  accent1;mso-background-themeshade:191;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;color:white;mso-themecolor:
+  background1">EXPERIENCES / PERFORMANCES</span></b><b><span style="font-size:
+  14.0pt"></span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+	minor-latin;color:#484848">- National Day Observance Ceremony (Annually)</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">- Singapore Gardens Festival @ Gardens By The Bay (sharing with public)</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">- Collaboration with Manjusri Secondary School 2017 (Outdoor Cooking)</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">- World Thinking Day 2017 – Present</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">- 2016 Scouts and Brownies Outdoor Cooking</span></p></td></tr></tbody></table><br>
+	
+	
+	
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#FFE599;mso-background-themecolor:
+  accent4;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;color:black;mso-color-alt:
+  windowtext">CHARACTER DEVELOPMENT</span></b><b><span style="font-size:14.0pt"></span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  11.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Brownies play a game of adventure, of observation, of general knowledge and of ideas. They play the game through a series of healthy and happy activities. The game becomes an educational course that teaches them how to lead a useful life.</span><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848"></span></p></td></tr></tbody></table><br>
+	
+	
+	
+	
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#2F5496;mso-background-themecolor:
+  accent1;mso-background-themeshade:191;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;color:white;mso-themecolor:
+  background1">ACHIEVEMENTS</span></b><b><span style="font-size:14.0pt"></span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
+  Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  mso-bidi-font-weight:bold">1) Puan Noor Aishah Award (Bronze) 2021 and 2022</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-bidi-font-weight:bold">2) East Division Day 2023 - Comic Strip Competition (Merit)</span><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848"></span></p></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h4 align="middle"><strong>GALLERY - (Coming Soon)</strong></h4>
+<img style="width:350px;height:300px;" src="/images/Cca/brownies.jpg">
+
+
+
+
+
+
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><span style="text-decoration: underline;"><strong>Mdm. Nur Farah Binte Mohamad Shukor (OIC)<br></strong><strong>Mdm. Nuraihan Bte Abdul Subhan<br></strong></span></p>
+<p><strong>Mdm. Nur Farah Binte Mohamad Shukor (OIC)<br>Mdm. Nuraihan Bte Abdul Subhan<br>Ms. Nor Murniyanti Binte Ali</strong></p>
 </div>
+
+	
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
 <div>
-<p>Mondays: 2.00 p.m to 4.00 p.m<br>Venue: C2-02</p>
+	
+	
+
+
+<table style="width:70%">
+	
+	
+	
+<tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:14.75pt"><td style="width:107.2pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="143"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Mondays:</span></b></p></td><td style="width:140.65pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="188"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
+  Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  mso-bidi-font-weight:bold">2.00 p.m to 4.00 p.m</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:14.75pt"><td style="width:107.2pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="143"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Venue:</span></b></p></td><td style="width:140.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="188"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
+  Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  mso-bidi-font-weight:bold">C2-02</span></p></td></tr></tbody></table>
+	
+	
 </div>
 </li>
 </ul>
