@@ -137,10 +137,8 @@ variant: markdown
 
 
 
-
-<h4><strong>GALLERY</strong></h4>
-<img src="/images/gg2.png"><br>
-<img src="/images/gg3.png">
+<h4 align="middle"><strong>GALLERY - (Coming Soon)</strong></h4>
+<img style="width:350px;height:300px;" src="/images/Cca/brownies.jpg">
 
 
 
@@ -150,8 +148,10 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><span style="text-decoration: underline;"><strong>Mdm. Nur Farah Binte Mohamad Shukor (OIC)<br></strong><strong>Mdm. Nuraihan Bte Abdul Subhan<br></strong></span></p>
+<p><strong>Mdm. Nur Farah Binte Mohamad Shukor<br>Mdm. Nuraihan Bte Abdul Subhan<br>Ms. Nor Murniyanti Binte Ali</strong></p>
 </div>
+
+	
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
 <div>
