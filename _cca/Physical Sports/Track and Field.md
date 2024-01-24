@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Physical Sports
 variant: markdown
 ---
-
 <h4><strong><a title="Our CCA Video (Click here)" href="https://drive.google.com/file/d/1BSjB52VxG6aMncPcWC9xojRuEhMkO4r7/view?usp=share_link&quot;" target="_blank" rel="noopener">OUR CCA VIDEO (CLICK HERE)</a></strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -107,8 +106,13 @@ variant: markdown
 
 
 
-<h4><strong>GALLERY</strong></h4>
-<img src="/images/tf4.png">
+<h4 align="middle"><strong>GALLERY - <a title="Our CCA Video (Click here)" href="https://albumizr.com/a/gune" target="_blank" rel="noopener">(CLICK HERE)</a></strong></h4>
+<img style="width:300px;height:300px;" src="/images/Cca/track2.jpeg">
+
+
+
+
+
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"><label for="accordion1">TEACHERS IN CHARGE</label>
 <div>
