@@ -96,7 +96,7 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848"><img style="width:500px;height:500px;" src="/images/Cca/track.jpeg"><br>Track &amp; Field CCA wrapped up the final day of CCA with a bang! They got their competitive juices flowing with a mini-NSG carnival. Competition was stiff but in the end, the deserving winners emerged. Every participant went home happy with a medal at hand. A fitting end to a great 2023 for the kids.</span></p></td></tr></tbody></table><br>
+  minor-latin;color:#484848"><img style="width:500px;height:500px;" src="/images/Cca/track.jpeg"><br>Track &amp; Field CCA wrapped up the final day of CCA with a bang! They got their competitive juices flowing with a mini-NSG carnival. Competition was stiff but in the end, the deserving winners emerged. Every participant went home happy with a medal at hand. A fitting end to a great 2023 for the kids. <br></span></p><p style="font-size:125%" align="middle">Our Achievements - <a title="Our CCA Video (Click here)" href="https://drive.google.com/file/d/1U00Odr7OSXc4O6raaLDFrwbG3ixfRE7O/view?usp=drivesdk" target="_blank" rel="noopener">(CLICK HERE)</a></p><p></p></td></tr></tbody></table><br>
 
 
 
