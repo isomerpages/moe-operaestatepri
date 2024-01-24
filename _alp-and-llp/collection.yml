@@ -1,0 +1,6 @@
+collections:
+  alp-and-llp:
+    output: true
+    order:
+      - Ignite D'Arts.md
+      - Opera Goes Green.md

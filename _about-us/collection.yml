@@ -1,0 +1,14 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal’s Message.md
+      - History.md
+      - School Mission and Vision, Values and Motto.md
+      - Opera Learning Disposition.md
+      - School Crest and School Song.md
+      - School Rules.md
+      - School Staff.md
+      - General Information.md
+      - FAQs.md
+      - Opera Celebrates.md
