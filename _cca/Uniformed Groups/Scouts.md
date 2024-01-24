@@ -147,12 +147,14 @@ variant: markdown
 
 
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1">TEACHERS IN CHARGE</label>
 <div>
 <p><strong>Mr. Abdul Rahim s/o A P M Adam (OIC)<br>Mr. Tham Renjie<br>Mdm. Lim Ching Ching</strong></p>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
+	
+	
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA SCHEDULE</label>
 <div>
 
 <table style="width:70%">
