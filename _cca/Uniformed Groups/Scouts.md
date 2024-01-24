@@ -155,7 +155,7 @@ variant: markdown
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
 <div>
 
-<table style="width:50%">
+<table style="width:70%">
 	
 <tbody>
 	
