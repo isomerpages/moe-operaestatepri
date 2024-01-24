@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Physical Sports
 variant: markdown
 ---
+
 <h4><strong><a title="Our CCA Video (Click here)" href="https://drive.google.com/file/d/1BSjB52VxG6aMncPcWC9xojRuEhMkO4r7/view?usp=share_link&quot;" target="_blank" rel="noopener">OUR CCA VIDEO (CLICK HERE)</a></strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -27,7 +28,28 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">The objective of our CCA is to provide the pupils with an opportunity to learn basic track &amp; field skills as well as enable pupils to develop their motor skills in a fun and safety manner. Under the guidance of the coach, the pupils learn to run, hop, throw and jump in activities suitable to their age and well-being. <br><br>Pupils will have the opportunity to compete participate in the national competition, which has been revamped recently to suit the pupils’ needs.</span></p></td></tr></tbody></table>
+  minor-latin;color:#484848">The objective of our CCA is to provide the pupils with an opportunity to learn basic track &amp; field skills as well as enable pupils to develop their motor skills in a fun and safety manner. Under the guidance of the coach, the pupils learn to run, hop, throw and jump in activities suitable to their age and well-being. <br><br>Pupils will have the opportunity to compete participate in the national competition, which has been revamped recently to suit the pupils’ needs.</span></p></td></tr></tbody></table><br>
+	
+	
+	
+
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#FFE599;mso-background-themecolor:
+  accent4;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;color:black;mso-color-alt:
+  windowtext">OUR OBJECTIVES</span></b><b><span style="font-size:14.0pt"></span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">Track and Field CCA is a platform for pupils to learn the basic fundamentals of Track &amp; Field as well as valuable life skills such as perseverance, working hard, not being afraid to fail, being a good team-mate and setting achievable goals. Winning medals is not the focus of our CCA but rather, the journey of giving your best, doing your best and achieving your best.</span></p></td></tr></tbody></table><br>
+	
+	
+	
+	
+
 
 
 
