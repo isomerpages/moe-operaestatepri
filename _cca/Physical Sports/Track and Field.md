@@ -85,6 +85,8 @@ variant: markdown
 
 
 
+
+
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#2F5496;mso-background-themecolor:
@@ -95,7 +97,7 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">&nbsp;</span></p></td></tr></tbody></table><br>
+  minor-latin;color:#484848">img</span></p></td></tr></tbody></table><br>
 
 
 
