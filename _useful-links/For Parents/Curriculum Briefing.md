@@ -51,7 +51,7 @@ variant: markdown
   mso-border-alt:solid windowtext .5pt;background:#D9E2F3;mso-background-themecolor:
   accent1;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:12.3pt" valign="top" width="151"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;color:black;mso-color-alt:
-  windowtext">ENGLISH</span><span style="font-size:16.0pt"></span></p></td></tr><tr style="mso-yfti-irow:1;height:12.3pt"><td style="width:113.15pt;border:solid windowtext 1.0pt;
+  windowtext">English</span><span style="font-size:16.0pt"></span></p></td></tr><tr style="mso-yfti-irow:1;height:12.3pt"><td style="width:113.15pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:12.3pt" valign="top" width="151"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt"><a href="https://drive.google.com/file/d/1DI1E6nm8q7994_GYc_NDb48A1EgqLINd/view?usp=sharing">Primary 1</a></span></p></td></tr><tr style="mso-yfti-irow:2;height:12.3pt"><td style="width:113.15pt;border:solid windowtext 1.0pt;
@@ -74,7 +74,7 @@ variant: markdown
   mso-border-alt:solid windowtext .5pt;background:#E2EFD9;mso-background-themecolor:
   accent6;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:12.3pt" valign="top" width="151"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;color:black;mso-color-alt:
-  windowtext">MATHEMATICS</span><span style="font-size:16.0pt"></span></p></td></tr><tr style="mso-yfti-irow:1;height:12.3pt"><td style="width:113.15pt;border:solid windowtext 1.0pt;
+  windowtext">Mathematics</span><span style="font-size:16.0pt"></span></p></td></tr><tr style="mso-yfti-irow:1;height:12.3pt"><td style="width:113.15pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:12.3pt" valign="top" width="151"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt"><a href="https://drive.google.com/file/d/1o1LCZ70o5ADiBfnfP3E5QsyXbhsI_HrH/view?usp=sharing">Primary 1</a></span></p></td></tr><tr style="mso-yfti-irow:2;height:12.3pt"><td style="width:113.15pt;border:solid windowtext 1.0pt;
