@@ -103,6 +103,26 @@ variant: markdown
   11.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
   minor-latin">Brownies play a game of adventure, of observation, of general knowledge and of ideas. They play the game through a series of healthy and happy activities. The game becomes an educational course that teaches them how to lead a useful life.</span><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848"></span></p></td></tr></tbody></table><br>
+	
+	
+	
+	
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#2F5496;mso-background-themecolor:
+  accent1;mso-background-themeshade:191;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;color:white;mso-themecolor:
+  background1">ACHIEVEMENTS</span></b><b><span style="font-size:14.0pt"></span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
+  Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  mso-bidi-font-weight:bold">1) Puan Noor Aishah Award (Bronze) 2021 and 2022</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;mso-bidi-font-weight:bold">2) East Division Day 2023 - Comic Strip Competition [Merit</span><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
   minor-latin;color:#484848"></span></p></td></tr></tbody></table>
 
 
@@ -121,6 +141,12 @@ variant: markdown
 <h4><strong>GALLERY</strong></h4>
 <img src="/images/gg2.png"><br>
 <img src="/images/gg3.png">
+
+
+
+
+
+
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
 <div>
