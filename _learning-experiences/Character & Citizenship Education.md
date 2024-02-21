@@ -13,4 +13,6 @@ variant: markdown
 2)	are purposeful and others-centred with the will to improve the lives of others, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and<br>
 3)	love and appreciate Singapore.</p>
 
+<h4 align="middle"><b>CCE @ OEPS Curriculum</b></h4>
+
 
