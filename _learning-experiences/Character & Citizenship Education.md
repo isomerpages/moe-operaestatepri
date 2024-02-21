@@ -14,5 +14,12 @@ variant: markdown
 3)	love and appreciate Singapore.</p>
 
 <h4 align="middle"><b>CCE @ OEPS Curriculum</b></h4>
+	<p style="font-size:18px;" align="justify">The design of the CCE@OEPS curriculum also takes reference from MOE’s CCE 2021 Curriculum Frame (Figure 1). </p>
+	
+<img src="/images/2024/Cce/map1.jpg">
+
+
+
+
 
 
