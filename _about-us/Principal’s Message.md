@@ -29,3 +29,12 @@ Opera Estate Primary School (OEPS) is an amalgamation of Opera Boys’ School an
 
 <p style="font-size:18px:" align="justify">Our school will also continue to place strong emphasis to develop students of good character and active citizens. Through our Character and Citizenship Education (CCE) structure, implementation of PERMAH (Positive Emotion, Engagement, Relationships, Meaning, Accomplishment, Health) and AOG (Attitude of Gratitude) programme, we aim to instill in our students the importance of empathy and to promote emotional well-being.
 </p>
+
+<p style="font-size:18px:" align="justify">We value every child as a unique individual who wants to and can learn. Every child is thus a Gem that can be and will be polished through the holistic experiences in OEPS. 
+</p>
+
+<p style="font-size:18px:" align="justify">Our new Mission <b>“To empower every OPERA Gem to drive meaningful impact and be ready for the future”</b> is a continual emphasis on our dedication to provide a holistic education that equips students with the skills, knowledge and values necessary to thrive in an ever-changing world. 
+</p>
+
+<p style="font-size:18px:" align="justify">Values form the core of one’s character. Our new school values are presented in the acronym “<b>R2IGHT</b>” which stands for “<b><u>R</u></b>espect, <b><u>R</u></b>esponsibility, <b><u>I</u></b>ntegrity, <b><u>G</u></b>ratitude, <b><u>H</u></b>umility and <b><u>T</u></b>enacity”. We aim to create opportunities to learn and meaningfully apply these values to form a strong sense of identity and to make good choices within various contexts. 
+</p>
