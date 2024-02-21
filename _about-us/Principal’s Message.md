@@ -38,3 +38,9 @@ Opera Estate Primary School (OEPS) is an amalgamation of Opera Boys’ School an
 
 <p style="font-size:18px:" align="justify">Values form the core of one’s character. Our new school values are presented in the acronym “<b>R2IGHT</b>” which stands for “<b><u>R</u></b>espect, <b><u>R</u></b>esponsibility, <b><u>I</u></b>ntegrity, <b><u>G</u></b>ratitude, <b><u>H</u></b>umility and <b><u>T</u></b>enacity”. We aim to create opportunities to learn and meaningfully apply these values to form a strong sense of identity and to make good choices within various contexts. 
 </p>
+
+<p style="font-size:18px:" align="justify">Our school will continue to provide quality and authentic learning experiences for our students to develop the emerging 21CCs. Our Learning for Life Programme (LLP) “Ignite D’ Arts@OEPS” provide opportunities for students to have a deeper appreciation for the Arts and develop the confidence in articulating one’s expression for the Arts.  The school’s Applied Learning Programme (ALP) “Opera Goes Green” seeks to instill in our students the importance of responsible actions towards environmental care and sustainability and to take actions through critical thinking and innovating practical solutions to advocate a more sustainable way of life within and beyond the school. Besides the 21CC, the ALP aims to inculcate values such as empathy and responsibility to maintain their own wellbeing and that of the larger community in an increasingly interconnected world.
+</p>
+
+<p style="font-size:18px:" align="justify">I look forward to partnering our parents, School Advisory Committee, members of the Opera Parents Club and community partners to provide our students with a quality school experience and nurture our students to be future-ready, lifelong learners.
+</p>
