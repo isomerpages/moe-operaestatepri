@@ -18,6 +18,34 @@ variant: markdown
 	
 <img src="/images/2024/Cce/map1.jpg">
 
+<p style="font-size:18px;" align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The curriculum content of CCE is based on the three big ideas of Identity, Relationships, and Choices, and comprises the teaching and learning of core values and social-emotional competencies with a focus on developing a sense of purpose in our students. These fundamentals are taught and applied in the six curriculum content areas of CCE – Education and Career Guidance, Cyber Wellness, National Education, Sexuality Education, Mental Health and Family Education. CCE-FTGP lessons are scheduled once per week and the lessons are customised to meet the needs of our students.</p>
+
+<p style="font-size:18px;" align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aside from CCE-FTGP lessons, the CCE@Opera Curriculum includes the weekly Good Things@Opera morning assembly programme, termly positive tone setting sessions, Values-in-Action level programmes, commemoration of National Education events, Student Leadership Development, Social Studies Cohort Learning Journeys and our Attitude of Gratitude initiative. </p>
+
+<p><u><b>CCE-FTGP Lessons</b></u></p>
+<img src="/images/2024/Cce/cce1.jpg">
+
+<p><u><b>Good Things@Opera Morning Assembly Programme</b></u></p>
+<img src="/images/2024/Cce/cce2.jpg">
+
+<p><u><b>Termly Positive Tone Setting</b></u></p>
+<img src="/images/2024/Cce/cce3.jpg">
+
+<p><u><b>Values-in-Action </b></u></p>
+<img src="/images/2024/Cce/cce4.jpg">
+
+<p><u><b>Commemoration of National Education Events </b></u></p>
+<img src="/images/2024/Cce/cce5.jpg">
+
+<p><u><b>Social Studies Cohort Learning Journeys </b></u></p>
+<img src="/images/2024/Cce/cce6.jpg">
+
+<p><u><b>Attitude of Gratitude Programme </b></u></p>
+<img src="/images/2024/Cce/cce7.jpg">
+
+
+
+
 
 
 
