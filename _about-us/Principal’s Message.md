@@ -19,5 +19,13 @@ Opera Estate Primary School (OEPS) is an amalgamation of Opera Boys’ School an
 </tbody>
 </table>
 
-<p style="font-size:18px:" align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Positive PSR forms a critical part of a child’s development. In OEPS, PSR is anchored on the domains of peer bonding, helping and influencing, and taught through CCE-FTGP lessons, programmes such as the P1-P4 Buddy programme, and platforms such as Opera Gems in Action. 
+<p style="font-size:18px;" align="justify"><b>Vision, Mission and Values</b></p>
+
+<p style="font-size:18px:" align="justify">Since end 2022, we have embarked on a series of conversations with our various stakeholders on their aspirations for the next phase of growth for OEPS. This year, in 2024, we are excited to share with you our new Vision, Mission and Values.
+</p>
+
+<p style="font-size:18px:" align="justify">Our new Vision <b>“Confident Learners, Caring Contributors”</b> is a clear representation of our dedication to nurture our students to be creative, self-directed and be committed to contribute for the betterment of the community and the environment. We want to inculcate in our students a sense of gratitude, develop the confidence to embrace changes and instill in them a genuine desire to make a positive impact. 
+</p>
+
+<p style="font-size:18px:" align="justify">Our school will also continue to place strong emphasis to develop students of good character and active citizens. Through our Character and Citizenship Education (CCE) structure, implementation of PERMAH (Positive Emotion, Engagement, Relationships, Meaning, Accomplishment, Health) and AOG (Attitude of Gratitude) programme, we aim to instill in our students the importance of empathy and to promote emotional well-being.
 </p>
