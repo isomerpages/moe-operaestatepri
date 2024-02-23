@@ -10,7 +10,7 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/p2024.jpg">
+<img style="width: 82%;" height="auto" width="100%" alt="" src="/images/p2024.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -31,10 +31,19 @@ to strength to establish herself as a Happy, Loving, Learning School.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><em>Vision, Mission and Values</em></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Since end 2022, we have embarked on a series of conversations with our
+various stakeholders on their aspirations for the next phase of growth
+for OEPS. This year, in 2024, we are excited to share with you our new
+Vision, Mission and Values.</p>
 </td>
 </tr>
 </tbody>
