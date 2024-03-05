@@ -25,7 +25,7 @@ the Brownie Law while also imbuing the school values in them.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>effefe</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -36,7 +36,7 @@ the Brownie Law while also imbuing the school values in them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>fefefef</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
