@@ -71,7 +71,7 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><u><strong>Mr. Ray (OIC)<br>Ms. Seet Swee Li</strong></u></p><u><strong>
+<p><strong>Mr. Ray (OIC)<br>Ms. Seet Swee Li</strong></p><u><strong>
 </strong></u></div><u><strong>
 </strong></u></li><u><strong>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
