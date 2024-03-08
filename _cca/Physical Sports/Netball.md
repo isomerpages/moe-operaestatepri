@@ -78,12 +78,12 @@ variant: markdown
 
 
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1">TEACHERS IN CHARGE</label>
 <div>
 <p><u><strong>Mr. Yeo Lim Khun Lincoln (OIC)<br>Mdm. Tan Hui Qing<br>Mdm. Rosnah Bte Mohammad<br>Mdm. Nursidah Bte Abdul Wahid</strong></u></p>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA SCHEDULE</label>
 <div>
 <p>Mondays: 2.00 p.m to 4.00 p.m<br>Thursdays: 3.00 p.m to 5.00 p.m<br>Venue: Netball/Basketball Court</p>
 </div>
