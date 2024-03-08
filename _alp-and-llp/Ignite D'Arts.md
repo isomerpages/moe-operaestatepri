@@ -16,11 +16,13 @@ variant: markdown
 
 
 <h4><strong>LEARN ARTS</strong></h4>
-<img src="/images/darts1.png">
+<img style="width: 100%;" src="/images/2024/ignite1.jpg">
+
 <h4><strong>EXPLORE ARTS</strong></h4>
-<img src="/images/darts2.png">
-<img src="/images/darts3.png">
+<img style="width: 100%;" src="/images/2024/ignite2.jpg">
+
 <h4><strong>COLLABORATIVE ARTS</strong></h4>
 <img src="/images/darts4.png">
+
 <h4><strong>FUN ARTS</strong></h4>
 <img src="/images/darts5.png">
