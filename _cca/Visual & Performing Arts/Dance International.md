@@ -113,12 +113,15 @@ variant: markdown
 
 
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1">TEACHERS IN CHARGE</label>
 <div>
-<p><strong>Mdm. Zahureen Binte Rahman<br>Ms. He Wen Li<br>Ms. Yeong Wai Cheng Anne (Mrs. Goh)</strong><strong><br>Mdm. Siti Arfah Bte Yusof<br>Mrs. Amanda Seow</strong></p><strong>
-</strong></div><strong>
-</strong></li><strong>
-<li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
+<p><strong>Mdm. Zahureen Binte Rahman<br>Ms. He Wen Li<br>Ms. Yeong Wai Cheng Anne (Mrs. Goh)<br>Mdm. Siti Arfah Bte Yusof<br>Mrs. Amanda Seow</strong></p>
+</div>
+</li>
+	
+	
+	
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA SCHEDULE</label>
 <div>
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
@@ -154,4 +157,4 @@ variant: markdown
 
 </div>
 </li>
-</strong></ul>
+</ul>
