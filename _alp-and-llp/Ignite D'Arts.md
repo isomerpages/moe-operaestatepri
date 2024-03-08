@@ -22,7 +22,8 @@ variant: markdown
 <img style="width: 100%;" src="/images/2024/ignite2.jpg">
 
 <h4><strong>COLLABORATIVE ARTS</strong></h4>
-<img style="width: 100%;" src="/images/2024/ignite3.jpg">
+<img style="width: 100%;" src="/images/2024/ignite3.jpg"><br>
+<img style="width: 100%;" src="/images/2024/ignite4.jpg">
 
 <h4><strong>FUN ARTS</strong></h4>
 <img src="/images/darts5.png">
