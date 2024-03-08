@@ -141,7 +141,7 @@ variant: markdown
 
 
 <h4 align="middle"><strong>GALLERY - <a title="Our CCA Video (Click here)" href="https://albumizr.com/a/tPaT" target="_blank" rel="noopener">(CLICK HERE)</a></strong></h4>
-<img style="width:500px;height:300px;" src="/images/2024/Dance/dance2.jpg">
+<img style="width:300px;height:300px;" src="/images/Cca/Scouts/scouts.jpg">
 
 
 
