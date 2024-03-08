@@ -51,42 +51,19 @@ variant: markdown
   Calibri;mso-bidi-theme-font:minor-latin">2023: Multi-cultural Art Collaboration with Tao Nan School &amp; Poi Ching School</span></b></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin">Students from our school shared their knowledge and experience creating Henna Art to students from Tao Nan School, which were then displayed as part of our annual art exhibition in Bedok library – as well as Batik Art to students from Poi Ching School. In exchange, our students learnt about the Chinese Opera Mask Painting from Tao Nan School.<br><br><b>2022: Dragon Boat Festival Cards for Nursing Homes and Healthcare Facilities</b><br>(Collaboration with Art Connect)<br><br>Students designed cards to commemorate Dragon Boat Festival to be presented to residents and workers in selected nursing homes and healthcare facilities.<br><br><b>2022: Fun with Arts</b><br><br>Students are involved in facilitating in the various art making activities held during recess. They are tasked to plan, set-up, facilitate and clean up their exhibition/ art making booths.</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><b><span style="font-size:14.0pt;
-  mso-bidi-font-size:10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin">2021: Mid- Autumn Cards for Nursing homes</span></b><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;
+  minor-latin">Students from our school shared their knowledge and experience creating Henna Art to students from Tao Nan School, which were then displayed as part of our annual art exhibition in Bedok library – as well as Batik Art to students from Poi Ching School. In exchange, our students learnt about the Chinese Opera Mask Painting from Tao Nan School.<br><br><br><b>2022: Dragon Boat Festival Cards for Nursing Homes and Healthcare Facilities</b><br>(Collaboration with Art Connect)<br><br>Students designed cards to commemorate Dragon Boat Festival to be presented to residents and workers in selected nursing homes and healthcare facilities.<br><br><br><b>2022: Fun with Arts</b><br><br>Students are involved in facilitating in the various art making activities held during recess. They are tasked to plan, set-up, facilitate and clean up their exhibition/ art making booths.<br><br><br><b>2021: Mid- Autumn Cards for Nursing homes</b></span><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;
   mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin"> (Collaboration with Art Connect)</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  minor-latin"> (Collaboration with Art Connect)<br><br>Students designed cards to be presented to residents in selected nursing homes to create a more interactive experience for them.
+<br><br>- Singapore Youth Festival (SYF) Art Exhibition 2023<br><br>- Singapore Youth Festival (SYF) Art Exhibition 2021<br><br>- Attitude of Gratitude to Frontliners: Hand Mural - Collaboration with My Art Buddies 2020<br><br>- Singapore Youth Festival (SYF) Stronger Together Online Exhibition 2020</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  minor-latin">- Singapore Youth Festival (SYF) Art Exhibition 2019</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin">Students designed cards to be presented to residents in selected nursing homes to create a more interactive experience for them.</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  minor-latin">- Healthy HeArts Day 2019</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin">Singapore Youth Festival (SYF) Art Exhibition 2023</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin">Singapore Youth Festival (SYF) Art Exhibition 2021</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin">Attitude of Gratitude to Frontliners: Hand Mural - Collaboration with My Art Buddies 2020</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin">Singapore Youth Festival (SYF) Stronger Together Online Exhibition 2020</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin">Singapore Youth Festival (SYF) Art Exhibition 2019</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin">Healthy HeArts Day 2019</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin">Artist Talk Fun with Arts Recess Programme 2019</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  minor-latin">- Artist Talk Fun with Arts Recess Programme 2019</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
   minor-latin">&nbsp;</span></p></td></tr></tbody></table>
