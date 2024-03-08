@@ -135,28 +135,58 @@ variant: markdown
 <p><strong>Mr. Osman&nbsp;<strong>(OIC)<br></strong>Mdm. Ashilah Binte Abdul Latiff<br>Mdm. Lienda Bte Jamali<br>Mr. Leonard Paul Gomes</strong></p><p><strong>Coaches<br>1. Coach Faris (School Team)<br>2. Coach Aliff (Development Team)<br>
 	</strong></p></div>
 </li>
-<li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA SCHEDULE</label>
 <div>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;"><strong>MONDAYS</strong></td>
-<td style="text-align: center;">School Team &amp; Development Team</td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Time:<br></strong>2.00 p.m to 4.00 p.m</td>
-<td style="text-align: center;"><strong>Location:<br></strong>School Hall</td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>THURSDAYS</strong></td>
-<td style="text-align: center;">School Team</td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Time:<br></strong>3.00 p.m to 5.00 p.m</td>
-<td style="text-align: center;"><strong>Location:<br></strong>School Hall</td>
-</tr>
-</tbody>
-</table>
+
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:14.75pt"><td style="width:148.6pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="198"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Mondays:</span></b></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
+  Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  mso-bidi-font-weight:bold">School Team &amp; Development Team</span></p></td><td style="width:148.85pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="198"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
+  Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  mso-bidi-font-weight:bold">2.00 p.m to 4.00 p.m</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:14.75pt"><td style="width:148.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="198"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Venue:</span></b></p></td><td style="width:148.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="198"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
+  Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  mso-bidi-font-weight:bold">School Hall</span></p></td></tr></tbody></table><br>
+	
+
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:14.75pt"><td style="width:148.6pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="198"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Thursdays:</span></b></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
+  Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  mso-bidi-font-weight:bold">School Team</span></p></td><td style="width:148.85pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="198"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
+  Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  mso-bidi-font-weight:bold">3.00 p.m to 5.00 p.m</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:14.75pt"><td style="width:148.6pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="198"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Venue:</span></b></p></td><td style="width:148.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="198"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
+  Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  mso-bidi-font-weight:bold">School Hall</span></p></td></tr></tbody></table>
+	
+	
+	
+	
+	
 </div>
 </li>
 </ul>
