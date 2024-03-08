@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /mathematics/
 description: ""
+variant: markdown
 ---
 <h4><strong>CURRICULUM FRAMEWORK</strong></h4>
 <p>The central focus of Mathematics is mathematical&nbsp;<strong>problem solving</strong>. The framework sets the direction for and provides guidance in the teaching, learning and assessment of mathematics in our school.</p>
@@ -11,7 +12,7 @@ description: ""
 <img src="/images/math2.png">
 <h4><strong>KEY DEPARTMENT PROGRAMMES</strong></h4>
 <p><u><strong>LEARNING EXPERIENCES<br></strong></u>Our students are exposed to a variety of learning experiences where they can apply and relate their knowledge of Mathematical skills and concepts to real-life experiences.</p>
-<p><strong><em>1) Mathematics all around us: OPERA SUPERMARKET SHOPPING DAY</em><br></strong>Students enjoy a shopping trip at the ‘Opera Supermarket’ where they use play money to buy items of their choice. They apply the concepts of addition and subtraction of money in this learning experience.</p>
+<p><strong><em>1) Mathematics all around us: OPERA SUPERMARKET SHOPPING DAY</em><br><br>OPERA SUPERMARKET<br></strong>Students enjoy a shopping trip at the ‘Opera Supermarket’ where they use play money to buy items of their choice. They apply the concepts of addition and subtraction of money in this learning experience.</p>
 <img src="/images/math3.png"><br>
 <p> Our P3 students shopped at OPERA Supermarket for a class party where they used cash and vouchers to buy items within their budget. Students learnt basic financial literacy skills such as budgeting and maximizing the value of vouchers through the incorporation of ‘CDC’ vouchers in their shopping.<br>
    
