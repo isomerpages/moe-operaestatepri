@@ -66,7 +66,7 @@ variant: markdown
   minor-latin">- Artist Talk Fun with Arts Recess Programme 2019</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin">&nbsp;</span></p></td></tr></tbody></table>
+  minor-latin">&nbsp;</span></p></td></tr></tbody></table><br>
 	
 	
 
@@ -108,6 +108,11 @@ variant: markdown
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
   minor-latin;color:#484848">2018: Mixed Media - Paper Pulp Mache, Paper Sculpture, Painting, Wire Sculpture (Picasso-inspired)</span></p></td></tr></tbody></table>
+
+
+
+
+
 
 
 <ul class="jekyllcodex_accordion">
