@@ -107,23 +107,59 @@ variant: markdown
   minor-latin;color:#484848">2019 : Wire Sculpture (Garden Theme), Painting, Lino Printing</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">2018: Mixed Media - Paper Pulp Mache, Paper Sculpture, Painting, Wire Sculpture (Picasso-inspired)</span></p></td></tr></tbody></table>
+  minor-latin;color:#484848">2018: Mixed Media - Paper Pulp Mache, Paper Sculpture, Painting, Wire Sculpture (Picasso-inspired)</span></p></td></tr></tbody></table><br>
 
 
-
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#2F5496;mso-background-themecolor:
+  accent1;mso-background-themeshade:191;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;color:white;mso-themecolor:
+  background1">ACHIEVEMENTS</span></b><b><span style="font-size:14.0pt"></span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">2023 – Singapore Youth Festival (SYF) Certificate of Participation – Cat B</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">2021 - Singapore Youth Festival (SYF) Certificate of Recognition - Cat C</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">2019 - Singapore Youth Festival (SYF) Certificate of Recognition - Cat A &amp; Cat B</span></p></td></tr></tbody></table>
 
 
 
 
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1">TEACHERS IN CHARGE</label>
 <div>
-<p><span style="text-decoration: underline;"><strong>Mdm. Nursidah Bte Abdul Wahid (OIC)<br></strong><strong>Mdm. Ashilah Binte Abdul Latiff</strong></span></p>
+<p><strong>Mdm. Nursidah Bte Abdul Wahid (OIC)<br></strong><strong>Mdm. Ashilah Binte Abdul Latiff</strong></p>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA SCHEDULE</label>
 <div>
-<p>Mondays: 2.00pm - 4.00pm<br>Venue: Art Room</p>
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:14.75pt"><td style="width:107.2pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="143"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Mondays:</span></b></p></td><td style="width:140.65pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="188"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
+  Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  mso-bidi-font-weight:bold">2.00 p.m to 4.00 p.m</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:14.75pt"><td style="width:107.2pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="143"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">Venue:</span></b></p></td><td style="width:140.65pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="188"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
+  Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  mso-bidi-font-weight:bold">Art Room</span></p></td></tr></tbody></table>	
+	
+	
 </div>
 </li>
 </ul>
