@@ -27,7 +27,7 @@ variant: markdown
 
 <h4><strong>PROGRAMMES</strong></h4>
 
-<p style="font-size:18px" align="justify"><b>Primary 3 SwimSafer Programme</b></p><b>
+<p style="font-size:18px" align="justify"><b>Primary 3 SwimSafer Programme</b></p>
 <img src="/images/pe4.jpg"><br>
 <img src="/images/pe5.jpg"><br>
 <img src="/images/pe6.jpg"><br>
@@ -35,8 +35,8 @@ variant: markdown
 <img src="/images/pe8.jpg"><br>
 <img src="/images/pe9.jpg">
 	
-<p style="font-size:18px" align="justify">Primary 5 Adventure Learning Camp</p>
+<p style="font-size:18px" align="justify"><b>Primary 5 Adventure Learning Camp</b></p>
 <img src="/images/pe10.png">
 
-<p style="font-size:18px" align="justify">OEPS Sports Championships/Recess Challenge <br>(Term 2 to Term 4)
-<img src="/images/pe11.png"></p></b>
+<p style="font-size:18px" align="justify"><b>OEPS Sports Championships/Recess Challenge <br>(Term 2 to Term 4)</b></p>
+<img src="/images/pe11.png">
