@@ -8,7 +8,7 @@ variant: markdown
 <p style="font-size:18px" align="justify">The seven Learning Areas for our PE Programme (with emphasis on Fundamental Movement Skills) includes:<br><b><i>Athletics, Dance, Games &amp; Sports, Gymnastics, Outdoor Education, Physical Health &amp; Fitness and Swimming.</i></b></p>
 
 
-<h4>OUR GOALS</h4>
+<h4><b>OUR GOALS</b></h4>
 <p style="font-size:18px" align="justify"><strong>The six goals of Physical Education are:<br></strong>1) Pupils acquire a range of movement skills to participate in a variety of physical activities.<br><br>2) Pupils understand and apply movement concepts, principles and strategies in a range of physical activities.<br><br>3) Pupils demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment.<br><br>4) Pupils display positive personal and social behavior across different experiences.<br><br>5) Pupils acquire and maintain health-enhancing fitness through regular participation in physical activities.<br><br> 6) Pupils enjoy and value the benefits of living a physically active and healthy life</p>
 <h4><strong>CURRICULUM FRAMEWORK</strong></h4>
 <img style="width: 50%;" src="/images/pe1.png">
