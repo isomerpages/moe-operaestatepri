@@ -58,7 +58,7 @@ variant: markdown
 <ul>
 <li>Singapore Mathematical Olympiad for Primary Schools (SMOPS)</li>
 <li>National Mathematical Olympiad for Primary Schools (NMOS)</li>
-</ul>
+</ul><br>
 	
 <p style="font-size:18px" align="justify"><strong><em>1. E2K MATHEMATICS&nbsp;PROGRAMME&nbsp;(P4 and P5)<br></em></strong><em>In this programme, selected P4 and P5 students will have the opportunity to develop their critical and analytical thinking as well as their problem solving skills through an inquiry approach. Students also develop 21st century competencies such as effective communication as they collaborate with their peers to work on puzzles, games and mathematical explorations that are specially designed for this programmme.</em></p>
 	
