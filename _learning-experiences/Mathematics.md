@@ -19,9 +19,7 @@ variant: markdown
 
 <p style="font-size:18px" align="justify"><u><strong>LEARNING EXPERIENCES<br></strong></u>Our students are exposed to a variety of learning experiences where they can apply and relate their knowledge of Mathematical skills and concepts to real-life experiences.</p>
 
-<p style="font-size:18px" align="justify"><strong><em>1) Mathematics all around us: OPERA SUPERMARKET SHOPPING DAY</em><br><br></strong></p><strong>
-	
-</strong><p style="font-size:18px;" align="justify"><strong>OPERA SUPERMARKET<br></strong>Students enjoy a shopping trip at the ‘Opera Supermarket’ where they use play money to buy items of their choice. They apply the concepts of addition and subtraction of money in this learning experience.</p>
+<p style="font-size:18px" align="justify"><strong><em>1) Mathematics all around us: OPERA SUPERMARKET SHOPPING DAY</em><br><br>OPERA SUPERMARKET<br></strong>Students enjoy a shopping trip at the ‘Opera Supermarket’ where they use play money to buy items of their choice. They apply the concepts of addition and subtraction of money in this learning experience.</p>
 <img src="/images/math3.png"><br>
 
 <p style="font-size:18px" align="justify"> Our P3 students shopped at OPERA Supermarket for a class party where they used cash and vouchers to buy items within their budget. Students learnt basic financial literacy skills such as budgeting and maximizing the value of vouchers through the incorporation of ‘CDC’ vouchers in their shopping.<br><br>To extend our students’ learning in this authentic learning experience, they designed an invitation card for their class party. Students learnt the language skills of writing an invitation, which will inform and entice their target audience. This writing activity was done in collaboration with the English Department.<br>
@@ -60,7 +58,7 @@ variant: markdown
 <ul>
 <li>Singapore Mathematical Olympiad for Primary Schools (SMOPS)</li>
 <li>National Mathematical Olympiad for Primary Schools (NMOS)</li>
-</ul>
+</ul><br>
 	
 <p style="font-size:18px" align="justify"><strong><em>1. E2K MATHEMATICS&nbsp;PROGRAMME&nbsp;(P4 and P5)<br></em></strong><em>In this programme, selected P4 and P5 students will have the opportunity to develop their critical and analytical thinking as well as their problem solving skills through an inquiry approach. Students also develop 21st century competencies such as effective communication as they collaborate with their peers to work on puzzles, games and mathematical explorations that are specially designed for this programmme.</em></p>
 	
@@ -69,10 +67,11 @@ variant: markdown
 	
 <em>
 <img src="/images/math9.png">
-<p>Our P4 team attaining the ‘Outstanding Award’ in the Poster Category in the Primary Mathematics Project Competition (PMPC).</p>
+<p>Our P4 team attaining the ‘Outstanding Award’ in the Poster Category in the Primary Mathematics Project Competition (PMPC).</p></em>
 	
 <img style="width: 65%;" src="/images/math10.png">
-<p style="text-align: center;">Our P5 and P6 pupils attaining the Silver and Bronze awards at the Singapore Mathematical Olympiad for Primary Schools (SMOPS).</p></em></em><br>
+	
+<p style="text-align: center;">Our P5 and P6 pupils attaining the Silver and Bronze awards at the Singapore Mathematical Olympiad for Primary Schools (SMOPS).</p><br>
 
 <p style="font-size:18px" align="justify"><strong>2022 Raffles Institution Primary World Mathematics Contest (Junior Category – Primary 5)</strong><br>
 <img src="/images/mathematics_2.jpg"></p><br>
@@ -81,4 +80,4 @@ variant: markdown
 <p style="font-size:18px" align="justify">Congratulations to our awardees of the 2022 Raffles Institution Primary Mathematics World Contest (RIPMWC)! Opera Celebrates!</p><br>
 
 <p style="font-size:18px" align="justify"><strong>Congratulations to our 2022 PMPC P5 team for clinching the “Commendation Award” for their game! Opera Celebrates!</strong><br><br>Team members: Agastya Daga, Pek Yeng Yeng and Zakers Tang<br>
-<img src="/images/mathematics_4.jpg"></p>
+<img src="/images/mathematics_4.jpg"></p></em>
