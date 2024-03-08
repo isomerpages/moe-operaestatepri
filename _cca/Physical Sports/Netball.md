@@ -82,6 +82,7 @@ variant: markdown
 
 
 
+
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#2F5496;mso-background-themecolor:
@@ -113,7 +114,11 @@ variant: markdown
   minor-latin;color:#484848">2018 - Singapore Sports Schools Sports Carnival (Participation)</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">2017 - East Zone Sports Carnival 3rd place and 4th place.</span></p></td></tr></tbody></table>
+  minor-latin;color:#484848">2017 - East Zone Sports Carnival 3rd place and 4th place.</span></p></td></tr></tbody></table><br>
+	
+	
+<h4 align="middle"><strong>GALLERY - <a title="Our CCA Video (Click here)" href="https://albumizr.com/a/9h4q" target="_blank" rel="noopener">(CLICK HERE)</a></strong></h4>
+<img style="width:400px;height:300px;" src="/images/Cca/Netball_5.jpg">
 
 
 
