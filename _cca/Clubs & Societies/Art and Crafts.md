@@ -20,6 +20,22 @@ variant: markdown
   minor-latin;color:#484848">The Art and Crafts Club allows pupils with a shared interest and passion in visual art to create and appreciate art through fun and engaging ways. Pupils are given the opportunity to explore different tools and media in their art making. They are also exposed to various art forms such as painting and mixed media, which provide platforms for them to express their ideas and creativity, as well as gaining greater understanding in art skills and concepts.<br><br>To enrich their experience, an annual learning journey to an art gallery/ museum is organized to raise pupils’ awareness of the current art scene in Singapore.</span></p></td></tr></tbody></table><br>
 	
 
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#FFE599;mso-background-themecolor:
+  accent4;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;color:black;mso-color-alt:
+  windowtext">OUR OBJECTIVES</span></b><b><span style="font-size:14.0pt"></span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">To nurture an interest in art.</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin">To provide a platform for pupils to express their ideas and creativity in various forms of art making.<span style="color:#484848"></span></span></p></td></tr></tbody></table><br>
+	
+	
 
 
 
