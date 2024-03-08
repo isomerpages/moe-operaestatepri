@@ -5,11 +5,16 @@ description: ""
 variant: markdown
 ---
 <h4><strong>CURRICULUM FRAMEWORK</strong></h4>
-<p>The central focus of Mathematics is mathematical&nbsp;<strong>problem solving</strong>. The framework sets the direction for and provides guidance in the teaching, learning and assessment of mathematics in our school.</p>
+
+<p style="font-size:18px" align="justify">The central focus of Mathematics is mathematical&nbsp;<strong>problem solving</strong>. The framework sets the direction for and provides guidance in the teaching, learning and assessment of mathematics in our school.</p><br>
+
 <img src="/images/math1.png">
+
 <h4><strong>CONCRETE-PICTORIAL-ABSTRACT (C-P-A) APPROACH</strong></h4>
-<p>In the teaching and learning of mathematics, our school believes in building a strong foundation in the mathematical concepts in our students. Our students acquire mathematical concepts and skills using the Concrete-Pictorial-Abstract (C-P-A) approach. Students are given concrete experiences to help them develop their numeracy skills, make connections and subsequently become better problem-solvers.</p>
+
+<p style="font-size:18px" align="justify">In the teaching and learning of mathematics, our school believes in building a strong foundation in the mathematical concepts in our students. Our students acquire mathematical concepts and skills using the Concrete-Pictorial-Abstract (C-P-A) approach. Students are given concrete experiences to help them develop their numeracy skills, make connections and subsequently become better problem-solvers.</p>
 <img src="/images/math2.png">
+
 <h4><strong>KEY DEPARTMENT PROGRAMMES</strong></h4>
 <p><u><strong>LEARNING EXPERIENCES<br></strong></u>Our students are exposed to a variety of learning experiences where they can apply and relate their knowledge of Mathematical skills and concepts to real-life experiences.</p>
 <p><strong><em>1) Mathematics all around us: OPERA SUPERMARKET SHOPPING DAY</em><br><br>OPERA SUPERMARKET<br></strong>Students enjoy a shopping trip at the ‘Opera Supermarket’ where they use play money to buy items of their choice. They apply the concepts of addition and subtraction of money in this learning experience.</p>
