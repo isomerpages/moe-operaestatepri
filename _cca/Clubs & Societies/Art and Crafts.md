@@ -129,6 +129,11 @@ variant: markdown
   minor-latin;color:#484848">2019 - Singapore Youth Festival (SYF) Certificate of Recognition - Cat A &amp; Cat B</span></p></td></tr></tbody></table>
 
 
+<h4 align="middle"><strong>GALLERY - <a title="Our CCA Video (Click here)" href="https://albumizr.com/a/KnU5" target="_blank" rel="noopener">(CLICK HERE)</a></strong></h4>
+<img style="width:400px;height:300px;" src="/images/Cca/art.jpg">
+
+
+
 
 
 <ul class="jekyllcodex_accordion">
