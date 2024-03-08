@@ -130,10 +130,10 @@ variant: markdown
 
 
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1">TEACHERS IN CHARGE</label>
 <div>
-<p>Mr. Osman&nbsp;<strong>(OIC)<br></strong>Mdm. Ashilah Binte Abdul Latiff<br>Mdm. Lienda Bte Jamali<br>Mr. Leonard Paul Gomes</p><p>Coaches<br>1. Coach Faris (School Team)<br>2. Coach Marcus (School Team)<br>3. Coach Francine (Development Team)<br>
-</p></div>
+<p><strong>Mr. Osman&nbsp;<strong>(OIC)<br></strong>Mdm. Ashilah Binte Abdul Latiff<br>Mdm. Lienda Bte Jamali<br>Mr. Leonard Paul Gomes</strong></p><p><strong>Coaches<br>1. Coach Faris (School Team)<br>2. Coach Aliff (Development Team)<br>
+	</strong></p></div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
 <div>
