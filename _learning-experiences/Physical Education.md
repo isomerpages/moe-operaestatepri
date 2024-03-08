@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <h4><strong>LEVEL AND PROGRAMME</strong></h4>
-<p style="font-size:18px" align="justify">The seven Learning Areas for our PE Programme (with emphasis on Fundamental Movement Skills) includes:<br>Athletics, Dance, Games &amp; Sports, Gymnastics, Outdoor Education, Physical Health &amp; Fitness and Swimming.</p><hr>
+<p style="font-size:18px" align="justify">The seven Learning Areas for our PE Programme (with emphasis on Fundamental Movement Skills) includes:<br><b><i>Athletics, Dance, Games &amp; Sports, Gymnastics, Outdoor Education, Physical Health &amp; Fitness and Swimming.</i></b></p>
 
 
 <h4>OUR GOALS</h4>
