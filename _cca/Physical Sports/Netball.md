@@ -47,7 +47,7 @@ variant: markdown
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
   minor-latin">- &nbsp;&nbsp;&nbsp;&nbsp;Weekly training sessions.<br>- &nbsp;&nbsp;&nbsp;&nbsp;Friendly matches.
-<br>-&nbsp;Participation at National School Games Netball Championships.<br><br>- &nbsp;&nbsp;&nbsp;&nbsp;Netball Exposure: By Kids Network from Sportz Kulture</span></p></td></tr></tbody></table><br>
+<br>-&nbsp;Participation at National School Games Netball &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Championships.<br><br>- &nbsp;&nbsp;&nbsp;&nbsp;Netball Exposure: By Kids Network from Sportz Kulture</span></p></td></tr></tbody></table><br>
 
 
 
