@@ -25,12 +25,10 @@ variant: markdown
 
 
 
+<h4><b>EXPERIENCES</b></h4>
+<p style="font-size:18px" align="justify"><strong>Primary 4 Museum Based Learning to National Gallery Singapore</strong><br><br>The Aesthetics department organises a Museum Based Learning (MBL) experience for our Primary 4 pupils as part of our Art Curriculum every year. All Primary 4 pupils will have the opportunity to learn how to use the museum to experience and forge a personal connection with the exhibit, encourage curiosity and inculcate museum etiquette.</p>
 
 
-
-
-<h4>EXPERIENCES</h4>
-<p><strong>Primary 4 Museum Based Learning to National Gallery Singapore<br></strong>The Aesthetics department organises a Museum Based Learning (MBL) experience for our Primary 4 pupils as part of our Art Curriculum every year. All Primary 4 pupils will have the opportunity to learn how to use the museum to experience and forge a personal connection with the exhibit, encourage curiosity and inculcate museum etiquette.&nbsp;</p>
 <img style="width: 65%;" src="/images/art5.jpg">
 <h4>EXTENSION PROGRAMMES</h4>
 <p>Platforms for pupils with special interests to showcase their talents and be further developed. To build resilience in their artistic pursuits and build confidence in themselves.</p>
