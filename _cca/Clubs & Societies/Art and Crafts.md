@@ -18,6 +18,8 @@ variant: markdown
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
   minor-latin;color:#484848">The Art and Crafts Club allows pupils with a shared interest and passion in visual art to create and appreciate art through fun and engaging ways. Pupils are given the opportunity to explore different tools and media in their art making. They are also exposed to various art forms such as painting and mixed media, which provide platforms for them to express their ideas and creativity, as well as gaining greater understanding in art skills and concepts.<br><br>To enrich their experience, an annual learning journey to an art gallery/ museum is organized to raise pupils’ awareness of the current art scene in Singapore.</span></p></td></tr></tbody></table><br>
+	
+
 
 
 
