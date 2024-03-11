@@ -59,8 +59,11 @@ variant: markdown
   minor-latin">2019 - MuzART Day performance - Charlie and the Chocolate Factory</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin">2018 - Recess programme (Fun with Art and Drama) - MuzART Day performance - The Gruffalo</span></p></td></tr></tbody></table>
+  minor-latin">2018 - Recess programme (Fun with Art and Drama) - MuzART Day performance - The Gruffalo</span></p></td></tr></tbody></table><br>
+	
 
+<h4 align="middle"><strong>GALLERY - <a title="Our CCA Video (Click here)" href="https://albumizr.com/a/RVnq" target="_blank" rel="noopener">(CLICK HERE)</a></strong></h4>
+<img style="width:500px;height:300px;" src="/images/Cca/englishcca.jpg">
 
 
 
