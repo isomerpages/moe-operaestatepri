@@ -31,6 +31,9 @@ variant: markdown
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
   minor-latin;color:#484848">To cultivate joy of learning and playing together.<br><br>To allow pupils to develop logic and reasoning skills, improve critical thinking and boost spatial reasoning.<br><br>To develop the ability to concentrate and focus for a longer period of time with playing table-top games.<br><br>To collaborate with other players and sharpen their tactical skills in playing games.</span></p></td></tr></tbody></table><br>
+	
+<h4 align="middle"><strong>GALLERY - <a title="Our CCA Video (Click here)" href="https://albumizr.com/a/Ac0r" target="_blank" rel="noopener">(CLICK HERE)</a></strong></h4>
+<img style="width:300px;height:300px;" src="/images/Cca/strategy.jpg">
 
 
 
