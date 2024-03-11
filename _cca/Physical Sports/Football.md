@@ -87,7 +87,7 @@ variant: markdown
   minor-latin;color:#484848">2023 National School Games Football Championships Senior Division (Tier 1, 4th place)<br><br>2023 National School Games Football Championships Junior Division (Tier 2 Champion)<br><br>2021 National School Games Football Championships (cancelled)<br><br>2020 National School Games Football Championships (cancelled)<br><br>2019 East Zone Primary School Football Championship Senior Division (4th Place)<br><br>2019 National School Games Football Championship Senior Division (Preliminary Round)<br><br>2018 East Zone Primary School Football Championship Junior Division (4th place)<br><br>2018 National School Games Football Championship Junior Division (6th place)<br><br>2016 East Zone Primary School Football Championship Junior Division (4th Place)<br><br>2016 National School Games Football Championship Junior Division (Preliminary Round)</span></p></td></tr></tbody></table><br>
 	
 	
-<h4 align="middle"><strong>GALLERY - <a title="Our CCA Video (Click here)" href="https://albumizr.com/a/tPaT" target="_blank" rel="noopener">(CLICK HERE)</a></strong></h4>
+<h4 align="middle"><strong>GALLERY - <a title="Our CCA Video (Click here)" href="https://albumizr.com/a/u6Ax" target="_blank" rel="noopener">(CLICK HERE)</a></strong></h4>
 <img style="width:400px;height:300px;" src="/images/Cca/14.jpg">
 
 	
@@ -99,7 +99,7 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><span style="text-decoration: underline;"><strong>Mr. Omar Azahari Bin Mohammed Ali  (OIC)<br></strong></span><span style="text-decoration: underline;"><strong>Mr. Pang Sheir Zheng Issac<br></strong></span><span style="text-decoration: underline;"><strong>Ms. Yong Yue Teng Amanda (Mrs. Seow)<br></strong></span><span style="text-decoration: underline;"><strong>Mr. Leng Kok Keong<br></strong></span><span style="text-decoration: underline;"><strong>Mr. Yeo Jun Cong<br></strong></span><span style="text-decoration: underline;"></span></p>
+<p><span style="text-decoration: underline;"><strong>Mr. Omar Azahari Bin Mohammed Ali  (OIC)<br></strong></span><span style="text-decoration: underline;"><strong>Mr. Pang Sheir Zheng Issac<br></strong></span><span style="text-decoration: underline;"><strong>Mr. Lim Yan Zhiwf<br></strong></span><span style="text-decoration: underline;"><strong>Mr. Leng Kok Keong<br></strong></span><span style="text-decoration: underline;"><strong>Mr. Yeo Jun Cong<br></strong></span><span style="text-decoration: underline;"></span></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
