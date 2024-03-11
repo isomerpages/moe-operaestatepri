@@ -48,8 +48,52 @@ variant: markdown
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
   minor-latin;color:#484848">- First Lego League Challenge - National Rototics Competition<br><br>- Craft Animfest<br><br>- Young Illustration Award<br><br>- Typomania- Video Typo Contest (SG75 Competition: Dynamic- Primary)<br><br>- "OUR SCHOOLS, OUR STORIES" PHOTO AND VIDEO CONTEST</span></p></td></tr></tbody></table><br>
 	
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#FFE599;mso-background-themecolor:
+  accent4;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;color:black;mso-color-alt:
+  windowtext">PROGRAMME</span></b><b><span style="font-size:14.0pt"></span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">Creating Animated Gif Animation using PowerPoint</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">Creating Stop Motion Animation using iPad Stop Motion Studio application.</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">Creating Typography using PowerPoint.</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">Creating Illustration Romero Britto Inspired Digital Art using Inkscape</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">Creating Digital Surrealism Inspired by Salvador Dali and Rene Magritte using pixlr website.</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">Learning Game Coding using Scratch website.</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">Lego SPIKE Prime (Beginner)</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">Lego SPIKE Prime (Intermediate)</span></p></td></tr></tbody></table><br>
 	
 
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#2F5496;mso-background-themecolor:
+  accent1;mso-background-themeshade:191;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;color:white;mso-themecolor:
+  background1">ACHIEVEMENTS</span></b><b><span style="font-size:14.0pt"></span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:#484848">2023 - National Robotics Competition (CoderZ Coding Challenge) - Singapore 2nd place (Primary category)<br><br>2nd place for SG75 Competition:Dynamic – Primary<br><br>2022 - National Robotics Competition (CoderZ Coding Challenge) - Singapore Novice 2nd place Regional Champion<br><br>2021 - First Lego League Challenge - National Robotics Competition<br><br>2020 - First Lego League Challenge - National Robotics Competition<br><br>Craft Animfest 2019<br><br>Young Illustration Award<br><br>Typomania- Video Typo Contest</span></p></td></tr></tbody></table><br>
 
 
 
