@@ -50,7 +50,7 @@ variant: markdown
 <p style="font-size:18px" align="justify"><strong><em>2. IMPROVING CONFIDENCE AND ACHIEVEMENT IN NUMERACY (ICAN)&nbsp;PROGRAMME</em></strong><br><br>For the middle primary levels, the&nbsp;<strong>Improving Confidence and Achievement in Numeracy (ICAN</strong><strong>)&nbsp;</strong>programme is a collaboration between schools and MOE to support low progress learners using intervention strategies and models that are guided by research to tackle the 4 key issues of learning gaps, language, motivation and memory. The lessons follow the FREMC structure – Factual Fluency, Readiness, Engagement, Mastery and Consolidation.</p>
 
 
-<p style="font-size:18px" align="justify"><strong><em>3. REMEDIATION&nbsp;PROGRAMME&nbsp;(P4 – P6)</em></strong><br><em><br>The after-school mathematics remediation programme aims to help identify pupils who need additional support, reinforce and consolidate their learning so that they build and strengthen their foundation.</em></p><br>
+<p style="font-size:18px" align="justify"><strong><em>3. REMEDIATION&nbsp;PROGRAMME&nbsp;(P4 – P6)</em></strong><em><br><br>The after-school mathematics remediation programme aims to help identify pupils who need additional support, reinforce and consolidate their learning so that they build and strengthen their foundation.</em></p><br>
 	
 <h4><strong>EXTENSION PROGRAMMES</strong></h4>
 <p style="font-size:18px" align="justify">In line with the school’s continual emphasis on enriching and developing students’ potential to their fullest, P5 and P6 students are identified to undergo Olympiad training programme to be equipped with the necessary Mathematical knowledge and repertoire of problem-solving and visual-thinking skills to solve higher-order and non-routine problems. Some of these competitions these students take part in include:</p>
@@ -63,7 +63,7 @@ variant: markdown
 <p style="font-size:18px" align="justify"><strong><em>1. E2K MATHEMATICS&nbsp;PROGRAMME&nbsp;(P4 and P5)<br></em></strong><em>In this programme, selected P4 and P5 students will have the opportunity to develop their critical and analytical thinking as well as their problem solving skills through an inquiry approach. Students also develop 21st century competencies such as effective communication as they collaborate with their peers to work on puzzles, games and mathematical explorations that are specially designed for this programmme.</em></p>
 	
 <em>
-<p style="font-size:18px" align="justify"><strong><em>2. MATHEMATICS COMPETITIONS<br></em></strong><em>Our pupils have the opportunity to participate in competitions to further extend their learning of mathematics beyond the classroom. Some of these competitions include the Primary Mathematics Project Competition (PMPC) and the Singapore Mathematical Olympiad for Primary Schools (SMOPS).</em></p>
+	</em><p style="font-size:18px" align="justify"><em><strong>2. MATHEMATICS COMPETITIONS<br></strong>Our pupils have the opportunity to participate in competitions to further extend their learning of mathematics beyond the classroom. Some of these competitions include the Primary Mathematics Project Competition (PMPC) and the Singapore Mathematical Olympiad for Primary Schools (SMOPS).</em></p>
 	
 <em>
 <img src="/images/math9.png">
@@ -80,4 +80,5 @@ variant: markdown
 <p style="font-size:18px" align="justify">Congratulations to our awardees of the 2022 Raffles Institution Primary Mathematics World Contest (RIPMWC)! Opera Celebrates !</p><br>
 
 <p style="font-size:18px" align="justify"><strong>Congratulations to our 2022 PMPC P5 team for clinching the “Commendation Award” for their game! Opera Celebrates!</strong><br><br>Team members: Agastya Daga, Pek Yeng Yeng and Zakers Tang<br>
-<img src="/images/mathematics_4.jpg"></p></em></em>
+	
+<img src="/images/mathematics_4.jpg"></p></em>
