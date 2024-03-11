@@ -4,7 +4,7 @@ permalink: /mathematics/
 description: ""
 variant: markdown
 ---
-<h4><strong>CURRICULUM FRAMEWORK</strong></h4>
+<h4><b>CURRICULUM FRAMEWORK</b></h4>
 
 <p style="font-size:18px" align="justify">The central focus of Mathematics is mathematical&nbsp;<strong>problem solving</strong>. The framework sets the direction for and provides guidance in the teaching, learning and assessment of mathematics in our school.</p><br>
 
