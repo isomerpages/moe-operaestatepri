@@ -62,8 +62,8 @@ variant: markdown
 	
 <p style="font-size:18px" align="justify"><strong><em>1. E2K MATHEMATICS&nbsp;PROGRAMME&nbsp;(P4 and P5)<br></em></strong><em>In this programme, selected P4 and P5 students will have the opportunity to develop their critical and analytical thinking as well as their problem solving skills through an inquiry approach. Students also develop 21st century competencies such as effective communication as they collaborate with their peers to work on puzzles, games and mathematical explorations that are specially designed for this programmme.</em></p>
 	
-<em>
-	</em><p style="font-size:18px" align="justify"><em><strong>2. MATHEMATICS COMPETITIONS<br></strong>Our pupils have the opportunity to participate in competitions to further extend their learning of mathematics beyond the classroom. Some of these competitions include the Primary Mathematics Project Competition (PMPC) and the Singapore Mathematical Olympiad for Primary Schools (SMOPS).</em></p>
+
+<p style="font-size:18px" align="justify"><strong><em>2. MATHEMATICS COMPETITIONS<br></em></strong><em>Our pupils have the opportunity to participate in competitions to further extend their learning of mathematics beyond the classroom. Some of these competitions include the Primary Mathematics Project Competition (PMPC) and the Singapore Mathematical Olympiad for Primary Schools (SMOPS).</em></p>
 	
 <em>
 <img src="/images/math9.png">
