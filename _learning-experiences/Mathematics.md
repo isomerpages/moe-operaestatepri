@@ -67,11 +67,12 @@ variant: markdown
 	
 
 <img src="/images/math9.png">
-<i><p>Our P4 team attaining the ‘Outstanding Award’ in the Poster Category in the Primary Mathematics Project Competition (PMPC).</p></i><br>
+
+<p><i>Our P4 team attaining the ‘Outstanding Award’ in the Poster Category in the Primary Mathematics Project Competition (PMPC).</i></p><br>
 	
 <img style="width: 65%;" src="/images/math10.png">
 	
-<i><p style="text-align: center;">Our P5 and P6 pupils attaining the Silver and Bronze awards at the Singapore Mathematical Olympiad for Primary Schools (SMOPS).</p></i><br>
+<p style="text-align: center;"><i>Our P5 and P6 pupils attaining the Silver and Bronze awards at the Singapore Mathematical Olympiad for Primary Schools (SMOPS).</i></p><br>
 
 <p style="font-size:18px" align="justify"><strong>2022 Raffles Institution Primary World Mathematics Contest (Junior Category – Primary 5)</strong><br>
 <img src="/images/mathematics_2.jpg"></p><br>
