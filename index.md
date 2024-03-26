@@ -20,6 +20,13 @@ sections:
           url: /moe-sexuality-education/
       variant: center
   - infopic:
+      title: Superfood Video 2024
+      id: infopic
+      button: click to view
+      url: https://drive.google.com/drive/folders/1Il3hbt1rK6yYTrRjKNCO4zAKQ0WcUw66?usp=sharing
+      image: /images/superfood2.jpg
+      alt: Image alt text
+  - infopic:
       title: Launching of Dads for Life in OEPS
       id: infopic
       button: CLICK HERE
