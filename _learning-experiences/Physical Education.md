@@ -27,7 +27,7 @@ variant: markdown
 
 <h4><strong>PROGRAMMES</strong></h4>
 
-<p style="font-size:18px" align="justify"><b>Primary 3 SwimSafer Programme</b></p>
+<p style="font-size:18px" align="justify"><b>Primary 4 SwimSafer Programme</b></p>
 <img src="/images/pe4.jpg"><br>
 <img src="/images/pe5.jpg"><br>
 <img src="/images/pe6.jpg"><br>
