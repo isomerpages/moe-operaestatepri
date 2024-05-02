@@ -20,6 +20,13 @@ sections:
           url: /moe-sexuality-education/
       variant: center
   - infopic:
+      title: Opera Got Talent
+      id: infopic
+      button: Click to view
+      url: https://drive.google.com/drive/folders/1XwjFy-YByPtBCnPK_oduVD0jrTix2ULh?usp=sharing
+      image: /images/OGT.jpg
+      alt: Image alt text
+  - infopic:
       title: Superfood Video 2024
       id: infopic
       button: click to view
