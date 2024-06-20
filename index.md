@@ -20,6 +20,14 @@ sections:
           url: /moe-sexuality-education/
       variant: center
   - infopic:
+      title: E-Open House 2024
+      id: infopic
+      description: For more information,
+      button: CLICK HERE
+      url: https://www.operaestatepri.moe.edu.sg/e-open-house-2024/
+      image: /images/openhouse24.jpg
+      alt: Image alt text
+  - infopic:
       title: Opera Got Talent
       id: infopic
       button: Click to view
