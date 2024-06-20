@@ -9,9 +9,9 @@ variant: markdown
 
 <p>The Mother Tongue Language curriculum focuses on the 3Cs - Communication, Culture and Connection.</p>
 
-<p>Communication - able to communicate effectively in the Mother Tongue Language
-Culture - able to appreciate their cultural heritage 
-Connection - able to connect with others through the language</p>
+<p><b>Communication</b> - able to communicate effectively in the Mother Tongue Language<br>
+	<b>Culture</b> - able to appreciate their cultural heritage <br>
+	<b>Connection</b> - able to connect with others through the language</p>
 
 <p>Through the curriculum, 21st century competencies are also developed, specifically in the areas of critical, adaptive and inventive thinking, communication skills and cross-cultural literacy.   
 </p>
