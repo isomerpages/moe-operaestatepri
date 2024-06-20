@@ -20,11 +20,10 @@ Connection - able to connect with others through the language</p>
 <p>EXPERIENCES</p>
 <p><strong><u>Language Week</u><br></strong>
 This programme is held in collaboration with the English Department. It aims to instill the joy of reading through a variety of language activities in and out of curriculum. During the week, students get to participate in language games during recess. Choice board reading activities are also designed for the students. Some activities include bookmark design, comic creation as well as reading aloud a book to friends and family. For Mother Tongue (MT), parent volunteers record storytelling videos and these videos are shown to the students during MT lessons. On Character Day, students come to school dressed up as a book character and introduce the character to their friends.</p>
-	<img src="/images/mother_tongue_1.jpg">
+
 <p><strong>Mother Tongue Language (MTL) Fortnight</strong></p>
 <p> During MTL Fortnight, students have the opportunity to be engaged in different cultural activities, e.g. writing Chinese calligraphy, making wayang kulit and designing deepams. Students also showcase their language talents in poetry recitation, storytelling, singing etc and upload their performance clips via Padlet. Another highlight of MTL Fortnight is the online “Escape Room”. Putting on their thinking caps, students solve puzzles based on their own language and culture, making connections to their learning. These engaging activities and experiences will certainly pique our students’ interest in learning about their language and culture.</p>
-<img src="/images/mother_tongue_2.jpg"><br>
-<img src="/images/mother_tongue_3.jpg">
+<img src="/images/mt2024new2.jpg"><br>
 
 <p><strong>P1 &amp; P2 Speech &amp; Drama</strong></p>
 <p>This programme aims to develop students’ oracy skills and arouse their interest in the learning of the language through stories and drama. </p>
