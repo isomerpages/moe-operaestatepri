@@ -27,7 +27,7 @@ This programme is held in collaboration with the English Department. It aims to 
 
 <p><strong>P1 &amp; P2 Speech &amp; Drama</strong></p>
 <p>This programme aims to develop students’ oracy skills and arouse their interest in the learning of the language through stories and drama. </p>
-<img src="/images/mother_tongue_4.jpg">
+<img src="/images/mt2024new3.jpg">
 
 <p><strong>Cultural Performance Exposure Scheme (CL &amp; TL)/Theatre Experience (ML)</strong></p>
 <p>Students are provided opportunities to be exposed to language-related cultural performances by local and foreign performing arts groups. This year, we will again be bringing the students out to the theatre to watch these performances. We hope that through such exposure, it can help to sustain students’ interest in language learning and help them better appreciate their culture.  </p>
