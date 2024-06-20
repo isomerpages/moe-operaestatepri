@@ -31,7 +31,7 @@ This programme is held in collaboration with the English Department. It aims to 
 
 <p><strong>Cultural Performance Exposure Scheme (CL &amp; TL)/Theatre Experience (ML)</strong></p>
 <p>Students are provided opportunities to be exposed to language-related cultural performances by local and foreign performing arts groups. This year, we will again be bringing the students out to the theatre to watch these performances. We hope that through such exposure, it can help to sustain students’ interest in language learning and help them better appreciate their culture.  </p>
-<img src="/images/mother_tongue_5.jpg">
+<img src="/images/mt2024new4.jpg">
 
 <p><strong>Authentic Learning Experiences (Lower Primary)</strong></p>
 <p>          Authentic learning experiences are created within the curriculum to bring classroom teaching alive. For example, CL students take on the role of stallholders and customers when purchasing items. Students enjoyed the experience while learning the sentence structures for the lesson. Students also had the opportunity to have a picnic in class. They learnt vocabulary related to the theme as they ate the food they brought to class. ML students learnt the skill of journal writing through the unit “We are Active Learners”. Students learnt about animal folklore through storytelling and experienced paper weaving before writing about their experiences. Drama-based teaching methods are also employed in the TL classroom. By taking on different roles in an imaginary setting, students are empowered to engage in creative conversations with their peers. The enthusiasm shown by the students during these lessons brings out the joy of learning.</p>
