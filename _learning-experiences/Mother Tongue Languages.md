@@ -42,7 +42,7 @@ This programme is held in collaboration with the English Department. It aims to 
 <p><strong><u>P4-P6 Remediation Programme</u></strong><br>This programme provides targeted support for identified pupils to address learning gaps and support pupils in their learning through a structured remediation plan.</p>
 <h4>EXTENSION PROGRAMMES</h4>
 <p><strong><u>Competitions<br></u></strong>The department provides opportunities and exposure to selected students to stretch their potential in relevant language skills, e.g. writing and oracy. Some competitions that our students have participated in include Text Recital Competition, On-the-Spot Chinese Creative Essay Writing Competition, National Primary School Picture Book Creation Competition, National Pintar Kata App Competition and Muthamizh Vizha.</p>
-<img src="/images/mother_tongue_7.jpg">
+<img src="/images/mt2024new5.jpg">
 
 <h4><strong>USEFUL WEBSITES</strong></h4>
 <p><u><strong>FOR CL LEARNING</strong></u></p>
