@@ -4,7 +4,7 @@ permalink: /e-open-house-2024/
 variant: markdown
 description: ""
 ---
-<img align="center" src="/images/openhousewebinar.jpg">
+<img align="center" src="/images/oepswebinarinfo.jpg">
 <p align="center" style="font-size: 30px;">ZOOM ID: <b>876 2184 7037</b><br>
 	Passcode: <b>openhouse</b></p>
 
