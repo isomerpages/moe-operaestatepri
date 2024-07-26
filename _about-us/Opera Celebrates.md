@@ -5,130 +5,36 @@ description: ""
 variant: markdown
 ---
 <h4><b> ENGLISH</b></h4>
-<table style="width:500pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="727" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:184.05pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="245"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">What’s Up (2024)</span><span style="font-size:14.0pt;mso-bidi-font-family:Latha;mso-bidi-theme-font:minor-bidi"></span></p></td><td style="width:127.6pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="170"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-ansi-language:
-  EN-SG" lang="EN-SG">Letters Featured</span></p></td><td style="width:233.85pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="312"><p style="margin-bottom:0cm;text-align:center;
-  line-height:106%" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:106%;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;mso-font-kerning:1.0pt;
-  mso-ansi-language:EN-SG" lang="EN-SG">Kian Nizami<br>Advay Sikka</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:184.05pt;border:solid windowtext 1.0pt;
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:145.2pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="2" width="194"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">Wits &amp; Words 2024</span></b></p></td><td style="width:130.7pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="174"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Best Speaker</p></td><td style="width:155.6pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="207"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Sabrina Kok Xin Ai</p></td></tr><tr style="mso-yfti-irow:1"><td style="width:130.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="174"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Certificate of Participation</p></td><td style="width:155.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="207"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Yung Sherene<br>Hannah Hui Xiu Deery<br>Bhardwaj Mishika<br>Kritika Mclaren</p></td></tr><tr style="mso-yfti-irow:2"><td style="width:145.2pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" rowspan="4" width="245"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">What’s Up</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">2023</span></p></td><td style="width:127.6pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="194"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Newsmaker Award 2024</p></td><td style="width:130.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="170"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-ansi-language:
-  EN-SG" lang="EN-SG">Letters Featured</span><span style="font-size:14.0pt"></span></p></td><td style="width:233.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="174"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Certificate of Participation</p></td><td style="width:155.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="312"><p style="margin-bottom:0cm;text-align:center;
-  line-height:106%" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:106%;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;mso-font-kerning:1.0pt;
-  mso-ansi-language:EN-SG" lang="EN-SG">Prisha Burman Ray<br>Aniskha Vinayak<br>Saanvi Sharma<br>Vanessa Choo Kai Li<br>Francesca Andeline Murray<br>Neah Shibil<br>Hannah Deery<br>Chua Choon Khai</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:127.6pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="170"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-ansi-language:
-  EN-SG" lang="EN-SG">Letters Featured (Online)</span></p></td><td style="width:233.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="312"><p style="margin-bottom:0cm;text-align:center;
-  line-height:106%" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:106%;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;mso-font-kerning:1.0pt;
-  mso-ansi-language:EN-SG" lang="EN-SG">Sabrina Kok<br>Mishka Khadolia</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:127.6pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="170"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-ansi-language:
-  EN-SG" lang="EN-SG">Contest Winner</span></p></td><td style="width:233.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="312"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt;mso-ansi-language:EN-SG" lang="EN-SG">Aniskha Vinayak</span><span style="font-size:14.0pt;mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:127.6pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="170"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-ansi-language:
-  EN-SG" lang="EN-SG">Note Featured (Print Edition)</span></p></td><td style="width:233.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="312"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt;mso-ansi-language:EN-SG" lang="EN-SG">Francesca Adeline Murray<br>Advay Goenka</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:184.05pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="207"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Marlie De Maria<br>Ng Yu Le<br>Toshniwal Neil Avi Ritesh</p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:145.2pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" rowspan="2" width="245"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">Wits &amp; Words</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">2023</span></p></td><td style="width:127.6pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="194"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">What’s Up (2024)</p></td><td style="width:130.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="170"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">Winner of Preliminary Round 2</span></p></td><td style="width:233.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="174"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Letters Featured</p></td><td style="width:155.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="312"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">Amelia D'arcy Mcinally<br>Aayan Pranav Jain<br>Siddhant Ananthanarayana<br>Dia Poojari<br>Hasya Insyirah Bte Muhd Hirwan</span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:127.6pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="170"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">Best Speaker of the Round</span></p></td><td style="width:233.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="312"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">Amelia D'arcy Mcinally</span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:184.05pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="245"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt">Singapore Moo-O Awards Digital Storytelling Competition 2023</span><span style="font-size:14.0pt"></span></p></td><td style="width:127.6pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="170"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt">Merit Award</span><span style="font-size:14.0pt"></span></p></td><td style="width:233.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="312"><p style="margin-bottom:0cm;text-align:center;
-  line-height:106%" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:106%;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt">Shourya Taneja<br>Siti Aryanna Zyva Bte Muhd Norfaizal</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt">Annoka Vasundhra Nair</span><span style="font-size:14.0pt"></span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes"><td style="width:184.05pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="245"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt">Newsmaker Awards 2023 – Get Green, Love Earth</span></p></td><td style="width:127.6pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="170"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt">Certificate of Participation</span></p></td><td style="width:233.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="312"><p style="margin-bottom:0cm;text-align:center;
-  line-height:106%" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:106%;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt">Junaidi Adri Bin Imran<br>Tenza Heng Miao Hua<br>Surajiv Ranjith</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:106%" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:106%;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  color:#1F2328;mso-font-kerning:1.0pt">&nbsp;</span></p></td></tr></tbody></table>
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="207"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Ellie Ng<br>Maria George Manjakkal<br>Gloria Aurielle&nbsp;Soenjaya<br>Kian Nizami<br>Isabelle Goh<br>Mishka Khadolia</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td></tr></tbody></table>
 
 
 
