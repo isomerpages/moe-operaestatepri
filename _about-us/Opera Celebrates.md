@@ -49,257 +49,30 @@ variant: markdown
 
 <h4><b> MATHEMATICS</b></h4>
 
-<table style="width:500pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="727" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:184.05pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" rowspan="4" width="245"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Raffles Institution Primary Mathematics World Contest (RIPMWC) 2023</span><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin"></span></p></td><td style="width:127.6pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="170"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Junior Category - Distinction</span><span style="font-size:14.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:233.85pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="312"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Arjun Prasanna</span><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#1F2328"><br style="box-sizing: border-box;overflow-wrap: break-word;
-  border-color:var(--chakra-colors-chakra-border-color);font-variant-ligatures: normal;
-  font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
-  word-spacing:0px"><span style="background:white"><span style="font-variant-ligatures: normal;
-  font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
-  float:none;word-spacing:0px">Chan Charlotte Hui Xia</span></span><br style="box-sizing: border-box;overflow-wrap: break-word;border-color:var(--chakra-colors-chakra-border-color);
-  font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
-  widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
-  text-decoration-style: initial;text-decoration-color: initial;word-spacing:
-  0px"><span style="background:white"><span style="font-variant-ligatures: normal;
-  font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
-  float:none;word-spacing:0px">Isabelle Goh Xuwen</span></span></span><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin"></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:127.6pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:143.8pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="2" width="192"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p><p style="margin-bottom:3cm;line-height:normal" class="MsoNormal">Raffles Mathematical Olympiad 2024<span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:143.85pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Distinction</span></p></td><td style="width:143.85pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Nathan Geoff Reyes Aguilar<br>Surajiv Ranjith<br>Adam Sameer Grewal<br>Zhou Huaye<br>Ong Zong Han Owen<br>Aarushi Kumawat<br>Chua Jing Xu</p></td></tr><tr style="mso-yfti-irow:1"><td style="width:143.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="170"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Junior Category - Merit</span></p></td><td style="width:233.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Merit</span></p></td><td style="width:143.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="312"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Satija Samarth</span><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#1F2328"><br style="box-sizing: border-box;overflow-wrap: break-word;
-  border-color:var(--chakra-colors-chakra-border-color);font-variant-ligatures: normal;
-  font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
-  word-spacing:0px"><span style="background:white"><span style="font-variant-ligatures: normal;
-  font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
-  float:none;word-spacing:0px">Wong Jun Teng Elden</span></span><br style="box-sizing: border-box;overflow-wrap: break-word;border-color:var(--chakra-colors-chakra-border-color);
-  font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
-  widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
-  text-decoration-style: initial;text-decoration-color: initial;word-spacing:
-  0px"><span style="background:white"><span style="font-variant-ligatures: normal;
-  font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
-  float:none;word-spacing:0px">Arohan Sarma</span></span><br style="box-sizing: border-box;
-  overflow-wrap: break-word;border-color:var(--chakra-colors-chakra-border-color);
-  font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
-  widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
-  text-decoration-style: initial;text-decoration-color: initial;word-spacing:
-  0px"><span style="background:white"><span style="font-variant-ligatures: normal;
-  font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
-  float:none;word-spacing:0px">Saatvik Kusumwal</span></span><br style="box-sizing: border-box;overflow-wrap: break-word;border-color:var(--chakra-colors-chakra-border-color);
-  font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
-  widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
-  text-decoration-style: initial;text-decoration-color: initial;word-spacing:
-  0px"><span style="background:white"><span style="font-variant-ligatures: normal;
-  font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
-  float:none;word-spacing:0px">Anthony Ruhen Almeida</span></span><br style="box-sizing: border-box;overflow-wrap: break-word;border-color:var(--chakra-colors-chakra-border-color);
-  font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
-  widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
-  text-decoration-style: initial;text-decoration-color: initial;word-spacing:
-  0px"><span style="background:white"><span style="font-variant-ligatures: normal;
-  font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
-  float:none;word-spacing:0px">Arya Ishana Kaur</span></span><br style="box-sizing: border-box;overflow-wrap: break-word;border-color:var(--chakra-colors-chakra-border-color);
-  font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
-  widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
-  text-decoration-style: initial;text-decoration-color: initial;word-spacing:
-  0px"><span style="background:white"><span style="font-variant-ligatures: normal;
-  font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
-  float:none;word-spacing:0px">Gwyn Tan Rui Long</span></span><br style="box-sizing: border-box;overflow-wrap: break-word;border-color:var(--chakra-colors-chakra-border-color);
-  font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
-  widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
-  text-decoration-style: initial;text-decoration-color: initial;word-spacing:
-  0px"><span style="background:white"><span style="font-variant-ligatures: normal;
-  font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
-  float:none;word-spacing:0px">Fong Hao Sheng</span></span><br style="box-sizing: border-box;overflow-wrap: break-word;border-color:var(--chakra-colors-chakra-border-color);
-  font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
-  widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
-  text-decoration-style: initial;text-decoration-color: initial;word-spacing:
-  0px"><span style="background:white"><span style="font-variant-ligatures: normal;
-  font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
-  float:none;word-spacing:0px">Chua Jing Xu</span></span><br style="box-sizing: border-box;
-  overflow-wrap: break-word;border-color:var(--chakra-colors-chakra-border-color);
-  font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
-  widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
-  text-decoration-style: initial;text-decoration-color: initial;word-spacing:
-  0px"><span style="background:white"><span style="font-variant-ligatures: normal;
-  font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
-  float:none;word-spacing:0px">Tang Estelle</span></span></span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:127.6pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="170"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Open Category - Distinction</span></p></td><td style="width:233.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="312"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Myra Chaubey</span><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#1F2328"><br style="box-sizing: border-box;overflow-wrap: break-word;
-  border-color:var(--chakra-colors-chakra-border-color);font-variant-ligatures: normal;
-  font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
-  word-spacing:0px"><span style="background:white"><span style="font-variant-ligatures: normal;
-  font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
-  float:none;word-spacing:0px">Kotha Venkata Sai Ram</span></span></span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:127.6pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="170"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Open Category - Merit</span></p></td><td style="width:233.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="312"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Soma Moukthika</span><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#1F2328"><br style="box-sizing: border-box;overflow-wrap: break-word;
-  border-color:var(--chakra-colors-chakra-border-color);font-variant-ligatures: normal;
-  font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
-  word-spacing:0px"><span style="background:white"><span style="font-variant-ligatures: normal;
-  font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
-  float:none;word-spacing:0px">Aakash Gupta</span></span><br style="box-sizing: border-box;
-  overflow-wrap: break-word;border-color:var(--chakra-colors-chakra-border-color);
-  font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
-  widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
-  text-decoration-style: initial;text-decoration-color: initial;word-spacing:
-  0px"><span style="background:white"><span style="font-variant-ligatures: normal;
-  font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
-  float:none;word-spacing:0px">Oliver Goana</span></span></span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:184.05pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">William Krish Nambiar<br>Samarth Reddy<br>Gregory Tay<br>Liew Kai Lee<br>Vincent Albert Bennett<br>Satija Samarth<br>Ray Wong Jun Rui<br>Luu Kelly Hui Yi<br>Master Raphael Dhaval</p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:143.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" rowspan="2" width="245"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Asia-Pacific Mathematical Olympiad for Primary School 2023 (APMOPS)</span></p></td><td style="width:127.6pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Asia-Pacific Mathematical Olympiad for Primary Schools 2024 (APMOPS)<span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:143.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="170"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Silver</span></p></td><td style="width:233.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Bronze</span></p></td><td style="width:143.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="312"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Oliver Goana</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:127.6pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="170"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Bronze</span></p></td><td style="width:233.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="312"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Bhagwat Kimaya Kishor</span><span style="font-size:14.0pt;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:#1F2328"><br style="box-sizing: border-box;
-  overflow-wrap: break-word;border-color:var(--chakra-colors-chakra-border-color);
-  font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
-  widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
-  text-decoration-style: initial;text-decoration-color: initial;word-spacing:
-  0px"><span style="background:white"><span style="font-variant-ligatures: normal;
-  font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
-  float:none;word-spacing:0px">Ling Chin Ler Axel</span></span><br style="box-sizing: border-box;overflow-wrap: break-word;border-color:var(--chakra-colors-chakra-border-color);
-  font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
-  widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
-  text-decoration-style: initial;text-decoration-color: initial;word-spacing:
-  0px"><span style="background:white"><span style="font-variant-ligatures: normal;
-  font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
-  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
-  float:none;word-spacing:0px">Saanvi Sharma</span></span></span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:184.05pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" rowspan="2" width="245"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">National Mathematical Olympiad of Singapore (2023)<span style="mso-spacerun:yes">&nbsp;</span></span></p></td><td style="width:127.6pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="170"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Bronze</span></p></td><td style="width:233.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="312"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Chan Charlotte Hui Xia</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Kritika Mclaren</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Ray Wong Jun Rui</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Veer Singh Charak</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Zhou Huaye</span></p></td></tr><tr style="mso-yfti-irow:7;mso-yfti-lastrow:yes"><td style="width:127.6pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="170"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Honourable Mention</span></p></td><td style="width:233.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" width="312"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Aarushi Kumawat<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;</span></span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Advay Goenka</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Ansh Nayak</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Cherilyn Maung</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Chua Jing Xu</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Deborah Mei Garbourg</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Fong Hao Sheng</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Hareez Zain</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Luu Kelly Hui Yi</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Ng Ho Jun</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Rania Aliya Pratama</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Ryan Bhagyesh Chaubey</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Satija Samarth</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:#1F2328;background:white">Yung Sherene</span></p></td></tr></tbody></table>
-
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ansi-language:DE" lang="DE">Reyansh Rathi</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td></tr></tbody></table>
 
 
 
