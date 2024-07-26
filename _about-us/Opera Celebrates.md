@@ -119,7 +119,7 @@ variant: markdown
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Third Position</span></p></td><td style="width:143.85pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Liang Yu Chen<br>Zoey Tock En Xi<br>Yuina Hibino</span></p></td></tr></tbody></table>
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Aarushi Kumawat<br>Anahita Vasundhara Nair<br>Chan Charlotte Hui Xia<br>Griva Tzimopoulou Antonia<br>Hannah Hui Xiu Deery<br>Maddison Jade Barnes<br>Ng Yhukei<br>Sreeja Sathia Narayanan<br>Tan Jia Xi Emma<br>Tang Estelle<br>Toh Mei Ying<br>Woong Pe Hsuan</span></p></td></tr></tbody></table>
 
 
 
