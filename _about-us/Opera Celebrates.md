@@ -8,7 +8,7 @@ variant: markdown
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:145.2pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="2" width="194"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">Wits &amp; Words 2024</span></b></p></td><td style="width:130.7pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="2" width="194"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Wits &amp; Words 2024</span></p></td><td style="width:130.7pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="174"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Best Speaker</p></td><td style="width:155.6pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
