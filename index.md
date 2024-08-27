@@ -23,7 +23,7 @@ sections:
       title: Opera Got Talent
       id: infopic
       button: Click to view
-      url: https://drive.google.com/drive/folders/1ZWH062e71VWjuw0cZf3gHrMSlXoCkqvC?usp=sharing
+      url: https://drive.google.com/drive/folders/1sqxQfNjNxbsvJChA6g_UhQgjU0CmFd-m?usp=sharing
       image: /images/OGT.jpg
       alt: Image alt text
   - infopic:

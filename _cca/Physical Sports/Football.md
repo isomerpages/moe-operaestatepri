@@ -99,7 +99,7 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><span style="text-decoration: underline;"><strong>Mr. Omar Azahari Bin Mohammed Ali  (OIC)<br></strong></span><span style="text-decoration: underline;"><strong>Mr. Pang Sheir Zheng Issac<br></strong></span><span style="text-decoration: underline;"><strong>Mr. Lim Yan Zhiwf<br></strong></span><span style="text-decoration: underline;"><strong>Mr. Leng Kok Keong<br></strong></span><span style="text-decoration: underline;"><strong>Mr. Yeo Jun Cong<br></strong></span><span style="text-decoration: underline;"></span></p>
+<p><span style="text-decoration: underline;"><strong>Mr. Omar Azahari Bin Mohammed Ali  (OIC)<br></strong></span><span style="text-decoration: underline;"><strong>Mr. Pang Sheir Zheng Issac<br></strong></span><span style="text-decoration: underline;"><strong>Mr. Lim Yan Zhi<br></strong></span><span style="text-decoration: underline;"><strong>Mr. Leng Kok Keong<br></strong></span><span style="text-decoration: underline;"><strong>Mr. Yeo Jun Cong<br></strong></span><span style="text-decoration: underline;"><strong>Mdm. Amal Norahmah Bte Darlan<br></strong></span><span style="text-decoration: underline;"><strong>Ms. Lim Pei Yi, Rachel<br></strong></span><span style="text-decoration: underline;"></span></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
