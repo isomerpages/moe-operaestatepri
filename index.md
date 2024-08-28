@@ -20,11 +20,18 @@ sections:
           url: /moe-sexuality-education/
       variant: center
   - infopic:
-      title: Opera Got Talent
+      title: Opera's Got Talent (Recess Concert 2024)
       id: infopic
       button: Click to view
       url: https://drive.google.com/drive/folders/1sqxQfNjNxbsvJChA6g_UhQgjU0CmFd-m?usp=sharing
-      image: /images/OGT.jpg
+      image: /images/ogt2024.jpg
+      alt: Image alt text
+  - infopic:
+      title: Opera's Got Talent 2024 (Video Submission)
+      id: infopic
+      button: CLICK HERE
+      url: https://drive.google.com/drive/folders/1ZWH062e71VWjuw0cZf3gHrMSlXoCkqvC?usp=sharing
+      image: /images/ogtrecess2024.jpg
       alt: Image alt text
   - infopic:
       title: E-Open House 2024
