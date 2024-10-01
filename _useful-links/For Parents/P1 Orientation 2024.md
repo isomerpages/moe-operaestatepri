@@ -68,15 +68,15 @@ Please refer <a href="/files/P12024/fas.pdf" target="_blank" rel="noopener">here
 <li>family with more than 3 grandparents in the household</li>
 </ol>
 	
-<p><strong>2024 MOE FAS Application Form</strong></p>
+<p><strong>2025 MOE FAS Application Form</strong></p>
 <ul>
-<li><a href="/files/P12024/moe-fas-2024.pdf" target="_blank" rel="noopener">FAS 2024 Application Form</a></li>
+<li><a href="/files/P12024/fasform.pdf" target="_blank" rel="noopener">MOE FAS Application Form</a></li>
 </ul>
-Please refer to the infosheet in various languages for an overview of the scheme. For more information, kindly go to Annex I in the 2024 MOE FAS Application form.<br>
-<a href="/files/P12024/moe-fas-el-2024.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (English)</a><br>
-<a href="/files/P12024/moe-fas-cl-2024.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Chinese)</a><br>
-<a href="/files/P12024/moe-fas-ml-2024.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Malay)</a><br>
-<a href="/files/P12024/moe-fas-tl-2024.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Tamil)</a><br>
+For more information, kindly refer to Annex I in the 2025 MOE FAS Application form. Please refer to the info sheet in various languages for an overview of the scheme.<br>
+<a href="/files/P12024/fasformel.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (English)</a><br>
+<a href="/files/P12024/fasformcl.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Chinese)</a><br>
+<a href="/files/P12024/fasformml.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Malay)</a><br>
+<a href="/files/P12024/fasformtl.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Tamil)</a><br>
 	
 <b>NOTE:</b> Parent whose child is a ComCare recipient need not submit the application for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries in Government/Government-Aided Schools.
 	
