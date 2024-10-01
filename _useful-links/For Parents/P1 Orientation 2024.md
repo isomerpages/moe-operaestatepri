@@ -44,10 +44,10 @@ variant: markdown
 <p>Parents can sign up for Edusave standing order to use your child’s Edusave account to pay for the single tier miscellaneous fees and enrichment programmes to reduce your out-of-pocket expense. Complete the online Edusave Standing Order Form via this&nbsp;<strong><a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" target="_blank" rel="noopener">link</a>&nbsp;</strong>with either parent's SingPass login.</p>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox"> <label for="accordion5">MOE Financial Assistance Scheme 2024 (for eligible Singapore Citizens only)</label>
+<li><input id="accordion5" type="checkbox"> <label for="accordion5">MOE FAS 2025</label>
 <div>
 
-<p>Singapore Citizens who wish to apply for MOE FAS 2024, can do so via this mode:
+<p>Singapore Citizens who wish to apply for MOE FAS 2025, can do so via this mode: 
 	
 <strong>a)</strong> eFAS link in PG’s services section:
 <img style="width: 80%;" src="/images/efasefas.png">
@@ -55,12 +55,12 @@ variant: markdown
 <strong>b)</strong> eFAS form via this <a href="https://go.gov.sg/moe-efas">link</a><br>
 <strong>c)</strong> Scan the QR code:
 <img style="width: 80%;" src="/images/fasa.jpg">
-	</p><p><a href="/files/MOE-FAS-Application-Form.pdf"></a>
+	</p>
 	
-<strong><u>IMPORTANT:</u></strong> You will be required to submit the supporting documents together with the eFAS form too.<br>
+<strong><u>IMPORTANT:</u></strong> You will be required to submit the supporting documents together with the eFAS form..<br>
 	
-Please refer <a href="https://go.gov.sg/oeps-efas-userguide-2024" target="_blank" rel="noopener">here</a> for the steps to follow when making application through the eFAS form. <br>
-<strong>Hardcopy form</strong>&nbsp;is required for:</p>
+Please refer <a href="/files/P12024/fas.pdf" target="_blank" rel="noopener">here</a> for the steps to follow when making application through the eFAS form. <br>
+<strong>Hardcopy form</strong>&nbsp;is required for:<p></p>
 <ol style="list-style-type: lower-alpha;">
 <li>families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)</li>
 <li>family with more than 6 children in GGAS</li>
