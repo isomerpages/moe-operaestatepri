@@ -47,9 +47,7 @@ variant: markdown
 <li><input id="accordion5" type="checkbox"> <label for="accordion5">MOE FAS 2025</label>
 <div>
 
-<p>Singapore Citizens who wish to apply for MOE FAS 2025, can do so via this mode: 
-	
-<strong>a)</strong> eFAS link in PG’s services section:
+<p>Singapore Citizens who wish to apply for MOE FAS 2025, can do so via this mode:<br><strong>a)</strong> eFAS link in PG’s services section:
 <img style="width: 80%;" src="/images/efasefas.png">
 	
 <strong>b)</strong> eFAS form via this <a href="https://go.gov.sg/moe-efas">link</a><br>
