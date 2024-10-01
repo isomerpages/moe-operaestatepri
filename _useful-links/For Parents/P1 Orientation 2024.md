@@ -78,14 +78,14 @@ For more information, kindly refer to Annex I in the 2025 MOE FAS Application fo
 <a href="/files/P12024/fasformml.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Malay)</a><br>
 <a href="/files/P12024/fasformtl.pdf" target="_blank" rel="noopener">MOE FAS Pamphet (Tamil)</a><br>
 	
-<b>NOTE:</b> Parent whose child is a ComCare recipient need not submit the application for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries in Government/Government-Aided Schools.
+<b>NOTE:</b> Parent whose child is a ComCare recipient need not submit the application for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries in Government / Government-Aided Schools.
 	
 </div>
 </li>
-<li><input id="accordion6" type="checkbox"> <label for="accordion6">Consent for Dental Service 2024</label>
+<li><input id="accordion6" type="checkbox"> <label for="accordion6">Consent for Dental Service 2025</label>
 <div>
 <ul>
-<li><i>Please visit again in early January 2024</i></li>
+<li><i>Please visit again in early January 2025</i></li>
 </ul>
 </div>
 </li>
