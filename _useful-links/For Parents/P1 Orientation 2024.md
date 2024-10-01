@@ -137,15 +137,15 @@ Please refer to the infosheet in various languages for an overview of the scheme
 </li><br>
 <li><input id="accordion13" type="checkbox"> <label for="accordion13">School Bus Service Provider</label>
 <div>
-	<p>The school has appointed <b>Uncle Lin</b> and <b>Mesa</b> as our contracted school bus service provider with effect from 1 January 2024. </p>
+	<p><b>Uncle Lin</b> and <b>Mesa</b> is our appointed school bus service provider since 1 January 2024.</p>
 	
-<p>You may indicate your interest through the link : <a href="https://go.gov.sg/oeps-school-bus-service." target="_blank" rel="noopener">https://go.gov.sg/oeps-school-bus-service</a> or by emailing the “Request for School Bus Services” form to <a href="mailto:OEPSbus@unclelintransport.com">OEPSbus@unclelintransport.com</a>.<br>
+<p>If you are interested to engage school bus service for your child in 2025, you may indicate your interest through the link:  <a href="https://go.gov.sg/oeps-school-bus-request-form" target="_blank" rel="noopener">https://go.gov.sg/oeps-school-bus-request-form</a> or by reaching out to them at :<br><br>Contact Person: Wynnie<br>Contact Number: 9234 6908<br><a href="mailto:OEPSbus@unclelintransport.com">OEPSbus@unclelintransport.com</a>.<br></p>
 	
 
 Please click here to see <a href="/files/P12024/bus-service-2024.pdf">Information on School Bus Services</a> Infosheet. 
 
 
-</p>
+<p></p>
 	
 
 	
