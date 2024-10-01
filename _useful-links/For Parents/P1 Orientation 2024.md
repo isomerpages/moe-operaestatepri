@@ -55,7 +55,7 @@ variant: markdown
 <img style="width: 80%;" src="/images/fasa.jpg">
 	</p>
 	
-<strong><u>IMPORTANT:</u></strong> You will be required to submit the supporting documents together with the eFAS form..<br>
+<strong><u>IMPORTANT:</u></strong> You will be required to submit the supporting documents together with the eFAS form.<br>
 	
 Please refer <a href="/files/P12024/fas.pdf" target="_blank" rel="noopener">here</a> for the steps to follow when making application through the eFAS form. <br>
 <strong>Hardcopy form</strong>&nbsp;is required for:<p></p>
