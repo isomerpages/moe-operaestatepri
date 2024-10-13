@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/P1 Orientation 2024.md
       - For Parents/For Parents.md
       - For Parents/Curriculum Briefing.md
       - For Parents/Letters to Parents.md
