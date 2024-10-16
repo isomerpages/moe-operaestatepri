@@ -9,7 +9,7 @@ variant: markdown
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 40%;"><a href="https://drive.google.com/file/d/1oWOv5IegfsX7kk-tcoAthnqP0AYtU7MT/viewg"><img align="center" src="/images/scouts1.jpg"></a></td>
+<td style="width: 40%;"><a href="https://drive.google.com/file/d/1oWOv5IegfsX7kk-tcoAthnqP0AYtU7MT/view"><img align="center" src="/images/scouts1.jpg"></a></td>
 <td style="width: 60%;">&nbsp;</td>
 </tr>
 </tbody>
