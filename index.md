@@ -59,7 +59,7 @@ sections:
       title: P1 Orientation for 2025 Intake
       description: For more information,
       button: Click here
-      url: /siteupdates
+      url: /2025-p1/
       image: /images/p12024web.jpg
       alt: Image alt text
 ---
