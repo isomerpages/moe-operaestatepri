@@ -160,6 +160,18 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 </li><br>
 	
 	
+<li><input id="accordion14" type="checkbox"> <label for="accordion14">Opera Parents Club</label>
+<div>
+<a href="/images/opc.jpeg"><img src="/images/opc.jpeg"></a>
+<p>Click on the picture to view closer! or click&nbsp;<strong><a href="/images/opc.jpeg">here</a></strong></p>
+<p>You may also visit&nbsp;<strong><a href="https://oepsfamilies.wordpress.com/">https://oepsfamilies.wordpress.com/</a>&nbsp;</strong>to read more.</p>
+<p>Or email us at&nbsp;<strong>oepsparents@gmail.com</strong>&nbsp;if you have any enquiries.</p>
+<p>To sign up, you may submit by clicking this&nbsp;<strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSf14SOQn7tIolBjPDUmfBz3eDwagLZyezDyBmrx7tAKwb6OdA/viewform">form</a></strong></p>
+<p>Thank you!</p>
+</div>
+</li>
+	
+	
 	
 	
 	
@@ -185,16 +197,7 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 <td style="width: 33.3333%;">
 <ul class="jekyllcodex_accordion">
 
-<li><input id="accordion14" type="checkbox"> <label for="accordion14">Opera Parents Club</label>
-<div>
-<a href="/images/opc.jpeg"><img src="/images/opc.jpeg"></a>
-<p>Click on the picture to view closer! or click&nbsp;<strong><a href="/images/opc.jpeg">here</a></strong></p>
-<p>You may also visit&nbsp;<strong><a href="https://oepsfamilies.wordpress.com/">https://oepsfamilies.wordpress.com/</a>&nbsp;</strong>to read more.</p>
-<p>Or email us at&nbsp;<strong>oepsparents@gmail.com</strong>&nbsp;if you have any enquiries.</p>
-<p>To sign up, you may submit by clicking this&nbsp;<strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSf14SOQn7tIolBjPDUmfBz3eDwagLZyezDyBmrx7tAKwb6OdA/viewform">form</a></strong></p>
-<p>Thank you!</p>
-</div>
-</li>
+
 <li><input id="accordion15" type="checkbox"> <label for="accordion15">Useful External Links	</label>
 <div>
 <p><strong>Click on the links below to read!</strong></p>
