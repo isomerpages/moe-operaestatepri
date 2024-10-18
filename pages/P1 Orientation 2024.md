@@ -23,7 +23,7 @@ variant: markdown
 <p>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for books/shoes/socks until you are updated on the outcome of the MOE FAS application.</p>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox"> <label for="accordion2">Purchase of School Uniform</label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">School Uniform</label>
 <div>
 	<p>Please find attached the updated information file for 2025. </p>
 <p><a href="/files/P12024/uniform.pdf"><strong>Information for Sale of Uniforms 2025</strong></a></p>
@@ -37,13 +37,13 @@ variant: markdown
 <p>Should you encounter error in the process, please provide screen captures as well as the time and date of application to MOE using the below Feedback Form&nbsp;</p><a href="https://www.moe.gov.sg/feedback">https://www.moe.gov.sg/feedback</a><p></p>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox"> <label for="accordion4">Edusave Scheme (for Singapore Citizens students only)</label>
+<li><input id="accordion4" type="checkbox"> <label for="accordion4">Edusave Scheme (for Singapore Citizens Students only)</label>
 <div>
 <p>All Singapore Citizens students will have an Edusave account automatically opened for them and receive a yearly contribution. For more information on Edusave Account, please refer to this&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds" target="_blank" rel="noopener">link</a></strong>.</p>
 <p>Parents can sign up for Edusave standing order to use your child’s Edusave account to pay for the single tier miscellaneous fees and enrichment programmes to reduce your out-of-pocket expense. Complete the online Edusave Standing Order Form via this&nbsp;<strong><a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" target="_blank" rel="noopener">link</a>&nbsp;</strong>with either parent's SingPass login.</p>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox"> <label for="accordion5">MOE FAS 2025</label>
+<li><input id="accordion5" type="checkbox"> <label for="accordion5">MOE FAS (Financial Assistance Scheme) 2025</label>
 <div>
 
 <p>Singapore Citizens who wish to apply for MOE FAS 2025, can do so via this mode:<br><strong>a)</strong> eFAS link in PG’s services section:
@@ -96,6 +96,22 @@ For more information, kindly refer to Annex I in the 2025 MOE FAS Application fo
 </ul>
 </div>
 </li>
+	
+<li><input id="accordion11" type="checkbox"> <label for="accordion11">Health Screening for Primary School</label>
+<div>
+<p><strong><a href="https://www.moe.gov.sg/-/media/files/parent-kit/preschool-to-primary-school-transition.pdf">Transition from Preschool to Primary School</a></strong></p>
+<p><strong><a href="https://www.schoolbag.edu.sg/story/what-matters-when-our-children-start-primary-school?utm_medium=social&amp;utm_source=facebook+sb+article&amp;utm_campaign=p1registration&amp;fbclid=IwAR1B01Igo6t3CVeC0BHXurNhG5HbvfsYsmFGSySnaDyiAI2hEeTbiztaKb0">What matters when our children start primary school</a></strong></p>
+</div></li></ul>
+
+
+	
+	
+	
+	
+	
+	
+	
+	
 <li><input id="accordion12" type="checkbox"> <label for="accordion12">School-based Student Care Centre (SCC)</label>
 <div>
 	
@@ -128,7 +144,7 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 	
 	
 	
-</ul>	
+	
 </td>
 <td style="width: 33.3333%;"><ul class="jekyllcodex_accordion">
 <li><input id="accordion7" type="checkbox"> <label for="accordion7">Parent Kit - Starting Your Primary 1 Journey	</label>
@@ -171,16 +187,15 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 <p><strong>Click on the links below to read!</strong></p>
 <p><strong><a href="https://www.schoolbag.edu.sg/story/how-to-help-your-child-ace-the-first-week-of-school">How to help your child ace the first week of school</a></strong></p>
 <p><strong><a href="https://www.instagram.com/p/CUzpvhYBl7J/?utm_medium=share_sheet">Parenting with you (Instagram)</a></strong></p>
-<p><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school"><strong>Health Screening for Primary School</strong></a></p>
-<p><strong><a href="https://www.moe.gov.sg/-/media/files/parent-kit/preschool-to-primary-school-transition.pdf">Transition from Preschool to Primary School</a></strong></p>
-<p><strong><a href="https://www.schoolbag.edu.sg/story/what-matters-when-our-children-start-primary-school?utm_medium=social&amp;utm_source=facebook+sb+article&amp;utm_campaign=p1registration&amp;fbclid=IwAR1B01Igo6t3CVeC0BHXurNhG5HbvfsYsmFGSySnaDyiAI2hEeTbiztaKb0">What matters when our children start primary school</a></strong></p>
-</div>
-</li>
-<li><input id="accordion16" type="checkbox"> <label for="accordion16">Establishing routines to help your child learn</label>
-<div>
+<p><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
+
+</a></p></div><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
+</a></li><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
+</a><li><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school"><input id="accordion16" type="checkbox"> <label for="accordion16">Establishing routines to help your child learn</label>
+</a><div><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
 <p><strong>Click on the link below to read:</strong></p>
-<ul>
-<li><strong><a href="/files/Establishing-routines-to-help-your-child-learn.pdf" target="_blank" rel="noopener">Establishing routines to help your child learn</a></strong></li>
+</a><ul><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
+</a><li><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school"><strong></strong></a><strong><a href="/files/Establishing-routines-to-help-your-child-learn.pdf" target="_blank" rel="noopener">Establishing routines to help your child learn</a></strong></li>
 </ul>
 </div>
 </li>
