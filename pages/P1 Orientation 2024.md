@@ -8,9 +8,9 @@ variant: markdown
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><img src="/images/ori2.png"></td>
-<td style="width: 33.3333%;"><img src="/images/p12025info.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/ori4.png"></td>
+<td style="width: 33.3333%;"><img src="/images/p12025_h1.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/p12025_h2.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/p12025_h3.jpg"></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">
