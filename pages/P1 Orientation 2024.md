@@ -107,7 +107,7 @@ For more information, kindly refer to Annex I in the 2025 MOE FAS Application fo
 <li><input id="accordion10" type="checkbox"> <label for="accordion10">P1 Orientation Briefing Slides</label>
 <div>
 <ul>
-<li><p><a href="https://go.gov.sg/p1orientationslides2024" target="_blank" rel="noopener"><strong>P1 Orientation Briefing Slides (Click here)</strong></a></p></li>
+<li><p>Please visit again in late November 2024.</p></li>
 </ul>
 </div>
 </li></ul></td>
