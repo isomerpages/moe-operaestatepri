@@ -218,6 +218,13 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 </div>
 </li>
 	
+<li><input id="accordion16" type="checkbox"> <label for="accordion16">Preparing for P1 through fun parent-child activities</label>
+<p><strong>Click on the link below to read:</strong></p>
+<strong><a href="/files/Parent-Child-Activity-Ready-Set-Go.pdf" target="_blank" rel="noopener">Parent-Child Activity: Ready, Set, Go!</a></strong></li>
+</ul>
+
+
+	
 
 	
 	
@@ -229,7 +236,7 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 <p><strong><a href="https://www.schoolbag.edu.sg/story/how-to-help-your-child-ace-the-first-week-of-school">How to help your child ace the first week of school</a></strong></p>
 <p><strong><a href="https://www.instagram.com/p/CUzpvhYBl7J/?utm_medium=share_sheet">Parenting with you (Instagram)</a></strong></p>
 <p><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
-	</a></p></div></li></ul><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
+	</a></p></div></li><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
 
 
 	
