@@ -9,13 +9,13 @@ variant: markdown
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/ori2.png"></td>
-<td style="width: 33.3333%;"><img src="/images/p12024ori33.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/p12025info.jpg"></td>
 <td style="width: 33.3333%;"><img src="/images/ori4.png"></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1">P1 Booklist 2024</label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1">P1 Booklist 2025</label>
 <div>
 <ul>
 <a href="/files/P12024/oeps-booklist-p1-2024.pdf">P1 Booklist 2024</a>
@@ -107,7 +107,7 @@ For more information, kindly refer to Annex I in the 2025 MOE FAS Application fo
 <li><input id="accordion10" type="checkbox"> <label for="accordion10">P1 Orientation Briefing Slides</label>
 <div>
 <ul>
-<li><p><a href="https://go.gov.sg/p1orientationslides2024" target="_blank" rel="noopener"><strong>P1 Orientation Briefing Slides (Click here)</strong></a></p></li>
+<li><p>Please visit again in late November 2024.</p></li>
 </ul>
 </div>
 </li></ul></td>
