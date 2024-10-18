@@ -15,7 +15,7 @@ variant: markdown
 <tr>
 <td style="width: 33.3333%;">
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1">P1 Booklist 2024</label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1">P1 Booklist 2025</label>
 <div>
 <ul>
 <a href="/files/P12024/oeps-booklist-p1-2024.pdf">P1 Booklist 2024</a>
