@@ -9,7 +9,7 @@ variant: markdown
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/ori2.png"></td>
-<td style="width: 33.3333%;"><img src="/images/p12024ori33.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/p12025info.jpg"></td>
 <td style="width: 33.3333%;"><img src="/images/ori4.png"></td>
 </tr>
 <tr>
