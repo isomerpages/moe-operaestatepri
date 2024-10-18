@@ -220,57 +220,18 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 	
 <li><input id="accordion16" type="checkbox"> <label for="accordion16">Preparing for P1 through fun parent-child activities</label>
 <p><strong>Click on the link below to read:</strong></p>
-<strong><a href="/files/Parent-Child-Activity-Ready-Set-Go.pdf" target="_blank" rel="noopener">Parent-Child Activity: Ready, Set, Go!</a></strong></li>
+<strong><a href="https://www.moe.gov.sg/parentkit?pt=Parent-Child%20Relationship" target="_blank" rel="noopener">Parent-Child Activity: Ready, Set, Go!</a></strong></li>
 </ul>
-
-
 	
-
-	
-	
-
-	
-<li><input id="accordion15" type="checkbox"> <label for="accordion15">Useful External Links	</label>
-<div>
-<p><strong>Click on the links below to read!</strong></p>
-<p><strong><a href="https://www.schoolbag.edu.sg/story/how-to-help-your-child-ace-the-first-week-of-school">How to help your child ace the first week of school</a></strong></p>
-<p><strong><a href="https://www.instagram.com/p/CUzpvhYBl7J/?utm_medium=share_sheet">Parenting with you (Instagram)</a></strong></p>
-<p><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
-	</a></p></div></li><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
-
-
-	
-
-
-
-</a><li><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school"><input id="accordion17" type="checkbox"> <label for="accordion17">Parent-Child-Activity: Ready, Set, Go!	</label>
-</a><div><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
+<li><input id="accordion16" type="checkbox"> <label for="accordion16">How to help your child ace the first week of school</label>
 <p><strong>Click on the link below to read:</strong></p>
-</a><ul><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
-</a><li><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school"><strong></strong></a><strong><a href="/files/Parent-Child-Activity-Ready-Set-Go.pdf" target="_blank" rel="noopener">Parent-Child Activity: Ready, Set, Go!</a></strong></li>
-</ul>
-</div>
-</li>
+<strong><a href="https://www.schoolbag.edu.sg/story/how-to-help-your-child-ace-the-first-week-of-school" target="_blank" rel="noopener">How to help your child ace the first week of school</a></strong></li>
 
-<li><input id="accordion19" type="checkbox"> <label for="accordion19">Transition to P1 - Cyber Wellness</label>
-<div>
-<p><strong>Click on the link below to read:</strong></p>
-<ul>
-<li><a href="/files/Transition-to-P1-Cyber-Wellness.pdf" target="_blank" rel="noopener"><strong>Transition to P1 - Cyber Wellness1</strong></a></li>
-</ul>
-</div>
-</li>
-	<li><input id="accordion19" type="checkbox"> <label for="accordion19">Preparing for P1 through fun parent-child activities</label>
-<div>
-<p><strong>Click on the link below to read:</strong></p>
-<ul>
-<li><a href="https://www.moe.gov.sg/parentkit?pt=Parent-Child%20Relationship" target="_blank" rel="noopener"><strong>Preparing for P1 through fun parent-child activities</strong></a></li>
-</ul>
-</div>
-</li>
+
+
+
 
 </td>
 </tr>
 </tbody>
 </table>
-<img src="/images/ori5.png">
