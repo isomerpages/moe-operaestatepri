@@ -106,7 +106,7 @@ For more information, kindly refer to Annex I in the 2025 MOE FAS Application fo
 <p style="text-align: center;"><strong>Expression of Interest:<br></strong><a href="https://www.knowledgepark.com.sg/operaestatescc" target="_blank" rel="noopener">https://www.knowledgepark.com.sg/operaestatescc</a></p>
 </div>
 </li><br>
-<li><input id="accordion13" type="checkbox"> <label for="accordion13">School Bus Service Provider</label>
+<li><input id="accordion13" type="checkbox"> <label for="accordion13">School Transport Service</label>
 <div>
 	<p><b>Uncle Lin</b> and <b>Mesa</b> is our appointed school bus service provider since 1 January 2024.</p>
 	
