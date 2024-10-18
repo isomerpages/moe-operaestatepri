@@ -101,7 +101,13 @@ For more information, kindly refer to Annex I in the 2025 MOE FAS Application fo
 <div>
 <p><strong><a href="https://www.moe.gov.sg/-/media/files/parent-kit/preschool-to-primary-school-transition.pdf">Transition from Preschool to Primary School</a></strong></p>
 <p><strong><a href="https://www.schoolbag.edu.sg/story/what-matters-when-our-children-start-primary-school?utm_medium=social&amp;utm_source=facebook+sb+article&amp;utm_campaign=p1registration&amp;fbclid=IwAR1B01Igo6t3CVeC0BHXurNhG5HbvfsYsmFGSySnaDyiAI2hEeTbiztaKb0">What matters when our children start primary school</a></strong></p>
-</div></li></ul>
+	</div></li></ul>
+	
+<li><input id="accordion8" type="checkbox"> <label for="accordion8">2025 P1 Orientation e-Handbook</label>
+<div>
+<p><a href="/files/P12024/info-booklet-p1-2025.pdf" target="_blank" rel="noopener"><strong>Click here to view!</strong></a></p>
+</div>
+</li>
 
 
 	
@@ -152,11 +158,7 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 <p><a href="/files/Parent-Kit-Starting-Your-Primary-1-Journey.pdf" target="_blank" rel="noopener">Parent Kit - Starting Your Primary 1 Journey</a></p>
 </div>
 </li>
-<li><input id="accordion8" type="checkbox"> <label for="accordion8">Information Booklet for P1 Parents</label>
-<div>
-<p><a href="/files/P12024/info-booklet-p1-2025.pdf" target="_blank" rel="noopener"><strong>Click here to view!</strong></a></p>
-</div>
-</li>
+
 <li><input id="accordion9" type="checkbox"> <label for="accordion9">A Day in OEPS</label>
 <div>
 <p><a href="https://drive.google.com/file/d/1-EmcqMU6YZzANcvuiaOilqaEFS8lYpwG/view?usp=share_link" target="_blank" rel="noopener"><strong>Click here to view!</strong></a></p>
