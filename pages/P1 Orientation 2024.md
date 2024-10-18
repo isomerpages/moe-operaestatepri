@@ -96,7 +96,7 @@ For more information, kindly refer to Annex I in the 2025 MOE FAS Application fo
 </li>
 <li><input id="accordion8" type="checkbox"> <label for="accordion8">Information Booklet for P1 Parents</label>
 <div>
-<p><a href="/files/P12024/info-booklet-p1-2024.pdf" target="_blank" rel="noopener"><strong>Click here to view!</strong></a></p>
+<p><a href="/files/P12024/info-booklet-p1-2025.pdf" target="_blank" rel="noopener"><strong>Click here to view!</strong></a></p>
 </div>
 </li>
 <li><input id="accordion9" type="checkbox"> <label for="accordion9">A Day in OEPS</label>
