@@ -86,33 +86,7 @@ For more information, kindly refer to Annex I in the 2025 MOE FAS Application fo
 </ul>
 </div>
 </li>
-</ul>	
-</td>
-<td style="width: 33.3333%;"><ul class="jekyllcodex_accordion">
-<li><input id="accordion7" type="checkbox"> <label for="accordion7">Parent Kit - Starting Your Primary 1 Journey	</label>
-<div>
-<p><a href="/files/Parent-Kit-Starting-Your-Primary-1-Journey.pdf" target="_blank" rel="noopener">Parent Kit - Starting Your Primary 1 Journey</a></p>
-</div>
-</li>
-<li><input id="accordion8" type="checkbox"> <label for="accordion8">Information Booklet for P1 Parents</label>
-<div>
-<p><a href="/files/P12024/info-booklet-p1-2025.pdf" target="_blank" rel="noopener"><strong>Click here to view!</strong></a></p>
-</div>
-</li>
-<li><input id="accordion9" type="checkbox"> <label for="accordion9">A Day in OEPS</label>
-<div>
-<p><a href="https://drive.google.com/file/d/1-EmcqMU6YZzANcvuiaOilqaEFS8lYpwG/view?usp=share_link" target="_blank" rel="noopener"><strong>Click here to view!</strong></a></p>
-</div>
-</li>
-<li><input id="accordion10" type="checkbox"> <label for="accordion10">P1 Orientation Briefing Slides</label>
-<div>
-<ul>
-<li><p>Please visit again in late November 2024.</p></li>
-</ul>
-</div>
-</li></ul></td>
-<td style="width: 33.3333%;">
-<ul class="jekyllcodex_accordion">
+	
 <li><input id="accordion11" type="checkbox"> <label for="accordion11">Parents Gateway</label>
 <div>
 <p>We strongly encourage all parents / guardians to come on board PG for quicker access to school information. Please refer to Annex A for the step-by-step onboarding guide and FAQs for Parents to address your queries.</p>
@@ -148,6 +122,40 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 	
 </div>
 </li>
+	
+	
+	
+	
+	
+	
+</ul>	
+</td>
+<td style="width: 33.3333%;"><ul class="jekyllcodex_accordion">
+<li><input id="accordion7" type="checkbox"> <label for="accordion7">Parent Kit - Starting Your Primary 1 Journey	</label>
+<div>
+<p><a href="/files/Parent-Kit-Starting-Your-Primary-1-Journey.pdf" target="_blank" rel="noopener">Parent Kit - Starting Your Primary 1 Journey</a></p>
+</div>
+</li>
+<li><input id="accordion8" type="checkbox"> <label for="accordion8">Information Booklet for P1 Parents</label>
+<div>
+<p><a href="/files/P12024/info-booklet-p1-2025.pdf" target="_blank" rel="noopener"><strong>Click here to view!</strong></a></p>
+</div>
+</li>
+<li><input id="accordion9" type="checkbox"> <label for="accordion9">A Day in OEPS</label>
+<div>
+<p><a href="https://drive.google.com/file/d/1-EmcqMU6YZzANcvuiaOilqaEFS8lYpwG/view?usp=share_link" target="_blank" rel="noopener"><strong>Click here to view!</strong></a></p>
+</div>
+</li>
+<li><input id="accordion10" type="checkbox"> <label for="accordion10">P1 Orientation Briefing Slides</label>
+<div>
+<ul>
+<li><p>Please visit again in late November 2024.</p></li>
+</ul>
+</div>
+</li></ul></td>
+<td style="width: 33.3333%;">
+<ul class="jekyllcodex_accordion">
+
 <li><input id="accordion14" type="checkbox"> <label for="accordion14">Opera Parents Club</label>
 <div>
 <a href="/images/opc.jpeg"><img src="/images/opc.jpeg"></a>
