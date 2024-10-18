@@ -118,16 +118,17 @@ For more information, kindly refer to Annex I in the 2025 MOE FAS Application fo
 	
 	
 	
-<li><input id="accordion12" type="checkbox"> <label for="accordion12">School-based Student Care Centre (SCC)</label>
-<div>
-	
-<p> Registration is now open until 3 November 2023, Friday.</p>
-	<p>SCC BROCHURE: <a href="/files/P12024/scc-brochure2024.pdf">Click here</a></p>
-	<p>Please refer to <a href="/files/P12024/scc-cover-2024.pdf">SCC Cover Letter</a> for more information. </p>
 
-<p style="text-align: center;"><strong>Expression of Interest:<br></strong><a href="https://www.knowledgepark.com.sg/operaestatescc" target="_blank" rel="noopener">https://www.knowledgepark.com.sg/operaestatescc</a></p>
-</div>
-</li><br>
+	
+	
+	
+	
+	
+	
+	
+</td>
+<td style="width: 33.3333%;"><ul class="jekyllcodex_accordion">
+	
 <li><input id="accordion13" type="checkbox"> <label for="accordion13">School Transport Service</label>
 <div>
 	<p><b>Uncle Lin</b> and <b>Mesa</b> is our appointed school bus service provider since 1 January 2024.</p>
@@ -147,12 +148,22 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 	
 	
 	
+<li><input id="accordion12" type="checkbox"> <label for="accordion12">School-based Student Care Centre (SCC)</label>
+<div>
+	
+<p> Registration is now open until 3 November 2023, Friday.</p>
+	<p>SCC BROCHURE: <a href="/files/P12024/scc-brochure2024.pdf">Click here</a></p>
+	<p>Please refer to <a href="/files/P12024/scc-cover-2024.pdf">SCC Cover Letter</a> for more information. </p>
+
+<p style="text-align: center;"><strong>Expression of Interest:<br></strong><a href="https://www.knowledgepark.com.sg/operaestatescc" target="_blank" rel="noopener">https://www.knowledgepark.com.sg/operaestatescc</a></p>
+</div>
+</li><br>
 	
 	
 	
 	
-</td>
-<td style="width: 33.3333%;"><ul class="jekyllcodex_accordion">
+	
+	
 <li><input id="accordion7" type="checkbox"> <label for="accordion7">Parent Kit - Starting Your Primary 1 Journey	</label>
 <div>
 <p><a href="/files/Parent-Kit-Starting-Your-Primary-1-Journey.pdf" target="_blank" rel="noopener">Parent Kit - Starting Your Primary 1 Journey</a></p>
