@@ -198,39 +198,53 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 <ul class="jekyllcodex_accordion">
 
 
-<li><input id="accordion15" type="checkbox"> <label for="accordion15">Useful External Links	</label>
-<div>
-<p><strong>Click on the links below to read!</strong></p>
-<p><strong><a href="https://www.schoolbag.edu.sg/story/how-to-help-your-child-ace-the-first-week-of-school">How to help your child ace the first week of school</a></strong></p>
-<p><strong><a href="https://www.instagram.com/p/CUzpvhYBl7J/?utm_medium=share_sheet">Parenting with you (Instagram)</a></strong></p>
-<p><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
-
-</a></p></div><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
-</a></li><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
-</a><li><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school"><input id="accordion16" type="checkbox"> <label for="accordion16">Establishing routines to help your child learn</label>
-</a><div><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
-<p><strong>Click on the link below to read:</strong></p>
-</a><ul><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
-</a><li><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school"><strong></strong></a><strong><a href="/files/Establishing-routines-to-help-your-child-learn.pdf" target="_blank" rel="noopener">Establishing routines to help your child learn</a></strong></li>
-</ul>
-</div>
-</li>
-<li><input id="accordion17" type="checkbox"> <label for="accordion17">Parent-Child-Activity: Ready, Set, Go!	</label>
-<div>
-<p><strong>Click on the link below to read:</strong></p>
-<ul>
-<li><strong><a href="/files/Parent-Child-Activity-Ready-Set-Go.pdf" target="_blank" rel="noopener">Parent-Child Activity: Ready, Set, Go!</a></strong></li>
-</ul>
-</div>
-</li>
-<li><input id="accordion18" type="checkbox"> <label for="accordion18">Helping Your Child Transit to P1</label>
+	
+<li><input id="accordion18" type="checkbox"> <label for="accordion18">Transition from preschool to primary school.</label>
 <div>
 <p><strong>Click on the link below to read:</strong></p>
 <ul>
 <li><a href="/files/Helping-Your-Child-Transit-to-P1.pdf" target="_blank" rel="noopener"><strong>Helping Your Child Transit to P1</strong></a></li>
 </ul>
 </div>
+</li>	
+	
+	
+<li><input id="accordion16" type="checkbox"> <label for="accordion16">Establishing routines to help your child learn</label>
+<div><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
+<p><strong>Click on the link below to read:</strong></p>
+</a><ul><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
+</a><li><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school"><strong></strong></a><strong><a href="/files/Establishing-routines-to-help-your-child-learn.pdf" target="_blank" rel="noopener">Establishing routines to help your child learn</a></strong></li>
+</ul>
+</div>
 </li>
+	
+
+	
+	
+
+	
+<li><input id="accordion15" type="checkbox"> <label for="accordion15">Useful External Links	</label>
+<div>
+<p><strong>Click on the links below to read!</strong></p>
+<p><strong><a href="https://www.schoolbag.edu.sg/story/how-to-help-your-child-ace-the-first-week-of-school">How to help your child ace the first week of school</a></strong></p>
+<p><strong><a href="https://www.instagram.com/p/CUzpvhYBl7J/?utm_medium=share_sheet">Parenting with you (Instagram)</a></strong></p>
+<p><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
+	</a></p></div></li></ul><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
+
+
+	
+
+
+
+</a><li><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school"><input id="accordion17" type="checkbox"> <label for="accordion17">Parent-Child-Activity: Ready, Set, Go!	</label>
+</a><div><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
+<p><strong>Click on the link below to read:</strong></p>
+</a><ul><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
+</a><li><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school"><strong></strong></a><strong><a href="/files/Parent-Child-Activity-Ready-Set-Go.pdf" target="_blank" rel="noopener">Parent-Child Activity: Ready, Set, Go!</a></strong></li>
+</ul>
+</div>
+</li>
+
 <li><input id="accordion19" type="checkbox"> <label for="accordion19">Transition to P1 - Cyber Wellness</label>
 <div>
 <p><strong>Click on the link below to read:</strong></p>
@@ -247,7 +261,7 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 </ul>
 </div>
 </li>
-</ul>
+
 </td>
 </tr>
 </tbody>
