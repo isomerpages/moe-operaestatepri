@@ -147,6 +147,101 @@ For more information, kindly refer to Annex I in the 2025 MOE FAS Application fo
 </ul>
 </div>
 </li>
+</ul></td>
+
+	
+	
+	
+	
+<td style="width: 33.3333%;"><ul class="jekyllcodex_accordion">
+	
+<li><input id="accordion13" type="checkbox"> <label for="accordion13">School Transport Service</label>
+<div>
+	<p><b>Uncle Lin</b> and <b>Mesa</b> is our appointed school bus service provider since 1 January 2024.</p>
+	
+<p>If you are interested to engage school bus service for your child in 2025, you may indicate your interest through the link:  <a href="https://go.gov.sg/oeps-school-bus-request-form" target="_blank" rel="noopener">https://go.gov.sg/oeps-school-bus-request-form</a> or by reaching out to them at :<br><br>Contact Person: Wynnie<br>Contact Number: 9234 6908<br><a href="mailto:OEPSbus@unclelintransport.com">OEPSbus@unclelintransport.com</a>.<br></p>
+	
+
+Please click here to see <a href="/files/P12024/bus_service.pdf">Information for School Bus Services</a> Infosheet. 
+
+
+<p></p>
+	
+
+	
+</div>
+</li>
+	
+	
+	
+	
+<li><input id="accordion12" type="checkbox"> <label for="accordion12">School-based Student Care Centre (SCC)</label>
+<div>
+	
+<p> Registration is now open until 3 November 2023, Friday.</p>
+	<p>SCC BROCHURE: <a href="/files/P12024/scc-brochure2024.pdf">Click here</a></p>
+	<p>Please refer to <a href="/files/P12024/scc-cover-2024.pdf">SCC Cover Letter</a> for more information. </p>
+
+<p style="text-align: center;"><strong>Expression of Interest:<br></strong><a href="https://www.knowledgepark.com.sg/operaestatescc" target="_blank" rel="noopener">https://www.knowledgepark.com.sg/operaestatescc</a></p>
+</div>
+</li><br>
+	
+	
+	
+	
+<li><input id="accordion14" type="checkbox"> <label for="accordion14">Opera Parents Club</label>
+<div>
+<a href="/images/opc.jpeg"><img src="/images/opc.jpeg"></a>
+<p>Click on the picture to view closer! or click&nbsp;<strong><a href="/images/opc.jpeg">here</a></strong></p>
+<p>You may also visit&nbsp;<strong><a href="https://oepsfamilies.wordpress.com/">https://oepsfamilies.wordpress.com/</a>&nbsp;</strong>to read more.</p>
+<p>Or email us at&nbsp;<strong>oepsparents@gmail.com</strong>&nbsp;if you have any enquiries.</p>
+<p>To sign up, you may submit by clicking this&nbsp;<strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSf14SOQn7tIolBjPDUmfBz3eDwagLZyezDyBmrx7tAKwb6OdA/viewform">form</a></strong></p>
+<p>Thank you!</p>
+</div>
+</li></ul></td>
+	
+	
+	
+	
+<td style="width: 33.3333%;">
+<ul class="jekyllcodex_accordion">
+	
+<li><input id="accordion18" type="checkbox"> <label for="accordion18">Transition from preschool to primary school.</label>
+<div>
+<p><strong>Click on the link below to read:</strong></p>
+<ul>
+<li><a href="/files/Helping-Your-Child-Transit-to-P1.pdf" target="_blank" rel="noopener"><strong>Helping Your Child Transit to P1</strong></a></li>
+</ul>
+</div>
+</li>	
+	
+	
+	
+	
+<li><input id="accordion16" type="checkbox"> <label for="accordion16">Establishing routines to help your child learn</label>
+<div><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
+<p><strong>Click on the link below to read:</strong></p>
+</a><ul><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
+</a><li><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school"><strong></strong></a><strong><a href="/files/Establishing-routines-to-help-your-child-learn.pdf" target="_blank" rel="noopener">Establishing routines to help your child learn</a></strong></li>
+</ul>
+</div>
+</li>
+	
+	
+	
+	
+<li><input id="accordion16" type="checkbox"> <label for="accordion16">Preparing for P1 through fun parent-child activities</label>
+<p><strong>Click on the link below to read:</strong></p>
+<strong><a href="https://www.moe.gov.sg/parentkit?pt=Parent-Child%20Relationship" target="_blank" rel="noopener">Parent-Child Activity: Ready, Set, Go!</a></strong></li>
+	</ul>
+	
+	
+	
+	
+<li><input id="accordion16" type="checkbox"> <label for="accordion16">How to help your child ace the first week of school</label>
+<p><strong>Click on the link below to read:</strong></p>
+<strong><a href="https://www.schoolbag.edu.sg/story/how-to-help-your-child-ace-the-first-week-of-school" target="_blank" rel="noopener">How to help your child ace the first week of school</a></strong></li>
+
 	
 	
 	
@@ -155,4 +250,14 @@ For more information, kindly refer to Annex I in the 2025 MOE FAS Application fo
 	
 	
 	
-</ul></td></tr></tbody></table>
+	
+
+	
+	
+	
+	
+
+	
+	
+	
+</td></tr></tbody></table>
