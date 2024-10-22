@@ -232,8 +232,10 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 	
 <li><input id="accordion16" type="checkbox"> <label for="accordion16">Preparing for P1 through fun parent-child activities</label>
 <p><strong>Click on the link below to read:</strong></p>
-<strong><a href="https://www.moe.gov.sg/parentkit?pt=Parent-Child%20Relationship" target="_blank" rel="noopener">Parent-Child Activity: Ready, Set, Go!</a></strong></li>
-	</ul>
+<strong><a href="https://www.moe.gov.sg/parentkit?pt=Parent-Child%20Relationship" target="_blank" rel="noopener">Parent-Child Activity: Ready, Set, Go!</a></strong>
+</li></ul>
+
+
 	
 	
 	
