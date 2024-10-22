@@ -231,9 +231,10 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 	
 	
 <li><input id="accordion16" type="checkbox"> <label for="accordion16">Preparing for P1 through fun parent-child activities</label>
+<div>
 <p><strong>Click on the link below to read:</strong></p>
 <strong><a href="https://www.moe.gov.sg/parentkit?pt=Parent-Child%20Relationship" target="_blank" rel="noopener">Parent-Child Activity: Ready, Set, Go!</a></strong>
-</li></ul>
+	</div></li></ul>
 
 
 	
@@ -241,8 +242,9 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 	
 	
 <li><input id="accordion16" type="checkbox"> <label for="accordion16">How to help your child ace the first week of school</label>
+<div>
 <p><strong>Click on the link below to read:</strong></p>
-<strong><a href="https://www.schoolbag.edu.sg/story/how-to-help-your-child-ace-the-first-week-of-school" target="_blank" rel="noopener">How to help your child ace the first week of school</a></strong></li>
+<strong><a href="https://www.schoolbag.edu.sg/story/how-to-help-your-child-ace-the-first-week-of-school" target="_blank" rel="noopener">How to help your child ace the first week of school</a></strong></div></li>
 
 	
 	
