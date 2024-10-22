@@ -9,7 +9,7 @@ description: ""
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/p12025_h1.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/p12025update.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/p12025_h2.jpg"></td>
 <td style="width: 33.3333%;"><img src="/images/p12025_h3.jpg"></td>
 </tr>
 	
@@ -196,8 +196,8 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 	
 <li><input id="accordion14" type="checkbox"> <label for="accordion14">Opera Parents Club</label>
 <div>
-<a href="/images/opc.jpeg"><img src="/images/opc.jpeg"></a>
-<p>Click on the picture to view closer! or click&nbsp;<strong><a href="/images/opc.jpeg">here</a></strong></p>
+
+<p>Click&nbsp;<strong><a href="/images/opc_poster.jpeg">HERE</a></strong>&nbsp; to see the poster.</p>
 <p>You may also visit&nbsp;<strong><a href="https://oepsfamilies.wordpress.com/">https://oepsfamilies.wordpress.com/</a>&nbsp;</strong>to read more.</p>
 <p>Or email us at&nbsp;<strong>oepsparents@gmail.com</strong>&nbsp;if you have any enquiries.</p>
 <p>To sign up, you may submit by clicking this&nbsp;<strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSf14SOQn7tIolBjPDUmfBz3eDwagLZyezDyBmrx7tAKwb6OdA/viewform">form</a></strong></p>
@@ -208,8 +208,7 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 	
 	
 	
-<td style="width: 33.3333%;">
-<ul class="jekyllcodex_accordion">
+<td style="width: 33.3333%;"><ul class="jekyllcodex_accordion">
 	
 <li><input id="accordion18" type="checkbox"> <label for="accordion18">Transition from preschool to primary school.</label>
 <div>
@@ -239,22 +238,10 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 <div>
 <p><strong>Click on the link below to read:</strong></p>
 <strong><a href="https://www.moe.gov.sg/parentkit?pt=Parent-Child%20Relationship" target="_blank" rel="noopener">Parent-Child Activity: Ready, Set, Go!</a></strong>
-	</div></li></ul>
+	</div></li>
 
 
-	
-	
-<li><input id="accordion21" type="checkbox"> <label for="accordion21">How to help your child ace the first week of school</label>
-<div>
-<p><strong>Click on the link below to read:</strong></p>
-<ul>
-<li><a href="https://www.schoolbag.edu.sg/story/how-to-help-your-child-ace-the-first-week-of-school" target="_blank" rel="noopener"><strong>How to help your child ace the first week of school</strong></a></li>
-</ul>
-</div>
-</li>
 
-	
-	
 	
 
 <li><input id="accordion21" type="checkbox"> <label for="accordion21">How to help your child ace the first week of school</label>
@@ -265,7 +252,7 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 </ul>
 </div>
 </li>
-
+</ul>	
 </td>
 </tr>
 </tbody>
