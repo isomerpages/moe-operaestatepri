@@ -182,9 +182,9 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 <li><input id="accordion12" type="checkbox"> <label for="accordion12">School-based Student Care Centre (SCC)</label>
 <div>
 	
-<p> Registration is now open until 3 November 2023, Friday.</p>
-	<p>SCC BROCHURE: <a href="/files/scc-brochure-2025">Click here</a></p>
-	<p>Please refer to <a href="/files/scc-information-2025">SCC Cover Letter</a> for more information. </p>
+
+<p>SCC BROCHURE: <a href="/files/scc-brochure-2025.pdf">Click here</a></p>
+<p>Please refer to <a href="/files/scc-information-2025.pdf">SCC Cover Letter</a> for more information. </p>
 
 <p style="text-align: center;"><strong>Expression of Interest:<br></strong><a href="https://www.knowledgepark.com.sg/operaestatescc" target="_blank" rel="noopener">https://www.knowledgepark.com.sg/operaestatescc</a></p>
 </div>
@@ -222,10 +222,10 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 	
 	
 	
-<li><input id="accordion16" type="checkbox"> <label for="accordion16">Establishing routines to help your child learn</label>
-<div><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
+<li><input id="accordion19" type="checkbox"> <label for="accordion19">Establishing routines to help your child learn</label>
+<div>
 <p><strong>Click on the link below to read:</strong></p>
-</a><ul><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
+<ul><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school">
 </a><li><a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school"><strong></strong></a><strong><a href="/files/Establishing-routines-to-help-your-child-learn.pdf" target="_blank" rel="noopener">Establishing routines to help your child learn</a></strong></li>
 </ul>
 </div>
@@ -234,7 +234,7 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 	
 	
 	
-<li><input id="accordion16" type="checkbox"> <label for="accordion16">Preparing for P1 through fun parent-child activities</label>
+<li><input id="accordion20" type="checkbox"> <label for="accordion20">Preparing for P1 through fun parent-child activities</label>
 <div>
 <p><strong>Click on the link below to read:</strong></p>
 <strong><a href="https://www.moe.gov.sg/parentkit?pt=Parent-Child%20Relationship" target="_blank" rel="noopener">Parent-Child Activity: Ready, Set, Go!</a></strong>
@@ -245,7 +245,7 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 	
 	
 	
-<li><input id="accordion16" type="checkbox"> <label for="accordion16">How to help your child ace the first week of school</label>
+<li><input id="accordion21" type="checkbox"> <label for="accordion21">How to help your child ace the first week of school</label>
 <div>
 <p><strong>Click on the link below to read:</strong></p>
 <strong><a href="https://www.schoolbag.edu.sg/story/how-to-help-your-child-ace-the-first-week-of-school" target="_blank" rel="noopener">How to help your child ace the first week of school</a></strong></div></li>
