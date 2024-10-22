@@ -265,7 +265,7 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 	
 	
 
-	
-	
-	
-</td></tr></tbody></table>
+</td>
+</tr>
+</tbody>
+</table>
