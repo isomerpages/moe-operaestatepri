@@ -32,6 +32,10 @@ description: ""
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">School Uniform</label>
 <div>
 	<p>Please find attached the updated information file for 2025. </p>
+	
+<p><a href="/files/oeps-sch-uniform-2025.pdf"><strong>OEPS School Uniform</strong></a></p>
+
+	
 <p><a href="/files/P12024/uniform.pdf"><strong>Information for Sale of Uniforms 2025</strong></a></p>
 <p>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for school uniform until you are updated on the outcome of the MOE FAS application.</p>
 <p></p>
@@ -179,8 +183,8 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 <div>
 	
 <p> Registration is now open until 3 November 2023, Friday.</p>
-	<p>SCC BROCHURE: <a href="/files/P12024/scc-brochure2024.pdf">Click here</a></p>
-	<p>Please refer to <a href="/files/P12024/scc-cover-2024.pdf">SCC Cover Letter</a> for more information. </p>
+	<p>SCC BROCHURE: <a href="/files/scc-brochure-2025">Click here</a></p>
+	<p>Please refer to <a href="/files/scc-information-2025">SCC Cover Letter</a> for more information. </p>
 
 <p style="text-align: center;"><strong>Expression of Interest:<br></strong><a href="https://www.knowledgepark.com.sg/operaestatescc" target="_blank" rel="noopener">https://www.knowledgepark.com.sg/operaestatescc</a></p>
 </div>
@@ -231,9 +235,10 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 	
 	
 <li><input id="accordion16" type="checkbox"> <label for="accordion16">Preparing for P1 through fun parent-child activities</label>
+<div>
 <p><strong>Click on the link below to read:</strong></p>
 <strong><a href="https://www.moe.gov.sg/parentkit?pt=Parent-Child%20Relationship" target="_blank" rel="noopener">Parent-Child Activity: Ready, Set, Go!</a></strong>
-</li></ul>
+	</div></li></ul>
 
 
 	
@@ -241,8 +246,9 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 	
 	
 <li><input id="accordion16" type="checkbox"> <label for="accordion16">How to help your child ace the first week of school</label>
+<div>
 <p><strong>Click on the link below to read:</strong></p>
-<strong><a href="https://www.schoolbag.edu.sg/story/how-to-help-your-child-ace-the-first-week-of-school" target="_blank" rel="noopener">How to help your child ace the first week of school</a></strong></li>
+<strong><a href="https://www.schoolbag.edu.sg/story/how-to-help-your-child-ace-the-first-week-of-school" target="_blank" rel="noopener">How to help your child ace the first week of school</a></strong></div></li>
 
 	
 	
