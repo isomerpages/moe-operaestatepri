@@ -9,7 +9,7 @@ description: ""
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/p12025_h1.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/p12025_h2.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/p12025update.jpg"></td>
 <td style="width: 33.3333%;"><img src="/images/p12025_h3.jpg"></td>
 </tr>
 	
@@ -151,7 +151,8 @@ For more information, kindly refer to Annex I in the 2025 MOE FAS Application fo
 </ul>
 </div>
 </li>
-</ul></td>
+</ul>	
+</td>
 
 	
 	
@@ -242,6 +243,15 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 
 
 	
+	
+<li><input id="accordion21" type="checkbox"> <label for="accordion21">How to help your child ace the first week of school</label>
+<div>
+<p><strong>Click on the link below to read:</strong></p>
+<ul>
+<li><a href="https://www.schoolbag.edu.sg/story/how-to-help-your-child-ace-the-first-week-of-school" target="_blank" rel="noopener"><strong>How to help your child ace the first week of school</strong></a></li>
+</ul>
+</div>
+</li>
 
 	
 	
