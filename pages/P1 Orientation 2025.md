@@ -183,8 +183,8 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 <div>
 	
 <p> Registration is now open until 3 November 2023, Friday.</p>
-	<p>SCC BROCHURE: <a href="/files/P12024/scc-brochure2024.pdf">Click here</a></p>
-	<p>Please refer to <a href="/files/P12024/scc-cover-2024.pdf">SCC Cover Letter</a> for more information. </p>
+	<p>SCC BROCHURE: <a href="/files/scc-brochure-2025">Click here</a></p>
+	<p>Please refer to <a href="/files/scc-information-2025">SCC Cover Letter</a> for more information. </p>
 
 <p style="text-align: center;"><strong>Expression of Interest:<br></strong><a href="https://www.knowledgepark.com.sg/operaestatescc" target="_blank" rel="noopener">https://www.knowledgepark.com.sg/operaestatescc</a></p>
 </div>
