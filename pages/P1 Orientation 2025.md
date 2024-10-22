@@ -208,8 +208,7 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 	
 	
 	
-<td style="width: 33.3333%;">
-<ul class="jekyllcodex_accordion">
+<td style="width: 33.3333%;"><ul class="jekyllcodex_accordion">
 	
 <li><input id="accordion18" type="checkbox"> <label for="accordion18">Transition from preschool to primary school.</label>
 <div>
@@ -239,7 +238,7 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 <div>
 <p><strong>Click on the link below to read:</strong></p>
 <strong><a href="https://www.moe.gov.sg/parentkit?pt=Parent-Child%20Relationship" target="_blank" rel="noopener">Parent-Child Activity: Ready, Set, Go!</a></strong>
-	</div></li></ul>
+	</div></li>
 
 
 	
@@ -265,7 +264,7 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 </ul>
 </div>
 </li>
-
+</ul>	
 </td>
 </tr>
 </tbody>
