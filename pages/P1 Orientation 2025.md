@@ -9,7 +9,7 @@ description: ""
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/p12025_h1.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/p12025update.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/p12025_h2.jpg"></td>
 <td style="width: 33.3333%;"><img src="/images/p12025_h3.jpg"></td>
 </tr>
 	
@@ -196,7 +196,7 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 	
 <li><input id="accordion14" type="checkbox"> <label for="accordion14">Opera Parents Club</label>
 <div>
-<a href="/images/opc.jpeg"><img src="/images/opc.jpeg"></a>
+<a href="/images/opc.jpeg"><img src="/images/opc_poster.jpg"></a>
 <p>Click on the picture to view closer! or click&nbsp;<strong><a href="/images/opc.jpeg">here</a></strong></p>
 <p>You may also visit&nbsp;<strong><a href="https://oepsfamilies.wordpress.com/">https://oepsfamilies.wordpress.com/</a>&nbsp;</strong>to read more.</p>
 <p>Or email us at&nbsp;<strong>oepsparents@gmail.com</strong>&nbsp;if you have any enquiries.</p>
