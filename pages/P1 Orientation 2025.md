@@ -197,7 +197,7 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information <br
 <li><input id="accordion14" type="checkbox"> <label for="accordion14">Opera Parents Club</label>
 <div>
 
-<p>Click&nbsp;<strong><a href="/images/opc_poster.jpeg">HERE</a></strong>&nbsp; to see the poster.</p>
+<p>Click&nbsp;<strong><a href="/images/opc_poster.jpg">HERE</a></strong>&nbsp; to see the poster.</p>
 <p>You may also visit:&nbsp;<strong><a href="https://oepsfamilies.wordpress.com/"><br>https://oepsfamilies.wordpress.com/</a>&nbsp;</strong><br>to read more.</p>
 <p>Or email us at&nbsp;<strong>oepsparents@gmail.com</strong>&nbsp;if you have any enquiries.</p>
 <p>To sign up, you may submit by clicking this&nbsp;<strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSf14SOQn7tIolBjPDUmfBz3eDwagLZyezDyBmrx7tAKwb6OdA/viewform">form</a></strong></p>
