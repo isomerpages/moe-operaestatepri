@@ -162,12 +162,12 @@ For more information, kindly refer to Annex I in the 2025 MOE FAS Application fo
 	
 <li><input id="accordion13" type="checkbox"> <label for="accordion13">School Transport Service</label>
 <div>
-	<p><b>Uncle Lin</b> and <b>Mesa</b> is our appointed school bus service provider since 1 January 2024.</p>
+	<p><b>Uncle Lin</b> and <b>Mesa</b> is our <br>appointed school bus service <br>provider since 1 January 2024.</p>
 	
-<p>If you are interested to engage school bus service for your child in 2025, you may indicate your interest through the link:  <a href="https://go.gov.sg/oeps-school-bus-request-form" target="_blank" rel="noopener">https://go.gov.sg/oeps-school-bus-request-form</a> or by reaching out to them at :<br><br>Contact Person: Wynnie<br>Contact Number: 9234 6908<br><a href="mailto:OEPSbus@unclelintransport.com">OEPSbus@unclelintransport.com</a>.<br></p>
+<p>If you are interested to engage <br>school bus service for your child<br> in 2025, you may indicate your<br> interest through the link:  <br><a href="https://go.gov.sg/oeps-school-bus-request-form" target="_blank" rel="noopener">https://go.gov.sg/oeps-school-<br>bus-request-form</a> or by reaching <br>out to them at :<br><br>Contact Person: Wynnie<br>Contact Number: 9234 6908<br><a href="mailto:OEPSbus@unclelintransport.com">OEPSbus@unclelintransport.com</a>.<br></p>
 	
 
-Please click here to see <a href="/files/P12024/bus_service.pdf">Information for School Bus Services</a> Infosheet. 
+Please click here to see <a href="/files/P12024/bus_service.pdf">Information <br>for School Bus Services</a> Infosheet. 
 
 
 <p></p>
@@ -180,14 +180,14 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 	
 	
 	
-<li><input id="accordion12" type="checkbox"> <label for="accordion12">School-based Student Care Centre (SCC)</label>
+<li><input id="accordion12" type="checkbox"> <label for="accordion12">School-based Student <br>Care Centre (SCC)</label>
 <div>
 	
 
 <p>SCC BROCHURE: <a href="/files/scc-brochure-2025.pdf">Click here</a></p>
-<p>Please refer to <a href="/files/scc-information-2025.pdf">SCC Cover Letter</a> for more information. </p>
+<p>Please refer to <a href="/files/scc-information-2025.pdf">SCC Cover Letter</a> <br>for more information. </p>
 
-<p style="text-align: center;"><strong>Expression of Interest:<br></strong><a href="https://www.knowledgepark.com.sg/operaestatescc" target="_blank" rel="noopener">https://www.knowledgepark.com.sg/operaestatescc</a></p>
+<p><strong>Expression of Interest:<br></strong><a href="https://www.knowledgepark.com.sg/operaestatescc" target="_blank" rel="noopener">https://www.knowledgepark.com<br>.sg/operaestatescc</a></p>
 </div>
 </li><br>
 	
@@ -198,7 +198,7 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information for
 <div>
 
 <p>Click&nbsp;<strong><a href="/images/opc_poster.jpeg">HERE</a></strong>&nbsp; to see the poster.</p>
-<p>You may also visit&nbsp;<strong><a href="https://oepsfamilies.wordpress.com/">https://oepsfamilies.wordpress.com/</a>&nbsp;</strong>to read more.</p>
+<p>You may also visit:&nbsp;<strong><a href="https://oepsfamilies.wordpress.com/"><br>https://oepsfamilies.wordpress.com/</a>&nbsp;</strong><br>to read more.</p>
 <p>Or email us at&nbsp;<strong>oepsparents@gmail.com</strong>&nbsp;if you have any enquiries.</p>
 <p>To sign up, you may submit by clicking this&nbsp;<strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSf14SOQn7tIolBjPDUmfBz3eDwagLZyezDyBmrx7tAKwb6OdA/viewform">form</a></strong></p>
 <p>Thank you!</p>
