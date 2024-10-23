@@ -210,11 +210,22 @@ Please click here to see <a href="/files/P12024/bus_service.pdf">Information <br
 	
 <td style="width: 33.3333%;"><ul class="jekyllcodex_accordion">
 	
-<li><input id="accordion18" type="checkbox"> <label for="accordion18">Transition from preschool to primary school.</label>
+<li><input id="accordion18" type="checkbox"> <label for="accordion18">Transition from preschool to primary school</label>
 <div>
 <p><strong>Click on the link below to read:</strong></p>
 <ul>
 <li><a href="/files/Helping-Your-Child-Transit-to-P1.pdf" target="_blank" rel="noopener"><strong>Helping Your Child Transit to P1</strong></a></li>
+</ul>
+</div>
+</li>	
+	
+	
+	
+<li><input id="accordion22" type="checkbox"> <label for="accordion22">Raising a Happy, Confident, and Kind Generation Together</label>
+<div>
+<p><strong>Click on the link below to read:</strong></p>
+<ul>
+<li><a href="https://go.gov.sg/pcalg9" target="_blank" rel="noopener"><strong>Raising a Happy, Confident, and Kind Generation Together</strong></a></li>
 </ul>
 </div>
 </li>	
