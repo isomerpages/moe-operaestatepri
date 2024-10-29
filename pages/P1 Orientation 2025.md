@@ -130,9 +130,9 @@ For more information, kindly refer to Annex I in the 2025 MOE FAS Application fo
 	
 	
 	
-<li><input id="accordion8" type="checkbox"> <label for="accordion8">2025 P1 Orientation e-Handbook</label>
+<li><input id="accordion8" type="checkbox"> <label for="accordion8">P1 Information Booklet 2025</label>
 <div>
-<p><a href="/files/P12024/info-booklet-p1-2025.pdf" target="_blank" rel="noopener"><strong>Click here to view!</strong></a></p>
+<p><a href="https://www.flipsnack.com/operaestatepri/info-booklet-for-2025-p1-parents/full-view.html" target="_blank" rel="noopener"><strong>Click here to view!</strong></a></p>
 </div>
 </li>
 	
