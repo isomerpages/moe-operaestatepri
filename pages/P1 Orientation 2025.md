@@ -53,7 +53,7 @@ description: ""
 	
 <img style="width: 80%;" src="/images/pupilsdata.jpg">
 	
-
+<p>Either parent can login to submit the required particulars. We seek your help to complete the submission by <b>31 Dec 2024.</b></p>
 	
 	
 
