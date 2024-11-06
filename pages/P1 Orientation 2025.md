@@ -21,7 +21,7 @@ description: ""
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">P1 Booklist 2025</label>
 <div>
 <ul>
-	<p><a href="/files/booklist2025.pdf"><strong>P1 Booklist 2025</strong></a></p>
+	<p><a href="/files/booklist2025.pdf"><strong>P1 Booklist 2025</strong></a><br><a href="https://thecontinental.sg/products/opera-estate-primary-uniform-name-tags-2025-primary-1"><strong>P1 Name Tags (Order here)</strong></a></p>
 </ul>
 <p>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for books/shoes/socks until you are updated on the outcome of the MOE FAS application.</p>
 </div>
@@ -30,6 +30,22 @@ description: ""
 	
 	
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">School Uniform</label>
+<div>
+	<p>Please find attached the updated information file for 2025. </p>
+	
+<p><a href="/files/oeps-sch-uniform-2025.pdf"><strong>OEPS School Uniform</strong></a></p>
+
+	
+<p><a href="/files/P12024/uniform.pdf"><strong>Information for Sale of Uniforms 2025</strong></a></p>
+<p>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for school uniform until you are updated on the outcome of the MOE FAS application.</p>
+<p></p>
+</div>
+</li>
+	
+	
+
+	
+<li><input id="accordion2" type="checkbox"> <label for="accordion2"></label>
 <div>
 	<p>Please find attached the updated information file for 2025. </p>
 	
