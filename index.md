@@ -20,6 +20,13 @@ sections:
           url: /moe-sexuality-education/
       variant: center
   - infopic:
+      title: P1 Orientation for 2025 Intake
+      description: For more information,
+      button: Click here
+      url: /2025-p1/
+      image: /images/p12024web.jpg
+      alt: Image alt text
+  - infopic:
       title: Opera's Got Talent (Recess Concert 2024)
       id: infopic
       button: Click to view
@@ -54,12 +61,5 @@ sections:
       button: CLICK HERE
       url: https://www.operaestatepri.moe.edu.sg/dads-for-life/
       image: /images/2024/Dad for LIfe /DadsForLife_2_line_4c.jpg
-      alt: Image alt text
-  - infopic:
-      title: P1 Orientation for 2025 Intake
-      description: For more information,
-      button: Click here
-      url: /2025-p1/
-      image: /images/p12024web.jpg
       alt: Image alt text
 ---
