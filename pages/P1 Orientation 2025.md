@@ -45,7 +45,7 @@ description: ""
 	
 
 	
-<li><input id="accordion2" type="checkbox"> <label for="accordion2">Pupils Data Capturing Exercise</label>
+<li><input id="accordion23" type="checkbox"> <label for="accordion23">Pupils Data Capturing Exercise</label>
 <div>
 <p>As your child/ward will be starting primary one in January 2025, the Ministry of Education (MOE) would like to collect necessary information about you and your child/ward to provide educational services for your child/ward in our schools.</p>
 	
@@ -131,6 +131,16 @@ For more information, kindly refer to Annex I in the 2025 MOE FAS Application fo
 <li><i>Please visit again in early January 2025</i></li>
 </ul>
 </div>
+</li>
+	
+	
+<li><input id="accordion1" type="checkbox"> <label for="accordion1">Declaration for Student Travelling to School Using Bicycle or Kick Scooter</label>
+<div>
+<ul>
+	
+<p>Parents who are allowing their children to travel to school via bicycle or kick scooter are required to submit a declaration through:<a href="https://go.gov.sg/oeps-cyclingtoschool"><br><strong>https://go.gov.sg/oeps-cyclingtoschool</strong></a></p>
+
+</ul></div>
 </li>
 	
 	
