@@ -138,10 +138,10 @@ For more information, kindly refer to Annex I in the 2025 MOE FAS Application fo
 <div>
 <ul>
 	
-<p>Parents who are allowing their children to travel to school via bicycle or kick scooter are required to submit a declaration through:<a href="https://go.gov.sg/oeps-cyclingtoschool"><br><strong>https://go.gov.sg/oeps-cyclingtoschool</strong></a></p>
+<p>Parents who are allowing their children to travel to school via bicycle or kick scooter are required to submit a declaration through:<a href="https://go.gov.sg/oeps-cyclingtoschool"><br>https://go.gov.sg/oeps-cyclingtoschool</a><br>by <b>20 December 2024.</b></p><b>
 
-</ul></div>
-</li>
+</b></ul></div><b>
+</b></li><b>
 	
 	
 	
@@ -180,8 +180,8 @@ For more information, kindly refer to Annex I in the 2025 MOE FAS Application fo
 </ul>
 </div>
 </li>
-</ul>	
-</td>
+</b></ul><b>	
+</b></td>
 
 	
 	
