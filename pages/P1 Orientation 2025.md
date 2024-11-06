@@ -21,7 +21,7 @@ description: ""
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">P1 Booklist 2025</label>
 <div>
 <ul>
-	<p><a href="/files/booklist2025.pdf"><strong>P1 Booklist 2025</strong></a></p>
+	<p><a href="/files/booklist2025.pdf"><strong>P1 Booklist 2025</strong></a><br><a href="https://thecontinental.sg/products/opera-estate-primary-uniform-name-tags-2025-primary-1"><strong>P1 Name Tags (Order here)</strong></a></p>
 </ul>
 <p>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for books/shoes/socks until you are updated on the outcome of the MOE FAS application.</p>
 </div>
@@ -39,6 +39,23 @@ description: ""
 <p><a href="/files/P12024/uniform.pdf"><strong>Information for Sale of Uniforms 2025</strong></a></p>
 <p>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for school uniform until you are updated on the outcome of the MOE FAS application.</p>
 <p></p>
+</div>
+</li>
+	
+	
+
+	
+<li><input id="accordion23" type="checkbox"> <label for="accordion23">Pupils Data Capturing Exercise</label>
+<div>
+<p>As your child/ward will be starting primary one in January 2025, the Ministry of Education (MOE) would like to collect necessary information about you and your child/ward to provide educational services for your child/ward in our schools.</p>
+	
+<p>Please submit the information through the online Student Details Form portal from <b>10.00am, 25 Nov 2024</b>. The portal can be accessed via this URL:</p><a href="https://pg.moe.edu.sg/forms/sdf"><strong>https://pg.moe.edu.sg/forms/sdf</strong></a><br>or the QR code below:
+	
+<img style="width: 80%;" src="/images/pupilsdata.jpg">
+	
+<p>Either parent can login to submit the required particulars. We seek your help to complete the submission by <b>31 Dec 2024.</b></p>
+	
+
 </div>
 </li>
 	
@@ -115,6 +132,16 @@ For more information, kindly refer to Annex I in the 2025 MOE FAS Application fo
 </li>
 	
 	
+<li><input id="accordion24" type="checkbox"> <label for="accordion24">Declaration for Student Travelling to School Using Bicycle or Kick Scooter</label>
+<div>
+<ul>
+	
+<p>Parents who are allowing their children to travel to school via bicycle or kick scooter are required to submit a declaration through:<a href="https://go.gov.sg/oeps-cyclingtoschool"><br>https://go.gov.sg/oeps-cyclingtoschool</a><br>by <b>20 December 2024.</b></p>
+</ul>
+</div>
+</li>
+	
+	
 	
 	
 <li><input id="accordion11" type="checkbox"> <label for="accordion11">Parents Gateway</label>
@@ -151,8 +178,8 @@ For more information, kindly refer to Annex I in the 2025 MOE FAS Application fo
 </ul>
 </div>
 </li>
-</ul>	
-</td>
+</ul><b>	
+</b></td>
 
 	
 	
