@@ -55,9 +55,7 @@ description: ""
 	
 <p>Either parent can login to submit the required particulars. We seek your help to complete the submission by <b>31 Dec 2024.</b></p>
 	
-	
 
-	
 </div>
 </li>
 	
@@ -138,10 +136,10 @@ For more information, kindly refer to Annex I in the 2025 MOE FAS Application fo
 <div>
 <ul>
 	
-<p>Parents who are allowing their children to travel to school via bicycle or kick scooter are required to submit a declaration through:<a href="https://go.gov.sg/oeps-cyclingtoschool"><br>https://go.gov.sg/oeps-cyclingtoschool</a><br>by <b>20 December 2024.</b></p><b>
-
-</b></ul></div><b>
-</b></li><b>
+<p>Parents who are allowing their children to travel to school via bicycle or kick scooter are required to submit a declaration through:<a href="https://go.gov.sg/oeps-cyclingtoschool"><br>https://go.gov.sg/oeps-cyclingtoschool</a><br>by <b>20 December 2024.</b></p>
+</ul>
+</div>
+</li>
 	
 	
 	
@@ -180,7 +178,7 @@ For more information, kindly refer to Annex I in the 2025 MOE FAS Application fo
 </ul>
 </div>
 </li>
-</b></ul><b>	
+</ul><b>	
 </b></td>
 
 	
