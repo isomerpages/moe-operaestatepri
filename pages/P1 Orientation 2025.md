@@ -132,7 +132,7 @@ For more information, kindly refer to Annex I in the 2025 MOE FAS Application fo
 </li>
 	
 	
-<li><input id="accordion1" type="checkbox"> <label for="accordion1">Declaration for Student Travelling to School Using Bicycle or Kick Scooter</label>
+<li><input id="accordion24" type="checkbox"> <label for="accordion24">Declaration for Student Travelling to School Using Bicycle or Kick Scooter</label>
 <div>
 <ul>
 	
