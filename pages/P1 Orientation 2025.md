@@ -45,16 +45,19 @@ description: ""
 	
 
 	
-<li><input id="accordion2" type="checkbox"> <label for="accordion2"></label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">Pupils Data Capturing Exercise</label>
 <div>
-	<p>Please find attached the updated information file for 2025. </p>
+<p>As your child/ward will be starting primary one in January 2025, the Ministry of Education (MOE) would like to collect necessary information about you and your child/ward to provide educational services for your child/ward in our schools.</p>
 	
-<p><a href="/files/oeps-sch-uniform-2025.pdf"><strong>OEPS School Uniform</strong></a></p>
+<p>Please submit the information through the online Student Details Form portal from <b>10.00am, 25 Nov 2024</b>. The portal can be accessed via this URL:</p><a href="https://pg.moe.edu.sg/forms/sdf"><strong>https://pg.moe.edu.sg/forms/sdf</strong></a><br>or the QR code below:
+	
+<img style="width: 80%;" src="/images/pupilsdata.jpg">
+	
 
 	
-<p><a href="/files/P12024/uniform.pdf"><strong>Information for Sale of Uniforms 2025</strong></a></p>
-<p>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for school uniform until you are updated on the outcome of the MOE FAS application.</p>
-<p></p>
+	
+
+	
 </div>
 </li>
 	
