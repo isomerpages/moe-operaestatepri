@@ -415,55 +415,21 @@ variant: markdown
 
 
 		
-<h4><b> NSG</b></h4>
+<h4><b> SCOUT CCA</b></h4>
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:143.8pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="2" width="192"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><br><br><br><br>13th National Inter School Archery Championships<span style="mso-ansi-language:
-  EN-SG" lang="EN-SG"></span></p></td><td style="width:143.85pt;border:solid windowtext 1.0pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-themecolor:text1">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-themecolor:text1"><br><br><br>Frank Cooper Sands Award (2024)</span></p></td><td style="width:155.85pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Gold Medal in the National Junior Women's Scoring category</p></td><td style="width:143.85pt;border:solid windowtext 1.0pt;
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-themecolor:text1">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-themecolor:text1"><br><br><br>Cubs Scout Section</span></p></td><td style="width:155.85pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Chia Xing Zhen Laura<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:143.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Gold Medal for National Senior Men Scoring category</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Bronze medal for National Senior Men Ranking Category</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td><td style="width:143.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Chia Pei Chun Lucas<span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:143.8pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Netball Senior Division</span></p></td><td style="width:143.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">3<sup>rd</sup> Position</span></p></td><td style="width:143.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Aarushi Kumawat<br>Anahita Vasundhara Nair<br>Chan Charlotte Hui Xia<br>Griva Tzimopoulou Antonia<br>Hannah Hui Xiu Deery<br>Maddison Jade Barnes<br>Ng Yhukei<br>Sreeja Sathia Narayanan<br>Tan Jia Xi Emma<br>Tang Estelle<br>Toh Mei Ying<br>Woong Pe Hsuan</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:143.8pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">National Floorball Senior Boys (Tier 1)</span></p></td><td style="width:143.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">3<sup>rd</sup> Position</span></p></td><td style="width:143.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Lucas Chia<br>Oisin Jayam<br>Eden Sebastian Handoyo<br>Raul bin Rohaizat<br>Rishaan Hemesh<br>Srivastava Ayansh<br>Xaviell Chia<br>Hareez Zain<br>Anthony Ruhen<br>Ashton Yeo<br>Jang Jiwoo<br>Mattia Sugianto<br>Muhd Bilal<br>Chua Jing Xu<br>Ryan Bhagyesh Chaubey</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:143.8pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">National Track and Field Senior 1 Boys</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td><td style="width:143.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Bronze medal (30 m)</span></p></td><td style="width:143.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Alessandro Toshiro</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"><td style="width:143.8pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">National Track and Field Junior 2 Boys</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td><td style="width:143.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">7<sup>th</sup> Position (25 m)</span></p></td><td style="width:143.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Lucas Custodio</span></p></td></tr></tbody></table>
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Li Tian Rui<br>Lucas Tan<br>Avyay Prawesh<br>Mirhaan Singh<br>Dylan Mohammed Rafi<br>Alex Dante Weehuizen<br>Tan Han Fu Royce<br>Alfred Ren Christie<br>Ansh Nayak<br>Lee Zong Heng Cayden<br>Jim Lee Wei Hao<br>Zavian Mikail Farren<br>Ling Chin Ler Axel<br>Mohamad Khusaini Bin Mohamad Samsir</span></p></td></tr></tbody></table>
+
