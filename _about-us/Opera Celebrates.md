@@ -78,16 +78,6 @@ variant: markdown
   line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG" lang="EN-SG">OEPS Writer’s Gallery (2024)</span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
   mso-themecolor:text1"></span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -99,55 +89,15 @@ variant: markdown
   mso-themecolor:text1">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-SG" lang="EN-SG">Certificate of appreciation to our future best-selling authors</span><span style="font-family:
   &quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1"></span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:
-  text1;mso-ansi-language:EN-SG" lang="EN-SG">Noor Aysha Ismerelda</span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:
-  text1;mso-ansi-language:EN-SG" lang="EN-SG">Zimur Vihaan Amoi<span style="mso-spacerun:yes">&nbsp;</span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-themecolor:text1"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:
-  text1;mso-ansi-language:EN-SG" lang="EN-SG">Sanaya Ahmed<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="font-family:
-  &quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:
-  text1;mso-ansi-language:EN-SG" lang="EN-SG">Ayaansh Sharma<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-themecolor:text1"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:
-  text1;mso-ansi-language:EN-SG" lang="EN-SG">Nur Khadeejah Safiyyah<span style="mso-spacerun:yes">&nbsp;</span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-themecolor:text1"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:
-  text1;mso-ansi-language:EN-SG" lang="EN-SG">Evanna Rayyah Hafieez<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;</span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-themecolor:text1"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:
-  text1;mso-ansi-language:EN-SG" lang="EN-SG">Harvey Chen Si Kai<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;</span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-themecolor:text1"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:
-  text1;mso-ansi-language:EN-SG" lang="EN-SG">Leela Scott<span style="mso-spacerun:yes">&nbsp;&nbsp;</span></span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:
-  text1;mso-ansi-language:EN-SG" lang="EN-SG">Anahita Nair<span style="mso-spacerun:yes">&nbsp;&nbsp;</span></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:
-  text1;mso-ansi-language:EN-SG" lang="EN-SG">Caleb Wong</span><span style="font-family:
-  &quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:
-  text1;mso-ansi-language:EN-SG" lang="EN-SG">Corwin Koh</span><span style="font-family:
-  &quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:
-  text1;mso-ansi-language:EN-SG" lang="EN-SG">Nur Maryam</span><span style="font-family:
-  &quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:
-  text1;mso-ansi-language:EN-SG" lang="EN-SG">Rayyan Rai Mohamed Anas</span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:
-  text1;mso-ansi-language:EN-SG" lang="EN-SG">Alexandra Crossley</span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:
-  text1;mso-ansi-language:EN-SG" lang="EN-SG">Pek Xuan Xuan</span><span style="font-family:
-  &quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:
-  text1;mso-ansi-language:EN-SG" lang="EN-SG">Pyay Nyein Kyaw Armo</span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:
-  text1;mso-ansi-language:EN-SG" lang="EN-SG">Rania Pratama</span><span style="font-family:
-  &quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  text1;mso-ansi-language:EN-SG" lang="EN-SG">Noor Aysha Ismerelda<br>Zimur Vihaan Amoi<br>Sanaya Ahmed<br>Ayaansh Sharma<br>Nur Khadeejah Safiyyah<br>Evanna Rayyah Hafieez<br>Harvey Chen Si Kai<br>Leela Scott<br>Anahita Nair<br>Caleb Wong<br>Corwin Koh<br>Nur Maryam<br>Rayyan Rai Mohamed Anas<br>Alexandra Crossley<br>Pek Xuan Xuan<br>Pyay Nyein Kyaw Armo<br>Rania Pratama</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="2" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
   mso-themecolor:text1">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
@@ -156,22 +106,18 @@ variant: markdown
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">Honourable Mention</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">(Top Three Lower Primary Category)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  mso-themecolor:text1">Honourable Mention<br>(Top Three Lower Primary Category)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Swara Sheth</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Aaria Dhruv</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Tang Yuan Xuan Sophia</span></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes"><td style="width:155.85pt;border-top:none;border-left:
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Swara Sheth<br>Aaria Dhruv<br>Tang Yuan Xuan Sophia</span></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">Honourable Mention</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">(Primary 4 Category)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  mso-themecolor:text1">Honourable Mention<br>(Primary 4 Category)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Ashleigh Shen Qihan</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Anika Gorrepati</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Yu Le</span></p></td></tr></tbody></table>
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Ashleigh Shen Qihan<br>&gt;Anika Gorrepati<br>Yu Le</span></p></td></tr></tbody></table>
 
 
 
