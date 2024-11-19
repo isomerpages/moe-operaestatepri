@@ -432,4 +432,33 @@ variant: markdown
   mso-themecolor:text1"><br><br><br>Cubs Scout Section</span></p></td><td style="width:155.85pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Li Tian Rui<br>Lucas Tan<br>Avyay Prawesh<br>Mirhaan Singh<br>Dylan Mohammed Rafi<br>Alex Dante Weehuizen<br>Tan Han Fu Royce<br>Alfred Ren Christie<br>Ansh Nayak<br>Lee Zong Heng Cayden<br>Jim Lee Wei Hao<br>Zavian Mikail Farren<br>Ling Chin Ler Axel<br>Mohamad Khusaini Bin Mohamad Samsir</span></p></td></tr></tbody></table>
+	
+	
+	
+	
+	
+<h4><b> ICT &amp; ROBOTICS CCA</b></h4>
 
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="2" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-themecolor:text1">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-themecolor:text1">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-themecolor:text1">SG Competition (2024)</span></p></td><td style="width:155.85pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-themecolor:text1">Dynamic Group<br>(1<sup>st</sup> Place)</span></p></td><td style="width:155.85pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Ang Eenlong Morgen<br>He Dan Ni<br>Izz Amani Bin Mohamed Ali<br>Lim Ee Feng</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1"></span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-themecolor:text1">Dynamic Group<br>(2<sup>nd</sup> Place)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Mika Hrafael Bin Mohamed Fazlee<br>Koh Aik Wei<br>Caden Yong Khye Yann<br>Jalal Arfan Kunarso<br>Magboo Mateo Ovid Montana<br>Ezann Tan Shi En 3I</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1"></span></p></td></tr></tbody></table>
