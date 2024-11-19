@@ -352,16 +352,22 @@ variant: markdown
 
 	
 <h4><b> NETBALL CCA</b></h4>
+         
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td style="width:143.8pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Singapore Sports School Netball Carnival</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td><td style="width:143.85pt;border:solid windowtext 1.0pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-themecolor:text1;background:white">Singapore Sports School Netball Carnival</span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-themecolor:text1"></span></p></td><td style="width:155.85pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Third Position</span></p></td><td style="width:143.85pt;border:solid windowtext 1.0pt;
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-themecolor:text1;background:white">Third Position</span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1"></span></p></td><td style="width:155.85pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="192"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Aarushi Kumawat<br>Anahita Vasundhara Nair<br>Chan Charlotte Hui Xia<br>Griva Tzimopoulou Antonia<br>Hannah Hui Xiu Deery<br>Maddison Jade Barnes<br>Ng Yhukei<br>Sreeja Sathia Narayanan<br>Tan Jia Xi Emma<br>Tang Estelle<br>Toh Mei Ying<br>Woong Pe Hsuan</span></p></td></tr></tbody></table>
-
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1;
+  background:white">Aarushi Kumawat<br>Anahita Vasundhara Nair<br>Chan Charlotte Hui Xia<br>Griva Tzimopoulou Antonia<br>Hannah Hui Xiu Deery<br>Maddison Jade Barnes<br>Ng Yhukei<br>Sreeja Sathia Narayanan<br>Tan Jia Xi Emma<br>Tang Estelle<br>Toh Mei Ying<br>Woong Pe Hsuan</span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-themecolor:text1"></span></p></td></tr></tbody></table>
 
 
 
