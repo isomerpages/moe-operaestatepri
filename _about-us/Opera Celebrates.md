@@ -224,27 +224,21 @@ variant: markdown
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-family:
-  Latha;color:black;mso-themecolor:text1">Commendation Award</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-bidi-font-family:Latha;color:black;mso-themecolor:text1">(</span></i><i><span style="font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-family:Latha;
-  color:black;mso-themecolor:text1;mso-ansi-language:DE" lang="DE">Let‘s Explore Carbon Footprints with Math!)</span></i></p><p style="margin-bottom:0cm;text-align:center;
+  Latha;color:black;mso-themecolor:text1">Commendation Award<br>(Let‘s Explore Carbon Footprints with Math!)</span></p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-family:
   Latha;color:black;mso-themecolor:text1">&nbsp;</span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Nur Husna Bte Nordin Noh</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Heng Yi Jie Ethan</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Abdul Rahman Bin Md Haikal</span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes"><td style="width:155.85pt;border-top:none;border-left:
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Nur Husna Bte Nordin Noh<br>Heng Yi Jie Ethan<br>Abdul Rahman Bin Md Haikal</span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-family:
-  Latha;color:black;mso-themecolor:text1">Outstanding Award</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-bidi-font-family:Latha;color:black;mso-themecolor:text1">(</span></i><i><span style="font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-family:Latha;
-  color:black;mso-themecolor:text1;mso-ansi-language:DE" lang="DE">Mather-Mind)</span></i><i><span style="font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-family:Latha;color:black;
+  Latha;color:black;mso-themecolor:text1">Outstanding Award<br>(Mather-Mind)</span><i><span style="font-family:&quot;Arial&quot;,sans-serif;mso-bidi-font-family:Latha;color:black;
   mso-themecolor:text1"></span></i></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Ariana Gupta</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Velichko Agata</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Vardhan Chandra Achar</span></p></td></tr></tbody></table>
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Ariana Gupta<br>Velichko Agata<br>Vardhan Chandra Achar</span></p></td></tr></tbody></table>
 
 
 
