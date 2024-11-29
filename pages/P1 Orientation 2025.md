@@ -174,7 +174,7 @@ For more information, kindly refer to Annex I in the 2025 MOE FAS Application fo
 <li><input id="accordion10" type="checkbox"> <label for="accordion10">P1 Orientation Briefing Slides</label>
 <div>
 <ul>
-<li><p>Please visit again in late November 2024.</p></li>
+<li><p><a href="https://drive.google.com/file/d/1IekvARVB1RXuzkp6rSLm4hT04yoTmbuk/view?usp=sharing" target="_blank" rel="noopener"><strong>Click here to view!</strong></a></p></li>
 </ul>
 </div>
 </li>
