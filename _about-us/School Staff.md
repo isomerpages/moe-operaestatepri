@@ -413,10 +413,104 @@ description: ""
 
 
 <ul class="jekyllcodex_accordion">
-	<li><input id="accordion2" type="checkbox"> <label for="accordion1"><b>KEY PERSONNEL</b></label>
+	<li><input id="accordion2" type="checkbox"> <label for="accordion2"><b>PRIMARY 1</b></label>
 <div>
 
 	
 </div>
 </li></ul>
+
+
+
+
+<ul class="jekyllcodex_accordion">
+	<li><input id="accordion3" type="checkbox"> <label for="accordion3"><b>PRIMARY 2</b></label>
+<div>
+
 	
+</div>
+</li></ul>
+
+
+
+<ul class="jekyllcodex_accordion">
+	<li><input id="accordion4" type="checkbox"> <label for="accordion4"><b>PRIMARY 3</b></label>
+<div>
+
+	
+</div>
+</li></ul>
+
+
+
+
+
+<ul class="jekyllcodex_accordion">
+	<li><input id="accordion5" type="checkbox"> <label for="accordion5"><b>PRIMARY 4</b></label>
+<div>
+
+	
+</div>
+</li></ul>
+
+
+
+
+
+
+<ul class="jekyllcodex_accordion">
+	<li><input id="accordion6" type="checkbox"> <label for="accordion6"><b>PRIMARY 5</b></label>
+<div>
+
+	
+</div>
+</li></ul>
+
+
+
+
+
+
+<ul class="jekyllcodex_accordion">
+	<li><input id="accordion7" type="checkbox"> <label for="accordion7"><b>PRIMARY 6</b></label>
+<div>
+
+	
+</div>
+</li></ul>
+
+
+
+
+
+
+<ul class="jekyllcodex_accordion">
+	<li><input id="accordion8" type="checkbox"> <label for="accordion8"><b>ALLIED EDUCATORS</b></label>
+<div>
+
+	
+</div>
+</li></ul>
+
+
+
+
+
+<ul class="jekyllcodex_accordion">
+	<li><input id="accordion9" type="checkbox"> <label for="accordion9"><b>SCHOOL ADMINISTRATIVE TEAM</b></label>
+<div>
+
+	
+</div>
+</li></ul>
+
+
+
+
+<ul class="jekyllcodex_accordion">
+	<li><input id="accordion10" type="checkbox"> <label for="accordion10"><b>SCHOOL SUPPORT STAFF</b></label>
+<div>
+
+	
+</div>
+</li></ul>
