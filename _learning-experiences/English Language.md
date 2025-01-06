@@ -50,7 +50,7 @@ variant: markdown
 <ul>
 <li>The Primary 5 pupils are introduced to different forms of writing that promotes their creativity. They are given an opportunity to write narratives of different genres and they also have a go at coming up with their own poems and posters. As they further develop their confidence and proficiency in their writing, some pupils have also taken on the challenge of developing their own chapter books with engaging</li>
 </ul>
-<p>The Primary 5 pupils also have the chance to produce a newsletter for the school which keeps pupils and staff up to date on all the ongoing school events. Check out a newsletter they have produced over&nbsp;<a href="https://www.flipsnack.com/operaestatepri/oeps-newsletter-2020/full-view.html"><u>here</u></a>.</p>
+<p>The Primary 5 pupils also have the chance to produce a newsletter for the school which keeps pupils and staff up to date on all the ongoing school events. </p>
 <img src="/images/el13.jpg">
 <h4><strong>COMPETITIONS</strong></h4>
 <p>Selected students will represent the school in a range of competitions covering areas like literature, writing and oracy. The school takes part annually in the Moo-O awards as well as the Wits and Words. Examples of writing competitions students have taken part in include the National English Writing Competition and the SOTA Primary 6 Creative Writing Competition. Students were also selected to take part in the i-Speak competition, Mythos and PESA.</p>
