@@ -5,6 +5,7 @@ date: 2023-03-22
 layout: post
 description: ""
 image: /images/p1o2023.png
+variant: markdown
 ---
 <img src="/images/ori1.jpg">
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -17,7 +18,7 @@ image: /images/p1o2023.png
 <tr>
 <td style="width: 33.3333%;">
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">P1 Booklist 2023 & Purchase of PE Attire</label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1">P1 Booklist 2023 &amp; Purchase of PE Attire</label>
 <div>
 <ul>
 <li><a href="/files/OEPS-Uniforms-Measurement-Table.pdf">PE Attire and School Shoes Measurements/ Price List</a></li>
@@ -26,26 +27,26 @@ image: /images/p1o2023.png
 <p>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for books and PE attire until you are updated on the outcome of the MOE FAS application.</p>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Purchase of School Uniform</label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">Purchase of School Uniform</label>
 <div>
 <p><a href="/files/Information-for-School-Uniforms.pdf"><strong>Please click here for the uniform price sheet</strong></a></p>
 <p>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for school uniform until you are updated on the outcome of the MOE FAS application.</p>
-<p>WEF 1 November 2022, Johnson Uniform will relocate to 1 Kaki Bukit Road 1 #01-30/31 Enterprise One Singapore 415934<br />Telephone: +65 6741 0930<br />Website:&nbsp;www.intrenduniforms.com<br />Email:&nbsp;sales@itu.com.sg</p>
+<p>WEF 1 November 2022, Johnson Uniform will relocate to 1 Kaki Bukit Road 1 #01-30/31 Enterprise One Singapore 415934<br>Telephone: +65 6741 0930<br>Website:&nbsp;www.intrenduniforms.com<br>Email:&nbsp;sales@itu.com.sg</p>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Application for Interbank GIRO</label>
+<li><input id="accordion3" type="checkbox"> <label for="accordion3">Application for Interbank GIRO</label>
 <div>
-<p>Sign up for MOE eGiro through the online portal at https://www.moe.gov.sg/financial-matters/fees/egiro or from the &ldquo;Services&rdquo; tab in Parents Gateway app - &ldquo;GIRO Setup&rdquo; which will bring you to the same page for you to click &ldquo;Apply for GIRO&rdquo;.</p>
+<p>Sign up for MOE eGiro through the online portal at https://www.moe.gov.sg/financial-matters/fees/egiro or from the “Services” tab in Parents Gateway app - “GIRO Setup” which will bring you to the same page for you to click “Apply for GIRO”.</p>
 <p>Should you encounter error in the process, please provide screen captures as well as the time and date of application to MOE using the below Feedback Form&nbsp;<a href="https://www.moe.gov.sg/feedback">https://www.moe.gov.sg/feedback</a></p>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Edusave Scheme (for Singapore Citizens students only)</label>
+<li><input id="accordion4" type="checkbox"> <label for="accordion4">Edusave Scheme (for Singapore Citizens students only)</label>
 <div>
 <p>All Singapore Citizens students will have an Edusave account automatically opened for them and receive a yearly contribution. For more information on Edusave Account, please refer to this&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds" target="_blank" rel="noopener">link</a></strong>.</p>
-<p>Parents can sign up for Edusave standing order to use your child&rsquo;s Edusave account to pay for the 2nd tier miscellaneous fees and enrichment programmes to reduce your out-of-pocket expense. Complete the online Edusave Standing Order Form via this&nbsp;<strong><a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" target="_blank" rel="noopener">link</a>&nbsp;</strong>with either parent's SingPass login.</p>
+<p>Parents can sign up for Edusave standing order to use your child’s Edusave account to pay for the 2nd tier miscellaneous fees and enrichment programmes to reduce your out-of-pocket expense. Complete the online Edusave Standing Order Form via this&nbsp;<strong><a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" target="_blank" rel="noopener">link</a>&nbsp;</strong>with either parent's SingPass login.</p>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox" /> <label for="accordion5">MOE Financial Assistance Scheme 2023 (for eligible Singapore Citizens only)</label>
+<li><input id="accordion5" type="checkbox"> <label for="accordion5">MOE Financial Assistance Scheme 2023 (for eligible Singapore Citizens only)</label>
 <div>
 <p><strong>MOE FAS Application Form</strong></p>
 <ul>
@@ -63,7 +64,7 @@ image: /images/p1o2023.png
 <p>For more information on the scheme, please refer to Annex I in the FAS 2023 Application form.</p>
 </div>
 </li>
-<li><input id="accordion6" type="checkbox" /> <label for="accordion6">Consent for Dental Service 2023</label>
+<li><input id="accordion6" type="checkbox"> <label for="accordion6">Consent for Dental Service 2023</label>
 <div>
 <ul>
 <li><a href="/files/Letter-to-P1-Parent.pdf">Letter to P1 Parent</a></li>
@@ -73,22 +74,22 @@ image: /images/p1o2023.png
 </ul>	
 </td>
 <td style="width: 33.3333%;"><ul class="jekyllcodex_accordion">
-<li><input id="accordion7" type="checkbox" /> <label for="accordion7">Parent Kit - Starting Your Primary 1 Journey	</label>
+<li><input id="accordion7" type="checkbox"> <label for="accordion7">Parent Kit - Starting Your Primary 1 Journey	</label>
 <div>
 <p><a href="/files/Parent-Kit-Starting-Your-Primary-1-Journey.pdf" target="_blank" rel="noopener">Parent Kit - Starting Your Primary 1 Journey</a></p>
 </div>
 </li>
-<li><input id="accordion8" type="checkbox" /> <label for="accordion8">Information Booklet for P1 Parents</label>
+<li><input id="accordion8" type="checkbox"> <label for="accordion8">Information Booklet for P1 Parents</label>
 <div>
 <p><a href="https://www.flipsnack.com/operaestatepri/info-booklet-for-2023-p1-parents-c90zyey3f2/full-view.html" target="_blank" rel="noopener"><strong>Click here to view!</strong></a></p>
 </div>
 </li>
-<li><input id="accordion9" type="checkbox" /> <label for="accordion9">A Day in OEPS</label>
+<li><input id="accordion9" type="checkbox"> <label for="accordion9">A Day in OEPS</label>
 <div>
 <p><a href="https://drive.google.com/file/d/1-EmcqMU6YZzANcvuiaOilqaEFS8lYpwG/view?usp=share_link" target="_blank" rel="noopener"><strong>Click here to view!</strong></a></p>
 </div>
 </li>
-<li><input id="accordion10" type="checkbox" /> <label for="accordion10">P1 Orientation Briefing Slides</label>
+<li><input id="accordion10" type="checkbox"> <label for="accordion10">P1 Orientation Briefing Slides</label>
 <div>
 <p><a href="https://drive.google.com/file/d/1WY2l4CyUBTKPefvYuQs0DpvDNb7L_Nar/view?usp=share_link" target="_blank" rel="noopener"><strong>P1 Orientation Briefing Slides (Click here)</strong></a></p>
 </div>
@@ -97,7 +98,7 @@ image: /images/p1o2023.png
 </td>
 <td style="width: 33.3333%;">
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion11" type="checkbox" /> <label for="accordion11">Parents Gateway</label>
+<li><input id="accordion11" type="checkbox"> <label for="accordion11">Parents Gateway</label>
 <div>
 <p>We strongly encourage all parents / guardians to come on board PG for quicker access to school information. Please refer to Annex A for the step-by-step onboarding guide and FAQs for Parents to address your queries.</p>
 <ul>
@@ -106,23 +107,23 @@ image: /images/p1o2023.png
 </ul>
 </div>
 </li>
-<li><input id="accordion12" type="checkbox" /> <label for="accordion12">School-based Student Care Centre (SCC)</label>
+<li><input id="accordion12" type="checkbox"> <label for="accordion12">School-based Student Care Centre (SCC)</label>
 <div>
-<a href="/files/SCC-Brochure-2023oeps.pdf"><img style="width: 80%;" src="/images/scc.jpg" /></a>
+<a href="/files/SCC-Brochure-2023oeps.pdf"><img style="width: 80%;" src="/images/scc.jpg"></a>
 <p style="text-align: center;">(Click to view the brochure)</p>
-<p style="text-align: center;"><strong>Expression of Interest:<br /></strong><a href="https://www.knowledgepark.com.sg/operaestatescc" target="_blank" rel="noopener">https://www.knowledgepark.com.sg/operaestatescc</a></p>
+<p style="text-align: center;"><strong>Expression of Interest:<br></strong><a href="https://www.knowledgepark.com.sg/operaestatescc" target="_blank" rel="noopener">https://www.knowledgepark.com.sg/operaestatescc</a></p>
 </div>
 </li>
-<li><input id="accordion13" type="checkbox" /> <label for="accordion13">School Bus Service Provider</label>
+<li><input id="accordion13" type="checkbox"> <label for="accordion13">School Bus Service Provider</label>
 <div>
 <p><strong>School Bus Service Registration (From now to 31 October 2022)</strong></p>
 <p><a href="/files/OEPS-Info-Sheet-on-School-Bus-Services.pdf"><strong>Please click here to see the Bus Price List</strong></a></p>
-<p>Please register your child/ward for school bus service at&nbsp;<a href="https://bit.ly/oepsbus" target="_blank" rel="noopener">https://bit.ly/oepsbus</a></p>
+<p>Please register your child/ward for school bus service at&nbsp;<a href="https://google.com" target="_blank" rel="noopener">https://bit.ly/oepsbus</a></p>
 <p>Registration is open from now to 31 October 2022.</p>
 <p>Upon registration, Yeap Transport will contact you in mid-November 2022 to provide a tentative pick-up/drop-off timing. The confirmed timings will be provided by 27 December 2022.</p>
 </div>
 </li>
-<li><input id="accordion14" type="checkbox" /> <label for="accordion14">Opera Parents Club</label>
+<li><input id="accordion14" type="checkbox"> <label for="accordion14">Opera Parents Club</label>
 <div>
 <a href="/images/opc.jpeg"><img src="/images/opc.jpeg"></a>
 <p>Click on the picture to view closer! or click&nbsp;<strong><a href="/images/opc.jpeg">here</a></strong></p>
@@ -132,7 +133,7 @@ image: /images/p1o2023.png
 <p>Thank you!</p>
 </div>
 </li>
-<li><input id="accordion15" type="checkbox" /> <label for="accordion15">Useful External Links	</label>
+<li><input id="accordion15" type="checkbox"> <label for="accordion15">Useful External Links	</label>
 <div>
 <p><strong>Click on the links below to read!</strong></p>
 <p><strong><a href="https://www.schoolbag.edu.sg/story/how-to-help-your-child-ace-the-first-week-of-school">How to help your child ace the first week of school</a></strong></p>
@@ -142,7 +143,7 @@ image: /images/p1o2023.png
 <p><strong><a href="https://www.schoolbag.edu.sg/story/what-matters-when-our-children-start-primary-school?utm_medium=social&amp;utm_source=facebook+sb+article&amp;utm_campaign=p1registration&amp;fbclid=IwAR1B01Igo6t3CVeC0BHXurNhG5HbvfsYsmFGSySnaDyiAI2hEeTbiztaKb0">What matters when our children start primary school</a></strong></p>
 </div>
 </li>
-<li><input id="accordion16" type="checkbox" /> <label for="accordion16">Establishing routines to help your child learn</label>
+<li><input id="accordion16" type="checkbox"> <label for="accordion16">Establishing routines to help your child learn</label>
 <div>
 <p><strong>Click on the link below to read:</strong></p>
 <ul>
@@ -150,7 +151,7 @@ image: /images/p1o2023.png
 </ul>
 </div>
 </li>
-<li><input id="accordion17" type="checkbox" /> <label for="accordion17">Parent-Child-Activity: Ready, Set, Go!	</label>
+<li><input id="accordion17" type="checkbox"> <label for="accordion17">Parent-Child-Activity: Ready, Set, Go!	</label>
 <div>
 <p><strong>Click on the link below to read:</strong></p>
 <ul>
@@ -158,7 +159,7 @@ image: /images/p1o2023.png
 </ul>
 </div>
 </li>
-<li><input id="accordion18" type="checkbox" /> <label for="accordion18">Helping Your Child Transit to P1</label>
+<li><input id="accordion18" type="checkbox"> <label for="accordion18">Helping Your Child Transit to P1</label>
 <div>
 <p><strong>Click on the link below to read:</strong></p>
 <ul>
@@ -166,7 +167,7 @@ image: /images/p1o2023.png
 </ul>
 </div>
 </li>
-<li><input id="accordion19" type="checkbox" /> <label for="accordion19">Transition to P1 - Cyber Wellness</label>
+<li><input id="accordion19" type="checkbox"> <label for="accordion19">Transition to P1 - Cyber Wellness</label>
 <div>
 <p><strong>Click on the link below to read:</strong></p>
 <ul>
