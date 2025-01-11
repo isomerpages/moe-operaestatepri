@@ -6,7 +6,7 @@ description: ""
 ---
 <p style="font-size:220%;" align="center"><b>Thank you for the overwhelming support!</b></p>
 
-<a href="https://albumizr.com/a/ZwC2"><img style="width:600px;height:400px;" alt="HTML tutorial" src="/images/dad.jpg"></a><br>
+<a href="https://albumizr.com/a/ZwC2"><img style="width:600px;height:400px;" alt="HTML tutorial" src="/images/poster2025.jpg"></a><br>
 
 <img style="width:600px;height:400px;" alt="HTML tutorial" src="/images/opc2024.jpeg">
 
