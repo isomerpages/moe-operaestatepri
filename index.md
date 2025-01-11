@@ -20,6 +20,13 @@ sections:
           url: /moe-sexuality-education/
       variant: center
   - infopic:
+      title: First Day of School
+      id: infopic
+      button: CLICK HERE
+      url: https://www.operaestatepri.moe.edu.sg/dads-for-life/
+      image: /images/2024/Dad for LIfe /DadsForLife_2_line_4c.jpg
+      alt: Image alt text
+  - infopic:
       title: P1 Orientation for 2025 Intake
       description: For more information,
       button: Click here
@@ -54,12 +61,5 @@ sections:
       button: click to view
       url: https://drive.google.com/drive/folders/1Il3hbt1rK6yYTrRjKNCO4zAKQ0WcUw66?usp=sharing
       image: /images/superfood2.jpg
-      alt: Image alt text
-  - infopic:
-      title: Launching of Dads for Life in OEPS
-      id: infopic
-      button: CLICK HERE
-      url: https://www.operaestatepri.moe.edu.sg/dads-for-life/
-      image: /images/2024/Dad for LIfe /DadsForLife_2_line_4c.jpg
       alt: Image alt text
 ---
