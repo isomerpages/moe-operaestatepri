@@ -19,12 +19,12 @@ description: ""
  mso-border-insideh:none;mso-border-insidev:none" cellpadding="0" cellspacing="0" border="0" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:35.2pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="47"><p style="font-size:110%;" align="justify">(a)<span style="font-size:12.0pt;font-family:
   &quot;Arial&quot;,sans-serif"></span></p></td><td style="width:432.3pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="576">
 	
-<p style="font-size:110%;" align="justify">Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.<span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:35.2pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="47"><p style="font-size:110%;" align="justify"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+<p style="font-size:110%;" align="justify">Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships. <span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:35.2pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="47"><p style="font-size:110%;" align="justify"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   mso-color-alt:windowtext">(b)</span><span style="font-size:12.0pt;font-family:
   &quot;Arial&quot;,sans-serif"></span></p></td><td style="width:432.3pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="576">
 	
 	
-<p style="font-size:110%;" align="justify">Guide students to make wise, informed and responsible decisions on sexuality matters.<span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:35.2pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="47"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+<p style="font-size:110%;" align="justify">Guide students to make wise, informed and responsible decisions on sexuality matters. <span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:35.2pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="47"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   mso-color-alt:windowtext">(c)</span><span style="font-size:12.0pt;font-family:
   &quot;Arial&quot;,sans-serif"></span></p></td><td style="width:432.3pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="576">
 	
