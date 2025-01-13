@@ -114,9 +114,9 @@ description: ""
 
 <p style="font-size:110%;" align="justify"><b>At Opera Estate Primary School, the following Sexuality Education lessons will be taught in 2025:</b></p>
 
-<img align="center" src="/images/2024/Moesex/se1.jpg">
-<img align="center" src="/images/2024/Moesex/se2.jpg">
-<img align="center" src="/images/2024/Moesex/se3.jpg">
+<img align="center" src="/images/2025/se1.jpg">
+<img align="center" src="/images/2025/se2.jpg">
+<img align="center" src="/images/2025/se3.jpg">
 <br>
 
 <p><b>INFORMATION FOR PARENTS</b></p>
