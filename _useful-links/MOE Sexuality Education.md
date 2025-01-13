@@ -29,7 +29,7 @@ description: ""
   &quot;Arial&quot;,sans-serif"></span></p></td><td style="width:432.3pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="576">
 	
 	
-<p style="font-size:110%;" align="justify">Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.<span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr></tbody></table>
+<p style="font-size:110%;" align="justify">Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society. <span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr></tbody></table>
 
 
 
@@ -80,7 +80,7 @@ description: ""
 
 
 
-<p><b>OVERVIEW OF OPERA ESTATE PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</b></p>
+<p><b>OVERVIEW OF OPERA ESTATE PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</b></p>
 
 
 <p style="font-size:110%;" align="justify">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a> for more information on the scope of Sexuality Education in the school curriculum.</p>
