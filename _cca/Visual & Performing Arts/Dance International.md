@@ -115,7 +115,7 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">TEACHERS IN CHARGE</label>
 <div>
-<p><strong>Mdm. Zahureen Binte Rahman<br>Ms. He Wen Li<br>Ms. Yeong Wai Cheng Anne (Mrs. Goh)<br>Mdm. Siti Arfah Bte Yusof<br>Mrs. Amanda Seow</strong></p>
+<p><strong>Mdm. Siti Arfah Bte Yusof (OIC)<br>Mdm. Zahureen Binte Rahman<br>Ms. He Wen Li<br>Ms. Komathy D/O Selvaraj </strong></p>
 </div>
 </li>
 	

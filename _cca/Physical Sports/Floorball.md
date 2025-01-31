@@ -132,7 +132,7 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">TEACHERS IN CHARGE</label>
 <div>
-<p><strong>Mr. Osman&nbsp;<strong>(OIC)<br></strong>Mdm. Ashilah Binte Abdul Latiff<br>Mdm. Lienda Bte Jamali<br>Mr. Leonard Paul Gomes</strong></p><p><strong>Coaches<br>1. Coach Faris (School Team)<br>2. Coach Aliff (Development Team)<br>
+<p><strong>Mr. Osman Bin Suradi (OIC)<br>Mdm. Ashilah Binte Abdul Latiff<br>Mdm. Lienda Bte Jamali<br>Mr. Abdul Rahim S/O A P M Adam</strong></p><p><strong>Coaches<br>1. Coach Faris (School Team)<br>2. Coach Aliff (Development Team)<br>
 	</strong></p></div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA SCHEDULE</label>
@@ -145,7 +145,7 @@ variant: markdown
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
   minor-latin">Mondays:</span></b></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
   Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  mso-bidi-font-weight:bold">School Team &amp; Development Team</span></p></td><td style="width:148.85pt;border:solid windowtext 1.0pt;
+  mso-bidi-font-weight:bold">(All)</span></p></td><td style="width:148.85pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="198"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
   Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;

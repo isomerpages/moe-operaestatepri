@@ -105,7 +105,7 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">TEACHERS IN CHARGE</label>
 <div>
-<p><strong>Ms. Lee Xueqi Sherilyn (OIC)<br>Mdm. Zuo Qinjie (OIC)<br>Mrs. Balan<br>Mdm. Chng Kwee Gek</strong></p>
+<p><strong>Ms. Lee Xueqi Sherilyn (OIC)<br>Mdm. Chng Kwee Gek<br>Mdm. Zuo Qinjie <br>Mrs. Balan</strong></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA SCHEDULE</label>
