@@ -24,6 +24,11 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt;height:12.3pt" valign="top" width="179"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt"><a href="https://drive.google.com/file/d/1N-KigvGjME5ZNJDM-EN77ehQ5n-OY4BH/view?usp=sharing">Primary 5</a></span></p></td></tr>
 	
+<tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:12.3pt"><td style="width:134.45pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:12.3pt" valign="top" width="179"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt"><a href="https://go.gov.sg/p6curriculumbriefing-oeps">Primary 6</a></span></p></td></tr>
+	
 	
 	
 	
