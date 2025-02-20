@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024/New Banner/Untitled_design.gif
+      background: /images/2025/banner2025.gif
       key_highlights:
         - title: For Parents
           description: ""
@@ -19,6 +19,13 @@ sections:
           description: ""
           url: /moe-sexuality-education/
       variant: center
+  - infopic:
+      title: Superfood Video 2025
+      id: infopic
+      button: click to view
+      url: https://drive.google.com/drive/folders/12RWKZmaEFnzrLGLC8dsqDxQGP82WXr6o?usp=sharing
+      image: /images/superfood2.jpg
+      alt: Image alt text
   - infopic:
       title: First Day of School
       id: infopic
@@ -54,12 +61,5 @@ sections:
       button: CLICK HERE
       url: https://www.operaestatepri.moe.edu.sg/e-open-house-2024/
       image: /images/openhouse24.jpg
-      alt: Image alt text
-  - infopic:
-      title: Superfood Video 2024
-      id: infopic
-      button: click to view
-      url: https://drive.google.com/drive/folders/1Il3hbt1rK6yYTrRjKNCO4zAKQ0WcUw66?usp=sharing
-      image: /images/superfood2.jpg
       alt: Image alt text
 ---

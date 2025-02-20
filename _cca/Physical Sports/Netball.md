@@ -47,7 +47,7 @@ variant: markdown
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
   minor-latin">- &nbsp;&nbsp;&nbsp;&nbsp;Weekly training sessions.<br>- &nbsp;&nbsp;&nbsp;&nbsp;Friendly matches.
-<br>-&nbsp;Participation at National School Games Netball &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Championships.<br><br>- &nbsp;&nbsp;&nbsp;&nbsp;Netball Exposure: By Kids Network from Sportz Kulture</span></p></td></tr></tbody></table><br>
+<br>-&nbsp;Participation at National School Games Netball Championships.</span></p></td></tr></tbody></table><br>
 
 
 
@@ -93,7 +93,7 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">2023 – Netball NSG – Junior Girls (Tiered Round Group 2 Runner Up)</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  minor-latin;color:#484848">2024 - NSG Senior League 3 (3rd Place)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Singapore Sports School Netball Carnival <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3rd Place)<br><br>2023 – Netball NSG – Junior Girls (Tiered Round Group 2 Runner Up)</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
   minor-latin;color:#484848">2022 – Netball NSG (Participation)</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
