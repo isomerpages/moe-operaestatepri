@@ -23,7 +23,7 @@ sections:
       title: Superfood Video 2025
       id: infopic
       button: click to view
-      url: https://drive.google.com/drive/folders/1Il3hbt1rK6yYTrRjKNCO4zAKQ0WcUw66?usp=sharing
+      url: https://drive.google.com/drive/folders/12RWKZmaEFnzrLGLC8dsqDxQGP82WXr6o?usp=sharing
       image: /images/superfood2.jpg
       alt: Image alt text
   - infopic:
