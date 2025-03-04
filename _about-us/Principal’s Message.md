@@ -7,7 +7,7 @@ variant: markdown
 <p align="justify">Welcome to Opera Estate Primary School!  
 Opera Estate Primary School (OEPS) is an amalgamation of Opera Boys’ School and Opera Girls’ School in 1985. Since then, OEPS has grown from strength to strength to establish herself as a Happy, Loving, Learning School.</p>
 
-<p align="justify">**Vision, Mission and Values**</p>
+<p align="justify"><b>Vision, Mission and Values</b></p>
 
 <p align="justify">Our Vision <b>"Confident Learners, Caring Contributors”</b> is a clear representation of our dedication to foster a supportive and vibrant learning environment where students grow as Effective Communicators, Self-directed learners, Creative and Critical Thinkers, and Civic-Minded Rooted citizens. We want to inculcate in our students a sense of gratitude, develop the confidence to embrace changes and instill in them a genuine desire to make a positive impact.</p>
 
