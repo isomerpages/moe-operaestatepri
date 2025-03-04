@@ -27,3 +27,4 @@ Opera Estate Primary School (OEPS) is an amalgamation of Opera Boys’ School an
 
 Your Partner-In-Education,  
 <b>Mrs Tan Wai Ling</b><br>Principal
+<img src="/images/2025/40anni.png">
