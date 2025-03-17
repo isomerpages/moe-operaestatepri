@@ -675,7 +675,8 @@ description: ""
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-themecolor:
-  text1">Mdm. Aruna<br>Mdm. Kau Siew Fun</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  text1">Mdm. Aruna<br>Mdm. Kau Siew Fun<br>Mr. Mohammed Farid Bin Rozalli
+	</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:176.95pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   background:#D9E2F3;mso-background-themecolor:accent1;mso-background-themetint:
   51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
