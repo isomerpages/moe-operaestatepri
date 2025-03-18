@@ -46,11 +46,18 @@ The Writer's Gallery is an engaging collection of students' writing from Primary
 
 
 
+<h4><strong>SUPPORT PROGRAMMES</strong></h4>
+<p align="justify"><b><u>Learning Support Programme (LSP) (P1-P2)</u></b><br>A specialised early intervention programme aimed at providing learning support to pupils who enter Primary 1 with weak English language and literacy skills. Pupils are identified for LSP through a systematic screening process carried out at the beginning of Primary 1. The objective of the LSP is to equip pupils with basic literacy skills so that they could access learning in the regular classroom.</p>
+
+<p align="justify"><b><u>School-based Dyslexia Remediation Programme (SDR) (P3-P4)</u></b><br>A two-year intervention for Primary 3 and 4 students who are identified through a systematic screening process for dyslexia conducted at the end of Primary 2. The programme is conducted in small groups by trained school personnel using a remediation curriculum designed by MOE Reading Specialists. The curriculum has been designed taking into consideration the students’ learning profile and the contents of the mainstream English language curriculum.</p>
+
+<p align="justify"><b><u>Reading Remediation Programme (RRP) (P3-P4)</u></b><br>An intervention programme for Primary 3 and 4 students who did not meet the discharge criteria for LSP and who do not have dyslexia at the end of Primary 2 LSP. The RRP focuses on improving (i) word recognition and spelling, (ii) fluency, (iii) vocabulary and (iv) reading comprehension in the students.</p>
 
 
-<img src="/images/el13.jpg">
-<h4><strong>COMPETITIONS</strong></h4>
-<p>Selected students will represent the school in a range of competitions covering areas like literature, writing and oracy. The school takes part annually in the Moo-O awards as well as the Wits and Words. Examples of writing competitions students have taken part in include the National English Writing Competition and the SOTA Primary 6 Creative Writing Competition. Students were also selected to take part in the i-Speak competition, Mythos and PESA.</p>
+
+
+
+
 <img src="/images/el14.jpg"><br>
 <img src="/images/el15.jpg">
 <table style="border-collapse: collapse; width: 100%;" border="1">
