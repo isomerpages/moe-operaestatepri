@@ -65,15 +65,8 @@ The Writer's Gallery is an engaging collection of students' writing from Primary
 <h4><strong>USEFUL WEBSITES</strong></h4>
 <img src="/images/el18.jpg">
 <p><strong>#oepsreads<br></strong><em>Book Recommendations by students and teachers<br></em><a href="https://padlet.com/operaestateprisch/oepsreads">https://padlet.com/operaestateprisch/oepsreads</a></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 40%;"> </td>
-<td style="width: 60%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
 
-<p><u><strong>Reading Resources </strong></u><strong>National Library Board<br></strong><em>Students to log in using their NLB membership ID<br></em><a href="http://www.nlb.gov.sg/discovereads/primary-resources/"><u>http://www.nlb.gov.sg/discovereads/primary-resources/</u></a></p>
-<p><strong>Scholastic Literacy Pro &amp; Library (P3 &amp; P4)<br></strong><em>P3 and P4 Students to login with the Scholastic ID<br></em>http://<a href="http://bit.ly/oeplitpro">bit.ly/oeplitpro</a></p>
+<p><u><strong>Reading Resources </strong></u><br><strong>National Library Board<br></strong><em>Students to log in using their NLB membership ID<br></em><a href="http://www.nlb.gov.sg/discovereads/primary-resources/"><u>http://www.nlb.gov.sg/discovereads/primary-resources/</u></a></p>
+
+
 <p><strong>Epic!<br></strong><em>Students to log in using Epic! class code. Free access weekdays from 7am to 3pm.<br></em><a href="https://www.getepic.com/"><u>https://www.getepic.com/</u></a></p>
