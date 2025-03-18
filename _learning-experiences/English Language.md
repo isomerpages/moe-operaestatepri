@@ -12,12 +12,14 @@ variant: markdown
 <p align="justify"><u><b>P1 and P2 Learning Experiences</b></u>
 <br>In line with our Curriculum Framework, the students engage in learning opportunities to discover their strengths, interests and improve in their areas of weaknesses. Students learn and use the EL skills to share their passion and personal experiences through activities such as the OPERAXpress, Reader’s Theatre and learning journeys.
 	
+
+	
+<img src="/images/English/english_1.jpg"><br>
+<img src="/images/English/english_2.jpg"><br>
+<img src="/images/English/english_3.jpg">
 	
 	
 	
-<img src="/images/el2.jpg"><br>
-<img src="/images/el3.png"><br>
-<img src="/images/el4.jpg">
 </p><p>In line with our Curriculum Framework, the lower primary students engage in learning opportunities to discover their strengths, interests and improve in their areas of weaknesses. Students share their passion and personal experiences through activities such as the OPERAXpress and Show and Tell.</p>
 <p>Despite the recent SMM, students continue to engage in learning journeys through in-school movie screenings, Zoom learning journeys and online collaboration with their peers. From dressing up as the animal characters in Walking Through The Jungle to observing the fascinating transformation of a butterfly from a caterpillar to a beautiful winged adult before releasing it to the wild for A Butterfly is Born, students learn to read, write, listen and speak about the different STELLAR titles they enjoy in the classes.</p>
 <p><strong><u>What’s Up<br></u></strong>To help enhance the students’ awareness of global issues and current affairs, Primary 5 and 6 students receive a copy of the “What’s Up” Student newspaper every month. Teachers use the “What’s Up” newspaper in class to generate class discussions and get students to reflect on and think critically about global issues. Students can write in to the What’s Up publishers to share their views and perspectives on the issues reported and good letters will get published. Several of our students’ responses have been published over the past few years.</p>
