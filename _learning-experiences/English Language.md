@@ -40,25 +40,14 @@ The annual book Character day in Language Week was made extra special this year 
 <img src="/images/English/Languageweek/combine2.jpg">
 	
 	
-	
-	
-	
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%;"><a href="https://drive.google.com/file/d/12XCaQi5LtMsYdvfsi5D9ixmswYpynnAS/view"><img style="width: 100%;" src="/images/el11.jpg"></a>
-<p style="text-align: center;"><strong><a href="https://drive.google.com/file/d/12XCaQi5LtMsYdvfsi5D9ixmswYpynnAS/view">Click on the picture to view Wearing Mask Video</a></strong></p></td>
-<td style="width: 33.3333%;"><a href="https://drive.google.com/file/d/1KbZ0KrRVuxMAt8A0mxjmysjdi7vshpcZ/view"><img style="width: 100%;" src="/images/el12.jpg"></a>
-<p style="text-align: center;"><strong><a href="https://drive.google.com/file/d/1KbZ0KrRVuxMAt8A0mxjmysjdi7vshpcZ/view">Click on the picture to view Washing Hands Video</a></strong></p></td>
-<td style="width: 33.3333%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p><strong>P5 - Writing Programme</strong></p>
-<ul>
-<li>The Primary 5 pupils are introduced to different forms of writing that promotes their creativity. They are given an opportunity to write narratives of different genres and they also have a go at coming up with their own poems and posters. As they further develop their confidence and proficiency in their writing, some pupils have also taken on the challenge of developing their own chapter books with engaging</li>
-</ul>
-<p>The Primary 5 pupils also have the chance to produce a newsletter for the school which keeps pupils and staff up to date on all the ongoing school events. </p>
+<p align="justify"><b><u>Writer's Gallery</u></b><br>
+The Writer's Gallery is an engaging collection of students' writing from Primary 1 to Primary 6. It displays the creative journey of young minds through stories, poems, and reflections, showcasing their growth and imagination. Each piece, filled with unique perspectives and voices, highlights the evolving skills and artistic expressions of these budding writers, celebrating their literary achievements and inspiring their future endeavors.</p>
+<b><a href="https://drive.google.com/file/d/1qhP71qmKlK7At8jDUjUzDuRJD9bZ0w1-/view?usp=sharing">Click here to see the gallery</a></b><br>
+
+
+
+
+
 <img src="/images/el13.jpg">
 <h4><strong>COMPETITIONS</strong></h4>
 <p>Selected students will represent the school in a range of competitions covering areas like literature, writing and oracy. The school takes part annually in the Moo-O awards as well as the Wits and Words. Examples of writing competitions students have taken part in include the National English Writing Competition and the SOTA Primary 6 Creative Writing Competition. Students were also selected to take part in the i-Speak competition, Mythos and PESA.</p>
