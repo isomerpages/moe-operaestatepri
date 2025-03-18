@@ -28,17 +28,12 @@ variant: markdown
 <img src="/images/English/Whatsup/combine2.jpg">
 
 
+<p align="justify"><b><u>Newsmaker</u></b><br>
+The Primary 5 and 6 students have learned to produce news videos using the NewsMaker program, creating content to explore issues that are close to their hearts. The Upper Primary students have also attended a masterclass conducted by a ChannelNewsAsia journalist to learn how to be more effective communicators.</p>
 
 
-<p><span style="text-decoration: underline;"><strong>Language Week</strong></span></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/el6.jpg"></td>
-<td style="width: 50%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
+
+
 <img src="/images/el7.jpg"><br>
 <img src="/images/el8.jpg">
 <p><strong>SUPPORT PROGRAMMES</strong></p>
