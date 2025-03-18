@@ -53,24 +53,15 @@ The Writer's Gallery is an engaging collection of students' writing from Primary
 
 <p align="justify"><b><u>Reading Remediation Programme (RRP) (P3-P4)</u></b><br>An intervention programme for Primary 3 and 4 students who did not meet the discharge criteria for LSP and who do not have dyslexia at the end of Primary 2 LSP. The RRP focuses on improving (i) word recognition and spelling, (ii) fluency, (iii) vocabulary and (iv) reading comprehension in the students.</p>
 
+<h4><strong>EXTENSION PROGRAMMES</strong></h4>
+
+<p align="justify"><b><u>English Enrichment</u></b><br>The EL Enrichment is an extension programme targeting mainly Primary 4 and 5 students who display strong language skills and positive disposition towards learning. The programme involves weekly training sessions where students will develop 21st Century Competencies like research skills, critical thinking and creative thinking skills through communication skills in oracy and writing.</p>
+
+<p align="justify"><b><i>P4 Oracy Programme</i></b><br>The Primary 4 pupils are introduced to public-speaking skills and broadcast journalism in the course of the enrichment programme. During each session, they undergo training, engage in meaningful activities, work collaboratively and eventually showcase their learning through different platforms such as the school’s bi-weekly news programme – Good Morning OPERA. These sessions ultimately develop them into confident and articulate communicators.</p>
+
+<p align="justify"><b><i>P5 Writing Programme</i></b><br>The Primary 5 pupils are introduced to different forms of writing that promotes their creativity. They are given an opportunity to write narratives of different genres and they also have a go at coming up with their own poems and posters. As they further develop their confidence and proficiency in their writing, some pupils have also taken on the challenge of developing their writing portfolio.</p>
 
 
-
-
-
-<img src="/images/el14.jpg"><br>
-<img src="/images/el15.jpg">
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%;"><a href="https://www.youtube.com/watch?app=desktop&amp;v=UZncKMZ9DOE&amp;feature=youtu.be"><img style="width: 100%;" src="/images/el16.jpeg"></a>
-<p style="text-align: center;"><strong><a href="https://www.youtube.com/watch?app=desktop&amp;v=UZncKMZ9DOE&amp;feature=youtu.be">Click on the picture to view Nicole's speech</a></strong></p></td>
-<td style="width: 33.3333%;"><a href="https://www.youtube.com/watch?app=desktop&amp;v=xcXO42qryeA&amp;feature=youtu.be"><img style="width: 100%;" src="/images/el17.jpeg"></a>
-<p style="text-align: center;"><strong><a href="https://www.youtube.com/watch?app=desktop&amp;v=xcXO42qryeA&amp;feature=youtu.be">Click on the picture to view Kaejay's speech</a></strong></p></td>
-<td style="width: 33.3333%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>USEFUL WEBSITES</strong></h4>
 <img src="/images/el18.jpg">
 <p><strong>#oepsreads<br></strong><em>Book Recommendations by students and teachers<br></em><a href="https://padlet.com/operaestateprisch/oepsreads">https://padlet.com/operaestateprisch/oepsreads</a></p>
