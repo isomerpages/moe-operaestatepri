@@ -30,7 +30,7 @@ variant: markdown
 
 <p align="justify"><b><u>Newsmaker</u></b><br>
 The Primary 5 and 6 students have learned to produce news videos using the NewsMaker program, creating content to explore issues that are close to their hearts. The Upper Primary students have also attended a masterclass conducted by a ChannelNewsAsia journalist to learn how to be more effective communicators.</p>
-
+<b><a href="https://drive.google.com/file/d/149tnApLDy7a2hXEWyUbsPdhY9gAWap8u/view?usp=sharing">Click here to watch the video</a></b>
 
 
 
