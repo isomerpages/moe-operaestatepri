@@ -30,20 +30,19 @@ variant: markdown
 
 <p align="justify"><b><u>Newsmaker</u></b><br>
 The Primary 5 and 6 students have learned to produce news videos using the NewsMaker program, creating content to explore issues that are close to their hearts. The Upper Primary students have also attended a masterclass conducted by a ChannelNewsAsia journalist to learn how to be more effective communicators.</p>
-<b><a href="https://drive.google.com/file/d/149tnApLDy7a2hXEWyUbsPdhY9gAWap8u/view?usp=sharing">Click here to watch the video</a></b>
+<b><a href="https://drive.google.com/file/d/149tnApLDy7a2hXEWyUbsPdhY9gAWap8u/view?usp=sharing">Click here to watch the video</a></b><br><br>
 
 
-
-<img src="/images/el7.jpg"><br>
-<img src="/images/el8.jpg">
-<p><strong>SUPPORT PROGRAMMES</strong></p>
-<p><u>Learning Support Programme (LSP)&nbsp;</u><strong>(P1-P2)<br></strong>A specialised early intervention programme aimed at providing learning support to pupils who enter Primary 1 with weak English language and literacy skills. Pupils are identified for LSP through a systematic screening process carried out at the beginning of Primary 1. The objective of the LSP is to equip pupils with basic literacy skills so that they could access learning in the regular classroom.</p>
-<p><u>School-based Dyslexia Remediation Programme (SDR) </u><strong>(P3-P4)<br></strong>A two-year intervention for Primary 3 and 4 students who are identified through a systematic screening process for dyslexia conducted at the end of Primary 2. The programme is conducted in small groups by trained school personnel using a remediation curriculum designed by MOE Reading Specialists. The curriculum has been designed taking into consideration the students’ learning profile and the contents of the mainstream English language curriculum.</p>
-<p><u>Reading Remediation Programme (RRP) </u><strong>(P3-P4)<br></strong>An intervention programme for Primary 3 and 4 students who did not meet the discharge criteria for LSP and who do not have dyslexia at the end of Primary 2 LSP. The RRP focuses on improving (i) word recognition and spelling, (ii) fluency, (iii) vocabulary and (iv) reading comprehension in the students.</p>
-<p><strong>EXTENSION PROGRAMMES</strong></p>
-<p><u>English Enrichment<br></u>The EL Enrichment is an extension programme targeting mainly Primary 4 and 5 students who display strong language skills and positive disposition towards learning. The programme involves weekly training sessions where students will develop 21st Century Competencies like research skills, critical thinking and creative thinking skills through communication skills in oracy and writing.</p>
-<p><em>P4 - Oracy Programme<br></em>The Primary 4 pupils are introduced to debating and public-speaking skills in the course of the enrichment programme. During each session, they undergo training, engage in meaningful activities, work collaboratively and eventually showcase their learning through different platforms such as external competitions. These sessions ultimately develop them into confident and articulate communicators.</p>
-<img src="/images/el9.jpg">
+<p align="justify"><b><u>Language Week</u></b><br>
+During Language Week, students discovered the joy of reading through a variety of language activities. From dramas to poetry recitations to media reports, students used the language when presenting their information. They also participated actively in engaging English Language-themed recess activities such as Bingo or Snakes and Ladders.<br><br>
+The annual book Character day in Language Week was made extra special this year with the visit of Minister Chan. Check out his IG to find out what he thought about it.</p>
+<img src="/images/English/Languageweek/combine1.jpg"><br>
+<img src="/images/English/Languageweek/combine2.jpg">
+	
+	
+	
+	
+	
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
