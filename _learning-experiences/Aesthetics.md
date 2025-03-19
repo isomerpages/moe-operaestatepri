@@ -16,7 +16,7 @@ variant: markdown
 
 
 
-<img style="width: 65%;" src="/images/art1.gif">
+<img style="width: 85%;" src="/images/Music/graph1.jpg">
 
 
 <h4><b>Art</b></h4>
