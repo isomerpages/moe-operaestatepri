@@ -5,8 +5,18 @@ description: ""
 variant: markdown
 ---
 <h4><b>Music</b></h4>
-<p style="font-size:18px" align="justify">Our music education philosophy embraces the belief that all children are musical and seeks to develop their aural and expressive abilities and sensibilities to empower them to appreciate and participate in music. This is in alignment with the Singapore Curriculum Philosophy that every child wants to and can learn. The Primary Music syllabus is developed on the premise that every child possesses innate musical qualities that could be harnessed and developed. Students will have the opportunities to explore their environment through sounds and develop a connection with music through experiences that are meaningful and valuable. These include the ability to listen, sing, play, create and express themselves musically. </p>
-<img style="width: 65%;" src="/images/art1.gif">
+<p style="font-size:16px" align="justify">Through the Music curriculum, students will be introduced to a wide range of genres and  styles to put them in touch with their heritage as well as deepen their understanding of the  cultural diversity of music in Singapore and the world. In addition, the Music curriculum can  contribute to the holistic development of our students by developing 21st Century  Competencies (21CC), values, character and social-emotional well-being. It also contributes  towards extra-musical skills including psychomotor skills. The Music curriculum also lays the  foundation for further educational opportunities in music and endeavours to foster a lifelong  interest and involvement in music which would enable our students to appreciate and  contribute to Singapore’s cultural tapestry. </p>
+
+<p align="justify">The Music Syllabus aims to enable students to:<br>  </p><ul>
+	<li>Acquire and apply musical skills, knowledge and understanding through Listening,  Creating and Performing<br></li>  
+	<li>Develop abilities for creative expression and communication<br></li>
+	<li>Develop an understanding and appreciation of music in local and global cultures<br></li>
+	<li>Cultivate a life-long enjoyment and involvement in music.<p></p></li></ul>  
+
+
+
+
+<img style="width: 85%;" src="/images/Music/graph1.jpg">
 
 
 <h4><b>Art</b></h4>
@@ -35,8 +45,3 @@ variant: markdown
 
 
 <img style="width: 100%;" src="/images/2024/Aes/AES18.jpg"><br>
-
-
-
-
-
