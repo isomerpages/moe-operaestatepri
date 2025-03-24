@@ -5,17 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-<h4><strong><a title="Our CCA Video (Click here)" href="https://drive.google.com/file/d/1oWOv5IegfsX7kk-tcoAthnqP0AYtU7MT/view" target="_blank" rel="noopener">OUR CCA VIDEO (CLICK HERE)</a></strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 40%;"><img align="center" src="/images/scouts1.jpg"></td>
-<td style="width: 60%;">&nbsp;</td>
-</tr>
-</tbody>
-</table><br>
-
-
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
@@ -27,9 +16,7 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">There are about </span><span style="font-size:
-  14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin">15<span style="color:#484848"> Cub Scouts. They are from P3 to P6. Cub Scouts engage themselves in various planned activities to achieve the Proficiency badges and the Progress badges. With self-discipline many of our Cub Scouts reach certain level of achievement.</span></span></p></td></tr></tbody></table><br>
+  minor-latin;color:#484848">At OEPS, it is an exciting, fun-filled programme that focuses on building character, encouraging personal growth, and fostering a sense of community. Cub Scouts develop valuable life skills, confidence and teamwork through engaging activities such as hiking, crafting and community service.</span></p></td></tr></tbody></table><br>
 
 
 
@@ -140,7 +127,7 @@ variant: markdown
 
 
 
-<h4 align="middle"><strong>GALLERY - <a title="Our CCA Video (Click here)" href="https://albumizr.com/a/tPaT" target="_blank" rel="noopener">(CLICK HERE)</a></strong></h4>
+<h4 align="middle"><strong>GALLERY - <a title="Our CCA Video (Click here)" href="https://albumizr.com/a/QZlw" target="_blank" rel="noopener">(CLICK HERE)</a></strong></h4>
 <img style="width:300px;height:300px;" src="/images/Cca/Scouts/scouts.jpg">
 
 
