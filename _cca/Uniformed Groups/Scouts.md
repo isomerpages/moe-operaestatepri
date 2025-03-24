@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#2F5496;mso-background-themecolor:
@@ -128,7 +127,7 @@ variant: markdown
 
 
 <h4 align="middle"><strong>GALLERY - <a title="Our CCA Video (Click here)" href="https://albumizr.com/a/QZlw" target="_blank" rel="noopener">(CLICK HERE)</a></strong></h4>
-<img style="width:300px;height:300px;" src="/images/Cca/Scouts/scouts.jpg">
+<img style="width:400px;height:300px;" src="/images/Cca/Scouts/5.jpg">
 
 
 
