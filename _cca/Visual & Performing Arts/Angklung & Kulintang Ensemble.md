@@ -30,7 +30,7 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">To develop pupils’ abilities to play the Angklung and Kulintang as an ensemble.</span></p></td></tr></tbody></table><br>
+  minor-latin;color:#484848">1. To instil discipline, resilience, values and teamwork in our members.<br><br>2. To ignite our members’ passion in the performing arts.</span></p></td></tr></tbody></table><br>
 
 
 
@@ -45,7 +45,7 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">Students in the Angklung/ Kulintang ensemble also play an active role in bringing music to students in Tao Nan School during a cross-cultural exchange musical activity when students from both schools exchanged musical knowledge of their instrumental ensembles with one another. <br><br>Other types of musical experiences in the community include learning journey to learn more about the traditional Chinese Opera. Students in the Angklung/ Kulintang ensemble has a first hand experience in donning on traditional Chinese Opera costumes and appreciating the music and movements of this genre of opera from the culture bearers themselves. <br><br>1) Cross Cultural Exhange with Tao Nan School's Chinese Orchestra and Guzheng 2022<br><br>2) Angklung learning journey (Chinese opera and dance) 2023<br><br>3) Istana Open House during Hari Raya 2019<br><br>4) South East Clean and Green Singapore Carnival 2018<br><br>5) School’s Annual Prize Giving &amp; MuzArt Day concerts<br><br>6) Combined Schools Angklung Extravaganza 2013 – 5th June (Republic Polytechnic – The Republic Cultural Centre)<br><br>7) Golden Rooster Chinese New Year Celebration at Siglap CC</span></p></td></tr></tbody></table><br>
+  minor-latin;color:#484848">1. Collaboration with other schools and external stakeholders.<br><br>2. Singapore Youth Festival arts presentation.<br><br>3. School and other outreach programmes.<br><br>4. Annual Prize Giving Day.<br><br>5. CCA learning journeys.<br><br>6. CCA bonding day.</span></p></td></tr></tbody></table><br>
 	
 
 
@@ -60,12 +60,15 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   11.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin">1) Certificate of Achievement in 2018<br>2) Certificate of Distinction in 2016</span><span style="font-size:
+  minor-latin">2024 - Certificate of Distinction<br><br>2022 - Certificate of Accomplishment<br><br>2020 - Certificate of Accomplishment.</span><span style="font-size:
   14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:#484848"></span></p></td></tr></tbody></table>
 
-<h4 align="middle"><strong>GALLERY - <a title="Our CCA Video (Click here)" href="https://albumizr.com/a/s-L1" target="_blank" rel="noopener">(CLICK HERE)</a></strong></h4>
-<img style="width:450px;height:300px;" src="/images/Cca/angklung.jpg"><br>
+<h4 align="middle"><strong>GALLERY - <a title="Our CCA Video (Click here)" href="https://albumizr.com/a/M3Rd" target="_blank" rel="noopener">(CLICK HERE)</a></strong></h4>
+<img style="width:450px;height:300px;" src="/images/Cca/Angklung/angklung2.jpg"><br>
+
+<h4 align="middle"><strong>VIDEO - <a title="Video" href="https://drive.google.com/file/d/1pKvI7pBGwmLeG8YOO8m0vrut0bsyQ4v0/view?usp=drivesdk" target="_blank" rel="noopener">(CLICK HERE)</a></strong></h4>
+<img style="width:450px;height:300px;" src="/images/Cca/Angklung/angklung1.jpg"><br>
 
 
 
