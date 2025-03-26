@@ -27,13 +27,6 @@ sections:
       image: /images/superfood2.jpg
       alt: Image alt text
   - infopic:
-      title: First Day of School
-      id: infopic
-      button: CLICK HERE
-      url: https://www.operaestatepri.moe.edu.sg/dads-for-life/
-      image: /images/2024/Dad for LIfe /DadsForLife_2_line_4c.jpg
-      alt: Image alt text
-  - infopic:
       title: P1 Orientation for 2025 Intake
       description: For more information,
       button: Click here
