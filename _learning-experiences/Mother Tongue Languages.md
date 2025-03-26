@@ -57,7 +57,8 @@ Authentic learning experiences are created within the curriculum to bring classr
 
 <h4>EXTENSION PROGRAMMES</h4>
 <p align="justify"><strong><u>Competitions<br></u></strong>The department provides opportunities and exposure to selected students to stretch their potential in relevant language skills, e.g. writing and oracy. Some competitions that our students have participated in include Text Recital Competition, On-the-Spot Chinese Creative Essay Writing Competition, National Primary School Picture Book Creation Competition, National Pintar Kata App Competition and Muthamizh Vizha.</p>
-<img style="width:300px;height:200px;" src="/images/MT/11.jpg">
+<img style="width:300px;height:200px;" src="/images/MT/11.jpg"><br>
+<img style="width:400px;height:300px;" src="/images/mt2024new5.jpg">
 
 <h4><strong>USEFUL WEBSITES</strong></h4>
 <p><u><strong>FOR CL LEARNING</strong></u></p>
