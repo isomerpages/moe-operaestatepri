@@ -7,8 +7,8 @@ variant: markdown
 <h4>CURRICULUM FRAMEWORK</h4>
 <img style="width:300px;height:300px;" src="/images/MT/graph.jpg">
 
-<p align="justify">The new Primary MTL curriculum enables young learners to experience the joy of learning MTL, so as to motivate them to like and learn MTL for life. The Primary MTL curriculum equips learners with the essential communication and language competencies, culture &amp; values and 21st Century Competencies, and helps them become confident MTL users.<br><br>Communication - Students are equipped with foundational language skills to ensure effective communication.
-Culture &amp; Values - Students learn to appreciate their own MTLs, culture and traditions.
+<p align="justify">The new Primary MTL curriculum enables young learners to experience the joy of learning MTL, so as to motivate them to like and learn MTL for life. The Primary MTL curriculum equips learners with the essential communication and language competencies, culture &amp; values and 21st Century Competencies, and helps them become confident MTL users.<br><br>Communication - Students are equipped with foundational language skills to ensure effective communication.<br><br>
+Culture &amp; Values - Students learn to appreciate their own MTLs, culture and traditions.<br><br>
 21st Century Competencies - Students are equipped with foundational social-emotional competencies and competencies such as civic literacy, global awareness and cross-cultural skills, critical and inventive thinking.
 </p>
 
