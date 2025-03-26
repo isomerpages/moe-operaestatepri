@@ -64,8 +64,11 @@ variant: markdown
   14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:#484848"></span></p></td></tr></tbody></table>
 
-<h4 align="middle"><strong>GALLERY - <a title="Our CCA Video (Click here)" href="https://albumizr.com/a/s-L1" target="_blank" rel="noopener">(CLICK HERE)</a></strong></h4>
-<img style="width:450px;height:300px;" src="/images/Cca/angklung.jpg"><br>
+<h4 align="middle"><strong>GALLERY - <a title="Our CCA Video (Click here)" href="https://albumizr.com/a/M3Rd" target="_blank" rel="noopener">(CLICK HERE)</a></strong></h4>
+<img style="width:450px;height:300px;" src="/images/Cca/Angklung/angklung2.jpg"><br>
+
+<h4 align="middle"><strong>VIDEO - <a title="Video" href="https://drive.google.com/file/d/1pKvI7pBGwmLeG8YOO8m0vrut0bsyQ4v0/view?usp=drivesdk" target="_blank" rel="noopener">(CLICK HERE)</a></strong></h4>
+<img style="width:450px;height:300px;" src="/images/Cca/Angklung/angklung1.jpg"><br>
 
 
 
