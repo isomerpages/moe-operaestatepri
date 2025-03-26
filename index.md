@@ -54,12 +54,4 @@ sections:
       url: https://drive.google.com/drive/folders/1ZWH062e71VWjuw0cZf3gHrMSlXoCkqvC?usp=sharing
       image: /images/ogtrecess2024.jpg
       alt: Image alt text
-  - infopic:
-      title: E-Open House 2024
-      id: infopic
-      description: For more information,
-      button: CLICK HERE
-      url: https://www.operaestatepri.moe.edu.sg/e-open-house-2024/
-      image: /images/openhouse24.jpg
-      alt: Image alt text
 ---
