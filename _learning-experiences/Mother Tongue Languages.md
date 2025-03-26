@@ -25,7 +25,7 @@ This programme is held in collaboration with the English Department. It aims to 
 
 
 
-<p align="justify"><strong>Mother Tongue Language (MTL) Fortnight</strong><br>
+<p align="justify"><strong><u>Mother Tongue Language (MTL) Fortnight</u></strong><u><br></u>
 During MTL Fortnight, students have the opportunity to be engaged in different cultural activities, e.g. writing Chinese calligraphy, making wayang kulit and designing deepams. Students also showcase their language talents in poetry recitation, storytelling, singing etc and upload their performance clips via Padlet. Another highlight of MTL Fortnight is the online “Escape Room”. Putting on their thinking caps, students solve puzzles based on their own language and culture, making connections to their learning. These engaging activities and experiences will certainly pique our students’ interest in learning about their language and culture.</p>
 <img style="width:500px;height:200px;" src="/images/MT/5.jpg"><br>
 <img style="width:500px;height:200px;" src="/images/MT/6.jpg"><br>
@@ -35,18 +35,18 @@ During MTL Fortnight, students have the opportunity to be engaged in different c
 
 
 
-<p align="justify"><strong>P1 &amp; P2 Speech &amp; Drama</strong><br>
+<p align="justify"><strong><u>P1 &amp; P2 Speech &amp; Drama</u></strong><u><br></u>
 This programme aims to develop students’ oracy skills and arouse their interest in the learning of the language through stories and drama. </p>
 
 <img style="width:500px;height:160px;" src="/images/MT/8.jpg"><br>
 <img style="width:500px;height:200px;" src="/images/MT/9.jpg">
 
-<p><strong>Cultural Performance Exposure Scheme (CL &amp; TL)/Theatre Experience (ML)</strong></p>
-<p>Students are provided opportunities to be exposed to language-related cultural performances by local and foreign performing arts groups. This year, we will again be bringing the students out to the theatre to watch these performances. We hope that through such exposure, it can help to sustain students’ interest in language learning and help them better appreciate their culture.  </p>
+<p align="justify"><strong><u>Cultural Performance Exposure Scheme (CL &amp; TL)/Theatre Experience (ML)</u></strong><br>
+Students are provided opportunities to be exposed to language-related cultural performances by local and foreign performing arts groups. This year, we will again be bringing the students out to the theatre to watch these performances. We hope that through such exposure, it can help to sustain students’ interest in language learning and help them better appreciate their culture.  </p>
 <img src="/images/mt2024new4.jpg">
 
-<p><strong>Authentic Learning Experiences (Lower Primary)</strong></p>
-<p>          Authentic learning experiences are created within the curriculum to bring classroom teaching alive. For example, CL students take on the role of stallholders and customers when purchasing items. Students enjoyed the experience while learning the sentence structures for the lesson. ML students learnt the skill of journal writing through the unit “We are Active Learners”. Students learnt about animal folklore through storytelling and experienced paper weaving before writing about their experiences. Drama-based teaching methods are also employed in the TL classroom. By taking on different roles in an imaginary setting, students are empowered to engage in creative conversations with their peers. The enthusiasm shown by the students during these lessons brings out the joy of learning.</p>
+<p align="justify"><strong><u>Authentic Learning Experiences (Lower Primary)</u></strong><br>
+Authentic learning experiences are created within the curriculum to bring classroom teaching alive. For example, CL students take on the role of stallholders and customers when purchasing items. Students enjoyed the experience while learning the sentence structures for the lesson. ML students learnt the skill of journal writing through the unit “We are Active Learners”. Students learnt about animal folklore through storytelling and experienced paper weaving before writing about their experiences. Drama-based teaching methods are also employed in the TL classroom. By taking on different roles in an imaginary setting, students are empowered to engage in creative conversations with their peers. The enthusiasm shown by the students during these lessons brings out the joy of learning.</p>
 <img src="/images/mother_tongue_6.jpg">
 
 
