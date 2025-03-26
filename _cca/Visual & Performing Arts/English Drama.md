@@ -51,8 +51,8 @@ variant: markdown
 </span></p></td></tr></tbody></table><br>
 	
 
-<h4 align="middle"><strong>GALLERY - <a title="Our CCA Video (Click here)" href="https://albumizr.com/a/RVnq" target="_blank" rel="noopener">(CLICK HERE)</a></strong></h4>
-<img style="width:500px;height:300px;" src="/images/Cca/englishcca.jpg">
+<h4 align="middle"><strong>GALLERY - <a title="Our CCA Video (Click here)" href="https://albumizr.com/a/3c33" target="_blank" rel="noopener">(CLICK HERE)</a></strong></h4>
+<img style="width:500px;height:300px;" src="/images/Cca/Drama/Drama_2.jpg">
 
 
 
