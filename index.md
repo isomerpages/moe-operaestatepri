@@ -27,13 +27,6 @@ sections:
       image: /images/superfood2.jpg
       alt: Image alt text
   - infopic:
-      title: First Day of School
-      id: infopic
-      button: CLICK HERE
-      url: https://www.operaestatepri.moe.edu.sg/dads-for-life/
-      image: /images/2024/Dad for LIfe /DadsForLife_2_line_4c.jpg
-      alt: Image alt text
-  - infopic:
       title: P1 Orientation for 2025 Intake
       description: For more information,
       button: Click here
@@ -53,13 +46,5 @@ sections:
       button: CLICK HERE
       url: https://drive.google.com/drive/folders/1ZWH062e71VWjuw0cZf3gHrMSlXoCkqvC?usp=sharing
       image: /images/ogtrecess2024.jpg
-      alt: Image alt text
-  - infopic:
-      title: E-Open House 2024
-      id: infopic
-      description: For more information,
-      button: CLICK HERE
-      url: https://www.operaestatepri.moe.edu.sg/e-open-house-2024/
-      image: /images/openhouse24.jpg
       alt: Image alt text
 ---
