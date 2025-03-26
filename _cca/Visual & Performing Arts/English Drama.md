@@ -19,7 +19,7 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">The OEPS English Drama cultivates the love for performing arts through experience and involvement in drama. During the sessions, our pupils receive training in Drama techniques, engage in small group activities like script-writing and eventually put together an annual performance to showcase their learning.</span></p></td></tr></tbody></table><br>
+  minor-latin;color:#484848">The OEPS English Drama cultivates the love for performing arts through experience and involvement in drama. During the sessions, our students receive training in Drama techniques, engage in small group activities like script-writing and eventually put together performances to showcase their learning.</span></p></td></tr></tbody></table><br>
 	
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
@@ -47,23 +47,12 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin">2023 - Different Yet One</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin">2022 - The Giving Tree</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin">2020 - International Science Drama Competition</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin">2019 - MuzART Day performance - Charlie and the Chocolate Factory</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin">2018 - Recess programme (Fun with Art and Drama) - MuzART Day performance - The Gruffalo</span></p></td></tr></tbody></table><br>
+  minor-latin">2024 – Momotaro<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-	Mauri and the Sun<br><br>2023 - Different Yet One<br><br>2022 - The Giving Tree<br><br>2020 - International Science Drama Competition<br><br>2019 - MuzART Day performance - Charlie and the Chocolate Factory<br><br>2018 - Recess programme (Fun with Art and Drama) - MuzART Day performance - The Gruffalo
+</span></p></td></tr></tbody></table><br>
 	
 
-<h4 align="middle"><strong>GALLERY - <a title="Our CCA Video (Click here)" href="https://albumizr.com/a/RVnq" target="_blank" rel="noopener">(CLICK HERE)</a></strong></h4>
-<img style="width:500px;height:300px;" src="/images/Cca/englishcca.jpg">
+<h4 align="middle"><strong>GALLERY - <a title="Our CCA Video (Click here)" href="https://albumizr.com/a/3c33" target="_blank" rel="noopener">(CLICK HERE)</a></strong></h4>
+<img style="width:500px;height:300px;" src="/images/Cca/Drama/Drama_2.jpg">
 
 
 
