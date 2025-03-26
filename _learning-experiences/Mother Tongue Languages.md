@@ -7,8 +7,8 @@ variant: markdown
 <h4>CURRICULUM FRAMEWORK</h4>
 <img style="width:300px;height:300px;" src="/images/MT/graph.jpg">
 
-<p align="justify">The new Primary MTL curriculum enables young learners to experience the joy of learning MTL, so as to motivate them to like and learn MTL for life. The Primary MTL curriculum equips learners with the essential communication and language competencies, culture &amp; values and 21st Century Competencies, and helps them become confident MTL users.<br><br>Communication - Students are equipped with foundational language skills to ensure effective communication.
-Culture &amp; Values - Students learn to appreciate their own MTLs, culture and traditions.
+<p align="justify">The new Primary MTL curriculum enables young learners to experience the joy of learning MTL, so as to motivate them to like and learn MTL for life. The Primary MTL curriculum equips learners with the essential communication and language competencies, culture &amp; values and 21st Century Competencies, and helps them become confident MTL users.<br><br>Communication - Students are equipped with foundational language skills to ensure effective communication.<br><br>
+Culture &amp; Values - Students learn to appreciate their own MTLs, culture and traditions.<br><br>
 21st Century Competencies - Students are equipped with foundational social-emotional competencies and competencies such as civic literacy, global awareness and cross-cultural skills, critical and inventive thinking.
 </p>
 
@@ -57,7 +57,8 @@ Authentic learning experiences are created within the curriculum to bring classr
 
 <h4>EXTENSION PROGRAMMES</h4>
 <p align="justify"><strong><u>Competitions<br></u></strong>The department provides opportunities and exposure to selected students to stretch their potential in relevant language skills, e.g. writing and oracy. Some competitions that our students have participated in include Text Recital Competition, On-the-Spot Chinese Creative Essay Writing Competition, National Primary School Picture Book Creation Competition, National Pintar Kata App Competition and Muthamizh Vizha.</p>
-<img style="width:300px;height:200px;" src="/images/MT/10.jpg">
+<img style="width:300px;height:200px;" src="/images/MT/11.jpg"><br>
+<img style="width:400px;height:300px;" src="/images/mt2024new5.jpg">
 
 <h4><strong>USEFUL WEBSITES</strong></h4>
 <p><u><strong>FOR CL LEARNING</strong></u></p>
