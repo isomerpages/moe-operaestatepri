@@ -5,29 +5,41 @@ description: ""
 variant: markdown
 ---
 <h4>CURRICULUM FRAMEWORK</h4>
-<img src="/images/mt2024.jpg">
+<img style="width:300px;height:300px;" src="/images/MT/graph.jpg">
 
-<p>The Mother Tongue Language curriculum focuses on the 3Cs - Communication, Culture and Connection.</p>
-
-<p><b>Communication</b> - able to communicate effectively in the Mother Tongue Language<br>
-	<b>Culture</b> - able to appreciate their cultural heritage <br>
-	<b>Connection</b> - able to connect with others through the language</p>
-
-<p>Through the curriculum, 21st century competencies are also developed, specifically in the areas of critical, adaptive and inventive thinking, communication skills and cross-cultural literacy.   
+<p align="justify">The new Primary MTL curriculum enables young learners to experience the joy of learning MTL, so as to motivate them to like and learn MTL for life. The Primary MTL curriculum equips learners with the essential communication and language competencies, culture &amp; values and 21st Century Competencies, and helps them become confident MTL users.<br><br>Communication - Students are equipped with foundational language skills to ensure effective communication.
+Culture &amp; Values - Students learn to appreciate their own MTLs, culture and traditions.
+21st Century Competencies - Students are equipped with foundational social-emotional competencies and competencies such as civic literacy, global awareness and cross-cultural skills, critical and inventive thinking.
 </p>
 
 <h4>DEPARTMENT PROGRAMMES</h4>
-<p>EXPERIENCES</p>
-<p><strong><u>Language Week</u><br></strong>
+<p align="center"><b>EXPERIENCES</b></p>
+<p align="justify"><strong><u>Language Week<br></u></strong>
 This programme is held in collaboration with the English Department. It aims to instill the joy of reading through a variety of language activities in and out of curriculum. During the week, students get to participate in language games during recess. Choice board reading activities are also designed for the students. Some activities include bookmark design, comic creation as well as reading aloud a book to friends and family. For Mother Tongue (MT), parent volunteers record storytelling videos and these videos are shown to the students during MT lessons. On Character Day, students come to school dressed up as a book character and introduce the character to their friends.</p>
+<img style="width:500px;height:200px;" src="/images/MT/1.jpg"><br>
+<img style="width:500px;height:200px;" src="/images/MT/2.jpg"><br>
+<img style="width:300px;height:200px;" src="/images/MT/3.jpg"><br>
+<img style="width:500px;height:200px;" src="/images/MT/4.jpg">
 
-<p><strong>Mother Tongue Language (MTL) Fortnight</strong></p>
-<p> During MTL Fortnight, students have the opportunity to be engaged in different cultural activities, e.g. writing Chinese calligraphy, making wayang kulit and designing deepams. Students also showcase their language talents in poetry recitation, storytelling, singing etc and upload their performance clips via Padlet. Another highlight of MTL Fortnight is the online “Escape Room”. Putting on their thinking caps, students solve puzzles based on their own language and culture, making connections to their learning. These engaging activities and experiences will certainly pique our students’ interest in learning about their language and culture.</p>
-<img src="/images/mt2024new2.jpg"><br>
 
-<p><strong>P1 &amp; P2 Speech &amp; Drama</strong></p>
-<p>This programme aims to develop students’ oracy skills and arouse their interest in the learning of the language through stories and drama. </p>
-<img src="/images/mt2024new3.jpg">
+
+
+
+<p align="justify"><strong>Mother Tongue Language (MTL) Fortnight</strong><br>
+During MTL Fortnight, students have the opportunity to be engaged in different cultural activities, e.g. writing Chinese calligraphy, making wayang kulit and designing deepams. Students also showcase their language talents in poetry recitation, storytelling, singing etc and upload their performance clips via Padlet. Another highlight of MTL Fortnight is the online “Escape Room”. Putting on their thinking caps, students solve puzzles based on their own language and culture, making connections to their learning. These engaging activities and experiences will certainly pique our students’ interest in learning about their language and culture.</p>
+<img style="width:500px;height:200px;" src="/images/MT/5.jpg"><br>
+<img style="width:500px;height:200px;" src="/images/MT/6.jpg"><br>
+<img style="width:300px;height:200px;" src="/images/MT/7.jpg"><br>
+
+
+
+
+
+<p align="justify"><strong>P1 &amp; P2 Speech &amp; Drama</strong><br>
+This programme aims to develop students’ oracy skills and arouse their interest in the learning of the language through stories and drama. </p>
+
+<img style="width:500px;height:160px;" src="/images/MT/8.jpg"><br>
+<img style="width:500px;height:200px;" src="/images/MT/9.jpg">
 
 <p><strong>Cultural Performance Exposure Scheme (CL &amp; TL)/Theatre Experience (ML)</strong></p>
 <p>Students are provided opportunities to be exposed to language-related cultural performances by local and foreign performing arts groups. This year, we will again be bringing the students out to the theatre to watch these performances. We hope that through such exposure, it can help to sustain students’ interest in language learning and help them better appreciate their culture.  </p>
