@@ -52,16 +52,19 @@ Authentic learning experiences are created within the curriculum to bring classr
 
 <h4>SUPPORT PROGRAMMES</h4>
 <p><strong><u>P4-P6 Remediation Programme</u></strong><br>This programme provides targeted support for identified pupils to address learning gaps and support pupils in their learning through a structured remediation plan.</p>
+
+
+
 <h4>EXTENSION PROGRAMMES</h4>
-<p><strong><u>Competitions<br></u></strong>The department provides opportunities and exposure to selected students to stretch their potential in relevant language skills, e.g. writing and oracy. Some competitions that our students have participated in include Text Recital Competition, On-the-Spot Chinese Creative Essay Writing Competition, National Primary School Picture Book Creation Competition, National Pintar Kata App Competition and Muthamizh Vizha.</p>
-<img src="/images/mt2024new5.jpg">
+<p align="justify"><strong><u>Competitions<br></u></strong>The department provides opportunities and exposure to selected students to stretch their potential in relevant language skills, e.g. writing and oracy. Some competitions that our students have participated in include Text Recital Competition, On-the-Spot Chinese Creative Essay Writing Competition, National Primary School Picture Book Creation Competition, National Pintar Kata App Competition and Muthamizh Vizha.</p>
+<img style="width:300px;height:200px;" src="/images/MT/10.jpg">
 
 <h4><strong>USEFUL WEBSITES</strong></h4>
 <p><u><strong>FOR CL LEARNING</strong></u></p>
-<p><strong>Xuele<br></strong>Aligned to the 2015 Primary School Chinese Language curriculum. Focuses on developing students’ skills in listening, speaking, reading and writing in a fun way. Students can log on to Student Learning Space (SLS) with their account to access the resources..</p>
+<p align="justify"><strong>Xuele<br></strong>Aligned to the 2015 Primary School Chinese Language curriculum. Focuses on developing students’ skills in listening, speaking, reading and writing in a fun way. Students can log on to Student Learning Space (SLS) with their account to access the resources..</p>
 <p><u><strong>FOR ML LEARNING</strong></u></p>
-<p><strong>e-CEKAP<br></strong>(Suitable for Primary 1 to 5) Aligned to the 2015 Primary School Malay Language curriculum. It provides complementary multimedia resources which develop students’ Malay Language skills and knowledge in a fun and engaging way. Students can log on to Student Learning Space (SLS) with their account to access the resources..</p>
+<p align="justify"><strong>e-CEKAP<br></strong>(Suitable for Primary 1 to 5) Aligned to the 2015 Primary School Malay Language curriculum. It provides complementary multimedia resources which develop students’ Malay Language skills and knowledge in a fun and engaging way. Students can log on to Student Learning Space (SLS) with their account to access the resources..</p>
 <p><strong>Young Readers Series, Nabil and Nabilah<br></strong><em>(Suitable for Primary 1 to 3)&nbsp;</em>Developed by the Malay Language Learning and Promotion Committee.<br><a href="https://www.mllpc.sg/agab-publications.html">https://www.mllpc.sg/agab-publications.html</a></p>
 <p><u><strong>FOR TL LEARNING</strong></u></p>
-<p><strong>Theen Tamizh<br></strong>Aligned to the 2015 Tamil Language Primary curriculum, the multimedia resources include animated songs, stories, interactive pages etc. These resources focus on developing students’ language skills and knowledge through joyful learning. Students can log on to Student Learning Space (SLS) with their account to access the resources.</p>
-<p><strong>Kani Mani App<br></strong>This app features a series of interactive and animated eBooks in Tamil for children. The stories and activities (in the form of games) introduces words from the stories in a fun and interactive manner. This eBook is jointly developed by the Tamil Language Learning and Promotion Committee.</p>
+<p align="justify"><strong>Theen Tamizh<br></strong>Aligned to the 2015 Tamil Language Primary curriculum, the multimedia resources include animated songs, stories, interactive pages etc. These resources focus on developing students’ language skills and knowledge through joyful learning. Students can log on to Student Learning Space (SLS) with their account to access the resources.</p>
+<p align="justify"><strong>Kani Mani App<br></strong>This app features a series of interactive and animated eBooks in Tamil for children. The stories and activities (in the form of games) introduces words from the stories in a fun and interactive manner. This eBook is jointly developed by the Tamil Language Learning and Promotion Committee.</p>
