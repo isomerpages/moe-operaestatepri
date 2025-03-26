@@ -2,7 +2,6 @@
 title: Track and Field
 permalink: /athletics/
 description: ""
-third_nav_title: Physical Sports
 variant: markdown
 ---
 <h4><strong><a title="Our CCA Video (Click here)" href="https://drive.google.com/file/d/1BSjB52VxG6aMncPcWC9xojRuEhMkO4r7/view?usp=share_link&quot;" target="_blank" rel="noopener">OUR CCA VIDEO (CLICK HERE)</a></strong></h4>
