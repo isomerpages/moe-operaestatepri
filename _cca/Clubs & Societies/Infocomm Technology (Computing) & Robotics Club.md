@@ -59,28 +59,7 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">Creating Animated Gif Animation using PowerPoint</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">Creating Stop Motion Animation using iPad Stop Motion Studio application.</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">Creating Typography using PowerPoint.</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">Creating Illustration Romero Britto Inspired Digital Art using Inkscape</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">Creating Digital Surrealism Inspired by Salvador Dali and Rene Magritte using pixlr website.</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">Learning Game Coding using Scratch website.</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">Lego SPIKE Prime (Beginner)</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">Lego SPIKE Prime (Intermediate)</span></p></td></tr></tbody></table><br>
+  minor-latin;color:#484848">- Creating online games using MakeCode Arcade<br><br>- ⁠Creating animations using Scratch<br><br>- Learning coding using Minecraft Education<br><br>- Learning coding through creating a VR World using CoSpaces</span></p></td></tr></tbody></table><br>
 	
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
@@ -93,7 +72,7 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">2023 - National Robotics Competition (CoderZ Coding Challenge) - Singapore 2nd place (Primary category)<br><br>2nd place for SG75 Competition:Dynamic – Primary<br><br>2022 - National Robotics Competition (CoderZ Coding Challenge) - Singapore Novice 2nd place Regional Champion<br><br>2021 - First Lego League Challenge - National Robotics Competition<br><br>2020 - First Lego League Challenge - National Robotics Competition<br><br>Craft Animfest 2019<br><br>Young Illustration Award<br><br>Typomania- Video Typo Contest</span></p></td></tr></tbody></table><br>
+  minor-latin;color:#484848">2024 - 1st and 2nd place for SG75 Competition: Dynamic- Primary<br><br>2023 - National Robotics Competition (CoderZ Coding Challenge) - Singapore 2nd place (Primary category)<br><br>2nd place for SG75 Competition:Dynamic – Primary<br><br>2022 - National Robotics Competition (CoderZ Coding Challenge) - Singapore Novice 2nd place Regional Champion<br><br>2021 - First Lego League Challenge - National Robotics Competition<br><br>2020 - First Lego League Challenge - National Robotics Competition<br><br>Craft Animfest 2019<br><br>Young Illustration Award<br><br>Typomania- Video Typo Contest</span></p></td></tr></tbody></table><br>
 
 
 <h4 align="middle"><strong>GALLERY - <a title="Our CCA Video (Click here)" href="https://albumizr.com/a/w6q7" target="_blank" rel="noopener">(CLICK HERE)</a></strong></h4>
