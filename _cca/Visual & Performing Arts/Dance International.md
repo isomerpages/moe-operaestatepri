@@ -101,7 +101,7 @@ variant: markdown
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
   Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  mso-bidi-font-weight:bold">Singapore Youth Festival 2018 (Accomplishment)</span></p></td></tr></tbody></table>
+  mso-bidi-font-weight:bold">- Singapore Youth Festival (2024)<br>- National Day (2024)<br>- Annual Prize Giving Day (2024)<br>- Singapore Youth Festival 2018 (Accomplishment)</span></p></td></tr></tbody></table>
 	
 	
 	
