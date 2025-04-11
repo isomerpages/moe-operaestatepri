@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - CCA.md
+      - CCA (2025).md
       - Physical Sports/.keep
       - Physical Sports/Football.md
       - Physical Sports/Netball.md
