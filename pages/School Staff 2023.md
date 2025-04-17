@@ -11,10 +11,10 @@ variant: markdown
   <h4 style="color: #ffb703; font-size: 1.3em;">Happy 40th to Opera Estate Primary!</h4>
 
   <div style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; margin-top: 30px;" id="timer-boxes">
-    <div class="time-box"><div id="days">00</div><span>Days</span></div>
-    <div class="time-box"><div id="hours">00</div><span>Hours</span></div>
-    <div class="time-box"><div id="minutes">00</div><span>Minutes</span></div>
-    <div class="time-box"><div id="seconds">00</div><span>Seconds</span></div>
+    <div class="time-box"><div id="days">10</div><span>Days</span></div>
+    <div class="time-box"><div id="hours">10</div><span>Hours</span></div>
+    <div class="time-box"><div id="minutes">10</div><span>Minutes</span></div>
+    <div class="time-box"><div id="seconds">100</div><span>Seconds</span></div>
   </div>
 
   
