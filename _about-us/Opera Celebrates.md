@@ -6,120 +6,71 @@ variant: markdown
 ---
 <h4><b> ENGLISH</b></h4>
 
-<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:155.8pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="2" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">Wits &amp; Words (2024)</span></p></td><td style="width:155.85pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">Best Speaker</span></p></td><td style="width:155.85pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Sabrina Kok Xin Ai</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">Certificate of Participation</span></p></td><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Yung Sherene<br>Hannah Hui Xiu Deery<br>Bhardwaj Mishika<br>Kritika Mclaren</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:155.8pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">Newsmaker Award (2024)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">Certificate of Participation</span></p></td><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Marlie De Maria<br>Ng Yu Le<br>Toshniwal Neil Avi Ritesh</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:155.8pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">What’s Up (2024)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">Letters Featured</span></p></td><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Ellie Ng<br>Maria George Manjakkal<br>Gloria Aurielle&nbsp;Soenjaya<br>Kian Nizami<br>Isabelle Goh<br>Mishka Khadolia<br>Luke Toh<br>Shuddhi Mehrotra<br>Zac Ashton Kee<br>Gloria Aurielle Soenjaya<br>Ria Sarda<br>Isabelle Goh Xuwen<br>Aria Darma Bte Muhd Imran<br>Olivia Choo<br>Ng Yu En</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:155.8pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG" lang="EN-SG">OEPS Writer’s Gallery (2024)</span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1"></span></p></td><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-SG" lang="EN-SG">Certificate of appreciation to our future best-selling authors</span><span style="font-family:
-  &quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1"></span></p></td><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:
-  text1;mso-ansi-language:EN-SG" lang="EN-SG">Noor Aysha Ismerelda<br>Zimur Vihaan Amoi<br>Sanaya Ahmed<br>Ayaansh Sharma<br>Nur Khadeejah Safiyyah<br>Evanna Rayyah Hafieez<br>Harvey Chen Si Kai<br>Leela Scott<br>Anahita Nair<br>Caleb Wong<br>Corwin Koh<br>Nur Maryam<br>Rayyan Rai Mohamed Anas<br>Alexandra Crossley<br>Pek Xuan Xuan<br>Pyay Nyein Kyaw Armo<br>Rania Pratama</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:155.8pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="2" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">OEPS Plain English Speaking Competition 2024</span></p></td><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">Honourable Mention<br>(Top Three Lower Primary Category)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Swara Sheth<br>Aaria Dhruv<br>Tang Yuan Xuan Sophia</span></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes"><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1">Honourable Mention<br>(Primary 4 Category)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Ashleigh Shen Qihan<br>Anika Gorrepati<br>Yu Le</span></p></td></tr></tbody></table>
 
 
+<table style="width:634.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0cm 0cm 0cm 0cm" width="845" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:211.3pt;border:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="282"><p class="MsoNormal">Wits &amp; Words (2025)</p></td><td style="width:211.35pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="282"><p class="MsoNormal">Letters Featured</p></td><td style="width:211.35pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="282"><p class="MsoNormal">Morgen Ang</p><p class="MsoNormal">Jayden Lim</p></td></tr><tr style="mso-yfti-irow:1"><td style="width:211.3pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="2" width="282"><p class="MsoNormal">Wits &amp; Words (2024)</p></td><td style="width:211.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="282"><p class="MsoNormal">Best Speaker</p></td><td style="width:211.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="282"><p class="MsoNormal">Sabrina Kok Xin Ai</p></td></tr><tr style="mso-yfti-irow:2"><td style="width:211.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="282"><p class="MsoNormal">Certificate of Participation</p></td><td style="width:211.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="282"><p class="MsoNormal">Yung Sherene<br>Hannah Hui Xiu Deery<br>Bhardwaj Mishika<br>Kritika Mclaren</p></td></tr><tr style="mso-yfti-irow:3"><td style="width:211.3pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="282"><p class="MsoNormal">Newsmaker Award (2024)</p></td><td style="width:211.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="282"><p class="MsoNormal">Certificate of Participation</p></td><td style="width:211.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="282"><p class="MsoNormal">Marlie De Maria<br>Ng Yu Le<br>Toshniwal Neil Avi Ritesh</p></td></tr><tr style="mso-yfti-irow:4"><td style="width:211.3pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="282"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">What’s Up (2024)</p></td><td style="width:211.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="282"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">Letters Featured</p></td><td style="width:211.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="282"><p class="MsoNormal">Ellie Ng<br>Maria George Manjakkal<br>Gloria Aurielle&nbsp;Soenjaya<br>Kian Nizami<br>Isabelle Goh<br>Mishka Khadolia<br>Luke Toh<br>Shuddhi Mehrotra<br>Zac Ashton Kee<br>Gloria Aurielle Soenjaya<br>Ria Sarda<br>Isabelle Goh Xuwen<br>Aria Darma Bte Muhd Imran<br>Olivia Choo<br>Ng Yu En</p></td></tr><tr style="mso-yfti-irow:5"><td style="width:211.3pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="282"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">OEPS Writer’s Gallery (2024)</span></p></td><td style="width:211.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="282"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal">&nbsp;</p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Certificate of appreciation to our future best-selling authors</span></p></td><td style="width:211.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="282"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Noor Aysha Ismerelda<br>Zimur Vihaan Amoi<br>Sanaya Ahmed<br>Ayaansh Sharma<br>Nur Khadeejah Safiyyah<br>Evanna Rayyah Hafieez<br>Harvey Chen Si Kai<br>Leela Scott<br>Anahita Nair<br>Caleb Wong<br>Corwin Koh<br>Nur Maryam<br>Rayyan Rai Mohamed Anas<br>Alexandra Crossley<br>Pek Xuan Xuan<br>Pyay Nyein Kyaw Armo<br>Rania Pratama</span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:211.3pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="2" width="282"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">OEPS Plain English Speaking Competition 2024</p></td><td style="width:211.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="282"><p class="MsoNormal">Honourable Mention<br>(Top Three Lower Primary Category)</p></td><td style="width:211.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="282"><p class="MsoNormal">Swara Sheth<br>Aaria Dhruv<br>Tang Yuan Xuan Sophia</p></td></tr><tr style="mso-yfti-irow:7;mso-yfti-lastrow:yes"><td style="width:211.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="282"><p class="MsoNormal">Honourable Mention<br>(Primary 4 Category)</p></td><td style="width:211.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="282"><p class="MsoNormal">Ashleigh Shen Qihan<br>Anika Gorrepati<br>Yu Le</p></td></tr></tbody></table>
+
+
+<h4><b>SCIENCE</b></h4>
+
+
+<table style="width:634.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.5pt solid windowtext;
+ mso-border-insidev:.5pt solid windowtext" width="845" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:211.3pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="3" width="282"><p class="MsoNormal">&nbsp;</p><p style="text-align:center" align="center" class="MsoNormal">eTHINK Challenge 2024</p></td><td style="width:211.35pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="282"><p style="text-align:center" align="center" class="MsoNormal">Honourable Mention</p></td><td style="width:211.35pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="282"><p style="text-align:center" align="center" class="MsoNormal">Gregory Tay</p></td></tr><tr style="mso-yfti-irow:1"><td style="width:211.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="282"><p style="text-align:center" align="center" class="MsoNormal">Bronze Award</p></td><td style="width:211.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="282"><p style="text-align:center" align="center" class="MsoNormal">Anjelika Rajesh</p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:68.45pt"><td style="width:211.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:68.45pt" valign="top" width="282"><p style="text-align:center" align="center" class="MsoNormal">Silver Award</p></td><td style="width:211.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:68.45pt" valign="top" width="282"><p style="text-align:center" align="center" class="MsoNormal">Jeenika Agarwal</p><p style="text-align:center" align="center" class="MsoNormal">Tansirisithikul Pannavit</p></td></tr></tbody></table>
 
 
 
@@ -253,92 +204,41 @@ variant: markdown
   
   <h4><b> MOTHER TONGUE</b></h4>
 
-<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:155.8pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;background:white">National Chinese Calligraphy</span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1"><br><span style="background:white">Competition (2024)</span></span></p></td><td style="width:155.85pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;background:white">Distinction</span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1"></span></p></td><td style="width:155.85pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1;
-  background:white">Liang Yu Chen<br>Zoey Tock En Xi<br>Yuina Hibino</span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1"></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:155.8pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="2" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;background:white">&nbsp;</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;background:white">E7 Cluster Inter-primary Schools Malay Language Competition 2024</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+
+<table style="width:634.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0cm 0cm 0cm 0cm" width="845" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p class="MsoNormal">Malay Language Magazine<br><i>Mari Membaca</i></p></td><td style="width:155.85pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p class="MsoNormal">Readers’ Contributions Spotlight</p></td><td style="width:155.85pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p class="MsoNormal">Rafael bin Rohaizat</p></td></tr><tr style="mso-yfti-irow:1"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p class="MsoNormal">National Chinese Calligraphy<br>Competition (2024)</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;background:white">Acting Contest: Portrayal of Legendary Figures<br>(1<sup>ST</sup> Place)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  mso-border-top-alt:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p class="MsoNormal">Distinction</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:
-  text1;background:white;mso-ansi-language:SV" lang="SV">Nur Husna Bte Nordin Poh<br>Abdul Rahman Bin Mohd Haikal<br>Muhammad Zahil Bin Idris<br>Aria Darma Bte Muhamad Imran</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:155.85pt;border-top:none;border-left:
+  mso-border-top-alt:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p class="MsoNormal">Liang Yu Chen<br>Zoey Tock En Xi<br>Yuina Hibino</p></td></tr><tr style="mso-yfti-irow:2"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="2" width="208"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">E7 Cluster Inter-primary Schools Malay Language Competition 2024</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;background:white">Advertisement of an Occupation through a Skit<br>(2<sup>nd</sup> Place)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p class="MsoNormal">Acting Contest: Portrayal of Legendary Figures<br>(1<sup>ST</sup>&nbsp;Place)</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1;
-  background:white">Lalla Kenza Babaa<br>Isabella Zafira Stornes<br>Shah Mohamed Bin Shahadi<br>Sumaira Malik</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:155.8pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;background:white">10th Picture Book Creation<br>Competition</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p class="MsoNormal"><span style="mso-ansi-language:SV" lang="SV">Nur Husna Bte Nordin Poh<br>Abdul Rahman Bin Mohd Haikal<br>Muhammad Zahil Bin Idris<br>Aria Darma Bte Muhamad Imran</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-themecolor:text1;background:white;mso-ansi-language:EN-SG" lang="EN-SG">Merit Award</span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;background:white"></span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;background:white">&nbsp;</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p class="MsoNormal">Advertisement of an Occupation through a Skit<br>(2<sup>nd</sup>&nbsp;Place)</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1;
-  background:white">Zoey Tock En Xi<br>Kok Yan Wei<br>Huang Xiaomi<br>Liaw Kai Lee<br>Koong Hua Hsin</span></p></td></tr><tr style="mso-yfti-irow:4;height:13.9pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.9pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;background:white">28th National Primary Schools On-the-Spot Chinese Creative Essay Writing Competition</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p class="MsoNormal">Lalla Kenza Babaa<br>Isabella Zafira Stornes<br>Shah Mohamed Bin Shahadi<br>Sumaira Malik</p></td></tr><tr style="mso-yfti-irow:4"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p class="MsoNormal">10th Picture Book Creation<br>Competition</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:13.9pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-themecolor:text1;background:white;mso-ansi-language:EN-SG" lang="EN-SG">Merit Award</span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;background:white"></span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-themecolor:text1;background:white;mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Merit Award</span></p><p class="MsoNormal">&nbsp;</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:13.9pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:
-  text1;background:white;mso-ansi-language:SV" lang="SV">Den Ouden Aurelia Liv Arwen</span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1;
-  background:white"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1;
-  background:white">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:13.9pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.9pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;background:white">2024 National<br>Text Recital Competition</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p class="MsoNormal">Zoey Tock En Xi<br>Kok Yan Wei<br>Huang Xiaomi<br>Liaw Kai Lee<br>Koong Hua Hsin</p></td></tr><tr style="mso-yfti-irow:5;height:13.9pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.9pt" valign="top" width="208"><p class="MsoNormal">28th National Primary Schools On-the-Spot Chinese Creative Essay Writing Competition</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:13.9pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-themecolor:text1;background:white">Bronze Award</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-themecolor:text1;background:white;mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt;height:13.9pt" valign="top" width="208"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Merit Award</span></p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:13.9pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1;
-  background:white">Rajan Ethan Mathew<br>Tsai Wen Xi<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;</span></span></p></td></tr></tbody></table>
+  padding:0cm 5.4pt 0cm 5.4pt;height:13.9pt" valign="top" width="208"><p class="MsoNormal"><span style="mso-ansi-language:SV" lang="SV">Den Ouden Aurelia Liv Arwen</span></p><p class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes;height:13.9pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.9pt" valign="top" width="208"><p class="MsoNormal">2024 National<br>Text Recital Competition</p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:13.9pt" valign="top" width="208"><p class="MsoNormal">Bronze Award</p><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:13.9pt" valign="top" width="208"><p class="MsoNormal">Rajan Ethan Mathew<br>Tsai Wen Xi&nbsp;&nbsp;&nbsp;&nbsp;</p></td></tr></tbody></table>
 	
 	
 	
