@@ -2,19 +2,27 @@
 title: Programme for Active Learning (PAL)
 permalink: /pal/
 description: ""
+variant: markdown
 ---
 <h4 align="center"><b>PAL @ Opera Estate Primary School</b></h4>
 
-<p align="justify">In Opera Estate Primary School, all P1 and P2 students undergo Programme for Active Learning (PAL) within the curriculum hours. During PAL, students will be engaged in fun and varied learning experiences where they get the opportunity to discover new interests, learn new skills and develop character through the following modules:<br><br><b>1) Sports and Games<br>2) Performing Arts (Music, Creative Dance and Drama)<br>3) Visual Arts<br>4) Outdoor Education </b></p>
+<p align="justify">All P1 and P2 students participate in Programme for Active Learning (PAL) during curriculum hours, engaging in fun and diverse learning experiences across four modules:<br><br><b>1) Sports and Games<br>2) Performing Arts (Music, Creative Dance and Drama)<br>3) Visual Arts<br>4) Outdoor Education </b></p>
 
 
-<p align="justify">Students also learn socio-emotional competencies such as respecting others and responsible decision-making. The PAL modules aim to provide P1 and P2 students with the opportunities to : </p><ul>
-<p></p><li>explore and exhibit their curiosity about things and places around them and beyond </li>
-<li>develop positive attitude to learn new skills and experiences</li>
-<li>develop confidence in what they do</li>
-	<li>develop open-mindedness in collaborating with peers </li>
-	<li>express themselves effectively</li>
+<p align="justify">Through PAL, students discover new interests, learn new skills, and develop positive character while honing socio-emotional competencies, including: </p><ul>
+<p></p><li> 	Self-Awareness - Understanding emotions and strengths</li>
+<li>Self-Management - Developing resilience and perseverance</li>
+<li>Social Awareness - Respecting and empathizing with others</li>
+	<li>Relationship Skills - Cooperating and communicating effectively</li>
+	<li>Responsible Decision-Making - Making thoughtful and ethical choices</li>
 </ul><p></p>
+
+<p> PAL Fosters:
+
+</p><ul><li> Curiosity – Exploring the world with enthusiasm</li><li> Confidence – Embracing challenges with a growth mindset</li>
+<li> Collaboration – Working positively with peers</li>
+<li> Expression – Communicating confidently</li>
+<p></p></ul>
 
 <p style="color:green;"><b>PAL MODULES FOR PRIMARY 1 &amp; 2</b></p>
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
