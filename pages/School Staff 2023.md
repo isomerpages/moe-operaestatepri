@@ -2,8 +2,80 @@
 title: School Staff 2023
 permalink: /school-staff2023/
 description: ""
-variant: tiptap
+variant: markdown
 ---
+<div style="font-family: 'Segoe UI', sans-serif; text-align: center; padding: 50px 20px; background: linear-gradient(145deg, #ffffff, #fef6e4); border-radius: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); position: relative; overflow: hidden;" id="celebration-container">
+  <h2 style="color: #d72638; font-size: 2.2em; margin-bottom: 10px; font-weight: 700;">🎉 Opera Estate Primary School</h2>
+  <h3 style="color: #023e8a; font-size: 1.6em; font-weight: 500;">Celebrating 40 Years of Excellence!</h3>
+  <p style="color: #444; margin: 20px auto; font-size: 1.1em;" id="timer-heading">Countdown to our big celebration:</p>
+  <h4 style="color: #ffb703; font-size: 1.3em;">Happy 40th to Opera Estate Primary!</h4>
+
+  <div style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; margin-top: 30px;" id="timer-boxes">
+    <div class="time-box"><div id="days">10</div><span>Days</span></div>
+    <div class="time-box"><div id="hours">10</div><span>Hours</span></div>
+    <div class="time-box"><div id="minutes">10</div><span>Minutes</span></div>
+    <div class="time-box"><div id="seconds">100</div><span>Seconds</span></div>
+  </div>
+
+  
+  <div class="confetti"></div>
+</div>
+
+<style>
+  .time-box {
+    background: linear-gradient(to bottom right, #023e8a, #0077b6);
+    color: white;
+    border-radius: 16px;
+    padding: 25px 15px;
+    width: 90px;
+    text-align: center;
+    font-size: 1.8em;
+    font-weight: bold;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    transition: transform 0.2s;
+  }
+
+  .time-box:hover {
+    transform: scale(1.05);
+  }
+
+  .time-box span {
+    display: block;
+    font-size: 0.75em;
+    margin-top: 10px;
+    color: #ffd60a;
+    font-weight: normal;
+  }
+
+  .confetti {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    pointer-events: none;
+    background-image: repeating-linear-gradient(45deg, #ffcb05 0 10px, transparent 10px 20px),
+                      repeating-linear-gradient(-45deg, #d72638 0 10px, transparent 10px 20px),
+                      repeating-linear-gradient(135deg, #3a86ff 0 10px, transparent 10px 20px);
+    background-size: 100% 4px;
+    animation: confetti 1s infinite linear;
+    opacity: 0.3;
+    z-index: 0;
+  }
+
+  @keyframes confetti {
+    0% { background-position: 0 0; }
+    100% { background-position: 0 100px; }
+  }
+</style>
+
+
+
+
+
+
+
+
+
+
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Key Personnel</label>
 <div>
