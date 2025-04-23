@@ -5,18 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-<h4><strong><a title="Our CCA Video (Click here)" href="https://drive.google.com/file/d/1zxlOuJxkIsubhGn4vyUDnNuOv-POKWtY/view" target="_blank" rel="noopener">OUR CCA VIDEO (CLICK HERE)</a></strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 40%;"><a href="https://drive.google.com/file/d/1zxlOuJxkIsubhGn4vyUDnNuOv-POKWtY/view"><img src="/images/gg1.jpg"></a></td>
-<td style="width: 60%;">&nbsp;</td>
-</tr>
-</tbody>
-</table><br>
-
-
-
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#2F5496;mso-background-themecolor:
@@ -74,19 +62,7 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-	minor-latin;color:#484848">- National Day Observance Ceremony (Annually)</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">- Singapore Gardens Festival @ Gardens By The Bay (sharing with public)</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">- Collaboration with Manjusri Secondary School 2017 (Outdoor Cooking)</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">- World Thinking Day 2017 – Present</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">- 2016 Scouts and Brownies Outdoor Cooking</span></p></td></tr></tbody></table><br>
+	minor-latin;color:#484848">- World Thinking Day Annually<br><br>- Guards of Honour for World Thinking Day 2025<br><br>- East Division Day Annually<br><br>- National Brownie Revel Annually</span></p></td></tr></tbody></table><br>
 	
 	
 	
@@ -118,10 +94,7 @@ variant: markdown
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
   Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  mso-bidi-font-weight:bold">1) Puan Noor Aishah Award (Bronze) 2021 and 2022</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;mso-bidi-font-weight:bold">2) East Division Day 2023 - Comic Strip Competition (Merit)</span><span style="font-size:14.0pt;mso-bidi-font-size:
+  mso-bidi-font-weight:bold">East Division Day 2024 - Best Booth Display &amp; Best Booth Presentation<br><br>East Division Day 2024 - Snack Making (Merit - 4th Place)<br><br>Camp Fest 2024 - Best Camper Award<br><br>World Thinking Day 2024 - Most Engaging Booth<br><br>Puan Noor Aishah Award (Bronze) 2024<br><br>Puan Noor Aishah Award (Bronze) 2022<br><br>Puan Noor Aishah Award (Bronze) 2021<br><br>East Division Day 2023 - Comic Strip Competition (Merit)</span><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
   minor-latin;color:#484848"></span></p></td></tr></tbody></table>
 
@@ -137,7 +110,7 @@ variant: markdown
 
 
 
-<h4 align="middle"><strong>GALLERY - (Coming Soon)</strong></h4>
+<h4 align="middle"><strong>GALLERY - <a title="Our CCA Video (Click here)" href="https://albumizr.com/a/NyjW" target="_blank" rel="noopener">(CLICK HERE)</a></strong></h4>
 <img style="width:350px;height:300px;" src="/images/Cca/brownies.jpg">
 
 

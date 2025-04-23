@@ -46,7 +46,7 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin">- Weekly CCA training sessions for School Team and Development</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  minor-latin"> - (TOPS Championships) Collaboration with Tampines Primary School, Punggol View Primary School and St Stephen School<br><br>- Weekly CCA training sessions for School Team and Development</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
   minor-latin">- National School Games for Junior and Senior Team</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
@@ -113,13 +113,7 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">2023 – Singapore Youth Festival (SYF) Certificate of Participation – Cat B</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">2021 - Singapore Youth Festival (SYF) Certificate of Recognition - Cat C</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
-  10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">2019 - Singapore Youth Festival (SYF) Certificate of Recognition - Cat A &amp; Cat B</span></p></td></tr></tbody></table><br>
+  minor-latin;color:#484848">2024 - National Sch Games Senior Boys (Tier 1, 3rd Position)<br><br>2023 – Singapore Youth Festival (SYF) Certificate of Participation – Cat B<br><br>2021 - Singapore Youth Festival (SYF) Certificate of Recognition - Cat C<br><br>2019 - Singapore Youth Festival (SYF) Certificate of Recognition - Cat A &amp; Cat B</span></p></td></tr></tbody></table><br>
 	
 <h4 align="middle"><strong>GALLERY - <a title="Our CCA Video (Click here)" href="https://albumizr.com/a/qkQ0" target="_blank" rel="noopener">(CLICK HERE)</a></strong></h4>
 <img style="width:400px;height:300px;" src="/images/Cca/floorball.jpg">

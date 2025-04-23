@@ -107,7 +107,7 @@ variant: markdown
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="198"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
   Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  mso-bidi-font-weight:bold">Computer Lab Level 2-4, AVA Room 1</span></p></td></tr></tbody></table>
+  mso-bidi-font-weight:bold">Computer Lab Level 2-4</span></p></td></tr></tbody></table>
 	
 	
 	
