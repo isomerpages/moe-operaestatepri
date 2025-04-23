@@ -20,10 +20,21 @@ variant: markdown
 
 
 <h4><b>Art</b></h4>
-<p style="font-size:18px" align="justify">The aims of art education in our schools are to enable every child to enjoy art, communicate visually, and make meaning through connecting with society and culture. Guided by the aims, the school art curriculum across all levels provides our students with a balanced and well-rounded education in the aesthetic, cognitive and affective dimensions. It presents ample opportunities for creative and innovative self-expression in varied modes. It also contributes to developing a fuller range of our students’ interests and talents. The learning of local artworks and artists strengthens the understanding of the individual’s national identity by fostering the appreciation of one’s cultural heritage. The engagement in art discussions (primary) and discourse/critique (secondary) in the curriculum promotes a lifelong enjoyment for and an appreciation of artistic works, developing visual literacy in our students. The production of artwork encourages imagination and cultivates in students the capacity to innovate and improvise.</p>
+<p style="font-size:18px" align="justify">The aims of art education in our schools are to enable every child to:<br><br><b>- enjoy art,<br>- communicate visually, and<br>- make meaning through connecting with society and culture.</b><br><br>Guided by the aims, the school art curriculum across all levels provides our students with a
+balanced and well-rounded education in the aesthetic, cognitive and affective dimensions. It
+presents ample opportunities for creative and innovative self-expression in varied modes. It
+also contributes to developing a fuller range of our students’ interests and talents. The learning
+of local artworks and artists strengthens the understanding of the individual’s national identity
+by fostering the appreciation of one’s cultural heritage. The engagement in art discussions
+(primary) and discourse/critique (secondary) in the curriculum promotes a lifelong enjoyment
+for and an appreciation of artistic works, developing visual literacy in our students. The
+production of artwork encourages imagination and cultivates in students the capacity to
+innovate and improvise.
+</p>
 
-<p style="font-size:18px" align="justify">The objectives of the syllabus are achieved through the Primary Art Syllabus Framework below that encapsulates the key features of the syllabus:</p>
-
+<p style="font-size:18px" align="justify">The objectives of the primary art syllabus are to develop all students as active artists and informed audience with:<br><br>- visual inquiry skills to discover and explore their surroundings,<br><br>- curiosity, imagination and enjoyment in art making and art discussion,<br><br>- confidence in working individually and in groups to focus ideas and create artworks, and<br><br>- awareness of and respect for histories and cultures of key artworks and artists in Singapore and the world.
+</p>
+<p>The objectives of the syllabus are achieved through the Primary Art Syllabus Framework below that encapsulates the key features of the syllabus:    </p>
 
 
 
