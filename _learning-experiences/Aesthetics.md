@@ -52,9 +52,7 @@ innovate and improvise.
 <p style="font-size:18px" align="justify">Selected levels of students are involved in designing and creating Attitude of Gratitude (AOG) cards and handmade tokens, which are then presented to the NTS to acknowledge their contributions to the school community. This initiative not only fosters a sense of appreciation and respect for the NTS but also provides students with an opportunity to apply their artistic skills in a meaningful and purposeful way.</p>
 
 
-<img style="width: 100%;" src="/images/2024/Aes/AES17.jpg"><br>
+<img style="width: 100%;" src="/images/Art/art1.jpg"><br>
+<img style="width: 100%;" src="/images/Art/art2.jpg"><br>
+<img style="width: 100%;" src="/images/Art/art3.jpg"><br>
 
-<p style="font-size:18px" align="justify"><strong>Primary 6 Learning Journey to the Traditional Arts Centre</strong><br><br>Chinese Opera Workshop programme include knowledge of Chinese Opera, water sleeves movements, horse whip handling, Peking Opera singing.</p>
-
-
-<img style="width: 100%;" src="/images/2024/Aes/AES18.jpg"><br>
