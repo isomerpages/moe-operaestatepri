@@ -47,7 +47,9 @@ innovate and improvise.
 
 
 <h4><b>EXPERIENCES</b></h4>
-<p style="font-size:18px" align="justify"><strong>Primary 4 Museum Based Learning to National Gallery Singapore</strong><br><br>The Aesthetics department organises a Museum Based Learning (MBL) experience for our Primary 4 pupils as part of our Art Curriculum every year. All Primary 4 pupils will have the opportunity to learn how to use the museum to experience and forge a personal connection with the exhibit, encourage curiosity and inculcate museum etiquette.</p>
+<p style="font-size:18px" align="justify"><strong>Art collaboration with CCE</strong><br><br>The Art Department works closely with the CCE (Character and Citizenship Education) Department each year to show appreciation for the hard work and dedication of our non-teaching staff (NTS). This collaboration serves as an opportunity for students to express their gratitude through creative means, in line with the values taught in both the Art and CCE curriculum.</p>
+
+<p style="font-size:18px" align="justify">Selected levels of students are involved in designing and creating Attitude of Gratitude (AOG) cards and handmade tokens, which are then presented to the NTS to acknowledge their contributions to the school community. This initiative not only fosters a sense of appreciation and respect for the NTS but also provides students with an opportunity to apply their artistic skills in a meaningful and purposeful way.</p>
 
 
 <img style="width: 100%;" src="/images/2024/Aes/AES17.jpg"><br>
