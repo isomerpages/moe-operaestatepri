@@ -56,3 +56,16 @@ innovate and improvise.
 <img style="width: 100%;" src="/images/Art/art2.jpg"><br>
 <img style="width: 100%;" src="/images/Art/art3.jpg"><br>
 
+<p style="font-size:18px" align="justify"><strong>Collaborations with OPG</strong><br><br>For the past few years, the Art Department has had the privilege of working closely with the Opera Goes Green committee. This collaboration provides students with the opportunity to explore environmental issues through artistic expression while learning about sustainability.<br><br>
+Students conduct research on topics like climate change, pollution, and biodiversity conservation, which informs their artwork. They are encouraged to adopt sustainable practices, using recycled materials and eco-friendly supplies, reducing the environmental impact of their creative processes. This combination of art and sustainability fosters a deeper understanding of how art can inspire environmental change.<br><br>
+Through this partnership, students not only develop their artistic skills but also become advocates for sustainability, learning how to use art to address global environmental challenges. The collaboration between the Art Department and Opera Goes Green is a meaningful initiative that empowers students to contribute to a greener, more sustainable future.
+</p>
+
+<img style="width: 100%;" src="/images/Art/art4.jpg"><br>
+<img style="width: 100%;" src="/images/Art/art5.jpg"><br>
+
+
+<p style="font-size:18px" align="justify"><strong>Collaborations with Mother Tongue</strong><br><br>For the past few years, the Music Department has been working closely with Chinese teachers during the Chinese New Year celebrations in school. Music teacher conducted mass singing of CNY songs during assembly and students from P2 performed during the event.
+</p>
+
+<img style="width: 100%;" src="/images/Art/art6.jpg"><br>
