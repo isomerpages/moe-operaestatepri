@@ -46,7 +46,7 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin">- Weekly CCA training sessions for School Team and Development</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  minor-latin"> - (TOPS Championships) Collaboration with Tampines Primary School, Punggol View Primary School and St Stephen School<br><br>- Weekly CCA training sessions for School Team and Development</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
   minor-latin">- National School Games for Junior and Senior Team</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
