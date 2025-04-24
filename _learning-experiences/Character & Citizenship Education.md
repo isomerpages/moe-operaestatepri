@@ -10,7 +10,7 @@ variant: markdown
 
 <p style="font-size:18px;" align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCE@OEPS aims to nurture students who:<br>
 1)	have good character and strong social emotional competencies,<br>
-2)	are purposeful and others-centred with the will to improve the lives of others, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and<br>
+2)	are purposeful and others-centred with the will to improve the lives of others, and<br>
 3)	love and appreciate Singapore.</p>
 
 <h4><b>CCE @ OEPS Curriculum</b></h4>
@@ -52,14 +52,8 @@ variant: markdown
 
 <p style="font-size:18px;" align="justify"><b>Establishing Peer Support and Relationships (PSR) </b></p>
 
-<p style="font-size:18px;" align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Positive PSR forms a critical part of a child’s development. In OEPS, PSR is anchored on the domains of peer bonding, helping and influencing, and taught through CCE-FTGP lessons, programmes such as the P1-P4 Buddy programme, and platforms such as Opera Gems in Action.  <br><br>Our Cheer Champs also play a part in supporting the establishment of a caring and enabling school environment by providing practical help and support to their classmates, helping to foster class spirit and being positive peer influencers to others. 
+<p style="font-size:18px;" align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Positive PSR forms a critical part of a child’s development. In OEPS, PSR is anchored on the domains of peer bonding, helping and influencing, and taught through CCE-FTGP lessons, programmes such as the P1-P4, P2-P5 and P3-P6 Buddy programmes, and platforms such as Opera Gems in Action.  <br><br>Our Cheer Champs also play a part in supporting the establishment of a caring and enabling school environment by providing practical help and support to their classmates, helping to foster class spirit and being positive peer influencers to others. 
 </p>
 
 <img src="/images/2024/Cce/cce8.jpg">
 <img src="/images/2024/Cce/cce9.jpg">
-
-
-
-
-
-
