@@ -51,3 +51,15 @@ Our Science programmes are structured to provide opportunities for our students 
 	
 	
 </p>
+
+<h4><b>SCIENCE LEARNING JOURNEYS</b></h4>
+
+
+<p style="font-size:18px;" align="justify"><u><b>P3 Learning Journey to the Zoo</b></u><br></p>
+<img style="width: 80%;" src="/images/Science/zoo1.jpg"><br>
+<img style="width: 80%;" src="/images/Science/zoo2.jpg"><br>
+<img style="width: 80%;" src="/images/Science/zoo3.jpg"><br>
+
+<p style="font-size:18px;" align="justify"><u><b>P4 Biodiversity Learning Journey to Botanic Garden</b></u><br><br>   
+<img style="width: 80%;" src="/images/Science/bio1.jpg"><br>• Students explored the Singapore Botanic Gardens and experienced learning in nature! During the journey, they discovered how plants are classified and studied different plant parts and their functions. They compared flowering and non-flowering plants, and observed mosses, ferns, fungi, and water plants up close.<br><br><img style="width: 80%;" src="/images/Science/bio2.jpg"><br>• Through hands-on exploration, students also examined different types of leaves and applied what they had learnt in class in a real-life setting. This immersive experience strengthened their understanding of the natural world and developed their observation and classification skills.</p>
+<img style="width: 80%;" src="/images/Science/bio3.jpg">
