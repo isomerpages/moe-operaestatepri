@@ -26,7 +26,13 @@ variant: markdown
 <li> Expression – Communicating confidently</li>
 <p></p></ul>
 
-<p>Aligned with CCE goals, PAL nurtures character, resilience, well-being, active citizenship, and future readiness, shaping well-rounded and socially responsible learners.</p>
+<p>Aligned with CCE goals, PAL nurtures character, resilience, well-being, and active citizenship, preparing students to be well-rounded, socially responsible, and future-ready individuals.</p>
+
+<img style="width:540px;height:190px;" src="/images/Pal/pal1.jpg"><br>
+<img style="width:540px;height:190px;" src="/images/Pal/pal2.jpg"><br>
+<img style="width:540px;height:290px;" src="/images/Pal/pal3.jpg">
+
+
 
 <p style="color:green;"><b>PAL @ OEPS</b></p>
 
