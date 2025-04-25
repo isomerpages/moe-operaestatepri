@@ -62,4 +62,14 @@ Our Science programmes are structured to provide opportunities for our students 
 
 <p style="font-size:18px;" align="justify"><u><b>P4 Biodiversity Learning Journey to Botanic Garden</b></u><br><br>   
 <img style="width: 80%;" src="/images/Science/bio1.jpg"><br>• Students explored the Singapore Botanic Gardens and experienced learning in nature! During the journey, they discovered how plants are classified and studied different plant parts and their functions. They compared flowering and non-flowering plants, and observed mosses, ferns, fungi, and water plants up close.<br><br><img style="width: 80%;" src="/images/Science/bio2.jpg"><br>• Through hands-on exploration, students also examined different types of leaves and applied what they had learnt in class in a real-life setting. This immersive experience strengthened their understanding of the natural world and developed their observation and classification skills.</p>
-<img style="width: 80%;" src="/images/Science/bio3.jpg">
+<img style="width: 80%;" src="/images/Science/bio3.jpg"><br>
+
+<p style="font-size:18px;" align="justify"><u><b>P6 Learning Journey to Science Centre: Energy Lab Workshop</b></u><br>   
+
+• Our Primary 6 students visited the Science Centre for an exciting Energy Lab workshop. Through hands-on activities, they explored different forms of energy and discovered how most energy sources originate from the sun.
+<img style="width: 80%;" src="/images/Science/lab1.jpg">
+
+• Students worked in teams to build marble machines, demonstrating how energy converts from one form to another — such as potential energy changing into kinetic energy. The experience not only deepened their understanding of energy concepts but also emphasized the importance of energy conservation in daily life.
+<br><br><img style="width: 80%;" src="/images/Science/lab2.jpg">
+
+• It was a fun and meaningful learning journey that brought Science to life!</p>
