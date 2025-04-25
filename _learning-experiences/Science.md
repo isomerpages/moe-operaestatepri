@@ -60,8 +60,8 @@ Our Science programmes are structured to provide opportunities for our students 
 <br><img style="width: 80%;" src="/images/Science/lab3.jpg">
 
 <h4><b>ENRICHMENT PROGRAMMES</b></h4>
-<p style="font-size:18px;" align="justify"><u><b>P4 &amp; P5 E2K</b></u><br><br>Selected Primary 4 and 5 students had the opportunity to dive deeper into scientific investigations through the E2K Science Programme. These sessions introduced them to more advanced science concepts and encouraged them to think and work like real scientists.
-<br><br><img style="width: 80%;" src="/images/Science/e2k.jpg"><br>Through hands-on experiments and inquiry-based learning, students developed important scientific habits of mind, such as curiosity, perseverance, and precision. At the same time, they strengthened 21st century competencies like critical thinking, adaptability, creativity, and effective communication.
+<p style="font-size:18px;" align="justify"><u><b>P4 &amp; P5 E2K</b></u><br><br>Selected Primary 4 and 5 students had the opportunity to dive deeper into scientific investigations through the <b>E2K Science Programme</b>. These sessions introduced them to more advanced science concepts and encouraged them to think and work like real scientists.
+<br><br><img style="width: 80%;" src="/images/Science/e2k.jpg"><br>Through hands-on experiments and inquiry-based learning, students developed important scientific habits of mind, such as curiosity, perseverance, and precision. At the same time, they strengthened <b>21st century competencies</b> like critical thinking, adaptability, creativity, and effective communication.
 <br><br>The programme also gave students valuable exposure to various science apparatus and experimental techniques. By working collaboratively in teams, they learned to tackle challenges together and problem-solve effectively when faced with obstacles in their investigations.
 <br><br>It was a meaningful and inspiring experience that nurtured both scientific thinking and teamwork!</p><br>
 
