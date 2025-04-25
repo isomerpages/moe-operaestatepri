@@ -73,3 +73,4 @@ Our Science programmes are structured to provide opportunities for our students 
 <br><br><img style="width: 80%;" src="/images/Science/lab2.jpg">
 
 • It was a fun and meaningful learning journey that brought Science to life!</p>
+<br><img style="width: 80%;" src="/images/Science/lab3.jpg">
