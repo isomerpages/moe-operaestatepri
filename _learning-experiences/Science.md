@@ -25,3 +25,29 @@ variant: markdown
 2. <b>Inquire</b> – Foster a spirit of exploration through questioning, investigating, and evidence-based reasoning.
 
 3. <b>Innovate</b> – Encourage creativity and application of scientific knowledge to solve real-world problems.</p>
+
+<h4><b>SCIENCE PROGRAMMES</b></h4>
+
+<p style="font-size:18px;" align="justify">   
+Our Science programmes are structured to provide opportunities for our students to explore, investigate and discover knowledge. We want our students to be curious and concerned about their surroundings. We seek to fuel this spirit of inquiry and ultimately want our students to enjoy Science and value this discipline as an important tool in understanding and relating to their natural and physical world.</p>
+
+<p style="font-size:18px;" align="justify"><u><b>P3 Grow a Seed</b></u><br>
+   
+<img style="width: 30%;" src="/images/Science/seed.jpg"><br>
+• Our Primary 3 students had a wonderful time deepening their understanding of plants through a hands-on activity—<b>growing their very own seed!</b> As part of the "Every Child a Seed" programme by NParks, each student received a plant starter kit to kickstart their planting journey.
+
+• This meaningful experience allowed students to not only learn about the plant life cycle, but also to <b>appreciate the patience, care, and effort</b> required in nurturing a living thing. From planting the seeds to watching the first sprouts emerge, students experienced the challenges and the joy of growing a plant.
+
+• It was a valuable opportunity to connect Science learning with real-life experiences —fostering responsibility, curiosity, and a deeper appreciation for nature.</p>
+
+<p style="font-size:18px;" align="justify"><u><b>P3 Grow a Mealworm Beetle</b></u><br>   
+
+<img style="width: 10 0%;" src="/images/Science/worm.jpg"><br>
+• Our Primary 3 students had a hands-on opportunity to explore the topic of <b>Life Cycles of Animals</b> by growing their very own mealworm beetles. Throughout this learning experience, students observed the complete metamorphosis of the mealworm—from <b>larva to pupa, and finally to adult beetle.</b>
+
+• They were excited to witness each stage up close, with many expressing amazement at the transformation process. This real-life observation deepened their understanding of life cycles and sparked meaningful conversations with their peers as they shared their observations and discoveries.
+
+• It was a fun and engaging way to nurture curiosity and bring Science learning to life!
+	
+	
+</p>
