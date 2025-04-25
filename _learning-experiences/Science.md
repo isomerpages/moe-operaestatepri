@@ -13,9 +13,6 @@ variant: markdown
 <p style="font-size:18px;" align="justify">Our Science Education aims to:<br><br>- enthuse and nurture all students to be scientifically literate, enabling them to make informed decisions and take responsible actions in their daily lives.<br>
 <br>-provide strong Science fundamentals for students to innovate and pursue STEM for future learning and work.</p>
 
-<p style="font-size:18px;" align="justify">Our Science Education aims to:<br><br>- enthuse and nurture all students to be scientifically literate, enabling them to make informed decisions and take responsible actions in their daily lives.<br>
-<br>-provide strong Science fundamentals for students to innovate and pursue STEM for future learning and work.</p>
-
 <h4><b>   The 3 "IN"s Surrounding the Science Experience in OEPS</b></h4>
 
 <p style="font-size:18px;" align="justify">   
