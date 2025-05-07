@@ -20,6 +20,13 @@ sections:
           url: /moe-sexuality-education/
       variant: center
   - infopic:
+      title: Opera's Got Talent 2025 (Video Submission)
+      id: infopic
+      button: CLICK HERE
+      url: https://drive.google.com/drive/folders/1fVITYV5XDXxCb-VYwlYIkxmg8J8mesz4?usp=sharing
+      image: /images/2025/ogt2025.jpg
+      alt: Image alt text
+  - infopic:
       title: Superfood Video 2025
       id: infopic
       button: click to view
@@ -39,12 +46,5 @@ sections:
       button: Click to view
       url: https://drive.google.com/drive/folders/1sqxQfNjNxbsvJChA6g_UhQgjU0CmFd-m?usp=sharing
       image: /images/ogt2024.jpg
-      alt: Image alt text
-  - infopic:
-      title: Opera's Got Talent 2024 (Video Submission)
-      id: infopic
-      button: CLICK HERE
-      url: https://drive.google.com/drive/folders/1ZWH062e71VWjuw0cZf3gHrMSlXoCkqvC?usp=sharing
-      image: /images/ogtrecess2024.jpg
       alt: Image alt text
 ---
