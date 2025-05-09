@@ -23,7 +23,7 @@ sections:
       title: Opera's Got Talent 2025 (Video Submission)
       id: infopic
       button: CLICK HERE
-      url: https://drive.google.com/drive/folders/1fVITYV5XDXxCb-VYwlYIkxmg8J8mesz4?usp=sharing
+      url: /opera-s-got-talent/
       image: /images/2025/ogt2025.jpg
       alt: Image alt text
   - infopic:
