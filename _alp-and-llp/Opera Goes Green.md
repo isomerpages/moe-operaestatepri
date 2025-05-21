@@ -21,7 +21,9 @@ variant: markdown
 
 <img style="width: 70%;" src="/images/2025/Opg/opg6.jpg"><br>
 <img style="width: 70%;" src="/images/2025/Opg/opg7.jpg"><br>
-<img style="width: 70%;" src="/images/2025/Opg/opg8.jpg">
+<img style="width: 70%;" src="/images/2025/Opg/opg8.jpg"><br>
+<img style="width: 70%;" src="/images/2025/Opg/opg17.jpg"><br>
+<img style="width: 70%;" src="/images/2025/Opg/opg18.jpg">
 
 <h4>Less E-Waste-Recycling Drive</h4>
 
