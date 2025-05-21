@@ -22,3 +22,7 @@ variant: markdown
 <img style="width: 70%;" src="/images/2025/Opg/opg6.jpg"><br>
 <img style="width: 70%;" src="/images/2025/Opg/opg7.jpg"><br>
 <img style="width: 70%;" src="/images/2025/Opg/opg8.jpg">
+
+<h4>Less E-Waste-Recycling Drive</h4>
+
+<p style="font-size:18px" align="justify"><br>• The school collaborated with ALBA and held an e-waste recycling drive. The initiative aimed to promote Environmental Sustainability by encouraging responsible e-waste disposal within the school and the broader community.<br><br>• To maximise outreach, information about the drive was shared with staff, students, parents, and nearby residents through multiple communication channels. Posters were prominently displayed both within the school compound and in surrounding areas, raising awareness and inviting participation from the community.<br><br>• Our Green Champions led a 15-minute assembly talk to educate the school on the importance of e-waste recycling. With the engaging theme ‘Turning Trash to Treasure’, they inspired their peers to think critically about the impact of electronic waste and the value of recycling.<br><br>• This ongoing effort reflects our commitment to sustainability and our shared responsibility to care for the environment.</p>
