@@ -4,6 +4,4 @@ permalink: /e-open-house-2025/
 variant: markdown
 description: ""
 ---
-```
-<iframe allowfullscreen="true" height="839" width="1440" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQtQF01Gzw5J2ZKlzx4izBmcmFdUet8v2EqfV8wJ1VtnRz7YNK7dcN5JPuW4ubWEsjcLGRiDdCaaAMr/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-```
+<iframe allowfullscreen="true" height="576" width="720" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQtQF01Gzw5J2ZKlzx4izBmcmFdUet8v2EqfV8wJ1VtnRz7YNK7dcN5JPuW4ubWEsjcLGRiDdCaaAMr/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
