@@ -217,13 +217,9 @@ description: ""
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">School Staff Developer</span></p></td></tr></tbody></table>
+  mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">School Staff Developer</span></p></td></tr></tbody></table><br>
 	
 	
-
-
-	
-
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
@@ -254,42 +250,48 @@ description: ""
   mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">LH – English Language</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:176.95pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">Ms. Shaikha Maimunah binte Shaikh Fuad Mattar</span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">Mr. Bunawar Bin Md Ali</span></p></td><td style="width:290.55pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">SH - Information &amp; Communications Technology</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">LH – Science</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:176.95pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   background:#D9E2F3;mso-background-themecolor:accent1;mso-background-themetint:
   51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-color-alt:
-  windowtext">Mdm. Siti Suhaila Binte Md Raihan</span><span style="font-size:
-  14.0pt"></span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  windowtext">Ms. Shaikha Maimunah binte Shaikh Fuad Mattar</span><span style="font-size:14.0pt"></span></p></td><td style="width:290.55pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:#E2EFD9;mso-background-themecolor:
   accent6;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-themecolor:
-  text1">SH – Malay Language</span></p></td></tr><tr style="mso-yfti-irow:5;height:10.9pt"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">SH - Information &amp; Communications Technology</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:176.95pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:10.9pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">Ms. Dawn Sim Ee Szu</span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">Mdm. Siti Suhaila Binte Md Raihan</span></p></td><td style="width:290.55pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.9pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">SH - Aesthetics</span></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes;height:10.9pt"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-themecolor:
+  text1">SH – Malay Language</span></p></td></tr><tr style="mso-yfti-irow:6;height:10.9pt"><td style="width:176.95pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#E2EFD9;mso-background-themecolor:accent6;mso-background-themetint:
+  background:#D9E2F3;mso-background-themecolor:accent1;mso-background-themetint:
   51;padding:0cm 5.4pt 0cm 5.4pt;height:10.9pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-color-alt:
-  windowtext">Mr. Omar Azahari Bin Mohammed Ali</span><span style="font-size:
-  14.0pt"></span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  windowtext">Ms. Dawn Sim Ee Szu</span><span style="font-size:14.0pt"></span></p></td><td style="width:290.55pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:#E2EFD9;mso-background-themecolor:
   accent6;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt;height:10.9pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">SH - Aesthetics</span></p></td></tr><tr style="mso-yfti-irow:7;mso-yfti-lastrow:yes;height:10.9pt"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:10.9pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">Mr. Omar Azahari Bin Mohammed Ali</span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.9pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">SH – Discipline</span></p></td></tr></tbody></table><br>
 	
@@ -600,7 +602,7 @@ description: ""
   mso-border-alt:solid windowtext .5pt;background:#E2EFD9;mso-background-themecolor:
   accent6;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Mdm. Tan Li San<br>Mdm. Lim Hwee Ming</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Mdm. Tan Li San<br>Mr. Bunawar Bin Md Ali</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:176.95pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">3 DILIGENCE</span></p></td><td style="width:290.55pt;border-top:none;border-left:
@@ -620,7 +622,7 @@ description: ""
   mso-border-alt:solid windowtext .5pt;background:#E2EFD9;mso-background-themecolor:
   accent6;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Mr. Lim Yan Zhi<br>Ms. Grace Chow Mei Wen</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Mr. Lim Yan Zhi<br></span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:176.95pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt">3 HONESTY</span></p></td><td style="width:290.55pt;border-top:none;border-left:
