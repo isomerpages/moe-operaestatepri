@@ -6,9 +6,8 @@ description: ""
 ---
 <center><h4>Click <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGI5NjQyMGYtYWFiMy00MzI1LWJjMzAtZTgwMTVkODU3MjEx%40thread.v2/0?context=%7b%22Tid%22%3a%226590cdd4-8337-4198-bacc-47645c4a4d4d%22%2c%22Oid%22%3a%222ae0e8d6-73df-4423-a9b2-ef164f27be30%22%7d">here</a> to join the session.</h4></center>
 	
-<p>If you're experiencing issues with Microsoft Teams, try these troubleshooting steps:       
-	<br><br>1) Make sure you install <b>MICROSOFT TEAMS</b> apps before joining the session.
-		<br>2) If you have installed the apps and face issues on joining the session, kindly <b>Close &amp; Restart</b> the apps. 
+<p>For the Best Viewing Experience:<br>- Please download  and install the Microsoft Teams app before the session.<br>
+	- If you encounter any technical issues before or during the session, try restarting the app and rejoining.
 </p>
 
 <center><img style="width:920px;height:300px;" alt="HTML tutorial" src="/images/2025/Openhouse2025/eopenhouseposter2025_.jpg"><br>
