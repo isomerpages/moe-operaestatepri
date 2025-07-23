@@ -20,18 +20,18 @@ sections:
           url: /moe-sexuality-education/
       variant: center
   - infopic:
-      title: E-Open House 2025
-      id: infopic
-      button: Click here
-      url: /e-open-house-2025/
-      image: /images/2025/Openhouse2025/eopenhouseposter2025.jpg
-      alt: Image alt text
-  - infopic:
       title: Opera's Got Talent 2025 (Video Submission)
       id: infopic
       button: CLICK HERE
       url: /opera-s-got-talent/
       image: /images/2025/ogt2025.jpg
+      alt: Image alt text
+  - infopic:
+      title: E-Open House 2025
+      id: infopic
+      button: Click here
+      url: /e-open-house-2025/
+      image: /images/2025/Openhouse2025/eopenhouseposter2025.jpg
       alt: Image alt text
   - infopic:
       title: Superfood Video 2025
