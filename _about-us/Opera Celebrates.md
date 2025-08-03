@@ -304,89 +304,146 @@ variant: markdown
 
 
 <ul class="jekyllcodex_accordion">
-	<li><input id="accordion10" type="checkbox"> <label for="accordion10"><b>SCHOOL SUPPORT STAFF</b></label>
-<div>
+	<li><input id="accordion10" type="checkbox"> <label for="accordion10">         
 
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#C1E4F5;mso-background-themecolor:
+  accent1;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:24.0pt;color:black;mso-color-alt:
+  windowtext">2024</span></b><b><span style="font-size:24.0pt"></span></b></p></td></tr></tbody></table>
+		
+		
+<div>
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;background:#FFE389;padding:0cm 5.4pt 0cm 5.4pt" valign="top" colspan="2" width="623"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;color:black;mso-color-alt:
-  windowtext">SUPPORT STAFF</span></b><b><span style="font-size:14.0pt"></span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:176.95pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#CCCCFF;padding:0cm 5.4pt 0cm 5.4pt" valign="top" colspan="3" width="623"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">ENGLISH</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#1F3864;mso-background-themecolor:accent1;mso-background-themeshade:
-  128;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;color:white;mso-color-alt:
-  windowtext">NAME</span></b><b><span style="font-size:14.0pt"></span></b></p></td><td style="width:290.55pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="7" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">What’s Up (2024)</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:#385623;mso-background-themecolor:
-  accent6;mso-background-themeshade:128;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;color:white;mso-themecolor:
-  background1">DESIGNATION</span></b><b><span style="font-size:14.0pt"></span></b></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:176.95pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#D9E2F3;mso-background-themecolor:accent1;mso-background-themetint:
-  51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-color-alt:
-  windowtext">Ms. Mahendran Selvi</span><span style="font-size:14.0pt"></span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Featured</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:#E2EFD9;mso-background-themecolor:
-  accent6;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Desktop Engineer</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:176.95pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:white;mso-background-themecolor:background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-color-alt:
-  windowtext">Mdm. Murlianti Binte Rahmat</span><span style="font-size:14.0pt"></span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal">Kian Nizami</p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal">Advay Sikka</p></td></tr><tr style="mso-yfti-irow:2"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-themecolor:
-  text1">Librarian</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:176.95pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#D9E2F3;mso-background-themecolor:accent1;mso-background-themetint:
-  51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-color-alt:
-  windowtext">Ms. Jestina Chua</span><span style="font-size:14.0pt"></span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Featured in "Scribbles"</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">in April 2024 issue</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:#E2EFD9;mso-background-themecolor:
-  accent6;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-themecolor:
-  text1">Office Assistant</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:176.95pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:white;mso-background-themecolor:background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-color-alt:
-  windowtext">Ms. Felicia Ho</span><span style="font-size:14.0pt"></span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal">Ellie Ng</p></td></tr><tr style="mso-yfti-irow:3"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-themecolor:
-  text1">Lab Assistant</span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:176.95pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#D9E2F3;mso-background-themecolor:accent1;mso-background-themetint:
-  51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-color-alt:
-  windowtext">Mr. Sundram</span><span style="font-size:14.0pt"></span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Featured in "Scribbles" in April 2024 issue</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:#E2EFD9;mso-background-themecolor:
-  accent6;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-themecolor:
-  text1">Security Officer</span></p></td></tr><tr style="mso-yfti-irow:7;mso-yfti-lastrow:yes"><td style="width:176.95pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:white;mso-background-themecolor:background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="236"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-color-alt:
-  windowtext">Mr. Hamzah</span><span style="font-size:14.0pt"></span></p></td><td style="width:290.55pt;border-top:none;border-left:
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal">Maria George Manjakkal</p></td></tr><tr style="mso-yfti-irow:4"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="387"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-themecolor:
-  text1">Security Officer</span></p></td></tr></tbody></table>
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Letter featured on What's Up website</p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal">Gloria Aurielle&nbsp;Soenjaya&nbsp;</p></td></tr><tr style="mso-yfti-irow:5"><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Featured in "Scribbles" in March 2024 issue</p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal">Kian Nizami</p></td></tr><tr style="mso-yfti-irow:6"><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Featured in April 2024 issue</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal">Isabelle Goh</p></td></tr><tr style="mso-yfti-irow:7"><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Featured in "Scribbles" in February 2024 issue</p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal">Mishka Khadolia&nbsp;</p></td></tr><tr style="mso-yfti-irow:8"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Newsmaker (2024)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Awards</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:
+  windowtext">Marlie De Maria</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:
+  windowtext">Ng Yu Le</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:
+  windowtext">Toshniwal Neil Avi Ritesh</span></p></td></tr><tr style="mso-yfti-irow:9"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Wits &amp; Words (2024)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Awards</p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal">Yung Sherene</p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal">Sabrina Kok Xin Ai</p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal">Hannah Hui Xiu Deery</p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal">Bhardwaj Mishika</p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal" class="MsoNormal">Kritika Mclaren</p></td></tr><tr style="mso-yfti-irow:10;mso-yfti-lastrow:yes;height:3.5pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG" lang="EN-SG">OEPS Writer’s Gallery</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
+  height:3.5pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-SG" lang="EN-SG">Certificate of appreciation</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
+  height:3.5pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;mso-ansi-language:
+  EN-SG" lang="EN-SG">Mehta Shiv</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;mso-ansi-language:
+  EN-SG" lang="EN-SG">Meia Hranessa Mohamed Fazlee</span><span style="mso-ansi-language:
+  EN-SG" lang="EN-SG"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;mso-ansi-language:
+  EN-SG" lang="EN-SG">Muhammad Ukail Idris</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;mso-ansi-language:
+  EN-SG" lang="EN-SG">Marsya Frida Safaruddin</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;mso-ansi-language:
+  EN-SG" lang="EN-SG">Selma Maliki Ahmad Syarifullah</span><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;mso-ansi-language:
+  EN-SG" lang="EN-SG">Kayson Lye Gong How</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;mso-ansi-language:
+  EN-SG" lang="EN-SG">Hayden Lee Jia Yang</span></p></td></tr></tbody></table>
+
 	
 </div>
-</li></ul>
+</label></li></ul>
