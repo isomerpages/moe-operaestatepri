@@ -282,15 +282,6 @@ variant: markdown
   mso-border-alt:solid windowtext .5pt;background:black;mso-background-themecolor:
   text1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td></tr></tbody></table>
 	
-	
-
-	
-	
-	
-</div>
-</li></ul>
-
-
 
 
 
@@ -310,4 +301,4 @@ variant: markdown
 test
 
 </div>
-</label></li></ul>
+</label></li></ul></div></li></ul>
