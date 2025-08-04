@@ -320,7 +320,7 @@ variant: markdown
   line-height:normal" align="center" class="MsoNormal">Featured</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Kian Nizami<br>Advay Sikka</p></td></tr><tr style="mso-yfti-irow:2"><td style="width:155.85pt;border-top:none;border-left:
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">- Kian Nizami<br>- Advay Sikka</p></td></tr><tr style="mso-yfti-irow:2"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
@@ -342,7 +342,7 @@ variant: markdown
   line-height:normal" align="center" class="MsoNormal">Letter featured on What's Up website</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Gloria Aurielle&nbsp;Soenjaya&nbsp;</p></td></tr><tr style="mso-yfti-irow:5"><td style="width:155.85pt;border-top:none;border-left:
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Gloria Aurielle Soenjaya</p></td></tr><tr style="mso-yfti-irow:5"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
@@ -374,7 +374,7 @@ variant: markdown
   line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Awards</span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Marlie De Maria<br>Ng Yu Le<br>Toshniwal Neil Avi Ritesh</span></p></td></tr><tr style="mso-yfti-irow:9"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Marlie De Maria<br>- Ng Yu Le<br>- Toshniwal Neil Avi Ritesh</span></p></td></tr><tr style="mso-yfti-irow:9"><td style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Wits &amp; Words (2024)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
@@ -386,7 +386,7 @@ variant: markdown
   line-height:normal" align="center" class="MsoNormal">Awards</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Yung Sherene<br>Sabrina Kok Xin Ai<br>Hannah Hui Xiu Deery<br><br>Bhardwaj Mishika<br>Kritika Mclaren</p></td></tr><tr style="mso-yfti-irow:10;mso-yfti-lastrow:yes;height:3.5pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">- Yung Sherene<br>- Sabrina Kok Xin Ai<br>- Hannah Hui Xiu Deery<br>- Bhardwaj Mishika<br>- Kritika Mclaren</p></td></tr><tr style="mso-yfti-irow:10;mso-yfti-lastrow:yes;height:3.5pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;
@@ -401,7 +401,7 @@ variant: markdown
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
   height:3.5pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;mso-ansi-language:
-  EN-SG" lang="EN-SG">Mehta Shiv<br><br>Meia Hranessa Mohamed Fazlee<br><br>Muhammad Ukail Idris<br><br>Marsya Frida Safaruddin<br><br>Selma Maliki Ahmad Syarifullah<br><br>Kayson Lye Gong How<br><br>Hayden Lee Jia Yang</span></p></td></tr></tbody></table><br>
+  EN-SG" lang="EN-SG">- Mehta Shiv<br>- Meia Hranessa Mohamed Fazlee<br>- Muhammad Ukail Idris<br>- Marsya Frida Safaruddin<br>- Selma Maliki Ahmad Syarifullah<br>- Kayson Lye Gong How<br>- Hayden Lee Jia Yang</span></p></td></tr></tbody></table><br>
 	
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
@@ -425,7 +425,7 @@ variant: markdown
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
   background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext;mso-ansi-language:
-  EN-SG" lang="EN-SG">Liang Yu Chen<br>Zoey Tock En Xi<br>Yuina Hibino</span></p></td></tr></tbody></table><br>
+  EN-SG" lang="EN-SG">- Liang Yu Chen<br>- Zoey Tock En Xi<br>- Yuina Hibino</span></p></td></tr></tbody></table><br>
 	
 	
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
@@ -451,15 +451,7 @@ variant: markdown
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Aptos Narrow&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:AR-SA">Nathan Geoff Reyes Aguilar</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Aptos Narrow&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:AR-SA">Surajiv Ranjith</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Aptos Narrow&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:AR-SA">Adam Sameer Grewal</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Aptos Narrow&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:AR-SA">Zhou Huaye</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Aptos Narrow&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:AR-SA">Ong Zong Han Owen</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:155.85pt;border-top:none;border-left:
+  mso-ligatures:none;mso-bidi-language:AR-SA">- Nathan Geoff Reyes Aguilar<br>- Surajiv Ranjith<br>- Adam Sameer Grewal<br>- Zhou Huaye<br>- Ong Zong Han Owen</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
@@ -469,15 +461,7 @@ variant: markdown
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Aptos Narrow&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:AR-SA">William Krish Nambiar</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Aptos Narrow&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:AR-SA">Samarth Reddy</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Aptos Narrow&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:AR-SA">Gregory Tay</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Aptos Narrow&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:AR-SA">Liew Kai Lee</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Aptos Narrow&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:AR-SA">Vincent Albert Bennett</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:155.85pt;border-top:none;border-left:
+  mso-ligatures:none;mso-bidi-language:AR-SA">- William Krish Nambiar<br>- Samarth Reddy<br>- Gregory Tay<br>- Liew Kai Lee<br>- Vincent Albert Bennett</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
@@ -487,13 +471,7 @@ variant: markdown
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Aptos Narrow&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:AR-SA">Satija Samarth</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Aptos Narrow&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:AR-SA">Ray Wong Jun Rui</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Aptos Narrow&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:AR-SA">Luu Kelly Hui Yi</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Aptos Narrow&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-bidi-font-family:&quot;Times New Roman&quot;;color:black;mso-font-kerning:0pt;
-  mso-ligatures:none;mso-bidi-language:AR-SA">Master Raphael Dhaval</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  mso-ligatures:none;mso-bidi-language:AR-SA">- Satija Samarth<br>- Ray Wong Jun Rui<br>- Luu Kelly Hui Yi<br>- Master Raphael Dhaval</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal">Asia-Pacific Mathematical Olympiad for Primary Schools 2024 (APMOPS)</p></td><td style="width:155.85pt;border-top:none;border-left:
@@ -523,7 +501,7 @@ variant: markdown
   line-height:normal" align="center" class="MsoNormal">Certificate of Participation</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Neah Shibil</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Satija Samarth</p></td></tr><tr style="mso-yfti-irow:2"><td style="width:155.85pt;border-top:none;border-left:
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">- Neah Shibil<br>- Satija Samarth</p></td></tr><tr style="mso-yfti-irow:2"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
@@ -576,7 +554,7 @@ variant: markdown
   line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">3<sup>rd</sup> Position</span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Aarushi Kumawat<br><br>Anahita Vasundhara Nair<br><br>Chan Charlotte Hui Xia<br><br>Griva Tzimopoulou Antonia<br><br>Hannah Hui Xiu Deery<br><br>Maddison Jade Barnes<br><br>Ng Yhukei<br><br>Sreeja Sathia Narayanan<br><br>Tan Jia Xi Emma<br><br>Tang Estelle<br><br>Toh Mei Ying<br><br>Woong Pe Hsuan</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:155.85pt;border-top:none;border-left:
+  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Aarushi Kumawat<br>- Anahita Vasundhara Nair<br>- Chan Charlotte Hui Xia<br>- Griva Tzimopoulou Antonia<br>- Hannah Hui Xiu Deery<br>- Maddison Jade Barnes<br>- Ng Yhukei<br>- Sreeja Sathia Narayanan<br>- Tan Jia Xi Emma<br>- Tang Estelle<br>- Toh Mei Ying<br>- Woong Pe Hsuan</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
