@@ -125,7 +125,7 @@ variant: markdown
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Annika Vasundhra<br>Vedant Vinit<br>Yeow Zhi En<br>Iyana Acharya<br>Pang Zehao<br>Advay Jayesh<br>Aaditya Dasari<br>Chong Yue Ling Aylie<br>Shourya Taneja</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:155.85pt;border-top:none;border-left:
+  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Annika Vasundhra<br>- Vedant Vinit<br>- Yeow Zhi En<br>- Iyana Acharya<br>- Pang Zehao<br>- Advay Jayesh<br>- Aaditya Dasari<br>- Chong Yue Ling Aylie<br>- Shourya Taneja</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
@@ -145,7 +145,7 @@ variant: markdown
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Surajiv Ranjith<br>Gloria Aurielle Soenjaya<br><br>Koong Hua Hsin<br>Kabir Sirnani</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Surajiv Ranjith<br>- Gloria Aurielle Soenjaya<br><br>- Koong Hua Hsin<br>- Kabir Sirnani</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"><td style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Asia-Pacific Mathematical Olympiad for Primary Schools (2025)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
@@ -155,7 +155,7 @@ variant: markdown
   line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Bronze Award</span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Aaryav Agarwal<br>Jeenika Agarwal</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td></tr></tbody></table><br>
+  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Aaryav Agarwal<br>- Jeenika Agarwal</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td></tr></tbody></table><br>
 
 
 
@@ -174,7 +174,7 @@ variant: markdown
   line-height:normal" align="center" class="MsoNormal">Honorable Mention</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:left;
   line-height:normal" align="center" class="MsoNormal">Gregory Tay</p></td></tr><tr style="mso-yfti-irow:2"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
@@ -182,7 +182,7 @@ variant: markdown
   line-height:normal" align="center" class="MsoNormal">Bronze Award</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:left;
   line-height:normal" align="center" class="MsoNormal">Anjelika Rajesh</p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
@@ -190,9 +190,8 @@ variant: markdown
   line-height:normal" align="center" class="MsoNormal">Silver Award</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Jeenika Agarwal</p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Tansirisithikul Pannavit</p></td></tr></tbody></table><br>
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:left;
+  line-height:normal" align="center" class="MsoNormal">- Jeenika Agarwal<br>- Tansirisithikul Pannavit</p></td></tr></tbody></table><br>
 	
 	
 
