@@ -4,7 +4,7 @@ permalink: /opera-s-got-talent/
 variant: markdown
 description: ""
 ---
-<a href="https://albumizr.com/a/Li8U"><img style="width:600px;height:400px;" alt="HTML tutorial" src="/images/2025/ogt2025.jpg"></a><br>
+<img style="width:600px;height:400px;" alt="HTML tutorial" src="/images/2025/ogt2025.jpg"><br>
 
 
 
