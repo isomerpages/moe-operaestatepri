@@ -1,6 +1,6 @@
 ---
 title: Opera's Got Talent
-permalink: /opera-s-got-talent/
+permalink: /ogt567893/
 variant: markdown
 description: ""
 ---
