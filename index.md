@@ -40,11 +40,4 @@ sections:
       url: /2025-p1/
       image: /images/p12024web.jpg
       alt: Image alt text
-  - infopic:
-      title: Opera's Got Talent (Recess Concert 2024)
-      id: infopic
-      button: Click to view
-      url: https://drive.google.com/drive/folders/1sqxQfNjNxbsvJChA6g_UhQgjU0CmFd-m?usp=sharing
-      image: /images/ogt2024.jpg
-      alt: Image alt text
 ---
