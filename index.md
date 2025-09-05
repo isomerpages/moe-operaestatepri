@@ -20,6 +20,13 @@ sections:
           url: /moe-sexuality-education/
       variant: center
   - infopic:
+      title: OEPS 40th Anniversary
+      id: infopic
+      button: click here to view our photos
+      url: https://flic.kr/s/aHBqjCpgMF
+      image: /images/40th_anni_for_web.jpg
+      alt: Image alt text
+  - infopic:
       title: E-Open House 2025
       id: infopic
       button: Click here
