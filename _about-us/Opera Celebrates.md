@@ -202,7 +202,6 @@ variant: markdown
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Aaryav Agarwal<br>- Jeenika Agarwal</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td></tr></tbody></table><br>
 
 
-
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#D9F2D0;mso-background-themecolor:
@@ -210,7 +209,7 @@ variant: markdown
   line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">SCIENCE</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="3" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal">eThink Challenge</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
@@ -218,7 +217,7 @@ variant: markdown
   line-height:normal" align="center" class="MsoNormal">Honorable Mention</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:left;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal">Gregory Tay</p></td></tr><tr style="mso-yfti-irow:2"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
@@ -226,16 +225,41 @@ variant: markdown
   line-height:normal" align="center" class="MsoNormal">Bronze Award</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:left;
-  line-height:normal" align="center" class="MsoNormal">Anjelika Rajesh</p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:155.85pt;border-top:none;border-left:
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Anjelika Rajesh</p></td></tr><tr style="mso-yfti-irow:3"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal">Silver Award</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:left;
-  line-height:normal" align="center" class="MsoNormal">- Jeenika Agarwal<br>- Tansirisithikul Pannavit</p></td></tr></tbody></table><br>
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Jeenika Agarwal</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Tansirisithikul Pannavit</p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Singapore Primary Science Olympiad (2025)</p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Merit Award</p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Advay Jayesh Fernandes</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Annika Vasundhra Nair</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Ashleigh Shen Qihan</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Avik Sharma</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Charlotte Lim Yu En</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Elijah Herman</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Gregorius Stanislaus</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Ibrahim Ali Ahmed Hamidani</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Lum En Qi, Esther</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Maria George Manjakkal</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Ong Jie Yu, Joey</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Shuddhi Mehrotra</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-ansi-language:NO-NYN" lang="NO-NYN">Siti Aryanna Zyva</span></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Vedant Vinit Sarangdhar</p></td></tr></tbody></table>
 	
 	
 
