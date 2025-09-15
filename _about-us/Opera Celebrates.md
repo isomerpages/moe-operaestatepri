@@ -234,8 +234,7 @@ variant: markdown
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Jeenika Agarwal</p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Tansirisithikul Pannavit</p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  line-height:normal" align="center" class="MsoNormal">- Jeenika Agarwal<br>- Tansirisithikul Pannavit</p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal">Singapore Primary Science Olympiad (2025)</p></td><td style="width:155.85pt;border-top:none;border-left:
@@ -246,20 +245,7 @@ variant: markdown
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Advay Jayesh Fernandes</p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Annika Vasundhra Nair</p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Ashleigh Shen Qihan</p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Avik Sharma</p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Charlotte Lim Yu En</p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Elijah Herman</p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Gregorius Stanislaus</p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Ibrahim Ali Ahmed Hamidani</p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Lum En Qi, Esther</p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Maria George Manjakkal</p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Ong Jie Yu, Joey</p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Shuddhi Mehrotra</p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="mso-ansi-language:NO-NYN" lang="NO-NYN">Siti Aryanna Zyva</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Vedant Vinit Sarangdhar</p></td></tr></tbody></table>
+  line-height:normal" align="center" class="MsoNormal">- Advay Jayesh Fernandes<br>- Annika Vasundhra Nair<br>- Ashleigh Shen Qihan<br>- Avik Sharma<br>- Charlotte Lim Yu En<br>- Elijah Herman<br>- Gregorius Stanislaus<br>- Ibrahim Ali Ahmed Hamidani<br>- Lum En Qi, Esther<br>- Maria George Manjakkal<br>- Ong Jie Yu, Joey<br>- Shuddhi Mehrotra<br>- Siti Aryanna Zyva<br>- Vedant Vinit Sarangdhar</p></td></tr></tbody></table>
 	
 	
 
