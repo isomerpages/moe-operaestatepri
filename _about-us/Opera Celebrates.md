@@ -202,6 +202,7 @@ variant: markdown
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Aaryav Agarwal<br>- Jeenika Agarwal</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td></tr></tbody></table><br>
 
 
+
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#D9F2D0;mso-background-themecolor:
@@ -234,9 +235,14 @@ variant: markdown
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">- Jeenika Agarwal<br>- Tansirisithikul Pannavit</p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  line-height:normal" align="center" class="MsoNormal">- Jeenika Agarwa<br>- Tansirisithikul Pannavit</p></td></tr><tr style="mso-yfti-irow:4"><td style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="2" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal">Singapore Primary Science Olympiad (2025)</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
@@ -245,7 +251,15 @@ variant: markdown
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">- Advay Jayesh Fernandes<br>- Annika Vasundhra Nair<br>- Ashleigh Shen Qihan<br>- Avik Sharma<br>- Charlotte Lim Yu En<br>- Elijah Herman<br>- Gregorius Stanislaus<br>- Ibrahim Ali Ahmed Hamidani<br>- Lum En Qi, Esther<br>- Maria George Manjakkal<br>- Ong Jie Yu, Joey<br>- Shuddhi Mehrotra<br>- Siti Aryanna Zyva<br>- Vedant Vinit Sarangdhar</p></td></tr></tbody></table>
+  line-height:normal" align="center" class="MsoNormal">- Advay Jayesh Fernandes<br>- Annika Vasundhra Nair<br>- Ashleigh Shen Qihan<br>- Avik Sharma<br>- Charlotte Lim Yu En<br>- Elijah Herman<br>- Gregorius Stanislaus<br>- Ibrahim Ali Ahmed Hamidani<br>- Lum En Qi, Esther<br>- Maria George Manjakka<br>- Ong Jie Yu, Joey<br>- Shuddhi Mehrotra<br>- Siti Aryanna Zyva<br>- Vedant Vinit Sarangdhar</p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Bronze Award</p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">- Fillmore Z. Lim<br>- Yeow Zhi En</p></td></tr></tbody></table>
 	
 	
 
