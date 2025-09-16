@@ -86,19 +86,7 @@ variant: markdown
   line-height:normal" align="center" class="MsoNormal">Gold Award</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">- Swara Sheth<br>- Giselle Khoo Peiyu<br>- Quida Crislin Chong</p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:3.5pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">&nbsp;</p></td><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
-  height:3.5pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">&nbsp;</p></td><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
-  height:3.5pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td></tr></tbody></table>
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">- Swara Sheth<br>- Giselle Khoo Peiyu<br>- Quida Crislin Chong</p></td></tr></tbody></table>
 
 
 
@@ -139,8 +127,8 @@ variant: markdown
   line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Champion</span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt;height:190.9pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Aqeel Danish Bin Abdullah<br>- Azzalea Binte Mazlan<br>- Daanya Elvyna Binte Mohamad Fursyam<br>- Fa’ith Amsyar Puey Bin Fadzillah Puey<br>- Isa Ahmad Kuhail<br>- Mila Eliza Binte Abdul Hadi<br>- Mohamaed Ayaan Lakdawala<br>- Muhammad Aiman Rasheed Bin Muhammad Salihin<br>- Muhammad Irfan Al-Hakim Bin Kamaruzzama<br>- Muhammad Sufi Aqil Bin Mohammad Hafiz<br>- Muhammad Ukail Bin Idris<br>- Muhammad Uwais Al-Qarni Bin Mohamed Maghrib<br>- Muhammad Zulzawaed Bin Muhamad Azrol<br>- Nara Aryssa Andre Puteri<br>- Omar Mikail Bin Yusuf Bin Omar<br>- Syed Alriq Bin Syed Aishah<br>- Wan Dawood Bin Wan Ismail</span></p></td></tr></tbody></table>
+  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
+  height:190.9pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Aqeel Danish Bin Abdullah<br>- Azzalea Binte Mazlan<br>- Daanya Elvyna Binte Mohamad Fursyam<br>- Fa’ith Amsyar Puey Bin Fadzillah Puey<br>- Isa Ahmad Kuhail<br>- Mila Eliza Binte Abdul Hadi<br>- Mohamaed Ayaan Lakdawala<br>- Muhammad Aiman Rasheed Bin Muhammad Salihin<br>- Muhammad Irfan Al-Hakim Bin Kamaruzzama<br>- Muhammad Sufi Aqil Bin Mohammad Hafiz<br>- Muhammad Ukail Bin Idris<br>- Muhammad Uwais Al-Qarni Bin Mohamed Maghrib<br>- Muhammad Zulzawaed Bin Muhamad Azrol<br>- Nara Aryssa Andre Puteri<br>- Omar Mikail Bin Yusuf Bin Omar<br>- Syed Alriq Bin Syed Aishah<br>- Wan Dawood Bin Wan Ismail</span></p></td></tr></tbody></table>
 	
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
@@ -210,37 +198,10 @@ variant: markdown
   accent6;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" colspan="3" width="623"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">SCIENCE</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="3" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">eThink Challenge</p></td><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Honorable Mention</p></td><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Gregory Tay</p></td></tr><tr style="mso-yfti-irow:2"><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Bronze Award</p></td><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Anjelika Rajesh</p></td></tr><tr style="mso-yfti-irow:3"><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Silver Award</p></td><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">- Jeenika Agarwa<br>- Tansirisithikul Pannavit</p></td></tr><tr style="mso-yfti-irow:4"><td style="width:155.8pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="2" width="208"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p></p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal">Singapore Primary Science Olympiad (2025)</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -250,7 +211,7 @@ variant: markdown
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">- Advay Jayesh Fernandes<br>- Annika Vasundhra Nair<br>- Ashleigh Shen Qihan<br>- Avik Sharma<br>- Charlotte Lim Yu En<br>- Elijah Herman<br>- Gregorius Stanislaus<br>- Ibrahim Ali Ahmed Hamidani<br>- Lum En Qi, Esther<br>- Maria George Manjakka<br>- Ong Jie Yu, Joey<br>- Shuddhi Mehrotra<br>- Siti Aryanna Zyva<br>- Vedant Vinit Sarangdhar</p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"><td style="width:155.85pt;border-top:none;border-left:
+  line-height:normal" align="center" class="MsoNormal">- Advay Jayesh Fernandes<br>- Annika Vasundhra Nair<br>- Ashleigh Shen Qihan<br>- Avik Sharma<br>- Charlotte Lim Yu En<br>- Elijah Herman<br>- Gregorius Stanislaus<br>- Ibrahim Ali Ahmed Hamidani<br>- Lum En Qi, Esther<br>- Maria George Manjakkal<br>- Ong Jie Yu, Joey<br>- Shuddhi Mehrotra<br>- Siti Aryanna Zyva<br>- Vedant Vinit Sarangdhar</p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
@@ -258,18 +219,7 @@ variant: markdown
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">- Fillmore Z. Lim<br>- Yeow Zhi En</p></td></tr><tr style="mso-yfti-irow:4"><td style="width:155.8pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="2" width="208"><p style="margin-bottom:0cm;text-align:center;
-		line-height:normal" align="center" class="MsoNormal">Youth Innovation and STEM Sprint (2025)</p></td><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">1st Place</p></td><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-		line-height:normal" align="center" class="MsoNormal">Tansirisithikul Pannavit</p></td></tr></tbody></table>
+  line-height:normal" align="center" class="MsoNormal">- Fillmore Z. Lim<br>- Yeow Zhi En</p></td></tr></tbody></table>
 	
 	
 
