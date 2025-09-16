@@ -102,6 +102,7 @@ variant: markdown
 
 
 
+
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#FAE2D5;mso-background-themecolor:
@@ -130,16 +131,16 @@ variant: markdown
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Fa’ith Amsyar</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:155.85pt;border-top:none;border-left:
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Fa’ith Amsyar Puey Bin Fadzillah Puey</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:190.9pt"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
+  height:190.9pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Champion</span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:black;mso-background-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">&nbsp;</p></td></tr></tbody></table>
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:0cm 5.4pt 0cm 5.4pt;height:190.9pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Aqeel Danish Bin Abdullah<br>- Azzalea Binte Mazlan<br>- Daanya Elvyna Binte Mohamad Fursyam<br>- Fa’ith Amsyar Puey Bin Fadzillah Puey<br>- Isa Ahmad Kuhail<br>- Mila Eliza Binte Abdul Hadi<br>- Mohamaed Ayaan Lakdawala<br>- Muhammad Aiman Rasheed Bin Muhammad Salihin<br>- Muhammad Irfan Al-Hakim Bin Kamaruzzama<br>- Muhammad Sufi Aqil Bin Mohammad Hafiz<br>- Muhammad Ukail Bin Idris<br>- Muhammad Uwais Al-Qarni Bin Mohamed Maghrib<br>- Muhammad Zulzawaed Bin Muhamad Azrol<br>- Nara Aryssa Andre Puteri<br>- Omar Mikail Bin Yusuf Bin Omar<br>- Syed Alriq Bin Syed Aishah<br>- Wan Dawood Bin Wan Ismail</span></p></td></tr></tbody></table>
 	
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
