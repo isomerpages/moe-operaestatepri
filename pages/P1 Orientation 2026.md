@@ -51,7 +51,7 @@ description: ""
 	
 <p>Please submit the information through the online Student Details Form portal from <b>1 Dec 2025, 10.00am</b>. The portal can be accessed via this URL:</p><a href="https://pg.moe.edu.sg/forms/sdf"><strong>https://pg.moe.edu.sg/forms/sdf</strong></a><br>, the Services page on Parents Gateway (PG) mobile app or the QR code below. Either parent can login to submit the required particulars. We seek your help to complete the submission by 31 Dec 2025.
 	
-<img style="width: 80%;" src="/images/pupilsdata.jpg">
+<img style="width: 80%;" src="/images/2026/P1orientation/Pupils_Data_Capturing.jpg">
 	
 <p>Please note that only one parent (father or mother) is required to submit the pupil data to MOE. However, if the parent indicates that he/she is unable to provide his/her spouse’s highest educational level attended, the other parent will need to log in to submit the information.</p>
 	
