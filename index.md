@@ -20,6 +20,13 @@ sections:
           url: /moe-sexuality-education/
       variant: center
   - infopic:
+      title: P1 Orientation for 2026 Intake
+      description: For more information,
+      button: Click here
+      url: /2026-p1/
+      image: /images/p12024web.jpg
+      alt: Image alt text
+  - infopic:
       title: OEPS 40th Anniversary
       id: infopic
       button: click here to view our photos
@@ -39,12 +46,5 @@ sections:
       button: click to view
       url: https://drive.google.com/drive/folders/12RWKZmaEFnzrLGLC8dsqDxQGP82WXr6o?usp=sharing
       image: /images/superfood2.jpg
-      alt: Image alt text
-  - infopic:
-      title: P1 Orientation for 2025 Intake
-      description: For more information,
-      button: Click here
-      url: /2025-p1/
-      image: /images/p12024web.jpg
       alt: Image alt text
 ---
