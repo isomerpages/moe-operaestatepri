@@ -121,7 +121,8 @@ description: ""
 <p>We strongly encourage all parents / guardians to come on board PG for quicker access to school information. Please refer to Annex A – One Time Onboarding for the step-by-step onboarding guide. If you have any queries, you can refer to the FAQ link: <strong><a href="https://ask.gov.sg/parentsgateway">PARENTSGATEWAY | FAQ: Official answers to your questions</a></strong> for help.</p>
 <a href="/files/P12026/annex_a.pdf"><strong>Annex A - One Time Onboarding</strong></a>
 
-</div></li></ul>
+</div>
+</li>
 
 
 	
@@ -142,6 +143,7 @@ description: ""
 <p><a href="https://drive.google.com/file/d/1mtrSvdkrg4snfYpKIgZTqEjj6UO95kfx/view?usp=sharing" target="_blank" rel="noopener"><strong>Click here to view!</strong></a></p>
 </div>
 </li>
+	
 <li><input id="accordion10" type="checkbox"> <label for="accordion10">P1 Orientation Briefing Slides</label>
 <div>
 <ul>
@@ -150,7 +152,7 @@ description: ""
 </div>
 </li>
 <b>	
-</b></td>
+</b></ul></td>
 
 	
 	
