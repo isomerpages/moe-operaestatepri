@@ -1,6 +1,6 @@
 ---
 title: P1 Orientation 2026
-permalink: /p12026testingpage/
+permalink: /2026-p1/
 variant: markdown
 description: ""
 ---
