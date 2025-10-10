@@ -369,11 +369,8 @@ variant: markdown
 <p><em>Operating Hours<br></em><em>Monday to Friday: 10.00 a.m. to 6.00 p.m.<br></em><em>Saturday: 10.00 a.m. to 3.00 p.m.<br></em><em>(Closed on Sundays and Public Holidays)</em></p>
 	
 <p><strong><u>School Bus Operator</u></strong></p>
-<p><em>Name of Bus Operator: Uncle Lin Transport and Mesa Travel (S) Pte Ltd<br></em><em>Contact Person: Ms Serena Chua<br></em><em>Contact No: 9234 6908<br></em><em>Email address:&nbsp;</em><em><a href="mailto:oepsbus@yeaptpt.com">OEPSbus@unclelintransport.com</a></em><br><br>
-School Bus Operator and “Not to Exceed Price”(NTE) for 2024 - 2025   </p>
-	• &nbsp; <a href="https://go.gov.sg/k1x411">School 
-	Bus Operator and NTE Price for 2024 - 2025</a><br>
-	<p></p>
+<p><em>Name of Bus Operator: Uncle Lin Transport <br></em><em>Contact Person: Wynnie<br></em><em>Contact No: 9234 6908<br></em><em>Email address:&nbsp;</em><em><a href="mailto:oepsbus@yeaptpt.com">OEPSbus@unclelintransport.com</a></em><br>
+	</p><p></p>
 
 	
 	
