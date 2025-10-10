@@ -21,7 +21,11 @@ description: ""
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">P1 Booklist</label>
 <div>
 <ul>
-	<p><b>P1 Booklist</b> (Come back soon for updates on this page!)<br><br><b>P1 Name Tags  </b>(Come back soon for updates on this page!)</p><p></p>
+<a href="/files/2026/P12026/Opera_Estate_Booklist_2026_Primary_1.pdf" target="_blank" rel="noopener"><strong>P1 Booklist</strong></a><br>
+	
+<p><i>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for books/shoes/socks until you are updated on the outcome of the MOE FAS application.</i></p>	
+
+<b>P1 Name Tags  </b>(Come back soon for updates on this page!)<p></p><p></p>
 </ul>
 <p>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for books/shoes/socks until you are updated on the outcome of the MOE FAS application.</p>
 </div>
@@ -162,8 +166,8 @@ description: ""
 	
 <li><input id="accordion13" type="checkbox"> <label for="accordion13">School Bus Service</label>
 <div>
-	
-<p>If you are interested to engage school bus service for your child in 2026, you may indicate your interest through the link: <br><a href="https://go.gov.sg/oeps-school-bus-request-form" target="_blank" rel="noopener">https://go.gov.sg/oeps-school-<br>bus-request-form</a>, scan the QR Code or by reaching out to them at : <br><br>Contact Person: Wynnie<br>Contact Number: 9234 6908<br><a href="mailto:OEPSbus@unclelintransport.com">OEPSbus@unclelintransport.com</a>.<br></p>
+<p>Uncle Lin Transport is our appointed school bus service provider from 1 January 2026.<br>	
+<br>If you are interested to engage school bus service for your child in 2026, you may indicate your interest through the link: <br><a href="https://go.gov.sg/oeps-school-bus-request-form" target="_blank" rel="noopener">https://go.gov.sg/oeps-school-<br>bus-request-form</a>, scan the QR Code or by reaching out to them at : <br><br>Contact Person: Wynnie<br>Contact Number: 9234 6908<br><a href="mailto:OEPSbus@unclelintransport.com">OEPSbus@unclelintransport.com</a>.<br></p>
 	
 <img style="width: 90%;" src="/images/2026/P1orientation/School_Bus_Service.jpg">
 
