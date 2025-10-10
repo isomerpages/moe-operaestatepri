@@ -21,7 +21,11 @@ description: ""
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">P1 Booklist</label>
 <div>
 <ul>
-	<p><b>P1 Booklist</b> (Come back soon for updates on this page!)<br><br><b>P1 Name Tags  </b>(Come back soon for updates on this page!)</p><p></p>
+<a href="/files/2026/P12026/Opera_Estate_Booklist_2026_Primary_1.pdf" target="_blank" rel="noopener"><strong>P1 Booklist</strong></a><br>
+	
+<p><i>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for books/shoes/socks until you are updated on the outcome of the MOE FAS application.</i></p>	
+
+<b>P1 Name Tags  </b>(Come back soon for updates on this page!)<p></p><p></p>
 </ul>
 <p>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for books/shoes/socks until you are updated on the outcome of the MOE FAS application.</p>
 </div>
