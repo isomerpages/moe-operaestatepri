@@ -166,8 +166,8 @@ description: ""
 	
 <li><input id="accordion13" type="checkbox"> <label for="accordion13">School Bus Service</label>
 <div>
-	
-<p>If you are interested to engage school bus service for your child in 2026, you may indicate your interest through the link: <br><a href="https://go.gov.sg/oeps-school-bus-request-form" target="_blank" rel="noopener">https://go.gov.sg/oeps-school-<br>bus-request-form</a>, scan the QR Code or by reaching out to them at : <br><br>Contact Person: Wynnie<br>Contact Number: 9234 6908<br><a href="mailto:OEPSbus@unclelintransport.com">OEPSbus@unclelintransport.com</a>.<br></p>
+<p>Uncle Lin Transport is our appointed school bus service provider from 1 January 2026.<br>	
+<br>If you are interested to engage school bus service for your child in 2026, you may indicate your interest through the link: <br><a href="https://go.gov.sg/oeps-school-bus-request-form" target="_blank" rel="noopener">https://go.gov.sg/oeps-school-<br>bus-request-form</a>, scan the QR Code or by reaching out to them at : <br><br>Contact Person: Wynnie<br>Contact Number: 9234 6908<br><a href="mailto:OEPSbus@unclelintransport.com">OEPSbus@unclelintransport.com</a>.<br></p>
 	
 <img style="width: 90%;" src="/images/2026/P1orientation/School_Bus_Service.jpg">
 
