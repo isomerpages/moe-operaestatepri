@@ -135,7 +135,7 @@ description: ""
 	
 <li><input id="accordion8" type="checkbox"> <label for="accordion8">P1 Information Booklet </label>
 <div>
-<p>Come back soon for updates on this page!</p>
+<p><a href="https://www.flipsnack.com/operaestatepri/info-booklet-for-2026-p1-parents" target="_blank" rel="noopener"><strong>P1 Information Booklet</strong></a></p>
 </div>
 </li>
 	
