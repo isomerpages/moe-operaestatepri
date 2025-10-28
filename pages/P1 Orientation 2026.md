@@ -23,11 +23,11 @@ description: ""
 <ul>
 <a href="/files/2026/P12026/Opera_Estate_Booklist_2026_Primary_1.pdf" target="_blank" rel="noopener"><strong>P1 Booklist</strong></a><br>
 	
-<p><i>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for books/shoes/socks until you are updated on the outcome of the MOE FAS application.</i></p>	
+<p align="justify"><i>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for books/shoes/socks until you are updated on the outcome of the MOE FAS application.</i></p>	
 
 <b>P1 Name Tags  </b>(Come back soon for updates on this page!)<p></p><p></p>
 </ul>
-<p>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for books/shoes/socks until you are updated on the outcome of the MOE FAS application.</p>
+<p align="justify">For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for books/shoes/socks until you are updated on the outcome of the MOE FAS application.</p>
 </div>
 </li>
 	
@@ -41,7 +41,7 @@ description: ""
 
 	
 <p><a href="/files/2026/P12026/Information_for_Sale_of_Uniforms_2026_ITU_OEPS.pdf"><strong>Information for Sale of Uniforms</strong></a></p>
-<p>For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for school uniform until you are updated on the outcome of the MOE FAS application.</p>
+<p align="justify">For Singapore Citizen students who intend to apply for MOE Financial Assistance Scheme (FAS), please do not make the purchase for school uniform until you are updated on the outcome of the MOE FAS application.</p>
 <p></p>
 </div>
 </li>
@@ -51,13 +51,13 @@ description: ""
 	
 <li><input id="accordion23" type="checkbox"> <label for="accordion23">Pupils Data Capturing Exercise</label>
 <div>
-<p>As your child/ward will be starting primary one in January 2026, the Ministry of Education (MOE) would like to collect necessary information about you and your child/ward to provide educational services for your child/ward in our schools.</p>
+<p align="justify">As your child/ward will be starting primary one in January 2026, the Ministry of Education (MOE) would like to collect necessary information about you and your child/ward to provide educational services for your child/ward in our schools.</p>
 	
-<p>Please submit the information through the online Student Details Form portal from <b>1 Dec 2025, 10.00am</b>. The portal can be accessed via this URL:</p><a href="https://pg.moe.edu.sg/forms/sdf"><strong>https://pg.moe.edu.sg/forms/sdf</strong></a><br>, the Services page on Parents Gateway (PG) mobile app or the QR code below. Either parent can login to submit the required particulars. We seek your help to complete the submission by 31 Dec 2025.
+<p align="justify">Please submit the information through the online Student Details Form portal from <b>1 Dec 2025, 10.00am</b>. The portal can be accessed via this URL:<br><a href="https://pg.moe.edu.sg/forms/sdf"><strong>https://pg.moe.edu.sg/forms/sdf</strong></a><br>, the Services page on Parents Gateway (PG) mobile app or the QR code below. Either parent can login to submit the required particulars. We seek your help to complete the submission by 31 Dec 2025.</p>
 	
 <img style="width: 80%;" src="/images/2026/P1orientation/Pupils_Data_Capturing.jpg">
 	
-<p>Please note that only one parent (father or mother) is required to submit the pupil data to MOE. However, if the parent indicates that he/she is unable to provide his/her spouse’s highest educational level attended, the other parent will need to log in to submit the information.</p>
+<p align="justify">Please note that only one parent (father or mother) is required to submit the pupil data to MOE. However, if the parent indicates that he/she is unable to provide his/her spouse’s highest educational level attended, the other parent will need to log in to submit the information.</p>
 	
 
 </div>
@@ -68,8 +68,8 @@ description: ""
 	
 <li><input id="accordion3" type="checkbox"> <label for="accordion3">Application for Interbank GIRO</label>
 <div>
-<p>Sign up for MOE eGiro through the online portal at <a href="https://www.moe.gov.sg/financial-matters/fees/egiro">https://www.moe.gov.sg/financial-matters/fees/egiro</a> or from the “Services” tab in Parents Gateway app - “GIRO Setup” which will bring you to the same page for you to click “Apply for GIRO”.</p>
-<p>Should you encounter error in the process, please provide screen captures as well as the time and date of application to MOE using the below Feedback Form&nbsp;</p><a href="https://www.moe.gov.sg/feedback">https://www.moe.gov.sg/feedback</a><p></p>
+<p align="justify">Sign up for MOE eGiro through the online portal at <a href="https://www.moe.gov.sg/financial-matters/fees/egiro">https://www.moe.gov.sg/financial-matters/fees/egiro</a> or from the “Services” tab in Parents Gateway app - “GIRO Setup” which will bring you to the same page for you to click “Apply for GIRO”.</p>
+<p align="justify">Should you encounter error in the process, please provide screen captures as well as the time and date of application to MOE using the below Feedback Form&nbsp;</p><a href="https://www.moe.gov.sg/feedback">https://www.moe.gov.sg/feedback</a><p></p>
 </div>
 </li>
 	
@@ -79,8 +79,8 @@ description: ""
 	
 <li><input id="accordion4" type="checkbox"> <label for="accordion4">Edusave Scheme (for Singapore Citizens Students only)</label>
 <div>
-<p>All Singapore Citizens students will have an Edusave account automatically opened for them and receive a yearly contribution. For more information on Edusave Account, please refer to this&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds" target="_blank" rel="noopener">link</a></strong>.</p>
-<p>Parents can sign up for Edusave standing order to use your child’s Edusave account to pay for the single tier miscellaneous fees and enrichment programmes to reduce your out-of-pocket expense. Complete the online Edusave Standing Order Form via this&nbsp;<strong><a href="https://go.gov.sg/edusaveformsgso" target="_blank" rel="noopener">link</a>&nbsp;</strong>with either parent's SingPass login.</p>
+<p align="justify">All Singapore Citizens students will have an Edusave account automatically opened for them and receive a yearly contribution. For more information on Edusave Account, please refer to this&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds" target="_blank" rel="noopener">link</a></strong>.</p>
+<p align="justify">Parents can sign up for Edusave standing order to use your child’s Edusave account to pay for the single tier miscellaneous fees and enrichment programmes to reduce your out-of-pocket expense. Complete the online Edusave Standing Order Form via this&nbsp;<strong><a href="https://go.gov.sg/edusaveformsgso" target="_blank" rel="noopener">link</a>&nbsp;</strong>with either parent's SingPass login.</p>
 </div>
 </li>
 	
@@ -90,7 +90,21 @@ description: ""
 <li><input id="accordion5" type="checkbox"> <label for="accordion5">MOE FAS (Financial Assistance Scheme)</label>
 <div>
 
-<p>Come back soon for updates on this page!</p>
+<p align="justify">a) Singapore Citizens who wish to apply for MOE FAS 2026, can do so via this mode: 
+a) eFAS link in PG’s services section: 
+</p>
+	<img style="width: 100%;" src="/images/2026/P1orientation/fas2026.jpg"><br>
+	
+<p align="justify">b) eFAS form via this <a href="https://go.gov.sg/moe-efasggas" target="_blank" rel="noopener">link</a> .<br><br>
+Along with the revised income eligibility criteria for MOE’s financial assistance schemes, MOE will onboard the Household Means Eligibility System (HOMES) to streamline application and means-testing processes from AY2026. With HOMES, most applicants no longer need to submit supporting documents, such as income documents. Applicants will only need to submit income documents if there is other administrative income (OAI), such as rental income, dividends and taxable investment income, declared by any household members living under the same residential address. </p>
+<p align="justify">Applicants are highly encouraged to submit applications through the eFAS link, either through PG or the link provided above. </p>
+<p>If your family and child is/children are existing beneficiary/beneficiaries of MSF ComCare, your child/children will be auto-granted MOE FAS. You do not need to apply for MOE FAS separately.</p>
+
+<p align="justify">Should you require further assistance, please approach the General Office, call 6241 0417 or email to oeps@moe.edu.sg.</p>
+
+	
+	
+	
 	
 	
 </div>
@@ -112,7 +126,7 @@ description: ""
 <div>
 <ul>
 	
-<p>Parents who are allowing their children to travel to school via bicycle or kick scooter are required to submit a declaration through:<a href="https://go.gov.sg/oeps-cyclingtoschool"><br>https://go.gov.sg/oeps-cyclingtoschool</a></p>
+<p align="justify">Parents who are allowing their children to travel to school via bicycle or kick scooter are required to submit a declaration through:<a href="https://go.gov.sg/oeps-cyclingtoschool"><br>https://go.gov.sg/oeps-cyclingtoschool</a></p>
 </ul>
 </div>
 </li>
@@ -122,7 +136,9 @@ description: ""
 	
 <li><input id="accordion11" type="checkbox"> <label for="accordion11">Parents Gateway</label>
 <div>
-<p>We strongly encourage all parents / guardians to come on board PG for quicker access to school information. Please refer to Annex A – One Time Onboarding for the step-by-step onboarding guide. If you have any queries, you can refer to the FAQ link: <strong><a href="https://ask.gov.sg/parentsgateway">PARENTSGATEWAY | FAQ: Official answers to your questions</a></strong> for help.</p>
+<p align="justify">We strongly encourage all parents / guardians to come on board PG for quicker access to school information. Please refer to Annex A – One Time Onboarding for the step-by-step onboarding guide.</p>
+	
+<p> If you have any queries, you can refer to the FAQ link: <strong><a href="https://ask.gov.sg/parentsgateway">PARENTSGATEWAY | FAQ: Official answers to your questions</a></strong> for help.</p>
 <a href="/files/P12026/annex_a.pdf"><strong>Annex A - One Time Onboarding</strong></a>
 
 </div>
@@ -166,7 +182,7 @@ description: ""
 	
 <li><input id="accordion13" type="checkbox"> <label for="accordion13">School Bus Service</label>
 <div>
-<p>Uncle Lin Transport is our appointed school bus service provider from 1 January 2026.<br>	
+<p align="justify">Uncle Lin Transport is our appointed school bus service provider from 1 January 2026.<br>	
 <br>If you are interested to engage school bus service for your child in 2026, you may indicate your interest through the link: <br><a href="https://go.gov.sg/oeps-school-bus-request-form" target="_blank" rel="noopener">https://go.gov.sg/oeps-school-<br>bus-request-form</a>, scan the QR Code or by reaching out to them at : <br><br>Contact Person: Wynnie<br>Contact Number: 9234 6908<br><a href="mailto:OEPSbus@unclelintransport.com">OEPSbus@unclelintransport.com</a>.<br></p>
 	
 <img style="width: 90%;" src="/images/2026/P1orientation/School_Bus_Service.jpg">
