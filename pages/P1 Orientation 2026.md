@@ -90,7 +90,21 @@ description: ""
 <li><input id="accordion5" type="checkbox"> <label for="accordion5">MOE FAS (Financial Assistance Scheme)</label>
 <div>
 
-<p>Come back soon for updates on this page!</p>
+<p>a) Singapore Citizens who wish to apply for MOE FAS 2026, can do so via this mode: 
+a) eFAS link in PG’s services section: 
+</p>
+	<img style="width: 100%;" src="/images/2026/P1orientation/fas2026.jpg"><br>
+	
+<p align="justify">b) eFAS form via this <a href="https://go.gov.sg/moe-efasggas" target="_blank" rel="noopener">link</a> .<br><br>
+Along with the revised income eligibility criteria for MOE’s financial assistance schemes, MOE will onboard the Household Means Eligibility System (HOMES) to streamline application and means-testing processes from AY2026. With HOMES, most applicants no longer need to submit supporting documents, such as income documents. Applicants will only need to submit income documents if there is other administrative income (OAI), such as rental income, dividends and taxable investment income, declared by any household members living under the same residential address. 
+Applicants are highly encouraged to submit applications through the eFAS link, either through PG or the link provided above. 
+If your family and child is/children are existing beneficiary/beneficiaries of MSF ComCare, your child/children will be auto-granted MOE FAS. You do not need to apply for MOE FAS separately.
+
+Should you require further assistance, please approach the General Office, call 6241 0417 or email to oeps@moe.edu.sg.</p>
+
+	
+	
+	
 	
 	
 </div>
