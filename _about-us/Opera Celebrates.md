@@ -152,12 +152,11 @@ variant: markdown
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Certificate of</p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Participants</p></td><td style="width:155.85pt;border-top:none;border-left:
+  line-height:normal" align="center" class="MsoNormal">Certificate of<br>Participants</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Foo Yin</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Peng Zehao</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Sime Yi Bin, Benedict</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Mia Kay Potts</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Le Minh Phong</span></p></td></tr><tr style="mso-yfti-irow:5;height:10.65pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  background1;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Foo Yin<br>- Peng Zehao<br>- Sime Yi Bin, Benedict<br>- Mia Kay Potts<br>- Le Minh Phong</span></p></td></tr><tr style="mso-yfti-irow:5;height:10.65pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" rowspan="2" width="208"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
@@ -166,22 +165,20 @@ variant: markdown
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
   height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Group</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">(Silver)</span></b></p></td><td style="width:155.85pt;border-top:none;border-left:
+	line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Group<br><b>(Silver)</b></span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
-  height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Ho Zi Yan</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Quek Zhi En Jillian</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Abby Gooi Kai Jing</span></p></td></tr><tr style="mso-yfti-irow:6;height:10.65pt"><td style="width:155.85pt;border-top:none;border-left:
+  height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Ho Zi Yan<br>- Quek Zhi En Jillian<br>- Abby Gooi Kai Jing</span></p></td></tr><tr style="mso-yfti-irow:6;height:10.65pt"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
   height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Individual</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">(Bronze)</span></b></p></td><td style="width:155.85pt;border-top:none;border-left:
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Individual<br><b>(Bronze)</b></span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
-  height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Chong Yue Ling Aylie</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:7;height:10.65pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Chong Yue Ling Aylie</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:7;height:10.65pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" rowspan="2" width="208"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal">The 29th National Primary Schools On-the-Spot Chinese Creative Essay Writing Competition (2025)</p></td><td style="width:155.85pt;border-top:none;border-left:
@@ -191,14 +188,14 @@ variant: markdown
   line-height:normal" align="center" class="MsoNormal">Commendation Award</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Lee Amber Ji Hu</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Lee Minh Phong</p></td></tr><tr style="mso-yfti-irow:8;height:10.65pt"><td style="width:155.85pt;border-top:none;border-left:
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">- Lee Amber Ji Hu<br>- Lee Minh Phong</p></td></tr><tr style="mso-yfti-irow:8;height:10.65pt"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal">Excellence Award</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-spacerun:yes">&nbsp;</span><span style="mso-ansi-language:SV" lang="SV">Le Minh Phong<span style="mso-spacerun:yes">&nbsp;</span></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-ansi-language:SV"><span style="mso-spacerun:yes">&nbsp;</span><span lang="SV">Lee Amber Ji Hu</span></span></p></td></tr><tr style="mso-yfti-irow:9;mso-yfti-lastrow:yes;height:10.65pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-spacerun:yes">&nbsp;</span><span style="mso-ansi-language:SV" lang="SV">- Le Minh Phong<br>- Lee Amber Ji Hu</span></p></td></tr><tr style="mso-yfti-irow:9;mso-yfti-lastrow:yes;height:10.65pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">11th Picture Book Creation<br>Competition</span></p></td><td style="width:155.85pt;border-top:none;border-left:
@@ -210,7 +207,7 @@ variant: markdown
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
-  height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Zoey Tock En Xi<span style="mso-tab-count:1"> </span><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Kok Yan Wei<span style="mso-tab-count:2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Liaw Kai Lee<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Koong Hua Hsin</span></p></td></tr></tbody></table>
+  height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Zoey Tock En Xi<br>- Kok Yan Wei<br>- Liaw Kai Lee<br>- Koong Hua Hsin</span></p></td></tr></tbody></table>
 	
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
