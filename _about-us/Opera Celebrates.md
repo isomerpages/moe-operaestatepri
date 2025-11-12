@@ -89,20 +89,7 @@ variant: markdown
   line-height:normal" align="center" class="MsoNormal">Gold Award</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">- Swara Sheth<br>- Giselle Khoo Peiyu<br>- Quida Crislin Chong</p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:3.5pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">National Public Speaking Competition (2025)</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">(Primary Category)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
-  height:3.5pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Certificate of Participation</span></p></td><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
-  height:3.5pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Tang Yan Xuan Sophia<br>- Chow Vern Jun<br>- Nur Khadeejah Sofiyyah Binte Muhammad Toy-yib<br>- Evanna Rayyah Hafieez<br>- Quinn Choong Lu Uan<br>- Tsai Wen Xi<br>- Mateo Ovid Montana Magboo<br>- Arjun Nair<br>- Foo Yin<br>- Kiara Amol<span style="mso-spacerun:yes">&nbsp; </span>Mogadpally</span></p></td></tr></tbody></table><br>
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">- Swara Sheth<br>- Giselle Khoo Peiyu<br>- Quida Crislin Chong</p></td></tr></tbody></table><br>
 
 
 
@@ -110,7 +97,7 @@ variant: markdown
 
 
 
-<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+<span style="color:black;mso-color-alt:windowtext">11th Picture Book Creation Competition (2025)</span><p></p><table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#FAE2D5;mso-background-themecolor:
   accent2;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" colspan="3" width="623"><p style="margin-bottom:0cm;text-align:center;
@@ -185,20 +172,10 @@ variant: markdown
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Commendation Award</p></td><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">- Lee Amber Ji Hu<br>- Lee Minh Phong</p></td></tr><tr style="mso-yfti-irow:8;height:10.65pt"><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal">Excellence Award</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-spacerun:yes">&nbsp;</span><span style="mso-ansi-language:SV" lang="SV">- Le Minh Phong<br>- Lee Amber Ji Hu</span></p></td></tr><tr style="mso-yfti-irow:9;mso-yfti-lastrow:yes;height:10.65pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">11th Picture Book Creation Competition (2025)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">- Lee Amber Ji Hu<br>- Lee Minh Phong</p></td></tr><tr style="mso-yfti-irow:8;height:10.65pt"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
@@ -207,7 +184,7 @@ variant: markdown
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
-  height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Zoey Tock En Xi<br>- Kok Yan Wei<br>- Liaw Kai Lee<br>- Koong Hua Hsin</span></p></td></tr></tbody></table>
+  height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Zoey Tock En Xi<br>- Kok Yan Wei<br>- Liaw Kai Lee<br>- Koong Hua Hsin</span></p></td></tr></tbody></table><br>
 	
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
