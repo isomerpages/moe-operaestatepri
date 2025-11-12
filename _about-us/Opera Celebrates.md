@@ -92,7 +92,7 @@ variant: markdown
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">- Swara Sheth<br>- Giselle Khoo Peiyu<br>- Quida Crislin Chong</p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:3.5pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">National Public Speaking Competition 2025</span></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">National Public Speaking Competition (2025)</span></p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">(Primary Category)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
@@ -198,7 +198,7 @@ variant: markdown
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-spacerun:yes">&nbsp;</span><span style="mso-ansi-language:SV" lang="SV">- Le Minh Phong<br>- Lee Amber Ji Hu</span></p></td></tr><tr style="mso-yfti-irow:9;mso-yfti-lastrow:yes;height:10.65pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">11th Picture Book Creation<br>Competition</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">11th Picture Book Creation Competition (2025)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
