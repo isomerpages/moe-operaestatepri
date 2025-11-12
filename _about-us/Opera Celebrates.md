@@ -285,11 +285,11 @@ variant: markdown
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
   background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Junior Category<br><b>(Merit)</b></span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Honourable Mention</span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Annika Vasundhra<br>- Vedant Vinit<br>- Yeow Zhi En<br>- Iyana Acharya<br>- Pang Zehao<br>- Advay Jayesh<br>- Aaditya Dasari<br>- Chong Yue Ling Aylie<br>- Shourya Taneja</span></p></td></tr><tr style="mso-yfti-irow:3"></tr></tbody></table><br>
+  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Riaan Praveen Gowdar<br>-Vedant Vinit Sarangdhar<br>- Yeow Zhi En<br>- Adam Zaydaan Cassim Munshi<br>- Siti Aryanna Zyva Bte Muhd Norfaizal<br>- Grace Lynn Wightman<br>- Karina Li-an Ma<br>- Peng Zehao<br>- Advay Jayesh Fernandes<br>- Auzil Nikias Andre Putera<br>- Tan Si Kai, Harvey<br>- Harideetham Sri Shaambhavi<br>- Lum En Qi, Esther</span></p></td></tr><tr style="mso-yfti-irow:3"></tr></tbody></table><br>
 
 
 
