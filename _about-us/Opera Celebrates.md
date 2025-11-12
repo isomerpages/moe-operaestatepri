@@ -29,7 +29,9 @@ variant: markdown
   line-height:normal" align="center" class="MsoNormal">Featured</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">- Morgen Ang<br>- Jayden Lim</p></td></tr><tr style="mso-yfti-irow:2"><td style="width:155.85pt;border-top:none;border-left:
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">- Morgen Ang<br>- Jayden Lim<br>- Foo Yin 
+<br>- Bhardwaj Aadya<br>- Chong Xuan Qi<br>- Jeenika Agarwal<br>- Gloria Auriella Soenjaya 
+<br>- Liam Shankar Siddharth<br>- Koong Hua Hsin </p></td></tr><tr style="mso-yfti-irow:2"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
@@ -90,7 +92,7 @@ variant: markdown
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">- Swara Sheth<br>- Giselle Khoo Peiyu<br>- Quida Crislin Chong</p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:3.5pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">National Public Speaking Competition 2025</span></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">National Public Speaking Competition (2025)</span></p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">(Primary Category)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
@@ -101,6 +103,8 @@ variant: markdown
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
   height:3.5pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Tang Yan Xuan Sophia<br>- Chow Vern Jun<br>- Nur Khadeejah Sofiyyah Binte Muhammad Toy-yib<br>- Evanna Rayyah Hafieez<br>- Quinn Choong Lu Uan<br>- Tsai Wen Xi<br>- Mateo Ovid Montana Magboo<br>- Arjun Nair<br>- Foo Yin<br>- Kiara Amol<span style="mso-spacerun:yes">&nbsp; </span>Mogadpally</span></p></td></tr></tbody></table><br>
+
+
 
 
 
@@ -122,8 +126,7 @@ variant: markdown
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:left;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Rafael bin Rohaizat</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Rafael bin Rohaizat</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="2" width="208"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Katapella (2025)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
@@ -133,8 +136,7 @@ variant: markdown
   line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Best Conductor</span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:left;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Fa’ith Amsyar Puey Bin Fadzillah Puey</span></p></td></tr><tr style="mso-yfti-irow:3;height:190.9pt"><td style="width:155.85pt;border-top:none;border-left:
+  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Fa’ith Amsyar Puey Bin Fadzillah Puey</span></p></td></tr><tr style="mso-yfti-irow:3;height:190.9pt"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
@@ -143,50 +145,69 @@ variant: markdown
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
-  height:190.9pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Aqeel Danish Bin Abdullah Azzalea Binte Mazlan<br>- Daanya Elvyna Binte Mohamad Fursyam<br>- Fa’ith Amsyar Puey Bin Fadzillah Puey<br>- Isa Ahmad Kuhail<br>- Mila Eliza Binte Abdul Hadi<br>- Mohamaed Ayaan Lakdawala<br>- Muhammad Aiman Rasheed Bin Muhammad Salihin<br>- Muhammad Irfan Al-Hakim Bin Kamaruzzaman<br>- Muhammad Sufi Aqil Bin Mohammad Hafiz<br>- Muhammad Ukail Bin Idris<br>- Muhammad Uwais Al-Qarni Bin Mohamed Maghrib<br>- Muhammad Zulzawaed Bin Muhamad Azrol<br>- Nara Aryssa Andre Puteri<br>- Omar Mikail Bin Yusuf Bin Omar<br>- Syed Alriq Bin Syed Aishah<br>- Wan Dawood Bin Wan Ismail</span></p></td></tr><tr style="mso-yfti-irow:4;height:10.65pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  height:190.9pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Aqeel Danish Bin Abdullah Azzalea Binte Mazlan<br>- Daanya Elvyna Binte Mohamad Fursyam<br>- Fa’ith Amsyar Puey Bin Fadzillah Puey<br>- Isa Ahmad Kuhail<br>- Mila Eliza Binte Abdul Hadi<br>- Mohamaed Ayaan Lakdawala <br>- Muhammad Aiman Rasheed Bin Muhammad Salihin<br>- Muhammad Irfan Al-Hakim Bin Kamaruzzaman<br>- Muhammad Sufi Aqil Bin Mohammad Hafiz<br>- Muhammad Ukail Bin Idris <br>- Muhammad Uwais Al-Qarni Bin Mohamed Maghrib<br>- Muhammad Zulzawaed Bin Muhamad Azrol<br>- Nara Aryssa Andre Puteri<br>- Omar Mikail Bin Yusuf Bin Omar<br>- Syed Alriq Bin Syed Aishah<br>- Wan Dawood Bin Wan Ismail</span></p></td></tr><tr style="mso-yfti-irow:4;height:10.65pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal">National Calligraphy Competition (2025)</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Certificate of Participants</p></td><td style="width:155.85pt;border-top:none;border-left:
+  line-height:normal" align="center" class="MsoNormal">Certificate of<br>Participants</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
   background1;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Foo Yin<br>- Peng Zehao<br>- Sime Yi Bin, Benedict<br>- Mia Kay Potts<br>- Le Minh Phong</span></p></td></tr><tr style="mso-yfti-irow:5;height:10.65pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" rowspan="2" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">8th National Text Recital Competition (2025)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">National Text Recital Competition (2025)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
   height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Group<br>(Silver)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+	line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Group<br><b>(Silver)</b></span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
-  height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Ho Zi Yan<br>- Quek Zhi En Jillian<br>- Gooi Kai Jing</span></p></td></tr><tr style="mso-yfti-irow:6;height:10.65pt"><td style="width:155.85pt;border-top:none;border-left:
+  height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Ho Zi Yan<br>- Quek Zhi En Jillian<br>- Abby Gooi Kai Jing</span></p></td></tr><tr style="mso-yfti-irow:6;height:10.65pt"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
   height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Individual<br>(Bronze)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Individual<br><b>(Bronze)</b></span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
-  height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Chong Yue Ling Aylie</span></p></td></tr><tr style="mso-yfti-irow:7;mso-yfti-lastrow:yes;height:10.65pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Chong Yue Ling Aylie</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:7;height:10.65pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" rowspan="2" width="208"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal">The 29th National Primary Schools On-the-Spot Chinese Creative Essay Writing Competition (2025)</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Commendation award</p></td><td style="width:155.85pt;border-top:none;border-left:
+  line-height:normal" align="center" class="MsoNormal">Commendation Award</p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">- Lee Amber Ji Hu<br>- Lee Minh Phong</p></td></tr></tbody></table><br>
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">- Lee Amber Ji Hu<br>- Lee Minh Phong</p></td></tr><tr style="mso-yfti-irow:8;height:10.65pt"><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Excellence Award</p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-spacerun:yes">&nbsp;</span><span style="mso-ansi-language:SV" lang="SV">- Le Minh Phong<br>- Lee Amber Ji Hu</span></p></td></tr><tr style="mso-yfti-irow:9;mso-yfti-lastrow:yes;height:10.65pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">11th Picture Book Creation Competition (2025)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
+  height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Bronze Award</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt;
+  height:10.65pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Zoey Tock En Xi<br>- Kok Yan Wei<br>- Liaw Kai Lee<br>- Koong Hua Hsin</span></p></td></tr></tbody></table>
 	
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
@@ -246,7 +267,29 @@ variant: markdown
   line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Bronze Award</span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Aaryav Agarwal<br>- Jeenika Agarwal</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td></tr></tbody></table><br>
+  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Aaryav Agarwal<br>- Jeenika Agarwal</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:white;mso-background-themecolor:background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="4" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">National Mathematical Olympiad of Singapore (2025) </span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Bronze Award<br></span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">-Annika Vasundhra Nair<br>- Gregorius Stanislaus Soenjaya<br>- Avik Sharma<br>- Ashleigh Shen Qihan<br>- Shourya Taneja<b><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b></span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Honourable Mention</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Riaan Praveen Gowdar<br>-Vedant Vinit Sarangdhar<br>- Yeow Zhi En<br>- Adam Zaydaan Cassim Munshi<br>- Siti Aryanna Zyva Bte Muhd Norfaizal<br>- Grace Lynn Wightman<br>- Karina Li-an Ma<br>- Peng Zehao<br>- Advay Jayesh Fernandes<br>- Auzil Nikias Andre Putera<br>- Tan Si Kai, Harvey<br>- Harideetham Sri Shaambhavi<br>- Lum En Qi, Esther</span></p></td></tr><tr style="mso-yfti-irow:3"></tr></tbody></table><br>
 
 
 
@@ -301,7 +344,7 @@ variant: markdown
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
   background1;padding:0cm 5.4pt 0cm 5.4pt;height:9.45pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">National School Games<br>(Senior Division)</span></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">National School Games<br>Senior Division</span></p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">(League 3, Champion)</span></b></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
@@ -314,62 +357,68 @@ variant: markdown
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">National School Games<br>(Senior Boys)</span></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">National School Games&lt;<br>Senior Boys</span></p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">(League 3, 3<sup>rd</sup> Place )</span></b></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:black;mso-background-themecolor:
   text1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:3;height:34.7pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:3"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:white;mso-background-themecolor:background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Brownies<br>Puan Noor Aishah (2025)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Bronze Award</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:black;mso-background-themecolor:
+  text1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:4;height:34.7pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   background:white;mso-background-themecolor:background1;padding:0cm 5.4pt 0cm 5.4pt;
   height:34.7pt" valign="top" rowspan="4" width="208"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Brownies</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">East Division Fest (2025)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Brownies<br>East Division Fest (2025)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
   background1;padding:0cm 5.4pt 0cm 5.4pt;height:34.7pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Patch design competition</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">(1<sup>st</sup> Place)</span></b></p></td><td style="width:155.85pt;border-top:none;border-left:
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Patch design competition<br><b>(1<sup>st</sup> Place)</b></span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:black;mso-background-themecolor:
   text1;padding:0cm 5.4pt 0cm 5.4pt;height:34.7pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:4;height:48.7pt"><td style="width:155.85pt;border-top:none;border-left:
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:5;height:48.7pt"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
   background1;padding:0cm 5.4pt 0cm 5.4pt;height:48.7pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Recycled Fashion Competition</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">(1<sup>st</sup> Place)</span></b></p></td><td style="width:155.85pt;border-top:none;border-left:
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Recycled Fashion Competition<br><b>(1<sup>st</sup> Place)</b></span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:black;mso-background-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt;height:48.7pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:5"><td style="width:155.85pt;border-top:none;border-left:
+  text1;padding:0cm 5.4pt 0cm 5.4pt;height:48.7pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:6"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
   background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Newsletter Competition</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">(1<sup>st</sup> Place)</span></b></p></td><td style="width:155.85pt;border-top:none;border-left:
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Newsletter Competition<br><b>(1<sup>st</sup> Place)</b></span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:black;mso-background-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:6"><td style="width:155.85pt;border-top:none;border-left:
+  text1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:7"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
   background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Dance Competition</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">(1<sup>st</sup> Place)</span></b></p></td><td style="width:155.85pt;border-top:none;border-left:
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Dance Competition<br><b>(1<sup>st</sup> Place)</b></span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:black;mso-background-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:7"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  text1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:8"><td style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Scouts (2025)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
@@ -380,19 +429,18 @@ variant: markdown
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:black;mso-background-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:8"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  text1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:9"><td style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:white;mso-background-themecolor:background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="7" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">National School Games (2025)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  background:white;mso-background-themecolor:background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="7" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">National School Games (2025)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
   background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Tennis Junior Boys</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">(Tier 2 - 1<sup>st</sup> Place)</span></b></p></td><td style="width:155.85pt;border-top:none;border-left:
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Tennis Junior Boys<br><b>(Tier 2 - 1<sup>st</sup> Place)</b></span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Rory – Jordan Lim Re Jen</span></p></td></tr><tr style="mso-yfti-irow:9"><td style="width:155.85pt;border-top:none;border-left:
+  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Rory – Jordan Lim Re Jen</span></p></td></tr><tr style="mso-yfti-irow:10"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
@@ -402,69 +450,85 @@ variant: markdown
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Gooi Kai Jing</span></p></td></tr><tr style="mso-yfti-irow:10"><td style="width:155.85pt;border-top:none;border-left:
+  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Gooi Kai Jing</span></p></td></tr><tr style="mso-yfti-irow:11"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
   background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Wushu Championship</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">(Sportsmanship Award)</span></b></p></td><td style="width:155.85pt;border-top:none;border-left:
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Wushu Championship<br><b>(Sportsmanship Award)</b></span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Koh-Yap Jun Le, Emmanuel</span></p></td></tr><tr style="mso-yfti-irow:11"><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Floorball Championship</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">(Sportsmanship Award)</span></b></p></td><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Huang Zheyuan</span></p></td></tr><tr style="mso-yfti-irow:12"><td style="width:155.85pt;border-top:none;border-left:
+  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Koh-Yap Jun Le, Emmanuel</span></p></td></tr><tr style="mso-yfti-irow:12"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
   background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Floorball Championship</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">(Sportsmanship Award)</span></b></p></td><td style="width:155.85pt;border-top:none;border-left:
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Floorball Championship<br><b>(Sportsmanship Award)</b></span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Yash K Narendran</span></p></td></tr><tr style="mso-yfti-irow:13"><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Floorball Championship</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">(Sportsmanship Award)</span></b></p></td><td style="width:155.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Rayaan Gupta</span></p></td></tr><tr style="mso-yfti-irow:14"><td style="width:155.85pt;border-top:none;border-left:
+  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Huang Zheyuan<br>- Yash K Narendra<br>- Rayaan Gupta<br>- Huang Le Yang<br>- Aaditya Dasari<br>- Muhammad Harris</span></p></td></tr><tr style="mso-yfti-irow:13"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
   background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Netball Championship</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">(Sportsmanship Award)</span></b></p></td><td style="width:155.85pt;border-top:none;border-left:
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Floorball Junior Division</span></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">(Group Champion – Qualifying Round)</span></b></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:black;mso-background-themecolor:
+  text1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:14"><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
-  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Leela Arian Scott</span></p></td></tr><tr style="mso-yfti-irow:15;mso-yfti-lastrow:yes"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Netball Championship<br><b>(Sportsmanship Award)</b></span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Leela Arian Scott<br>- Ashleigh Sheng</span></p></td></tr><tr style="mso-yfti-irow:15"><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Football Championship<br><b>(Sportsmanship Award)</b></span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Conor Jack Deery<br>- Muhammad Amsyar<br>- Ayra Mikayla Arianto<br>- Sasha Santos<br>- Isaac Condrad Reddish<br>- Abdul Rahman</span></p></td></tr><tr style="mso-yfti-irow:16"><td style="width:155.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" rowspan="2" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Robotics (2025)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">National Robotics Competition 2025</span></p><p style="margin-bottom:0cm;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">(3<sup>rd</sup> Place)</span></b></p></td><td style="width:155.85pt;border-top:none;border-left:
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">National Robotics Competition 2025<br><b>(3<sup>rd</sup> Place)</b></span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:black;mso-background-themecolor:
-  text1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td></tr></tbody></table><br>
+  text1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:17"><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">National Robotics Competition 2025</span></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">(Best Learning Journey Award<br>Primary Category)</span></b></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Fillmore Z. Lim<br>- Loh Chee Mun (Luo Zhiwen)<br>- Khan Aydien</span></p></td></tr><tr style="mso-yfti-irow:18;mso-yfti-lastrow:yes"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Infocomm Technology (Computing) and Robotics Club (2025)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+	line-height:normal" align="center" class="MsoNormal">SG75 Competition (2025)<br>Dynamic Group<br><b>(2<sup>nd</sup> Place)</b></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">- Emma Harper Sandve<br>- Ezann Tan Shi En<br>- Anika Gorrepati</p></td></tr></tbody></table><br>
 	
 
 
@@ -485,7 +549,20 @@ variant: markdown
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
   background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:left;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Agastya Jayant Iye<br>- Saanvi Chandihok<br>- Emma Harper Sandve<br>- Samaira Navin Dulani<br>- Hum En Rui Tricia<br>- Tatiana Sugianto<br>- Karandikar Ilina Rajas<br>- Koong Hua Hsin<br>- Maryam Binte Hydar Diab</span></p></td></tr></tbody></table>
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Agastya Jayant Iye<br>- Saanvi Chandihok<br>- Emma Harper Sandve<br>- Samaira Navin Dulani<br>- Hum En Rui Tricia<br>- Tatiana Sugianto<br>- Karandikar Ilina Rajas<br>- Koong Hua Hsin<br>- Maryam Binte Hydar Diab</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:white;mso-background-themecolor:background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Theatratales (2025)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Certificate of Recognition</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:left;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">- Idris Maher Farhuddin<br>- Rajan Ethan Mathew<br>- Dhruv Aaria Hiten<br>- Lim Yan Zhen, Ada<br>- Afrah Zahraa Cassim Munshi<br>- Huang Le Wei</span></p></td></tr></tbody></table>
 	
 	
 
@@ -970,6 +1047,19 @@ variant: markdown
   mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
   background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Best Booth Display &amp; Best Booth Presentation</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:black;mso-background-themecolor:
+  text1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:21;mso-yfti-lastrow:yes"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:white;mso-background-themecolor:background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Brownies CCA</span></p><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">(East Division Day 2024 – Snack Making)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="208"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Merit Award</span></p></td><td style="width:155.85pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:black;mso-background-themecolor:
