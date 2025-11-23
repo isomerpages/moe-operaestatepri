@@ -166,9 +166,7 @@ Along with the revised income eligibility criteria for MOE’s financial assista
 	
 <li><input id="accordion10" type="checkbox"> <label for="accordion10">P1 Orientation Briefing Slides</label>
 <div>
-<ul>
-<p>Come back soon for updates on this page!</p>
-</ul>
+<p><a href="/files/P12026/p12026.pdf" target="_blank" rel="noopener"><strong>P1 Orientation Briefing Slides</strong></a></p>
 </div>
 </li>
 <b>	
