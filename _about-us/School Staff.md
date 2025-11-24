@@ -4,6 +4,8 @@ permalink: /school-staff/
 variant: markdown
 description: ""
 ---
+<h4><b> P1 - P6 Form Teachers' list for 2026 will be updated soon.</b></h4><br> 
+
 <ul class="jekyllcodex_accordion">
 	<li><input id="accordion1" type="checkbox"> <label for="accordion1"><b>KEY PERSONNEL</b></label>
 <div>
