@@ -166,7 +166,11 @@ Along with the revised income eligibility criteria for MOE’s financial assista
 	
 <li><input id="accordion10" type="checkbox"> <label for="accordion10">P1 Orientation Briefing Slides</label>
 <div>
-<p><a href="" target="_blank" rel="noopener"><strong></strong></a></p>
+<p><a href="https://go.gov.sg/oepsp12026-firstday" target="_blank" rel="noopener"><strong>First Day of School by Year Head, LP</strong></a></p>
+	<p><a href="https://go.gov.sg/oepsp12026-gettingready" target="_blank" rel="noopener"><strong>Getting Your P1 Child Ready by HOD, CCE</strong></a></p>
+	<p><a href="https://go.gov.sg/oepsp12026-opc" target="_blank" rel="noopener"><strong>Opera Parents Club</strong></a></p>
+	<p><a href="https://go.gov.sg/oepsp12026-p-address" target="_blank" rel="noopener"><strong>Principal's Address</strong></a></p>
+	
 </div>
 </li>
 <b>	
