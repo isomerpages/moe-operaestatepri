@@ -29,8 +29,8 @@ sections:
   - infopic:
       title: OEPS 40th Anniversary
       id: infopic
-      button: click here to view our photos
-      url: https://flic.kr/s/aHBqjCpgMF
+      button: click here to view
+      url: /oeps-40th-anniversary/
       image: /images/40th_anni_for_web.jpg
       alt: Image alt text
   - infopic:
