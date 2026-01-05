@@ -281,11 +281,18 @@ SCC Registration Form: <a href="/files/2026/P12026/scc_registrationForm2026.pdf"
 <div>
 <p><strong>Click on the link below to read:</strong></p>
 <ul>
-<li><a href="https://www.schoolbag.edu.sg/story/how-to-help-your-child-ace-the-first-week-of-school" target="_blank" rel="noopener"><strong>How to help your child ace the first week of school</strong></a></li>
+<li><a href="https://www.schoolbag.edu.sg/story/how-to-help-your-child-ace-the-first-week-of-school" target="_blank" rel="noopener"><strong>How to help your child ace the first week of school</strong></a></li></ul></div>
+	
+</li><li><input id="accordion25" type="checkbox"> <label for="accordion25">Supporting your Child’s Social Emotional Well-Being.</label>
+<div>
+<p><strong>Click on the link below to read:</strong></p>
+<strong><a href="https://go.gov.sg/oepsp1zor" target="_blank" rel="noopener">P1 ZOR Parent Engagement - E-Guide</a></strong>
+	</div></li>	
+
 </ul>
-</div>
-</li>
-</ul>	
+
+
+	
 </td>
 </tr>
 </tbody>
