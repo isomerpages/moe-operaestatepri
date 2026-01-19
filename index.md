@@ -23,7 +23,7 @@ sections:
       title: "Dads for Life: Back to School with Dad"
       id: infopic
       button: CLICK HERE
-      url: https://drive.google.com/drive/folders/1DTG1OR5Vjdymu32Vfrb5nObeVYQlVuDM?usp=sharing
+      url: https://albumizr.com/a/EOFt
       image: /images/2026/dadsforlife2026_.jpg
       alt: Image alt text
   - infopic:
