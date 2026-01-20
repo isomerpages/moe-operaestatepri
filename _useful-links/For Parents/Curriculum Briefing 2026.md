@@ -11,14 +11,13 @@ variant: markdown
   text2;mso-background-themetint:26;padding:0in 5.4pt 0in 5.4pt;height:17.5pt" valign="top" width="283"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">PRINCIPAL’S ADDRESS</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:13.5pt"><td style="width:212.0pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:13.5pt" valign="top" width="283"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Primary 1 and 2</p></td></tr><tr style="mso-yfti-irow:2;height:13.5pt"><td style="width:212.0pt;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.5pt" valign="top" width="283"><center><a href="https://drive.google.com/file/d/12XeUj6vtH9QaDg4rJLLNg0Uabq2tp2FJ/view?usp=sharing">Primary 1 and 2</a></center>
+</td></tr><tr style="mso-yfti-irow:2;height:13.5pt"><td style="width:212.0pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:13.5pt" valign="top" width="283"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Primary 3 and 4</p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:13.5pt"><td style="width:212.0pt;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.5pt" valign="top" width="283"><center><a href="https://drive.google.com/file/d/1F-t364JAukJk9wvnE3xiNE7C-UFsnkNR/view?usp=sharing">Primary 3 and 4</a></center></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:13.5pt"><td style="width:212.0pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:13.5pt" valign="top" width="283"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal">Primary 5</p></td></tr></tbody></table><br>
+  padding:0in 5.4pt 0in 5.4pt;height:13.5pt" valign="top" width="283"><center><a href="https://drive.google.com/file/d/1lmFw2Fu4Nsr9V4Cky7mHAdQNWRORUvhF/view?usp=sharing">Primary 5</a></center>
+</td></tr></tbody></table><br>
 	
 
 
