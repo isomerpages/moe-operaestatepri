@@ -20,6 +20,9 @@ variant: markdown
 </td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:13.5pt"><td style="width:212.0pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt;height:13.5pt" valign="top" width="283"><center><a href="/files/2026/Curriculumbriefing2026/sbb psle briefing slides for p5.pdf">SBB PSLE Briefing Slides For Primary 5</a></center>
+</td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:13.5pt"><td style="width:212.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.5pt" valign="top" width="283"><center><a href="https://go.gov.sg/oepsp6psle">SBB PSLE Briefing Slides For Primary 6</a></center>
 </td></tr></tbody></table><br>
 	
 
