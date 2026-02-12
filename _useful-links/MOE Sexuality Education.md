@@ -125,4 +125,4 @@ description: ""
 
 <p style="font-size:110%;" align="justify">9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. Forms will be posted via <b>Parents Gateway</b> from <b>23 Feb 2026 to 6 Mar 2026 </b></p>
 
-<p style="font-size:110%;" align="justify">10. Parents can contact the school at <a href="mailto:oeps@moe.edu.sg">oeps@moe.edu.sg</a>for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
+<p style="font-size:110%;" align="justify">10. Parents can contact the school at <a href="mailto:oeps@moe.edu.sg">oeps@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
