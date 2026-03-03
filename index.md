@@ -20,7 +20,7 @@ sections:
           url: /moe-sexuality-education/
         - title: FOR TEACHERS
           description: ""
-          url: ""
+          url: /for-teachers/
       variant: center
   - infopic:
       title: "Dads for Life: Back to School with Dad"
