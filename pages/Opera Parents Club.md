@@ -4,7 +4,6 @@ permalink: /opera-parents-club/
 variant: markdown
 description: ""
 ---
-
 <img style="width:250px;height:200px;" alt="HTML tutorial" src="/images/2026/Opc/OPC_Logo.jpg">
 
 <p align="justify">Opera Parents Club (OPC) is Opera Estate Primary School’s Parent Support Group. It is open to all parents of children enrolled in the school and provides opportunities for volunteering and peer support by:</p>
@@ -28,27 +27,21 @@ description: ""
 
 Why Get Involved?
 
-●&nbsp;&nbsp;&nbsp;&nbsp; Closer connection to the school
-
-●&nbsp;&nbsp;&nbsp;&nbsp; First-hand updates
-
-●&nbsp;&nbsp;&nbsp;&nbsp; Children love seeing parents around school
-
-●&nbsp;&nbsp;&nbsp;&nbsp; Increased positive outcomes for the children
-
+●&nbsp;&nbsp;&nbsp;&nbsp; Closer connection to the school<br>
+●&nbsp;&nbsp;&nbsp;&nbsp; First-hand updates<br>
+●&nbsp;&nbsp;&nbsp;&nbsp; Children love seeing parents around school<br>
+●&nbsp;&nbsp;&nbsp;&nbsp; Increased positive outcomes for the children<br>
 ●&nbsp;&nbsp;&nbsp;&nbsp; Develop rapport and mutual support with other OEPS parents
 
-Ways to Register for Updates!
+<h5>Ways to Register for Updates!</h5>
 
-1.  The registration link is available in the January and June School Newsletters (via Parents Gateway). You can use the search function in Parents Gateway to find previous newsletters.
+<p align="justify">1) The registration link is available in the January and June School Newsletters (via Parents Gateway). You can use the search function in Parents Gateway to find previous newsletters.</p><br>
+OR<br>
 
-OR
-
-2.  You can email us at [oepsparents@gmail.com](mailto:oepsparents@gmail.com) (all letters, no numbers)
+<p align="justify">2) You can email us at [oepsparents@gmail.com](mailto:oepsparents@gmail.com) (all letters, no numbers)</p>
 
   
-
-Ad-hoc Volunteering
+<h5>Ad-hoc Volunteering</h5>
 
   
 
