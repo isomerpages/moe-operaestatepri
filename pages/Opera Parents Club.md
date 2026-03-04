@@ -43,45 +43,30 @@ OR<br>
   
 <h5>Ad-hoc Volunteering</h5>
 
-  
-
-Ad-hoc Volunteering Blurb
-
-Join OPC to get updates about ad-hoc volunteering opportunities. There is no minimum requirement. Just sign up to volunteer when you are able to.
+<p align="justify">Join OPC to get updates about ad-hoc volunteering opportunities. There is no minimum requirement. Just sign up to volunteer when you are able to.</p>
 
 Examples of events:
 
-●&nbsp;&nbsp;&nbsp;&nbsp; Learning Journeys
+●&nbsp;&nbsp;&nbsp;&nbsp; Learning Journeys<br>
+●&nbsp;&nbsp;&nbsp;&nbsp; Swimsafer Programme<br>
+●&nbsp;&nbsp;&nbsp;&nbsp; Career Day<br>
+●&nbsp;&nbsp;&nbsp;&nbsp; Mother Tongue Language Week<br>
+●&nbsp;&nbsp;&nbsp;&nbsp; CCA preparation eg. make up for performing arts groups<br>
 
-●&nbsp;&nbsp;&nbsp;&nbsp; Swimsafer Programme
+Celebrations such as:
 
-●&nbsp;&nbsp;&nbsp;&nbsp; Career Day
-
-●&nbsp;&nbsp;&nbsp;&nbsp; Mother Tongue Language Week
-
-●&nbsp;&nbsp;&nbsp;&nbsp; CCA preparation eg. make up for performing arts groups
-
-●&nbsp;&nbsp;&nbsp;&nbsp; Celebrations such as:
-
-○&nbsp;&nbsp;&nbsp;&nbsp; Children’s Day
-
-○&nbsp;&nbsp;&nbsp;&nbsp; Teachers Day
-
-○&nbsp;&nbsp;&nbsp;&nbsp; International Friendship Day
-
-○&nbsp;&nbsp;&nbsp;&nbsp; Cultural Festivals
+●&nbsp;&nbsp;&nbsp;&nbsp; Children’s Day<br>
+●&nbsp;&nbsp;&nbsp;&nbsp; Teachers Day<br>
+●&nbsp;&nbsp;&nbsp;&nbsp; International Friendship Day<br>
+●&nbsp;&nbsp;&nbsp;&nbsp; Cultural Festivals
 
 Ad-hoc Volunteering Photos
 
 Include photos here
 
-  
 
-Playhub
+<h5> Playhub </h5>
 
-  
-
-PLAYHUB
 
 Playhub Logo
 
@@ -106,7 +91,7 @@ Playhub Logo
 
 Playhub Blurb
 
-Recess is not just snack time - it is also a time for play! Students take a mental break at the Playhub room playing chess, building with LEGO bricks, or doing craft. Here, students can play solo or play with new friends. Playhub parent volunteers support students’ mental and emotional wellbeing by providing a safe space for relaxing and social interaction.
+<p align="justify">Recess is not just snack time - it is also a time for play! Students take a mental break at the Playhub room playing chess, building with LEGO bricks, or doing craft. Here, students can play solo or play with new friends. Playhub parent volunteers support students’ mental and emotional wellbeing by providing a safe space for relaxing and social interaction.</p>
 
 Suitable for:
 
@@ -122,7 +107,7 @@ Reading
 
   
 
-READING CLUB (ENGLISH)
+<h5>READING CLUB (ENGLISH)</h5>
 
 Reading Club Logo
 
@@ -144,23 +129,21 @@ Reading Club Logo
 
 Reading Club Blurb
 
-This team of Reading Club parent volunteers are patient listeners, supporting emerging readers in improving their reading skills. Students pick from a pre-curated set of books that are suited for their reading levels.
+<p align="justify">This team of Reading Club parent volunteers are patient listeners, supporting emerging readers in improving their reading skills. Students pick from a pre-curated set of books that are suited for their reading levels.</p>
 
-The Reading Club is currently recruiting!
+<b>The Reading Club is currently recruiting!</b>
 
 Suitable for Parents who:
 
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; wish to support literacy,
-
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; are early risers, and
-
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; wish to support literacy,<br>
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; are early risers, and<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; are keen readers in EL and CL.
 
 Reading Club Photos
 
 Include photos here
 
-LITTLE LIBRARY
+<h5>LITTLE LIBRARY</h5>
 
 <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:0in 5.4pt 0in 5.4pt;
@@ -180,7 +163,7 @@ LITTLE LIBRARY
 
 Little Library Blurb
 
-The Little Library provides access to books during recess time. It is a literary respite for students who would rather read while on their break. Parent volunteers in Little Library support the students’ access to books of different languages!
+<p align="justify">The Little Library provides access to books during recess time. It is a literary respite for students who would rather read while on their break. Parent volunteers in Little Library support the students’ access to books of different languages!</p>
 
 Suitable for:
 
@@ -196,7 +179,7 @@ Safety Squad
 
   
 
-SAFETY SQUAD
+<h5>SAFETY SQUAD</h5>
 
 Safety Squad Logo
 
@@ -223,10 +206,8 @@ The Safety Squad is currently recruiting! Training provided.
 
 Suitable for:
 
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who want to support road safety
-
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who are early risers ;)
-
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who want to support road safety<br>
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who are early risers ;)<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who want to volunteer and contribute early in the morning
 
 Safety Squad Photos
@@ -245,24 +226,14 @@ Besides volunteering, Opera Parents Club gets together for community events and 
 
 Examples of events include:
 
-●&nbsp;&nbsp;&nbsp;&nbsp; Coffee Meets
-
-●&nbsp;&nbsp;&nbsp;&nbsp; P1 Parents Meet
-
-●&nbsp;&nbsp;&nbsp;&nbsp; Dads for Life activities
-
-●&nbsp;&nbsp;&nbsp;&nbsp; Workshops
-
-●&nbsp;&nbsp;&nbsp;&nbsp; Family Day
-
+●&nbsp;&nbsp;&nbsp;&nbsp; Coffee Meets<br>
+●&nbsp;&nbsp;&nbsp;&nbsp; P1 Parents Meet<br>
+●&nbsp;&nbsp;&nbsp;&nbsp; Dads for Life activities<br>
+●&nbsp;&nbsp;&nbsp;&nbsp; Workshops<br>
+●&nbsp;&nbsp;&nbsp;&nbsp; Family Day<br>
 ●&nbsp;&nbsp;&nbsp;&nbsp; Others
 
 Events Photos
 
 Include photos here
 
-* * *
-
-These will be links to their respective pages, if possible. Otherwise, we can have the details on the same page, but after this entire section.
-
-I will get the individual programme I/Cs to input the details/vet my writing.
