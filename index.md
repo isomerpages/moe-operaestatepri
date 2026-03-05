@@ -20,7 +20,7 @@ sections:
           url: /moe-sexuality-education/
         - title: FOR TEACHERS
           description: ""
-          url: /for-teachers/
+          url: https://sites.google.com/moe.edu.sg/oeps-ict-portal-site/home
       variant: center
   - infopic:
       title: "Dads for Life: Back to School with Dad"
