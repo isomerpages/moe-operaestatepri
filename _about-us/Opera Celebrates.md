@@ -100,8 +100,7 @@ variant: markdown
 	
 	
 	
-</div>
-</label></li></ul>
+</div></label></li></ul>
 
 
 
