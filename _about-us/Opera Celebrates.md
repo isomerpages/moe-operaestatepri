@@ -4,13 +4,15 @@ permalink: /opera-celebrates/
 description: ""
 variant: markdown
 ---
+
 <ul class="jekyllcodex_accordion">
 	<li><input id="accordion1" type="checkbox"><label for="accordion1"><table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;background:#F2CEED;mso-background-themecolor:
-  accent5;mso-background-themetint:51;padding:0in 5.4pt 0in 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:center;
+  mso-border-alt:solid windowtext .5pt;background:#D9F2D0;mso-background-themecolor:
+  accent6;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:24.0pt;color:black;mso-color-alt:
-  windowtext">2026</span></b><b><span style="font-size:24.0pt"></span></b></p></td></tr></tbody></table>
+  windowtext">2026</span></b><b><span style="font-size:24.0pt"></span></b></p></td></tr></tbody></table></label>
+<div>
 		
 <div>
 
@@ -100,7 +102,7 @@ variant: markdown
 	
 	
 	
-</div></label></li></ul>
+</div></div></li></ul>
 
 
 
