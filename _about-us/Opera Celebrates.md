@@ -5,9 +5,7 @@ description: ""
 variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
-	<li><input id="accordion1" type="checkbox">
-
-<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+	<li><input id="accordion1" type="checkbox"><label for="accordion1"><table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#F2CEED;mso-background-themecolor:
   accent5;mso-background-themetint:51;padding:0in 5.4pt 0in 5.4pt" valign="top" width="623"><p style="margin-bottom:0in;text-align:center;
@@ -103,7 +101,7 @@ variant: markdown
 	
 	
 </div>
-</li></ul>
+</label></li></ul>
 
 
 
@@ -112,7 +110,7 @@ variant: markdown
 
 
 <ul class="jekyllcodex_accordion">
-	<li><input id="accordion1" type="checkbox"><label for="accordion1"><table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+	<li><input id="accordion2" type="checkbox"><label for="accordion2"><table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#D9F2D0;mso-background-themecolor:
   accent6;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:center;
@@ -668,7 +666,7 @@ variant: markdown
 
 
 <ul class="jekyllcodex_accordion">
-	<li><input id="accordion10" type="checkbox"> <label for="accordion10">         
+	<li><input id="accordion3" type="checkbox"> <label for="accordion3">         
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
