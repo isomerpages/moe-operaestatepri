@@ -5,15 +5,94 @@ description: ""
 variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
-	<li><input id="accordion1" type="checkbox"><label for="accordion1"><table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;background:#D9F2D0;mso-background-themecolor:
-  accent6;mso-background-themetint:51;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:center;
+	<li><input id="accordion1" type="checkbox">
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#F2CEED;mso-background-themecolor:
+  accent5;mso-background-themetint:51;padding:0in 5.4pt 0in 5.4pt" valign="top" width="623"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:24.0pt;color:black;mso-color-alt:
-  windowtext">2026</span></b><b><span style="font-size:24.0pt"></span></b></p></td></tr></tbody></table></label>
+  windowtext">2026</span></b><b><span style="font-size:24.0pt"></span></b></p></td></tr></tbody></table>
+		
 <div>
-	
-<img src="/images/2026/Opera celebrates/English_.jpg">
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#CCCCFF;padding:0in 5.4pt 0in 5.4pt" valign="top" colspan="3" width="623"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">ENGLISH</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:3.5pt"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:3.5pt" valign="top" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">What’s Up (2026)</p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:3.5pt" valign="top" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">Featured</p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:3.5pt" valign="top" width="208"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+	margin-left:.25in;line-height:normal" class="MsoNormal">- Joey Ong<br>- Vulapalli Sravya Rathna</p></td></tr></tbody></table><br>
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#D9F2D0;mso-background-themecolor:
+  accent6;mso-background-themetint:51;padding:0in 5.4pt 0in 5.4pt" valign="top" colspan="3" width="623"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">SCIENCE</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" rowspan="3" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">E-Think Challenge (2025)</p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="208"><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.25in;text-align:center;line-height:normal" align="center" class="MsoNormal">Most Outstanding Thinker &amp; Gold Medal Award</p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="208"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;line-height:normal" class="MsoNormal">Fillmore Lim</p></td></tr><tr style="mso-yfti-irow:2"><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="208"><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.25in;text-align:center;line-height:normal" align="center" class="MsoNormal">Gold Medal Award</p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="208"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;line-height:normal" class="MsoNormal">Shuddhi Mehrotra</p></td></tr><tr style="mso-yfti-irow:3"><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="208"><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.25in;text-align:center;line-height:normal" align="center" class="MsoNormal">Honourable Mention</p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="208"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;line-height:normal" class="MsoNormal">Shourya Taneja</p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFFFCC;padding:0in 5.4pt 0in 5.4pt" valign="top" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Comic Strip Competition (2026)</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0in 5.4pt 0in 5.4pt" valign="top" width="208"><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.25in;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Winners</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:0in 5.4pt 0in 5.4pt" valign="top" width="208"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:
+  windowtext">- Mikael Bin Muhamad Izwan<br>- Shah Yashvi Ravikumar<br>- Al-Hasan Bin Muhammad Shalleh<br>- Noah Ziyad Royce Low<br>- Emma Harper Sandve<br>- Fillmore Z. Lim<br>- Hum En Rui, Tricia</span></p></td></tr></tbody></table><br>
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:311.7pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#FAE2D5;mso-background-themecolor:
+  accent2;mso-background-themetint:51;padding:0in 5.4pt 0in 5.4pt" valign="top" colspan="2" width="416"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">APG PSLE AWARD 2025</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:155.85pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:white;mso-background-themecolor:background1;padding:0in 5.4pt 0in 5.4pt" valign="top" width="208"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal">&nbsp;</p><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">PSLE Top Achiever</span></p></td><td style="width:155.85pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:white;mso-background-themecolor:
+  background1;padding:0in 5.4pt 0in 5.4pt" valign="top" width="208"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:.25in;line-height:normal" class="MsoNormal"><span style="color:black;mso-color-alt:
+  windowtext">- Anjelika Rajesh<br>- Gregory Tay<br>- Jeenika Agarwal<br>- Tansirisithikul Pannavit<br>- Layla Ong<br>- Meira Dhruv<br>- Wang Mengze<br>- Gloria Aurielle Soenjaya<br>- Kabir Sirnani<br>- Kinnerkar Ronak Neeles<br>- Kok Yan Wei<br>- Sime Yi Bin, Benedict<br>- Vincent Albert Bennett<br>- Aaryav Agarwal<br>- Shourya Lalit Sharma<br>- Koong Hua Hsin</span></p></td></tr></tbody></table>
 
 
 
