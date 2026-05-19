@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2025/banner2025.gif
+      background: /images/2024/New Banner/Untitled_design.gif
       key_highlights:
         - title: For Parents
           description: ""
@@ -19,6 +19,14 @@ sections:
           description: ""
           url: /moe-sexuality-education/
       variant: center
+  - infopic:
+      title: E-Open House 2026
+      id: infopic
+      description: Coming Soon !
+      button: CLICK HERE
+      url: https://www.operaestatepri.moe.edu.sg/e-open-house-2026/
+      image: /images/2026/Open house/eOpen_House_Banner_2026___Homepage.png
+      alt: Image alt text
   - infopic:
       title: "Dads for Life: Back to School with Dad"
       id: infopic
@@ -39,19 +47,5 @@ sections:
       button: Videos and Photos Here
       url: /oeps-40th-anniversary/
       image: /images/40th_anni_for_web.jpg
-      alt: Image alt text
-  - infopic:
-      title: E-Open House 2025
-      id: infopic
-      button: Click here
-      url: /e-open-house-2025/
-      image: /images/2025/Openhouse2025/eopenhouseposter2025.jpg
-      alt: Image alt text
-  - infopic:
-      title: Superfood Video 2025
-      id: infopic
-      button: click to view
-      url: https://drive.google.com/drive/folders/12RWKZmaEFnzrLGLC8dsqDxQGP82WXr6o?usp=sharing
-      image: /images/superfood2.jpg
       alt: Image alt text
 ---
