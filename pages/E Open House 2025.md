@@ -1,11 +1,9 @@
 ---
 title: E Open House 2025
-permalink: /e-open-house-2025/
+permalink: /oh2025/
 variant: markdown
 description: ""
 ---
-
-
 <center><img style="width:920px;height:300px;" alt="HTML tutorial" src="/images/2025/Openhouse2025/eopenhouseposter2025_.jpg"><br>
 
 <h4>Webinar Video</h4>
