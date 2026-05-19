@@ -4,4 +4,4 @@ permalink: /e-open-house-2026/
 variant: markdown
 description: ""
 ---
-<center><img style="width:920px;height:300px;" alt="HTML tutorial" src="/images/2025/Openhouse2025/eopenhouseposter2025_.jpg"><br></center>
+<center><img style="width:920px;height:300px;" alt="HTML tutorial" src="/images/2026/Open house/openhouse2026.jpg"><br></center>
