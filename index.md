@@ -28,6 +28,13 @@ sections:
       image: /images/2026/Open house/eOpen_House_Banner_2026___Homepage.png
       alt: Image alt text
   - infopic:
+      title: Opera's Got Talents 2026
+      id: infopic
+      button: CLICK HERE
+      url: /ogt2026/
+      image: /images/2026/ogt2026.png
+      alt: Image alt text
+  - infopic:
       title: "Dads for Life: Back to School with Dad"
       id: infopic
       button: CLICK HERE
