@@ -60,7 +60,7 @@ The Writer's Gallery is an engaging collection of students' writing from Primary
 
 <p align="justify"><b><i>P4 Oracy Programme</i></b><br>The Primary 4 pupils are introduced to public-speaking skills and broadcast journalism in the course of the enrichment programme. During each session, they undergo training, engage in meaningful activities, work collaboratively and eventually showcase their learning through different platforms such as the school’s bi-weekly news programme – Good Morning OPERA. These sessions ultimately develop them into confident and articulate communicators.</p>
 
-<p align="justify"><b><i>P5 Writing Programme</i></b><br>The Primary 5 pupils are introduced to different forms of writing that promotes their creativity. They are given an opportunity to write narratives of different genres and they also have a go at coming up with their own poems and posters. As they further develop their confidence and proficiency in their writing, some pupils have also taken on the challenge of developing their writing portfolio.</p>
+<p align="justify"><b><i>P5 Writing Programme</i></b><br>The Primary 5 pupils are introduced to different forms of writing that promotes their creativity. They are given an opportunity to write narratives of different genres and they also have a go at coming up with their own poems and posters. As they further develop their confidence and proficiency in their writing, some pupils have also taken on the challenge of developing their writing portfolio.<br><br>We are proud to announce that one of our talented OPERA GEMS, Foo Yin, made the top ten finalists of the CLASS Copyright School Challenge Creative Writing (Poetry) Competition.</p>
 
 
 <h4><strong>USEFUL WEBSITES</strong></h4>
