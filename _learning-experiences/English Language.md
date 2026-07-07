@@ -66,8 +66,6 @@ The Writer's Gallery is an engaging collection of students' writing from Primary
 
 
 <h4><strong>USEFUL WEBSITES</strong></h4>
-<img src="/images/el18.jpg">
-<p><strong>#oepsreads<br></strong><em>Book Recommendations by students and teachers<br></em><a href="https://padlet.com/operaestateprisch/oepsreads">https://padlet.com/operaestateprisch/oepsreads</a></p>
 
 <p><u><strong>Reading Resources </strong></u><br><strong>National Library Board<br></strong><em>Students to log in using their NLB membership ID<br></em><a href="http://www.nlb.gov.sg/discovereads/primary-resources/"><u>http://www.nlb.gov.sg/discovereads/primary-resources/</u></a></p>
 
