@@ -30,7 +30,8 @@ variant: markdown
 
 <img style="width:540px;height:190px;" src="/images/Pal/pal1.jpg"><br>
 <img style="width:540px;height:190px;" src="/images/Pal/pal2.jpg"><br>
-<img style="width:540px;height:290px;" src="/images/Pal/pal3.jpg">
+<img style="width:540px;height:290px;" src="/images/Pal/pal3.jpg"><br>
+<img style="width:540px;height:290px;" src="/images/2026/Pal/pal2026.jpg">
 
 
 
