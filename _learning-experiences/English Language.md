@@ -43,7 +43,7 @@ One of the highlights is meeting local author Neil Humphreys and learning more a
 	
 <p align="justify"><b><u>Writer's Gallery</u></b><br>
 The Writer's Gallery is an engaging collection of students' writing from Primary 1 to Primary 6. It displays the creative journey of young minds through stories, poems, and reflections, showcasing their growth and imagination. Each piece, filled with unique perspectives and voices, highlights the evolving skills and artistic expressions of these budding writers, celebrating their literary achievements and inspiring their future endeavors.</p>
-<b><a href="https://drive.google.com/file/d/1qhP71qmKlK7At8jDUjUzDuRJD9bZ0w1-/view?usp=sharing">Click here to see the gallery</a></b><br>
+<img src="/images/2026/English/wg.jpg"><br>
 
 
 
