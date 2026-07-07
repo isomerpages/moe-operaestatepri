@@ -22,17 +22,14 @@ variant: markdown
 <img src="/images/2026/Math/math1.jpg">
 
 <p style="font-size:18px" align="justify"><strong><i>1) Mathematics all around us: OPERA SUPERMARKET P1 SHOPPING DAY</i><br><br><u>P1 Shopping Day: Bringing Learning to Life</u><br></strong>Learning extends beyond textbooks and classrooms. Through our annual P1 Shopping Day, students are given the opportunity to apply what they have learnt in a realistic and meaningful context.<br><br>The school’s “Opera” Supermarket is transformed into a vibrant shopping environment where Primary 1 students take on the role of shoppers. Armed with a shopping list and a budget, they practise identifying items, comparing prices, making purchases, and calculating change. This hands-on experience allows students to apply their Mathematics skills while developing confidence in handling money.<br><br>Beyond numeracy, the activity also nurtures important life skills such as decision-making, responsibility, communication, and independence. Students learn to interact politely with others, follow instructions, and make thoughtful choices as they navigate the shopping experience.<br><br>By creating authentic learning opportunities, P1 Shopping Day helps students see the relevance of classroom learning in everyday life. We hope that this experience encourages parents to involve their children in simple real-world transactions, such as making purchases at shops or supermarkets, to further reinforce these valuable skills.</p>
-<img src="/images/math3.png"><br>
-
-<p style="font-size:18px" align="justify"> Our P3 students shopped at OPERA Supermarket for a class party where they used cash and vouchers to buy items within their budget. Students learnt basic financial literacy skills such as budgeting and maximizing the value of vouchers through the incorporation of ‘CDC’ vouchers in their shopping.<br><br>To extend our students’ learning in this authentic learning experience, they designed an invitation card for their class party. Students learnt the language skills of writing an invitation, which will inform and entice their target audience. This writing activity was done in collaboration with the English Department.<br>
-	
-<img src="/images/mathematics_1.jpg"><br></p>
-
-<p style="font-size:18px" align="justify"><strong><i>2. LEARNING MATHEMATICS WITH CONCRETE MANIPULATIVES<br></i></strong>Students use paper clips to measure the length of the items around them.</p>
-<img src="/images/math4.png">
+<img src="/images/2026/Math/math2.jpg"><br>
 
 
-<p style="font-size:18px" align="justify"><strong><i> 3. LEARNING MATHEMATICS THROUGH ART</i></strong></p>
+<p style="font-size:18px" align="justify"><strong><i>2. LEARNING MATHEMATICS BEYOND THE CLASSROOM<br></i></strong></p><p style="font-size:18px" align="justify"><b><u>Lower Primary Math Trails</u></b><br> Who says Mathematics can only be learnt in the classroom? Through our Lower Primary Math Trails, students venture around the school to discover Mathematics in the world around them. From identifying shapes and patterns in the environment to measuring distances and collecting data, students engage in hands-on activities that bring mathematical concepts to life. These authentic learning experiences help students make meaningful connections between classroom learning and everyday surroundings, while nurturing curiosity, problem-solving skills, and a love for Mathematics.</p>
+
+
+
+<p style="font-size:18px" align="justify"><strong><u> MathPlay@Recess</u></strong></p>
 <img src="/images/math5.png">
 
 <p style="font-size:18px" align="justify"><strong><i> 4. LEARNING MATHEMATICS WITH ICT</i><br></strong>Students engage in learning experiences that incorporate the use of technology to allow them to demonstrate their understanding of the Mathematical concepts.</p>
