@@ -25,10 +25,7 @@ variant: markdown
 </p><p align="justify"><b><u>What’s Up<br></u></b>To help enhance the students’ awareness of global issues and current affairs, Primary 4 to 6 students receive a copy of the “What’s Up” Student newspaper every month. Teachers use the “What’s Up” newspaper in class to generate class discussions and get students to reflect on and think critically about global issues. Students can write in to the What’s Up publishers to share their views and perspectives on the issues reported and good letters will get published. Several of our students’ responses have been published over the past few years.<br><br>OEPS is proud to have a number of our students be featured in the What’s Up newspaper publication. As part of our English department program, Primary 4 to 6 students are encouraged to respond to articles in the publication. Students learn to be discerning readers by staying well informed and evaluate the information in the newspaper with a critical eye. Students are also exposed to current affairs around the world, widening their knowledge as global citizens.
 </p>
 
-
-<img src="/images/English/Whatsup/1.jpg"><br>
-<img src="/images/English/Whatsup/combine1.jpg"><br>
-<img src="/images/English/Whatsup/combine2.jpg">
+<img src="/images/2026/English/con.jpg">
 
 
 <p align="justify"><b><u>Newsmaker</u></b><br>
