@@ -25,19 +25,20 @@ variant: markdown
 </p><p align="justify"><b><u>What’s Up<br></u></b>To help enhance the students’ awareness of global issues and current affairs, Primary 4 to 6 students receive a copy of the “What’s Up” Student newspaper every month. Teachers use the “What’s Up” newspaper in class to generate class discussions and get students to reflect on and think critically about global issues. Students can write in to the What’s Up publishers to share their views and perspectives on the issues reported and good letters will get published. Several of our students’ responses have been published over the past few years.<br><br>OEPS is proud to have a number of our students be featured in the What’s Up newspaper publication. As part of our English department program, Primary 4 to 6 students are encouraged to respond to articles in the publication. Students learn to be discerning readers by staying well informed and evaluate the information in the newspaper with a critical eye. Students are also exposed to current affairs around the world, widening their knowledge as global citizens.
 </p>
 
-<img src="/images/2026/English/con.jpg">
+<img src="/images/2026/English/con.jpg"><br>
+<img src="/images/2026/English/face.jpg">
 
 
 <p align="justify"><b><u>Newsmaker</u></b><br>
-The Primary 5 and 6 students have learned to produce news videos using the NewsMaker program, creating content to explore issues that are close to their hearts. The Upper Primary students have also attended a masterclass conducted by a ChannelNewsAsia journalist to learn how to be more effective communicators.</p>
-<b><a href="https://drive.google.com/file/d/149tnApLDy7a2hXEWyUbsPdhY9gAWap8u/view?usp=sharing">Click here to watch the video</a></b><br><br>
+The Primary 5 and 6 students have learned to produce news videos using the NewsMaker program, creating content to explore issues that are close to their hearts.</p>
+<b><a href="https://drive.google.com/file/d/149tnApLDy7a2hXEWyUbsPdhY9gAWap8u/view?usp=sharing">Click here to watch the video from past years</a></b><br><br>
 
 
 <p align="justify"><b><u>Language Week</u></b><br>
 During Language Week, students discovered the joy of reading through a variety of language activities. From dramas to poetry recitations to media reports, students used the language when presenting their information. They also participated actively in engaging English Language-themed recess activities such as Bingo or Snakes and Ladders.<br><br>
-The annual book Character day in Language Week was made extra special this year with the visit of Minister Chan. Check out his IG to find out what he thought about it.</p>
-<img src="/images/English/Languageweek/combine1.jpg"><br>
-<img src="/images/English/Languageweek/combine2.jpg">
+	
+One of the highlights is meeting local author Neil Humphreys and learning more about his creative process. What a pleasure to meet and get their book signed by the author himself!</p>
+<img src="/images/2026/English/neil.jpg"><br>
 	
 	
 <p align="justify"><b><u>Writer's Gallery</u></b><br>
