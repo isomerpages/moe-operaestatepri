@@ -20,7 +20,7 @@ variant: markdown
 
 <p style="font-size:18px" align="justify">The seven Learning Areas for our PE Programme (with emphasis on Fundamental Movement Skills) includes:<br><br><b><i>Athletics, Dance, Games &amp; Sports, Gymnastics, Outdoor Education, Physical Health &amp; Fitness and Swimming</i></b></p>
 
-<img src="/images/pe2.png">
+<img src="/images/2026/Pe/pe1.jpg">
 
 <p style="font-size:18px" align="justify"><strong>PROMOTION OF HEALTHY EATING HABITS (DAILY DURING SNACK BREAK, RECESS AND LUNCH)</strong></p><br>
 <img src="/images/pe3.png">
