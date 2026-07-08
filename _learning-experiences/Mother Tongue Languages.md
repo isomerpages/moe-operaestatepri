@@ -15,11 +15,10 @@ Culture &amp; Values - Students learn to appreciate their own MTLs, culture and 
 <h4>DEPARTMENT PROGRAMMES</h4>
 <p align="center"><b>EXPERIENCES</b></p>
 <p align="justify"><strong><u>Language Week<br></u></strong>
-This programme is held in collaboration with the English Department. It aims to instill the joy of reading through a variety of language activities in and out of curriculum. During the week, students get to participate in language games during recess. Choice board reading activities are also designed for the students. Some activities include bookmark design, comic creation as well as reading aloud a book to friends and family. For Mother Tongue (MT), parent volunteers record storytelling videos and these videos are shown to the students during MT lessons. On Character Day, students come to school dressed up as a book character and introduce the character to their friends.</p>
-<img style="width:500px;height:200px;" src="/images/MT/1.jpg"><br>
-<img style="width:500px;height:200px;" src="/images/MT/2.jpg"><br>
-<img style="width:300px;height:200px;" src="/images/MT/3.jpg"><br>
-<img style="width:500px;height:200px;" src="/images/MT/4.jpg">
+This programme is organised in collaboration with the English Department and aims to nurture a love for reading through a wide range of engaging language activities both within and beyond the curriculum. Throughout the week, students participate in exciting hands-on language games during recess, while Mother Tongue lessons feature activities such as storytelling, poetry recitals and the creation of brain teasers. Students also take part in Reading Bingo activities designed to encourage reading. Creative activities such as bookmark design, comic creation and writing a letter to an author further enrich their learning experience. A highlight of the programme is Character Day whereby students come to school dressed as their favourite book characters and share about them with their peers, bringing stories to life in a fun and meaningful way.</p>
+<img style="width:500px;height:200px;" src="/images/2026/Mt/mt1.jpg"><br>
+<img style="width:500px;height:400px;" src="/images/2026/Mt/mt2.jpg"><br>
+
 
 
 
