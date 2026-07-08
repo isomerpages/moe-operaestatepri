@@ -74,11 +74,19 @@ variant: markdown
 
 <img src="/images/2026/Math/math8.jpg">
 
-<p><i>Our P4 team attaining the ‘Outstanding Award’ in the Poster Category in the Primary Mathematics Project Competition (PMPC).</i></p><br>
+<p><i>Our P4 team attaining the <b>‘Commendation Award’</b> in the Poster Category in the Primary Mathematics Project Competition (PMPC).</i></p><br>
 	
-<img style="width: 65%;" src="/images/math10.png">
-	
-<p style="text-align: center;"><i>Our P5 and P6 pupils attaining the Silver and Bronze awards at the Singapore Mathematical Olympiad for Primary Schools (SMOPS).</i></p><br>
+
+<img src="/images/2026/Math/math9.jpg">
+<p style="text-align: center;"><i>Our P5 team attaining the ‘Outstanding Award’ in the Game Creation Category in the Primary Mathematics Project Competition (PMPC).</i></p><br>
+
+
+<img src="/images/2026/Math/math10.jpg">
+<p style="text-align: center;"><i>The game Mathermind was even redesigned as a digital Math game for all OEPS students to enjoy and engage with!</i></p><br>
+
+
+
+
 
 <p style="font-size:18px" align="justify"><strong>2022 Raffles Institution Primary World Mathematics Contest (Junior Category – Primary 5)</strong><br>
 <img src="/images/mathematics_2.jpg"></p><br>
