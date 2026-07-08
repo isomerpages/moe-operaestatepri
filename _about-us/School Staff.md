@@ -779,7 +779,7 @@ description: ""
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;color:black;mso-themecolor:
   text1">Mdm. Zuo Qinjie</span></p><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Mr. Leonard Paul Gomes<br><br>Ms. Chelsea Teo Shao Jing</span></p></td></tr></tbody></table>
+  mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Mr. Leonard Paul Gomes<br><br>Ms. Chelsea Teo Shao Jing<br><br>Ms. Julie Chan Yan Lian</span></p></td></tr></tbody></table>
 	
 	
 	
