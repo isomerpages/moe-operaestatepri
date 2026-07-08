@@ -32,7 +32,5 @@ variant: markdown
 
 	
 <p style="font-size:18px" align="justify"><b>Primary 5 Adventure Learning Camp</b></p>
-<img src="/images/pe10.png">
+<img src="/images/2026/Pe/pe4.jpg">
 
-<p style="font-size:18px" align="justify"><b>OEPS Sports Championships/Recess Challenge <br>(Term 2 to Term 4)</b></p>
-<img src="/images/pe11.png">
