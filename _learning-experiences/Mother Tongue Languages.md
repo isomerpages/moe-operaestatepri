@@ -25,7 +25,7 @@ This programme is organised in collaboration with the English Department and aim
 
 
 <p align="justify"><strong><u>Mother Tongue Language (MTL) Fortnight</u></strong><u><br></u>
-During MTL Fortnight, students have the opportunity to be engaged in different cultural activities, e.g. writing Chinese calligraphy, making wayang kulit and designing deepams. Students also showcase their language talents in poetry recitation, storytelling, singing etc and upload their performance clips via Padlet. Another highlight of MTL Fortnight is the online “Escape Room”. Putting on their thinking caps, students solve puzzles based on their own language and culture, making connections to their learning. These engaging activities and experiences will certainly pique our students’ interest in learning about their language and culture.</p>
+During MTL Fortnight, students take part in a wide range of immersive cultural and language activities designed to deepen appreciation of their culture and language. Through hands-on experiences such as Chinese calligraphy, wayang kulit making and deepam design, students learn more about the unique crafts and traditions of their respective cultures. They are also given meaningful opportunities to use the language through songs, poetry recitals, tongue twisters, rap and role play, making language learning lively and engaging. Complementing these activities are cultural exhibits centred on various themes, which help students gain a deeper understanding of traditions and practices across different communities. Through this programme, we aim to nurture students’ cultural awareness while strengthening their confidence and joy in using their Mother Tongue Language.</p>
 <img style="width:500px;height:200px;" src="/images/MT/5.jpg"><br>
 <img style="width:500px;height:200px;" src="/images/MT/6.jpg"><br>
 <img style="width:300px;height:200px;" src="/images/MT/7.jpg"><br>
@@ -40,8 +40,8 @@ This programme aims to develop students’ oracy skills and arouse their interes
 <img style="width:500px;height:160px;" src="/images/MT/8.jpg"><br>
 <img style="width:500px;height:200px;" src="/images/MT/9.jpg">
 
-<p align="justify"><strong><u>Cultural Performance Exposure Scheme (CL &amp; TL)/Theatre Experience (ML)</u></strong><br>
-Students are provided opportunities to be exposed to language-related cultural performances by local and foreign performing arts groups. This year, we will again be bringing the students out to the theatre to watch these performances. We hope that through such exposure, it can help to sustain students’ interest in language learning and help them better appreciate their culture.  </p>
+<p align="justify"><strong><u>Cultural Performance Exposure Scheme</u></strong><br>
+This programme provides students with opportunities to experience language and culture through engaging performances by both local and foreign performing arts groups. Students are brought to the theatre to watch the performances. Through these performances, students are exposed to the richness of the language in an authentic way. We hope that these experiences will sustain their interest in language learning and deepen their cultural awareness. </p>
 <img src="/images/mt2024new4.jpg">
 
 <p align="justify"><strong><u>Authentic Learning Experiences (Lower Primary)</u></strong><br>
