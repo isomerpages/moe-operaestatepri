@@ -36,9 +36,9 @@ variant: markdown
 <p style="font-size:18px" align="justify"><strong><i> 4. LEARNING MATHEMATICS WITH ICT</i><br></strong>Students engage in learning experiences that incorporate the use of technology to allow them to demonstrate their understanding of the Mathematical concepts.</p>
 <img src="/images/math6.png">
 
-<p style="font-size:18px" align="justify"><strong><i>5. LEARNING JOURNEY (IN-SCHOOL)</i><br>
-<img src="/images/science_1.jpg">
-	</strong> <br>Our P6 students had the opportunity to apply the Mathematical knowledge they learnt in the classroom to the real-life situation of making a kite. Flying their kites was truly seeing how Mathematics came alive!</p>
+<p style="font-size:18px" align="justify"><strong><i>5. LEARNING JOURNEY</i><br>
+<img src="/images/2026/Math/math4.jpg">
+	</strong> <br><u><b>P3 Math and Science Learning Journey to the Zoo</b></u><br>Learning comes alive when students step beyond the classroom! During the P3 Math and Science Learning Journey to the Zoo, students explored the fascinating world of animals while applying concepts learnt in both subjects. Through hands-on activities and guided observations, they collected and analysed data, compared measurements, and investigated how animals are adapted to their habitats. The experience encouraged students to observe, question, and think critically, while helping them see how Mathematics and Science are connected to the real world around them.</p>
 
 <h4>SUPPORT PROGRAMMES</h4>
 <p style="font-size:18px" align="justify">Early intervention programmes are provided to help support identified pupils address misconceptions, consolidate and reinforce their learning as well as build their confidence in the learning of Mathematics.</p>
