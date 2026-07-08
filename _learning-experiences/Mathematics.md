@@ -51,8 +51,8 @@ variant: markdown
 <h4>SUPPORT PROGRAMMES</h4>
 <p style="font-size:18px" align="justify">Early intervention programmes are provided to help support identified pupils address misconceptions, consolidate and reinforce their learning as well as build their confidence in the learning of Mathematics.</p>
 
-<p style="font-size:18px" align="justify"><strong><i>1. LEARNING SUPPORT FOR MATHEMATICS (LSM)&nbsp;PROGRAMME&nbsp;(P1- P3)</i><br></strong><br>The LSM programme aims to provide early intervention support in Mathematics to students who need additional support in acquiring basic numeracy skills at the lower primary levels.</p>
-<img src="/images/math8.png"><br>
+<p style="font-size:18px" align="justify"><strong><i>1. LEARNING SUPPORT FOR MATHEMATICS (LSM)&nbsp;PROGRAMME&nbsp;(P1- P4)</i><br></strong><br>The Learning Support for Mathematics (LSM) programme provides early intervention for students who require additional support in developing foundational numeracy skills. Through engaging, hands-on activities and targeted instruction, students build a strong understanding of mathematical concepts while receiving individualised support in areas of need. Conducted in a small-group, conducive learning environment, the programme aims to strengthen students’ confidence and foster positive beliefs about their ability to learn and succeed in Mathematics.</p>
+	<img src="/images/2026/Math/math7.jpg"><br>
 
 
 <p style="font-size:18px" align="justify"><strong><i>2. IMPROVING CONFIDENCE AND ACHIEVEMENT IN NUMERACY (ICAN)&nbsp;PROGRAMME</i></strong><br><br>For the middle primary levels, the&nbsp;<strong>Improving Confidence and Achievement in Numeracy (ICAN</strong><strong>)&nbsp;</strong>programme is a collaboration between schools and MOE to support low progress learners using intervention strategies and models that are guided by research to tackle the 4 key issues of learning gaps, language, motivation and memory. The lessons follow the FREMC structure – Factual Fluency, Readiness, Engagement, Mastery and Consolidation.</p>
