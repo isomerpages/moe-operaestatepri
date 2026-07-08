@@ -29,8 +29,9 @@ variant: markdown
 
 
 
-<p style="font-size:18px" align="justify"><strong><u> MathPlay@Recess</u></strong></p>
-<img src="/images/math5.png">
+<p style="font-size:18px" align="justify"><strong><u> MathPlay@Recess</u></strong><br>Who says learning Mathematics cannot be fun? Through MathPlay@Recess, students explore mathematical concepts through play during their recess breaks. From challenging themselves with Sudoku and Tangrams to enjoying Math board games and digital games designed by fellow OEPS students, students develop problem-solving, logical thinking, and spatial reasoning skills in an engaging and enjoyable way. By combining learning with play, MathPlay@Recess nurtures curiosity and helps students discover the joy of Mathematics.</p>
+<img src="/images/2026/Math/math3.jpg"><br>
+
 
 <p style="font-size:18px" align="justify"><strong><i> 4. LEARNING MATHEMATICS WITH ICT</i><br></strong>Students engage in learning experiences that incorporate the use of technology to allow them to demonstrate their understanding of the Mathematical concepts.</p>
 <img src="/images/math6.png">
