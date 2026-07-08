@@ -20,23 +20,17 @@ variant: markdown
 
 <p style="font-size:18px" align="justify">The seven Learning Areas for our PE Programme (with emphasis on Fundamental Movement Skills) includes:<br><br><b><i>Athletics, Dance, Games &amp; Sports, Gymnastics, Outdoor Education, Physical Health &amp; Fitness and Swimming</i></b></p>
 
-<img src="/images/pe2.png">
+<img src="/images/2026/Pe/pe1.jpg">
 
 <p style="font-size:18px" align="justify"><strong>PROMOTION OF HEALTHY EATING HABITS (DAILY DURING SNACK BREAK, RECESS AND LUNCH)</strong></p><br>
-<img src="/images/pe3.png">
+<img src="/images/2026/Pe/pe2.jpg">
 
 <h4><strong>PROGRAMMES</strong></h4>
 
 <p style="font-size:18px" align="justify"><b>Primary 4 SwimSafer Programme</b></p>
-<img src="/images/pe4.jpg"><br>
-<img src="/images/pe5.jpg"><br>
-<img src="/images/pe6.jpg"><br>
-<img src="/images/pe7.jpg"><br>
-<img src="/images/pe8.jpg"><br>
-<img src="/images/pe9.jpg">
+<img src="/images/2026/Pe/pe3.jpg">
+
 	
 <p style="font-size:18px" align="justify"><b>Primary 5 Adventure Learning Camp</b></p>
-<img src="/images/pe10.png">
+<img src="/images/2026/Pe/pe4.jpg">
 
-<p style="font-size:18px" align="justify"><b>OEPS Sports Championships/Recess Challenge <br>(Term 2 to Term 4)</b></p>
-<img src="/images/pe11.png">
