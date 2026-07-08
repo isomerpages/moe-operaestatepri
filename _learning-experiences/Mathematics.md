@@ -43,6 +43,7 @@ variant: markdown
 <p style="font-size:18px" align="justify"><strong><i>6. LEARNING MATHEMATICS THROUGH STUDENT-DESIGNED GAMES</i><br><br>
 <img src="/images/2026/Math/math5.jpg">
 	</strong><br>Students experience Mathematics in a fun and meaningful way through engaging games such as Operation Hopper and Equation Destination. Do you know that these games were created by our very own OEPS students for the PMPC competition? These creative ideas have since been redesigned into interactive Math games for their peers to enjoy both in and outside the classroom. Through these experiences, students not only strengthen their mathematical thinking but also learn from and be inspired by the creativity of their fellow students.</p>
+	<img src="/images/2026/Math/math6.jpg">
 	
 	
 	
