@@ -39,6 +39,13 @@ variant: markdown
 <p style="font-size:18px" align="justify"><strong><i>5. LEARNING JOURNEY</i><br>
 <img src="/images/2026/Math/math4.jpg">
 	</strong> <br><u><b>P3 Math and Science Learning Journey to the Zoo</b></u><br>Learning comes alive when students step beyond the classroom! During the P3 Math and Science Learning Journey to the Zoo, students explored the fascinating world of animals while applying concepts learnt in both subjects. Through hands-on activities and guided observations, they collected and analysed data, compared measurements, and investigated how animals are adapted to their habitats. The experience encouraged students to observe, question, and think critically, while helping them see how Mathematics and Science are connected to the real world around them.</p>
+	
+<p style="font-size:18px" align="justify"><strong><i>5. LEARNING MATHEMATICS THROUGH STUDENT-DESIGNED GAMES</i><br><br>
+<img src="/images/2026/Math/math5.jpg">
+	</strong><br>Students experience Mathematics in a fun and meaningful way through engaging games such as Operation Hopper and Equation Destination. Do you know that these games were created by our very own OEPS students for the PMPC competition? These creative ideas have since been redesigned into interactive Math games for their peers to enjoy both in and outside the classroom. Through these experiences, students not only strengthen their mathematical thinking but also learn from and be inspired by the creativity of their fellow students.</p>
+	
+	
+	
 
 <h4>SUPPORT PROGRAMMES</h4>
 <p style="font-size:18px" align="justify">Early intervention programmes are provided to help support identified pupils address misconceptions, consolidate and reinforce their learning as well as build their confidence in the learning of Mathematics.</p>
