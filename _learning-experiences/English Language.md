@@ -14,35 +14,36 @@ variant: markdown
 	
 
 	
-<img src="/images/English/english_1.jpg"><br>
-<img src="/images/English/english_2.jpg"><br>
-<img src="/images/English/english_3.jpg"><br>
-<img src="/images/English/english_4.jpg">
+<img src="/images/2026/English/lowerpri.jpg"><br>
+	<img src="/images/2026/English/p1p2ex.jpg"><br>
+	<img src="/images/2026/English/midpri.jpg"><br>
+		<img src="/images/2026/English/midpri2.jpg"><br>
+			<img src="/images/2026/English/midpri3.jpg"><br>
+			<img src="/images/2026/English/upperpri.jpg"><br>
+
 	
 </p><p align="justify"><b><u>What’s Up<br></u></b>To help enhance the students’ awareness of global issues and current affairs, Primary 4 to 6 students receive a copy of the “What’s Up” Student newspaper every month. Teachers use the “What’s Up” newspaper in class to generate class discussions and get students to reflect on and think critically about global issues. Students can write in to the What’s Up publishers to share their views and perspectives on the issues reported and good letters will get published. Several of our students’ responses have been published over the past few years.<br><br>OEPS is proud to have a number of our students be featured in the What’s Up newspaper publication. As part of our English department program, Primary 4 to 6 students are encouraged to respond to articles in the publication. Students learn to be discerning readers by staying well informed and evaluate the information in the newspaper with a critical eye. Students are also exposed to current affairs around the world, widening their knowledge as global citizens.
 </p>
 
-
-<img src="/images/English/Whatsup/1.jpg"><br>
-<img src="/images/English/Whatsup/combine1.jpg"><br>
-<img src="/images/English/Whatsup/combine2.jpg">
+<img src="/images/2026/English/con.jpg"><br>
+<img src="/images/2026/English/face.jpg">
 
 
 <p align="justify"><b><u>Newsmaker</u></b><br>
-The Primary 5 and 6 students have learned to produce news videos using the NewsMaker program, creating content to explore issues that are close to their hearts. The Upper Primary students have also attended a masterclass conducted by a ChannelNewsAsia journalist to learn how to be more effective communicators.</p>
-<b><a href="https://drive.google.com/file/d/149tnApLDy7a2hXEWyUbsPdhY9gAWap8u/view?usp=sharing">Click here to watch the video</a></b><br><br>
+The Primary 5 and 6 students have learned to produce news videos using the NewsMaker program, creating content to explore issues that are close to their hearts.</p>
+<b><a href="https://drive.google.com/file/d/149tnApLDy7a2hXEWyUbsPdhY9gAWap8u/view?usp=sharing">Click here to watch the video from past years</a></b><br><br>
 
 
 <p align="justify"><b><u>Language Week</u></b><br>
 During Language Week, students discovered the joy of reading through a variety of language activities. From dramas to poetry recitations to media reports, students used the language when presenting their information. They also participated actively in engaging English Language-themed recess activities such as Bingo or Snakes and Ladders.<br><br>
-The annual book Character day in Language Week was made extra special this year with the visit of Minister Chan. Check out his IG to find out what he thought about it.</p>
-<img src="/images/English/Languageweek/combine1.jpg"><br>
-<img src="/images/English/Languageweek/combine2.jpg">
+	
+One of the highlights is meeting local author Neil Humphreys and learning more about his creative process. What a pleasure to meet and get their book signed by the author himself!</p>
+<img src="/images/2026/English/neil.jpg"><br>
 	
 	
 <p align="justify"><b><u>Writer's Gallery</u></b><br>
 The Writer's Gallery is an engaging collection of students' writing from Primary 1 to Primary 6. It displays the creative journey of young minds through stories, poems, and reflections, showcasing their growth and imagination. Each piece, filled with unique perspectives and voices, highlights the evolving skills and artistic expressions of these budding writers, celebrating their literary achievements and inspiring their future endeavors.</p>
-<b><a href="https://drive.google.com/file/d/1qhP71qmKlK7At8jDUjUzDuRJD9bZ0w1-/view?usp=sharing">Click here to see the gallery</a></b><br>
+<img src="/images/2026/English/wg.jpg"><br>
 
 
 
@@ -59,12 +60,12 @@ The Writer's Gallery is an engaging collection of students' writing from Primary
 
 <p align="justify"><b><i>P4 Oracy Programme</i></b><br>The Primary 4 pupils are introduced to public-speaking skills and broadcast journalism in the course of the enrichment programme. During each session, they undergo training, engage in meaningful activities, work collaboratively and eventually showcase their learning through different platforms such as the school’s bi-weekly news programme – Good Morning OPERA. These sessions ultimately develop them into confident and articulate communicators.</p>
 
-<p align="justify"><b><i>P5 Writing Programme</i></b><br>The Primary 5 pupils are introduced to different forms of writing that promotes their creativity. They are given an opportunity to write narratives of different genres and they also have a go at coming up with their own poems and posters. As they further develop their confidence and proficiency in their writing, some pupils have also taken on the challenge of developing their writing portfolio.</p>
+<p align="justify"><b><i>P5 Writing Programme</i></b><br>The Primary 5 pupils are introduced to different forms of writing that promotes their creativity. They are given an opportunity to write narratives of different genres and they also have a go at coming up with their own poems and posters. As they further develop their confidence and proficiency in their writing, some pupils have also taken on the challenge of developing their writing portfolio.<br><br>We are proud to announce that one of our talented OPERA GEMS, Foo Yin, made the top ten finalists of the CLASS Copyright School Challenge Creative Writing (Poetry) Competition.</p>
+
+<img src="/images/2026/English/cop.jpg"><br>
 
 
 <h4><strong>USEFUL WEBSITES</strong></h4>
-<img src="/images/el18.jpg">
-<p><strong>#oepsreads<br></strong><em>Book Recommendations by students and teachers<br></em><a href="https://padlet.com/operaestateprisch/oepsreads">https://padlet.com/operaestateprisch/oepsreads</a></p>
 
 <p><u><strong>Reading Resources </strong></u><br><strong>National Library Board<br></strong><em>Students to log in using their NLB membership ID<br></em><a href="http://www.nlb.gov.sg/discovereads/primary-resources/"><u>http://www.nlb.gov.sg/discovereads/primary-resources/</u></a></p>
 
