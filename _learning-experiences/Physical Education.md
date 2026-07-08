@@ -23,7 +23,7 @@ variant: markdown
 <img src="/images/2026/Pe/pe1.jpg">
 
 <p style="font-size:18px" align="justify"><strong>PROMOTION OF HEALTHY EATING HABITS (DAILY DURING SNACK BREAK, RECESS AND LUNCH)</strong></p><br>
-<img src="/images/pe3.png">
+<img src="/images/2026/Pe/pe2.jpg">
 
 <h4><strong>PROGRAMMES</strong></h4>
 
