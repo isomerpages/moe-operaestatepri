@@ -63,15 +63,16 @@ variant: markdown
 <ul>
 <li>Singapore Mathematical Olympiad for Primary Schools (SMOPS)</li>
 <li>National Mathematical Olympiad for Primary Schools (NMOS)</li>
+	<li>Raffles Mathematical Olympiad (RMO)</li>
 </ul><br>
 	
 <p style="font-size:18px" align="justify"><strong><i>1. E2K MATHEMATICS&nbsp;PROGRAMME&nbsp;(P4 and P5)<br></i></strong><i>In this programme, selected P4 and P5 students will have the opportunity to develop their critical and analytical thinking as well as their problem solving skills through an inquiry approach. Students also develop 21st century competencies such as effective communication as they collaborate with their peers to work on puzzles, games and mathematical explorations that are specially designed for this programmme.</i></p>
 	
 
-<p style="font-size:18px" align="justify"><strong><i>2. MATHEMATICS COMPETITIONS<br></i></strong><i>Our pupils have the opportunity to participate in competitions to further extend their learning of mathematics beyond the classroom. Some of these competitions include the Primary Mathematics Project Competition (PMPC) and the Singapore Mathematical Olympiad for Primary Schools (SMOPS).</i></p>
+<p style="font-size:18px" align="justify"><strong><i>2. MATHEMATICS COMPETITIONS<br></i></strong><i>Our students have the opportunity to participate in competitions to further extend their learning of mathematics beyond the classroom. Some of these competitions include the Primary Mathematics Project Competition (PMPC) and the Singapore Mathematical Olympiad for Primary Schools (SMOPS).</i></p>
 	
 
-<img src="/images/math9.png">
+<img src="/images/2026/Math/math8.jpg">
 
 <p><i>Our P4 team attaining the ‘Outstanding Award’ in the Poster Category in the Primary Mathematics Project Competition (PMPC).</i></p><br>
 	
