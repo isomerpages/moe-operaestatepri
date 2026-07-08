@@ -42,7 +42,7 @@ This programme aims to develop students’ oracy skills and arouse their interes
 
 <p align="justify"><strong><u>Cultural Performance Exposure Scheme</u></strong><br>
 This programme provides students with opportunities to experience language and culture through engaging performances by both local and foreign performing arts groups. Students are brought to the theatre to watch the performances. Through these performances, students are exposed to the richness of the language in an authentic way. We hope that these experiences will sustain their interest in language learning and deepen their cultural awareness. </p>
-<img src="/images/mt2024new4.jpg">
+<img style="width:700px;height:400px;" src="/images/2026/Mt/mt3.jpg">
 
 <p align="justify"><strong><u>Authentic Learning Experiences (Lower Primary)</u></strong><br>
 Authentic learning experiences are created within the curriculum to bring classroom teaching alive. For example, CL students take on the role of stallholders and customers when purchasing items. Students enjoyed the experience while learning the sentence structures for the lesson. ML students learnt the skill of journal writing through the unit “We are Active Learners”. Students learnt about animal folklore through storytelling and experienced paper weaving before writing about their experiences. Drama-based teaching methods are also employed in the TL classroom. By taking on different roles in an imaginary setting, students are empowered to engage in creative conversations with their peers. The enthusiasm shown by the students during these lessons brings out the joy of learning.</p>
