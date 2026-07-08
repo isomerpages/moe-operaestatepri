@@ -50,7 +50,7 @@ Authentic learning experiences are created within the curriculum to bring classr
 
 
 <h4>SUPPORT PROGRAMMES</h4>
-<p><strong><u>P4-P6 Remediation Programme</u></strong><br>This programme provides targeted support for identified pupils to address learning gaps and support pupils in their learning through a structured remediation plan.</p>
+<p><strong><u>P4-P6 Remediation Programme</u></strong><br>This programme provides targeted support for identified students to address learning gaps and support them in their learning through a structured remediation plan.</p>
 
 
 
