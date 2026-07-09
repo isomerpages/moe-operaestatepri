@@ -50,7 +50,7 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin">Cub Scouts take part in various planned activities to enrich their learning. They learn basic knots, orienteering, first-aid, outdoor cooking, tent-pitching and many more. They take part in activities organized by East Area Scouts group as well as the Singapore Scouts Association.<span style="color:#484848"></span></span></p></td></tr></tbody></table><br>
+  minor-latin">Cub Scouts take part in various planned activities to enrich their learning. They learn basic knots, orienteering, first-aid, outdoor cooking, tent-pitching and many more. They take part in activities organised by East Area Scouts group as well as the Singapore Scouts Association.<span style="color:#484848"></span></span></p></td></tr></tbody></table><br>
 
 
 
@@ -91,7 +91,7 @@ variant: markdown
   mso-fareast-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:
   Calibri"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span dir="LTR"></span><span style="font-size:
   14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;mso-bidi-font-weight:bold">Job Week</span><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:
+  Calibri;mso-bidi-theme-font:minor-latin;mso-bidi-font-weight:bold">Singapore Scouts’ Community Challenge Fund Raising</span><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
   minor-latin"></span></b></p><p style="margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:54.0pt;mso-add-space:auto;text-indent:-18.0pt;
@@ -99,7 +99,14 @@ variant: markdown
   mso-fareast-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:
   Calibri"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span dir="LTR"></span><span style="font-size:
   14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;mso-bidi-font-weight:bold">Diamond Jubilee Fund Raising</span><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;mso-bidi-font-weight:bold">Knots and Lashing Challenge</span><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
+  Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"></span></b></p><p style="margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:54.0pt;mso-add-space:auto;text-indent:-18.0pt;
+  line-height:normal;mso-list:l0 level1 lfo1" class="MsoListParagraphCxSpMiddle"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-ascii-font-family:Calibri;
+  mso-fareast-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:
+  Calibri"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span dir="LTR"></span><span style="font-size:
+  14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;mso-bidi-font-weight:bold">Outdoor Cooking</span><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
   Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"></span></b></p><p style="margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:54.0pt;mso-add-space:auto;text-indent:-18.0pt;
   line-height:normal;mso-list:l0 level1 lfo1" class="MsoListParagraphCxSpMiddle"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-ascii-font-family:Calibri;
@@ -135,7 +142,7 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">TEACHERS IN CHARGE</label>
 <div>
-<p><strong>Mdm. Lim Ching Ching (OIC)<br>Mr. Tham Renjie</strong></p>
+<p><strong>Mr. Mohammed Farid Bin Rozalli (OIC)<br>Ms. Poh Jing Wen Alyssa<br>Mr. Chong Yong Tian</strong></p>
 </div>
 </li>
 	
@@ -163,7 +170,7 @@ variant: markdown
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.75pt" valign="top" width="188"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
   Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  mso-bidi-font-weight:bold">C1-02</span></p></td></tr></tbody></table>
+  mso-bidi-font-weight:bold">B2-03 / B2-04</span></p></td></tr></tbody></table>
 </div>
 </li>
 </ul>
