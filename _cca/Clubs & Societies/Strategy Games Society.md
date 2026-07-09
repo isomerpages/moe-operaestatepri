@@ -48,7 +48,7 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">TEACHERS IN CHARGE</label>
 <div>
-<p><strong>Mdm. Kau Siew Fun (OIC)<br>Mr. Chong Yong Tian</strong></p>
+<p><strong>Mdm. Kau Siew Fun (OIC)<br>Ms. Murniyanti Binte Ali</strong></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA SCHEDULE</label>

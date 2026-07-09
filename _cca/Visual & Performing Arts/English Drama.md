@@ -65,7 +65,7 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">TEACHERS IN CHARGE</label>
 <div>
-<p><strong>Ms. Gwendolyn Poh Su Wen (Ms. Poh)(OIC)<br>Ms. Yong Yue Teng Amanda (Mrs. Seow)</strong></p>
+<p><strong>Ms. Gwendolyn Poh Su Wen (Ms. Poh)(OIC)<br>Mrs. Hema Kumari Welkers (Mrs. Welkers)<br>Ms. S Aishwarya (Ms. Aish)</strong></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA SCHEDULE</label>

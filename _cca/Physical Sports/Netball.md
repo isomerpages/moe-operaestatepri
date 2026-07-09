@@ -61,7 +61,7 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   11.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin">Instil discipline as an individual and a team player to work for one another as a team.</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  minor-latin">Instill discipline as an individual and a team player to work for one another as a team.</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   11.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
   minor-latin">Foster social integration and promote respect through netball among students.</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
@@ -93,7 +93,7 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">2024 - NSG Senior League 3 (3rd Place)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Singapore Sports School Netball Carnival <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3rd Place)<br><br>2023 – Netball NSG – Junior Girls (Tiered Round Group 2 Runner Up)</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
+  minor-latin;color:#484848">2025- NSG Senior League 3 (1st Place)<br><br>2024 - NSG Senior League 3 (3rd Place)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Singapore Sports School Netball Carnival <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3rd Place)<br><br>2023 – Netball NSG – Junior Girls (Tiered Round Group 2 Runner Up)</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
   minor-latin;color:#484848">2022 – Netball NSG (Participation)</span></p><p style="margin-bottom:0cm;text-align:justify;text-justify:
@@ -127,7 +127,7 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">TEACHERS IN CHARGE</label>
 <div>
-<p><strong>Mr. Yeo Lim Khun Lincoln (OIC)<br>Mdm. Tan Hui Qing<br>Mdm. Rosnah Bte Mohammad<br>Mdm. Nursidah Bte Abdul Wahid</strong></p>
+<p><strong>Mr. Yeo Lim Khun Lincoln (OIC)<br>Mdm. Tan Hui Qing<br>Mdm. Rosnah Bte Mohammad<br>Mdm. Nursidah Bte Abdul Wahid<br>Mr. Foong Kah Meng Scott<br>Ms. Chelsea Teo Shao Jing</strong></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA SCHEDULE</label>

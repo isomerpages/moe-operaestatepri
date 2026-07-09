@@ -92,7 +92,7 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">TEACHERS IN CHARGE</label>
 <div>
-<p><strong>Mr. Osman Bin Suradi (OIC)<br>Mdm. Ashilah Binte Abdul Latiff<br>Mdm. Lienda Bte Jamali<br>Mr. Abdul Rahim S/O A P M Adam</strong></p><p><strong>Coaches<br>1. Coach Faris (School Team)<br>2. Coach Aliff (Development Team)<br>
+<p><strong>Mr. Osman Bin Suradi (OIC)<br>Mdm. Ashilah Binte Abdul Latiff<br>Mdm. Lienda Bte Jamali<br>Mr. Abdul Rahim S/O A P M Adam<br>Mr. Foo Jun Wei</strong></p><p><strong>Coaches<br>1. Coach Faris (School Team)<br>2. Coach Aliff (Development Team)<br>
 	</strong></p></div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA SCHEDULE</label>

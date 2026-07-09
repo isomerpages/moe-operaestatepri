@@ -97,11 +97,11 @@ variant: markdown
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#FFE389;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;color:black;mso-color-alt:
-  windowtext">ACHIVEMENT</span></b><b><span style="font-size:14.0pt"></span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
+  windowtext">ACHIVEMENTS</span></b><b><span style="font-size:14.0pt"></span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:467.5pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:
   Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
-  mso-bidi-font-weight:bold">- Singapore Youth Festival (2024)<br>- National Day (2024)<br>- Annual Prize Giving Day (2024)<br>- Singapore Youth Festival 2018 (Accomplishment)</span></p></td></tr></tbody></table>
+  mso-bidi-font-weight:bold">2026 - Certificate of Distinction (Singapore Youth Festival Arts Presentation)<br>2024 - Singapore Youth Festival<br>2024 - National Day<br>2024 - Annual Prize Giving Day<br>2018 - Singapore Youth Festival 2018 (Accomplishment)</span></p></td></tr></tbody></table>
 	
 	
 	
@@ -115,7 +115,7 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">TEACHERS IN CHARGE</label>
 <div>
-<p><strong>Mdm. Siti Arfah Bte Yusof (OIC)<br>Mdm. Zahureen Binte Rahman<br>Ms. He Wen Li<br>Ms. Komathy D/O Selvaraj </strong></p>
+<p><strong>Mdm. Siti Arfah Bte Yusof (OIC)<br>Mdm. Zahureen Binte Rahman<br>Ms. Yong Yue Teng Amanda (Mrs. Seow)<br>Ms. Komathy D/O Selvaraj </strong></p>
 </div>
 </li>
 	
