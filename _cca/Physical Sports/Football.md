@@ -99,7 +99,7 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Teachers in Charge</label>
 <div>
-<p><span><strong>Mr. Omar Azahari Bin Mohammed Ali  (OIC)<br>Mr. Pang Sheir Zheng Issac<br>Mr. Lim Yan Zhi<br>Mr. Leng Kok Keong<br>Mr. Mohammed Farid Bin Rozalli<br>Mr. Leonard Paul Gomes</strong></span><span style="text-decoration: underline;"></span></p>
+<p><span><strong>Mr. Omar Azahari Bin Mohammed Ali  (OIC)<br>Mr. Pang Sheir Zheng Issac<br>Mr. Tham Ren Jie<br>Mr. Foong Kah Meng Scott<br>Mr. Nor Hadi Bin Isnin<br>Ms. Komathy D/O Selvaraj</strong></span><span style="text-decoration: underline;"></span></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA Schedule</label>
