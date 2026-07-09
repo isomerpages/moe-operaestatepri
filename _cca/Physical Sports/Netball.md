@@ -127,7 +127,7 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">TEACHERS IN CHARGE</label>
 <div>
-<p><strong>Mr. Yeo Lim Khun Lincoln (OIC)<br>Mdm. Tan Hui Qing<br>Mdm. Rosnah Bte Mohammad<br>Mdm. Nursidah Bte Abdul Wahid</strong></p>
+<p><strong>Mr. Yeo Lim Khun Lincoln (OIC)<br>Mdm. Tan Hui Qing<br>Mdm. Rosnah Bte Mohammad<br>Mdm. Nursidah Bte Abdul Wahid<br>Mr. Foong Kah Meng Scott<br>Ms. Chelsea Teo Shao Jing</strong></p>
 </div>
 </li>
 <li><input id="accordion2" type="checkbox"> <label for="accordion2">CCA SCHEDULE</label>
