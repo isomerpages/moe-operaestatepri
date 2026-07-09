@@ -121,7 +121,7 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">TEACHERS IN CHARGE</label>
 <div>
-<p><strong>Mdm. Nur Farah Binte Mohamad Shukor (OIC)<br>Mdm. Nuraihan Bte Abdul Subhan<br>Ms. Nor Murniyanti Binte Ali</strong></p>
+<p><strong>Mdm. Nur Farah Binte Mohamad Shukor (OIC)<br>Mdm. Nuraihan Bte Abdul Subhan<br>Ms. Chen Lijia</strong></p>
 </div>
 
 	
