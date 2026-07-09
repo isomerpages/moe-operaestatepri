@@ -17,7 +17,7 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">The Opera Estate Primary Angklung/Kulintang Ensemble is made up of students of all races coming together to express themselves through the melodious music of the angklung and kulintang. It aims to create a fun environment where our members can come together to develop their passion for the arts and qualities of musicianship. Our repertoire often includes traditional folk songs, local songs and popular songs. As a Performing Arts Group, the OEPS Angklung/Kulintang Ensemble aims to instil continuous learning, teamwork, discipline and resilience in our pupils as they work with one another to perfect their harmonious performances.</span></p></td></tr></tbody></table><br>
+  minor-latin;color:#484848">The Opera Estate Primary Angklung/Kulintang Ensemble is made up of students of all races coming together to express themselves through the melodious music of the angklung and kulintang. It aims to create a fun environment where our members can come together to develop their passion for the arts and qualities of musicianship. Our repertoire often includes traditional folk songs, local songs and popular songs. As a Performing Arts Group, the OEPS Angklung/Kulintang Ensemble aims to instill continuous learning, teamwork, discipline and resilience in our pupils as they work with one another to perfect their harmonious performances.</span></p></td></tr></tbody></table><br>
 
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
@@ -30,7 +30,7 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">1. To instil discipline, resilience, values and teamwork in our members.<br><br>2. To ignite our members’ passion in the performing arts.</span></p></td></tr></tbody></table><br>
+  minor-latin;color:#484848">1. To instill discipline, resilience, values and teamwork in our members.<br><br>2. To ignite our members’ passion in the performing arts.</span></p></td></tr></tbody></table><br>
 
 
 
@@ -45,7 +45,7 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#484848">1. Collaboration with other schools and external stakeholders.<br><br>2. Singapore Youth Festival arts presentation.<br><br>3. School and other outreach programmes.<br><br>4. Annual Prize Giving Day.<br><br>5. CCA learning journeys.<br><br>6. CCA bonding day.</span></p></td></tr></tbody></table><br>
+  minor-latin;color:#484848">1. Collaboration with other schools and external stakeholders.<br><br>2. Singapore Youth Festival arts presentation.<br><br>3. School and other outreach programmes.<br><br>4. Annual Prize Giving Day.<br><br>5. CCA learning journeys.<br><br>6. CCA bonding day.<br><br>7. OEPS 40th Anniversary</span></p></td></tr></tbody></table><br>
 	
 
 
@@ -60,7 +60,7 @@ variant: markdown
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="623"><p style="margin-bottom:0cm;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;mso-bidi-font-size:
   11.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin">2024 - Certificate of Distinction<br><br>2022 - Certificate of Accomplishment<br><br>2020 - Certificate of Accomplishment.</span><span style="font-size:
+  minor-latin">2024 - Certificate of Distinction (Singapore Youth Festival Arts Presentation) <br><br>2022 - Certificate of Accomplishment (Singapore Youth Festival Arts Presentation)<br><br>2020 - Certificate of Accomplishment (Singapore Youth Festival Arts Presentation)</span><span style="font-size:
   14.0pt;mso-bidi-font-size:10.0pt;mso-fareast-font-family:Arial;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:#484848"></span></p></td></tr></tbody></table>
 
