@@ -10,4 +10,9 @@ description: ""
 
 <iframe style="border: none; aspect-ratio: 16/9;" allowfullscreen="true" height="500" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQAfGfPqc-o9zc8sXr6TBxaNY4xPLZAfz-CPEVH_N5HtMZcNwSKvQnZJojmxKfO8NiPG5qjS3e2xVtb/pubembed?start=true&amp;loop=false&amp;delayms=0&amp;autoplay=true&amp;rm=minimal"></iframe>
 
- <h4><center>Click here to join our e-Open House! (Link to be updated on 10 Jul at 3.15pm)</center></h4>
+ <h4><center>Click <a rel="noopener noreferrer" target="_blank" href="https://teams.microsoft.com/meet/42203173795384?p=16QNlv5O23HgwnY3SB"> HERE </a> to join our e-Open House Webinar!</center></h4>
+ 
+<div style="width: fit-content; margin: 0 auto; font-size: 25px; line-height: 1.8;">  
+	<div>Meeting ID: <b>422 031 737 953 84</b></div>  
+	<div>Passcode: <b>a26wd2qc</b></div>  
+</div>
