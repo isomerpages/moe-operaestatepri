@@ -22,7 +22,6 @@ sections:
   - infopic:
       title: E-Open House 2026
       id: infopic
-      description: Coming Soon !
       button: CLICK HERE
       url: https://www.operaestatepri.moe.edu.sg/e-open-house-2026/
       image: /images/2026/Open house/eOpen_House_Banner_2026___Homepage.png
