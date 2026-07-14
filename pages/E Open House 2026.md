@@ -6,7 +6,7 @@ description: ""
 ---
 <center><img style="width:920px;height:320px;" alt="HTML tutorial" src="/images/2026/Open house/oh2026a.png"></center>
 
-<p style="text-align: center; font-size: 24px;"> Click <a href="https://go.gov.sg/oeps-openhouse2026"> HERE </a> to access our eOpen House slides! </p>
+<p style="text-align: center; font-size: 24px;"> Click <a href="https://go.gov.sg/oeps-openhouse2026"> HERE </a> to access our E-Open House slides! </p>
 
 
 
