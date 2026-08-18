@@ -20,6 +20,15 @@ sections:
           url: /moe-sexuality-education/
       variant: center
   - infopic:
+      title: "Attitude of Gratitude: A Tribute to Our Teachers"
+      id: infopic
+      button: CLICK HERE
+      url: https://form.gov.sg/5e54681f66472d0011d1e6e6
+      image: /images/Light_Blue_Elegant_Flowers_Facebook_Post__29_7_x_21_cm___1_.png
+      alt: Image alt text
+      description: Share your appreciation and heartfelt words for our dedicated staff
+        this Teacher’s Day.
+  - infopic:
       title: E-Open House 2026
       id: infopic
       button: CLICK HERE
@@ -48,10 +57,10 @@ sections:
       image: /images/p12024web.jpg
       alt: Image alt text
   - infopic:
-      title: OEPS 40th Anniversary
+      title: Infopic
+      subtitle: Add an image and text
       id: infopic
-      button: Videos and Photos Here
-      url: /oeps-40th-anniversary/
-      image: /images/40th_anni_for_web.jpg
+      description: Infopic description
+      button: Button Text
       alt: Image alt text
 ---
