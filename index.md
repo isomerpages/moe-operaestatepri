@@ -56,11 +56,4 @@ sections:
       url: /2026-p1/
       image: /images/p12024web.jpg
       alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
